@@ -1,0 +1,84 @@
+Chi è <START:artista> OBJECT <END>
+Chi ha commissionato <START:opera> OBJECT <END>
+Chi ha scolpito <START:opera> OBJECT <END>
+Chi ha costruito <START:opera> OBJECT <END>
+Chi ha restaurato <START:opera> OBJECT <END>
+Chi ha dipinto <START:opera> OBJECT <END>
+Chi ha finanziato il restauro <START:opera> OBJECT <END>
+Chi è il proprietario <START:opera> OBJECT <END>
+Chi è l'autore <START:opera> OBJECT <END>
+Chi ha danneggiato <START:opera> OBJECT <END>
+Chi ha collaborato alla costruzione <START:opera> OBJECT <END>
+Chi è raffigurato <START:opera> OBJECT <END>
+Quale materiale è stato usato per costruire <START:opera> OBJECT <END>
+Quale materiale è stato usato per scolpire <START:opera> OBJECT <END>
+Quale tecnica pittorica è stata usata per dipingere <START:opera> OBJECT <END>
+Cosa rappresenta <START:opera> OBJECT <END>
+Qual è lo stile <START:opera> OBJECT <END>
+Quali sono le dimensioni <START:opera> OBJECT <END>
+Cosa significa <START:opera> OBJECT <END>
+Dove è stato dipinto <START:opera> OBJECT <END>
+Dove è custodito <START:opera> OBJECT <END>
+Dove era esposta <START:opera> OBJECT <END>
+Dove sono stati trovati <START:opera> OBJECT <END>
+Quando sono iniziati i lavori di costruzione <START:opera> OBJECT <END>
+Quando sono terminati i lavori di costruzione <START:opera> OBJECT <END>
+Quando è stata ultimata <START:opera> OBJECT <END>
+Quando è stato restaurato <START:opera> OBJECT <END>
+Quando è stato distrutto <START:opera> OBJECT <END>
+Quando sono stati ritrovati <START:opera> OBJECT <END>
+Quando è stata rubata <START:opera> OBJECT <END>
+Quanti anni ha <START:opera> OBJECT <END>
+Quanti metri quadrati occupa <START:opera> OBJECT <END>
+Quanto è alta <START:opera> OBJECT <END>
+Quanto pesa <START:opera> OBJECT <END>
+Quanto è grande <START:opera> OBJECT <END>
+Quante navate ci sono <START:opera> OBJECT <END>
+A quale periodo risale <START:opera> OBJECT <END>
+Perchè <START:opera> OBJECT <END> è a 
+Perchè <START:opera> OBJECT <END> non è stata terminata
+Quanto vale <START:opera> OBJECT <END>
+Quanto è costato <START:opera> OBJECT <END>
+Quanti anni ci sono voluti per costruire <START:opera> OBJECT <END>
+Quanti anni ci sono voluti per ultimare <START:opera> OBJECT <END>
+In quale periodo storico è stata dipinta <START:opera> OBJECT <END>
+Con quale tecnica è stato dipinto <START:opera> OBJECT <END>
+Che tipo di colori sono stati usati per dipingere <START:opera> OBJECT <END>
+Su quale materiale è stata dipinta <START:opera> OBJECT <END>
+Che superficie occupa <START:opera> OBJECT <END>
+Come è stato restaurato <START:opera> OBJECT <END>
+Perchè questo quadro si chiama <START:opera> OBJECT <END>
+Perchè questa opera si chiama <START:opera> OBJECT <END>
+Ci sono altre <START:opera> OBJECT <END>
+Chi è <START:artista> OBJECT <END>
+Chi era il maestro <START:artista> OBJECT <END>
+Chi è il proprietario <START:artista> OBJECT <END>
+Chi è l'autore <START:artista> OBJECT <END>
+Qual è la biografia <START:artista> OBJECT <END>
+Quali sono le prime opere <START:artista> OBJECT <END>
+Quali sono le opere incompiute <START:artista> OBJECT <END>
+Quale è lo stile <START:artista> OBJECT <END>
+Dove è nato <START:artista> OBJECT <END>
+Dove ha trascorso l'infanzia <START:artista> OBJECT <END>
+Dove ha trascorso la vecchiaia <START:artista> OBJECT <END>
+Dove ha trascorso la vita <START:artista> OBJECT <END>
+Dove si è formato <START:artista> OBJECT <END>
+Dove ha vissuto <START:artista> OBJECT <END>
+Dove è morto <START:artista> OBJECT <END>
+Dove è stato sepolto <START:artista> OBJECT <END>
+Quando è nato <START:artista> OBJECT <END>
+Quando è morto <START:artista> OBJECT <END>
+Quanti anni ha <START:artista> OBJECT <END>
+Quanti anni aveva <START:artista> OBJECT <END>
+Quanto è alto <START:artista> OBJECT <END>
+Quanto era alto <START:artista> OBJECT <END>
+Quanto pesa <START:artista> OBJECT <END>
+In quale periodo è vissuto <START:artista> OBJECT <END>
+Ci sono autoritratti di <START:artista> OBJECT <END>
+Qual è la tecnica scultorea di <START:artista> OBJECT <END>
+A quale corrente artistica appartiene <START:artista> OBJECT <END>
+Di chi era figlio <START:artista> OBJECT <END>
+Come è morto <START:artista> OBJECT <END>
+C'è un quadro di <START:artista> OBJECT <END> in questo museo
+C'è un'opera di <START:artista> OBJECT <END> in questo museo
+<START:opera> OBJECT <END> è un dipinto di <START:artista> OBJECT <END>
