@@ -15,17 +15,21 @@ public class ApplicationManager
 			MySQLResourcesAcquisition rs = new MySQLResourcesAcquisition();
 
 			Connection connection = rs.getConnection();
+			/*
 			rs.getData().addAll(rs.getDataFromDb(connection, "artist", "name", ""));
 			rs.getData().addAll(rs.getDataFromDb(connection, "opere", "operename", ""));
+			*/
+			
+			rs.getData().addAll(rs.getByFile(new File("src/core/modello")));
 			
 			if (type.equals("OpenNlp"))
 			{
 				GenerateModel gm = new GenerateModel();
 				gm.execute(rs.getDataFromDb(connection, "artist", "name", ""),rs.getDataFromDb(connection,  "opere", "operename", ""));
 				AnnotationStrategy as = new OpenNlpAnnotator("en-ner-drugs.bin", "src/core/model.txt");
-				as.annotatorStrategy("en-ner-drugs.bin");
+				as.annotatorStrategy("src/core/en-ner-drugs.bin");
 			}
-			else
+			else 
 			{
 				AnnotationStrategy as = new RightMatchAnnotator(rs.getData(), rs.getMappedTypes());
 				as.annotatorStrategy(new Interpreter(new File("src/core/annotator.py")) );

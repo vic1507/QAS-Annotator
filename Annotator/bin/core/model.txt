@@ -1,1512 +1,1530 @@
-Chi è <START:artista> picasso <END>
-Chi è <START:artista> giotto <END>
-Chi è <START:artista> michelangelo <END>
-Chi è <START:artista> leonardo da vinci <END>
-Chi è <START:artista> vincent van gogh <END>
-Chi è <START:artista> caravaggio <END>
-Chi è <START:artista> cimabue <END>
-Chi è <START:artista> salvador dalì <END>
-Chi è <START:artista> sandro botticelli <END>
-Chi è <START:artista> leonardo <END>
-Chi è <START:artista> donatello <END>
-Chi è <START:artista> raffello <END>
-Chi è <START:artista> goustave corbet <END>
-Chi è <START:artista> perugino <END>
-Chi è <START:artista> giorgio de chirico <END>
-Chi è <START:artista> william turne <END>
-Chi è <START:artista> paul cèzanne <END>
-Chi è <START:artista> andy warhol <END>
-Chi ha commissionato <START:opera> picasso <END>
-Chi ha commissionato <START:opera> giotto <END>
-Chi ha commissionato <START:opera> michelangelo <END>
-Chi ha commissionato <START:opera> leonardo da vinci <END>
-Chi ha commissionato <START:opera> vincent van gogh <END>
-Chi ha commissionato <START:opera> caravaggio <END>
-Chi ha commissionato <START:opera> cimabue <END>
-Chi ha commissionato <START:opera> salvador dalì <END>
-Chi ha commissionato <START:opera> sandro botticelli <END>
-Chi ha commissionato <START:opera> leonardo <END>
-Chi ha commissionato <START:opera> donatello <END>
-Chi ha commissionato <START:opera> raffello <END>
-Chi ha commissionato <START:opera> goustave corbet <END>
-Chi ha commissionato <START:opera> perugino <END>
-Chi ha commissionato <START:opera> giorgio de chirico <END>
-Chi ha commissionato <START:opera> william turne <END>
-Chi ha commissionato <START:opera> paul cèzanne <END>
-Chi ha commissionato <START:opera> andy warhol <END>
-Chi ha scolpito <START:opera> picasso <END>
-Chi ha scolpito <START:opera> giotto <END>
-Chi ha scolpito <START:opera> michelangelo <END>
-Chi ha scolpito <START:opera> leonardo da vinci <END>
-Chi ha scolpito <START:opera> vincent van gogh <END>
-Chi ha scolpito <START:opera> caravaggio <END>
-Chi ha scolpito <START:opera> cimabue <END>
-Chi ha scolpito <START:opera> salvador dalì <END>
-Chi ha scolpito <START:opera> sandro botticelli <END>
-Chi ha scolpito <START:opera> leonardo <END>
-Chi ha scolpito <START:opera> donatello <END>
-Chi ha scolpito <START:opera> raffello <END>
-Chi ha scolpito <START:opera> goustave corbet <END>
-Chi ha scolpito <START:opera> perugino <END>
-Chi ha scolpito <START:opera> giorgio de chirico <END>
-Chi ha scolpito <START:opera> william turne <END>
-Chi ha scolpito <START:opera> paul cèzanne <END>
-Chi ha scolpito <START:opera> andy warhol <END>
-Chi ha costruito <START:opera> picasso <END>
-Chi ha costruito <START:opera> giotto <END>
-Chi ha costruito <START:opera> michelangelo <END>
-Chi ha costruito <START:opera> leonardo da vinci <END>
-Chi ha costruito <START:opera> vincent van gogh <END>
-Chi ha costruito <START:opera> caravaggio <END>
-Chi ha costruito <START:opera> cimabue <END>
-Chi ha costruito <START:opera> salvador dalì <END>
-Chi ha costruito <START:opera> sandro botticelli <END>
-Chi ha costruito <START:opera> leonardo <END>
-Chi ha costruito <START:opera> donatello <END>
-Chi ha costruito <START:opera> raffello <END>
-Chi ha costruito <START:opera> goustave corbet <END>
-Chi ha costruito <START:opera> perugino <END>
-Chi ha costruito <START:opera> giorgio de chirico <END>
-Chi ha costruito <START:opera> william turne <END>
-Chi ha costruito <START:opera> paul cèzanne <END>
-Chi ha costruito <START:opera> andy warhol <END>
-Chi ha restaurato <START:opera> picasso <END>
-Chi ha restaurato <START:opera> giotto <END>
-Chi ha restaurato <START:opera> michelangelo <END>
-Chi ha restaurato <START:opera> leonardo da vinci <END>
-Chi ha restaurato <START:opera> vincent van gogh <END>
-Chi ha restaurato <START:opera> caravaggio <END>
-Chi ha restaurato <START:opera> cimabue <END>
-Chi ha restaurato <START:opera> salvador dalì <END>
-Chi ha restaurato <START:opera> sandro botticelli <END>
-Chi ha restaurato <START:opera> leonardo <END>
-Chi ha restaurato <START:opera> donatello <END>
-Chi ha restaurato <START:opera> raffello <END>
-Chi ha restaurato <START:opera> goustave corbet <END>
-Chi ha restaurato <START:opera> perugino <END>
-Chi ha restaurato <START:opera> giorgio de chirico <END>
-Chi ha restaurato <START:opera> william turne <END>
-Chi ha restaurato <START:opera> paul cèzanne <END>
-Chi ha restaurato <START:opera> andy warhol <END>
-Chi ha dipinto <START:opera> picasso <END>
-Chi ha dipinto <START:opera> giotto <END>
-Chi ha dipinto <START:opera> michelangelo <END>
-Chi ha dipinto <START:opera> leonardo da vinci <END>
-Chi ha dipinto <START:opera> vincent van gogh <END>
-Chi ha dipinto <START:opera> caravaggio <END>
-Chi ha dipinto <START:opera> cimabue <END>
-Chi ha dipinto <START:opera> salvador dalì <END>
-Chi ha dipinto <START:opera> sandro botticelli <END>
-Chi ha dipinto <START:opera> leonardo <END>
-Chi ha dipinto <START:opera> donatello <END>
-Chi ha dipinto <START:opera> raffello <END>
-Chi ha dipinto <START:opera> goustave corbet <END>
-Chi ha dipinto <START:opera> perugino <END>
-Chi ha dipinto <START:opera> giorgio de chirico <END>
-Chi ha dipinto <START:opera> william turne <END>
-Chi ha dipinto <START:opera> paul cèzanne <END>
-Chi ha dipinto <START:opera> andy warhol <END>
-Chi ha finanziato il restauro <START:opera> picasso <END>
-Chi ha finanziato il restauro <START:opera> giotto <END>
-Chi ha finanziato il restauro <START:opera> michelangelo <END>
-Chi ha finanziato il restauro <START:opera> leonardo da vinci <END>
-Chi ha finanziato il restauro <START:opera> vincent van gogh <END>
-Chi ha finanziato il restauro <START:opera> caravaggio <END>
-Chi ha finanziato il restauro <START:opera> cimabue <END>
-Chi ha finanziato il restauro <START:opera> salvador dalì <END>
-Chi ha finanziato il restauro <START:opera> sandro botticelli <END>
-Chi ha finanziato il restauro <START:opera> leonardo <END>
-Chi ha finanziato il restauro <START:opera> donatello <END>
-Chi ha finanziato il restauro <START:opera> raffello <END>
-Chi ha finanziato il restauro <START:opera> goustave corbet <END>
-Chi ha finanziato il restauro <START:opera> perugino <END>
-Chi ha finanziato il restauro <START:opera> giorgio de chirico <END>
-Chi ha finanziato il restauro <START:opera> william turne <END>
-Chi ha finanziato il restauro <START:opera> paul cèzanne <END>
-Chi ha finanziato il restauro <START:opera> andy warhol <END>
-Chi è il proprietario <START:opera> picasso <END>
-Chi è il proprietario <START:opera> giotto <END>
-Chi è il proprietario <START:opera> michelangelo <END>
-Chi è il proprietario <START:opera> leonardo da vinci <END>
-Chi è il proprietario <START:opera> vincent van gogh <END>
-Chi è il proprietario <START:opera> caravaggio <END>
-Chi è il proprietario <START:opera> cimabue <END>
-Chi è il proprietario <START:opera> salvador dalì <END>
-Chi è il proprietario <START:opera> sandro botticelli <END>
-Chi è il proprietario <START:opera> leonardo <END>
-Chi è il proprietario <START:opera> donatello <END>
-Chi è il proprietario <START:opera> raffello <END>
-Chi è il proprietario <START:opera> goustave corbet <END>
-Chi è il proprietario <START:opera> perugino <END>
-Chi è il proprietario <START:opera> giorgio de chirico <END>
-Chi è il proprietario <START:opera> william turne <END>
-Chi è il proprietario <START:opera> paul cèzanne <END>
-Chi è il proprietario <START:opera> andy warhol <END>
-Chi è l'autore <START:opera> picasso <END>
-Chi è l'autore <START:opera> giotto <END>
-Chi è l'autore <START:opera> michelangelo <END>
-Chi è l'autore <START:opera> leonardo da vinci <END>
-Chi è l'autore <START:opera> vincent van gogh <END>
-Chi è l'autore <START:opera> caravaggio <END>
-Chi è l'autore <START:opera> cimabue <END>
-Chi è l'autore <START:opera> salvador dalì <END>
-Chi è l'autore <START:opera> sandro botticelli <END>
-Chi è l'autore <START:opera> leonardo <END>
-Chi è l'autore <START:opera> donatello <END>
-Chi è l'autore <START:opera> raffello <END>
-Chi è l'autore <START:opera> goustave corbet <END>
-Chi è l'autore <START:opera> perugino <END>
-Chi è l'autore <START:opera> giorgio de chirico <END>
-Chi è l'autore <START:opera> william turne <END>
-Chi è l'autore <START:opera> paul cèzanne <END>
-Chi è l'autore <START:opera> andy warhol <END>
-Chi ha danneggiato <START:opera> picasso <END>
-Chi ha danneggiato <START:opera> giotto <END>
-Chi ha danneggiato <START:opera> michelangelo <END>
-Chi ha danneggiato <START:opera> leonardo da vinci <END>
-Chi ha danneggiato <START:opera> vincent van gogh <END>
-Chi ha danneggiato <START:opera> caravaggio <END>
-Chi ha danneggiato <START:opera> cimabue <END>
-Chi ha danneggiato <START:opera> salvador dalì <END>
-Chi ha danneggiato <START:opera> sandro botticelli <END>
-Chi ha danneggiato <START:opera> leonardo <END>
-Chi ha danneggiato <START:opera> donatello <END>
-Chi ha danneggiato <START:opera> raffello <END>
-Chi ha danneggiato <START:opera> goustave corbet <END>
-Chi ha danneggiato <START:opera> perugino <END>
-Chi ha danneggiato <START:opera> giorgio de chirico <END>
-Chi ha danneggiato <START:opera> william turne <END>
-Chi ha danneggiato <START:opera> paul cèzanne <END>
-Chi ha danneggiato <START:opera> andy warhol <END>
-Chi ha collaborato alla costruzione <START:opera> picasso <END>
-Chi ha collaborato alla costruzione <START:opera> giotto <END>
-Chi ha collaborato alla costruzione <START:opera> michelangelo <END>
-Chi ha collaborato alla costruzione <START:opera> leonardo da vinci <END>
-Chi ha collaborato alla costruzione <START:opera> vincent van gogh <END>
-Chi ha collaborato alla costruzione <START:opera> caravaggio <END>
-Chi ha collaborato alla costruzione <START:opera> cimabue <END>
-Chi ha collaborato alla costruzione <START:opera> salvador dalì <END>
-Chi ha collaborato alla costruzione <START:opera> sandro botticelli <END>
-Chi ha collaborato alla costruzione <START:opera> leonardo <END>
-Chi ha collaborato alla costruzione <START:opera> donatello <END>
-Chi ha collaborato alla costruzione <START:opera> raffello <END>
-Chi ha collaborato alla costruzione <START:opera> goustave corbet <END>
-Chi ha collaborato alla costruzione <START:opera> perugino <END>
-Chi ha collaborato alla costruzione <START:opera> giorgio de chirico <END>
-Chi ha collaborato alla costruzione <START:opera> william turne <END>
-Chi ha collaborato alla costruzione <START:opera> paul cèzanne <END>
-Chi ha collaborato alla costruzione <START:opera> andy warhol <END>
-Chi è raffigurato <START:opera> picasso <END>
-Chi è raffigurato <START:opera> giotto <END>
-Chi è raffigurato <START:opera> michelangelo <END>
-Chi è raffigurato <START:opera> leonardo da vinci <END>
-Chi è raffigurato <START:opera> vincent van gogh <END>
-Chi è raffigurato <START:opera> caravaggio <END>
-Chi è raffigurato <START:opera> cimabue <END>
-Chi è raffigurato <START:opera> salvador dalì <END>
-Chi è raffigurato <START:opera> sandro botticelli <END>
-Chi è raffigurato <START:opera> leonardo <END>
-Chi è raffigurato <START:opera> donatello <END>
-Chi è raffigurato <START:opera> raffello <END>
-Chi è raffigurato <START:opera> goustave corbet <END>
-Chi è raffigurato <START:opera> perugino <END>
-Chi è raffigurato <START:opera> giorgio de chirico <END>
-Chi è raffigurato <START:opera> william turne <END>
-Chi è raffigurato <START:opera> paul cèzanne <END>
-Chi è raffigurato <START:opera> andy warhol <END>
-Quale materiale è stato usato per costruire <START:opera> picasso <END>
-Quale materiale è stato usato per costruire <START:opera> giotto <END>
-Quale materiale è stato usato per costruire <START:opera> michelangelo <END>
-Quale materiale è stato usato per costruire <START:opera> leonardo da vinci <END>
-Quale materiale è stato usato per costruire <START:opera> vincent van gogh <END>
-Quale materiale è stato usato per costruire <START:opera> caravaggio <END>
-Quale materiale è stato usato per costruire <START:opera> cimabue <END>
-Quale materiale è stato usato per costruire <START:opera> salvador dalì <END>
-Quale materiale è stato usato per costruire <START:opera> sandro botticelli <END>
-Quale materiale è stato usato per costruire <START:opera> leonardo <END>
-Quale materiale è stato usato per costruire <START:opera> donatello <END>
-Quale materiale è stato usato per costruire <START:opera> raffello <END>
-Quale materiale è stato usato per costruire <START:opera> goustave corbet <END>
-Quale materiale è stato usato per costruire <START:opera> perugino <END>
-Quale materiale è stato usato per costruire <START:opera> giorgio de chirico <END>
-Quale materiale è stato usato per costruire <START:opera> william turne <END>
-Quale materiale è stato usato per costruire <START:opera> paul cèzanne <END>
-Quale materiale è stato usato per costruire <START:opera> andy warhol <END>
-Quale materiale è stato usato per scolpire <START:opera> picasso <END>
-Quale materiale è stato usato per scolpire <START:opera> giotto <END>
-Quale materiale è stato usato per scolpire <START:opera> michelangelo <END>
-Quale materiale è stato usato per scolpire <START:opera> leonardo da vinci <END>
-Quale materiale è stato usato per scolpire <START:opera> vincent van gogh <END>
-Quale materiale è stato usato per scolpire <START:opera> caravaggio <END>
-Quale materiale è stato usato per scolpire <START:opera> cimabue <END>
-Quale materiale è stato usato per scolpire <START:opera> salvador dalì <END>
-Quale materiale è stato usato per scolpire <START:opera> sandro botticelli <END>
-Quale materiale è stato usato per scolpire <START:opera> leonardo <END>
-Quale materiale è stato usato per scolpire <START:opera> donatello <END>
-Quale materiale è stato usato per scolpire <START:opera> raffello <END>
-Quale materiale è stato usato per scolpire <START:opera> goustave corbet <END>
-Quale materiale è stato usato per scolpire <START:opera> perugino <END>
-Quale materiale è stato usato per scolpire <START:opera> giorgio de chirico <END>
-Quale materiale è stato usato per scolpire <START:opera> william turne <END>
-Quale materiale è stato usato per scolpire <START:opera> paul cèzanne <END>
-Quale materiale è stato usato per scolpire <START:opera> andy warhol <END>
-Quale tecnica pittorica è stata usata per dipingere <START:opera> picasso <END>
-Quale tecnica pittorica è stata usata per dipingere <START:opera> giotto <END>
-Quale tecnica pittorica è stata usata per dipingere <START:opera> michelangelo <END>
-Quale tecnica pittorica è stata usata per dipingere <START:opera> leonardo da vinci <END>
-Quale tecnica pittorica è stata usata per dipingere <START:opera> vincent van gogh <END>
-Quale tecnica pittorica è stata usata per dipingere <START:opera> caravaggio <END>
-Quale tecnica pittorica è stata usata per dipingere <START:opera> cimabue <END>
-Quale tecnica pittorica è stata usata per dipingere <START:opera> salvador dalì <END>
-Quale tecnica pittorica è stata usata per dipingere <START:opera> sandro botticelli <END>
-Quale tecnica pittorica è stata usata per dipingere <START:opera> leonardo <END>
-Quale tecnica pittorica è stata usata per dipingere <START:opera> donatello <END>
-Quale tecnica pittorica è stata usata per dipingere <START:opera> raffello <END>
-Quale tecnica pittorica è stata usata per dipingere <START:opera> goustave corbet <END>
-Quale tecnica pittorica è stata usata per dipingere <START:opera> perugino <END>
-Quale tecnica pittorica è stata usata per dipingere <START:opera> giorgio de chirico <END>
-Quale tecnica pittorica è stata usata per dipingere <START:opera> william turne <END>
-Quale tecnica pittorica è stata usata per dipingere <START:opera> paul cèzanne <END>
-Quale tecnica pittorica è stata usata per dipingere <START:opera> andy warhol <END>
-Cosa rappresenta <START:opera> picasso <END>
-Cosa rappresenta <START:opera> giotto <END>
-Cosa rappresenta <START:opera> michelangelo <END>
-Cosa rappresenta <START:opera> leonardo da vinci <END>
-Cosa rappresenta <START:opera> vincent van gogh <END>
-Cosa rappresenta <START:opera> caravaggio <END>
-Cosa rappresenta <START:opera> cimabue <END>
-Cosa rappresenta <START:opera> salvador dalì <END>
-Cosa rappresenta <START:opera> sandro botticelli <END>
-Cosa rappresenta <START:opera> leonardo <END>
-Cosa rappresenta <START:opera> donatello <END>
-Cosa rappresenta <START:opera> raffello <END>
-Cosa rappresenta <START:opera> goustave corbet <END>
-Cosa rappresenta <START:opera> perugino <END>
-Cosa rappresenta <START:opera> giorgio de chirico <END>
-Cosa rappresenta <START:opera> william turne <END>
-Cosa rappresenta <START:opera> paul cèzanne <END>
-Cosa rappresenta <START:opera> andy warhol <END>
-Qual è lo stile <START:opera> picasso <END>
-Qual è lo stile <START:opera> giotto <END>
-Qual è lo stile <START:opera> michelangelo <END>
-Qual è lo stile <START:opera> leonardo da vinci <END>
-Qual è lo stile <START:opera> vincent van gogh <END>
-Qual è lo stile <START:opera> caravaggio <END>
-Qual è lo stile <START:opera> cimabue <END>
-Qual è lo stile <START:opera> salvador dalì <END>
-Qual è lo stile <START:opera> sandro botticelli <END>
-Qual è lo stile <START:opera> leonardo <END>
-Qual è lo stile <START:opera> donatello <END>
-Qual è lo stile <START:opera> raffello <END>
-Qual è lo stile <START:opera> goustave corbet <END>
-Qual è lo stile <START:opera> perugino <END>
-Qual è lo stile <START:opera> giorgio de chirico <END>
-Qual è lo stile <START:opera> william turne <END>
-Qual è lo stile <START:opera> paul cèzanne <END>
-Qual è lo stile <START:opera> andy warhol <END>
-Quali sono le dimensioni <START:opera> picasso <END>
-Quali sono le dimensioni <START:opera> giotto <END>
-Quali sono le dimensioni <START:opera> michelangelo <END>
-Quali sono le dimensioni <START:opera> leonardo da vinci <END>
-Quali sono le dimensioni <START:opera> vincent van gogh <END>
-Quali sono le dimensioni <START:opera> caravaggio <END>
-Quali sono le dimensioni <START:opera> cimabue <END>
-Quali sono le dimensioni <START:opera> salvador dalì <END>
-Quali sono le dimensioni <START:opera> sandro botticelli <END>
-Quali sono le dimensioni <START:opera> leonardo <END>
-Quali sono le dimensioni <START:opera> donatello <END>
-Quali sono le dimensioni <START:opera> raffello <END>
-Quali sono le dimensioni <START:opera> goustave corbet <END>
-Quali sono le dimensioni <START:opera> perugino <END>
-Quali sono le dimensioni <START:opera> giorgio de chirico <END>
-Quali sono le dimensioni <START:opera> william turne <END>
-Quali sono le dimensioni <START:opera> paul cèzanne <END>
-Quali sono le dimensioni <START:opera> andy warhol <END>
-Cosa significa <START:opera> picasso <END>
-Cosa significa <START:opera> giotto <END>
-Cosa significa <START:opera> michelangelo <END>
-Cosa significa <START:opera> leonardo da vinci <END>
-Cosa significa <START:opera> vincent van gogh <END>
-Cosa significa <START:opera> caravaggio <END>
-Cosa significa <START:opera> cimabue <END>
-Cosa significa <START:opera> salvador dalì <END>
-Cosa significa <START:opera> sandro botticelli <END>
-Cosa significa <START:opera> leonardo <END>
-Cosa significa <START:opera> donatello <END>
-Cosa significa <START:opera> raffello <END>
-Cosa significa <START:opera> goustave corbet <END>
-Cosa significa <START:opera> perugino <END>
-Cosa significa <START:opera> giorgio de chirico <END>
-Cosa significa <START:opera> william turne <END>
-Cosa significa <START:opera> paul cèzanne <END>
-Cosa significa <START:opera> andy warhol <END>
-Dove è stato dipinto <START:opera> picasso <END>
-Dove è stato dipinto <START:opera> giotto <END>
-Dove è stato dipinto <START:opera> michelangelo <END>
-Dove è stato dipinto <START:opera> leonardo da vinci <END>
-Dove è stato dipinto <START:opera> vincent van gogh <END>
-Dove è stato dipinto <START:opera> caravaggio <END>
-Dove è stato dipinto <START:opera> cimabue <END>
-Dove è stato dipinto <START:opera> salvador dalì <END>
-Dove è stato dipinto <START:opera> sandro botticelli <END>
-Dove è stato dipinto <START:opera> leonardo <END>
-Dove è stato dipinto <START:opera> donatello <END>
-Dove è stato dipinto <START:opera> raffello <END>
-Dove è stato dipinto <START:opera> goustave corbet <END>
-Dove è stato dipinto <START:opera> perugino <END>
-Dove è stato dipinto <START:opera> giorgio de chirico <END>
-Dove è stato dipinto <START:opera> william turne <END>
-Dove è stato dipinto <START:opera> paul cèzanne <END>
-Dove è stato dipinto <START:opera> andy warhol <END>
-Dove è custodito <START:opera> picasso <END>
-Dove è custodito <START:opera> giotto <END>
-Dove è custodito <START:opera> michelangelo <END>
-Dove è custodito <START:opera> leonardo da vinci <END>
-Dove è custodito <START:opera> vincent van gogh <END>
-Dove è custodito <START:opera> caravaggio <END>
-Dove è custodito <START:opera> cimabue <END>
-Dove è custodito <START:opera> salvador dalì <END>
-Dove è custodito <START:opera> sandro botticelli <END>
-Dove è custodito <START:opera> leonardo <END>
-Dove è custodito <START:opera> donatello <END>
-Dove è custodito <START:opera> raffello <END>
-Dove è custodito <START:opera> goustave corbet <END>
-Dove è custodito <START:opera> perugino <END>
-Dove è custodito <START:opera> giorgio de chirico <END>
-Dove è custodito <START:opera> william turne <END>
-Dove è custodito <START:opera> paul cèzanne <END>
-Dove è custodito <START:opera> andy warhol <END>
-Dove era esposta <START:opera> picasso <END>
-Dove era esposta <START:opera> giotto <END>
-Dove era esposta <START:opera> michelangelo <END>
-Dove era esposta <START:opera> leonardo da vinci <END>
-Dove era esposta <START:opera> vincent van gogh <END>
-Dove era esposta <START:opera> caravaggio <END>
-Dove era esposta <START:opera> cimabue <END>
-Dove era esposta <START:opera> salvador dalì <END>
-Dove era esposta <START:opera> sandro botticelli <END>
-Dove era esposta <START:opera> leonardo <END>
-Dove era esposta <START:opera> donatello <END>
-Dove era esposta <START:opera> raffello <END>
-Dove era esposta <START:opera> goustave corbet <END>
-Dove era esposta <START:opera> perugino <END>
-Dove era esposta <START:opera> giorgio de chirico <END>
-Dove era esposta <START:opera> william turne <END>
-Dove era esposta <START:opera> paul cèzanne <END>
-Dove era esposta <START:opera> andy warhol <END>
-Dove sono stati trovati <START:opera> picasso <END>
-Dove sono stati trovati <START:opera> giotto <END>
-Dove sono stati trovati <START:opera> michelangelo <END>
-Dove sono stati trovati <START:opera> leonardo da vinci <END>
-Dove sono stati trovati <START:opera> vincent van gogh <END>
-Dove sono stati trovati <START:opera> caravaggio <END>
-Dove sono stati trovati <START:opera> cimabue <END>
-Dove sono stati trovati <START:opera> salvador dalì <END>
-Dove sono stati trovati <START:opera> sandro botticelli <END>
-Dove sono stati trovati <START:opera> leonardo <END>
-Dove sono stati trovati <START:opera> donatello <END>
-Dove sono stati trovati <START:opera> raffello <END>
-Dove sono stati trovati <START:opera> goustave corbet <END>
-Dove sono stati trovati <START:opera> perugino <END>
-Dove sono stati trovati <START:opera> giorgio de chirico <END>
-Dove sono stati trovati <START:opera> william turne <END>
-Dove sono stati trovati <START:opera> paul cèzanne <END>
-Dove sono stati trovati <START:opera> andy warhol <END>
-Quando sono iniziati i lavori di costruzione <START:opera> picasso <END>
-Quando sono iniziati i lavori di costruzione <START:opera> giotto <END>
-Quando sono iniziati i lavori di costruzione <START:opera> michelangelo <END>
-Quando sono iniziati i lavori di costruzione <START:opera> leonardo da vinci <END>
-Quando sono iniziati i lavori di costruzione <START:opera> vincent van gogh <END>
-Quando sono iniziati i lavori di costruzione <START:opera> caravaggio <END>
-Quando sono iniziati i lavori di costruzione <START:opera> cimabue <END>
-Quando sono iniziati i lavori di costruzione <START:opera> salvador dalì <END>
-Quando sono iniziati i lavori di costruzione <START:opera> sandro botticelli <END>
-Quando sono iniziati i lavori di costruzione <START:opera> leonardo <END>
-Quando sono iniziati i lavori di costruzione <START:opera> donatello <END>
-Quando sono iniziati i lavori di costruzione <START:opera> raffello <END>
-Quando sono iniziati i lavori di costruzione <START:opera> goustave corbet <END>
-Quando sono iniziati i lavori di costruzione <START:opera> perugino <END>
-Quando sono iniziati i lavori di costruzione <START:opera> giorgio de chirico <END>
-Quando sono iniziati i lavori di costruzione <START:opera> william turne <END>
-Quando sono iniziati i lavori di costruzione <START:opera> paul cèzanne <END>
-Quando sono iniziati i lavori di costruzione <START:opera> andy warhol <END>
-Quando sono terminati i lavori di costruzione <START:opera> picasso <END>
-Quando sono terminati i lavori di costruzione <START:opera> giotto <END>
-Quando sono terminati i lavori di costruzione <START:opera> michelangelo <END>
-Quando sono terminati i lavori di costruzione <START:opera> leonardo da vinci <END>
-Quando sono terminati i lavori di costruzione <START:opera> vincent van gogh <END>
-Quando sono terminati i lavori di costruzione <START:opera> caravaggio <END>
-Quando sono terminati i lavori di costruzione <START:opera> cimabue <END>
-Quando sono terminati i lavori di costruzione <START:opera> salvador dalì <END>
-Quando sono terminati i lavori di costruzione <START:opera> sandro botticelli <END>
-Quando sono terminati i lavori di costruzione <START:opera> leonardo <END>
-Quando sono terminati i lavori di costruzione <START:opera> donatello <END>
-Quando sono terminati i lavori di costruzione <START:opera> raffello <END>
-Quando sono terminati i lavori di costruzione <START:opera> goustave corbet <END>
-Quando sono terminati i lavori di costruzione <START:opera> perugino <END>
-Quando sono terminati i lavori di costruzione <START:opera> giorgio de chirico <END>
-Quando sono terminati i lavori di costruzione <START:opera> william turne <END>
-Quando sono terminati i lavori di costruzione <START:opera> paul cèzanne <END>
-Quando sono terminati i lavori di costruzione <START:opera> andy warhol <END>
-Quando è stata ultimata <START:opera> picasso <END>
-Quando è stata ultimata <START:opera> giotto <END>
-Quando è stata ultimata <START:opera> michelangelo <END>
-Quando è stata ultimata <START:opera> leonardo da vinci <END>
-Quando è stata ultimata <START:opera> vincent van gogh <END>
-Quando è stata ultimata <START:opera> caravaggio <END>
-Quando è stata ultimata <START:opera> cimabue <END>
-Quando è stata ultimata <START:opera> salvador dalì <END>
-Quando è stata ultimata <START:opera> sandro botticelli <END>
-Quando è stata ultimata <START:opera> leonardo <END>
-Quando è stata ultimata <START:opera> donatello <END>
-Quando è stata ultimata <START:opera> raffello <END>
-Quando è stata ultimata <START:opera> goustave corbet <END>
-Quando è stata ultimata <START:opera> perugino <END>
-Quando è stata ultimata <START:opera> giorgio de chirico <END>
-Quando è stata ultimata <START:opera> william turne <END>
-Quando è stata ultimata <START:opera> paul cèzanne <END>
-Quando è stata ultimata <START:opera> andy warhol <END>
-Quando è stato restaurato <START:opera> picasso <END>
-Quando è stato restaurato <START:opera> giotto <END>
-Quando è stato restaurato <START:opera> michelangelo <END>
-Quando è stato restaurato <START:opera> leonardo da vinci <END>
-Quando è stato restaurato <START:opera> vincent van gogh <END>
-Quando è stato restaurato <START:opera> caravaggio <END>
-Quando è stato restaurato <START:opera> cimabue <END>
-Quando è stato restaurato <START:opera> salvador dalì <END>
-Quando è stato restaurato <START:opera> sandro botticelli <END>
-Quando è stato restaurato <START:opera> leonardo <END>
-Quando è stato restaurato <START:opera> donatello <END>
-Quando è stato restaurato <START:opera> raffello <END>
-Quando è stato restaurato <START:opera> goustave corbet <END>
-Quando è stato restaurato <START:opera> perugino <END>
-Quando è stato restaurato <START:opera> giorgio de chirico <END>
-Quando è stato restaurato <START:opera> william turne <END>
-Quando è stato restaurato <START:opera> paul cèzanne <END>
-Quando è stato restaurato <START:opera> andy warhol <END>
-Quando è stato distrutto <START:opera> picasso <END>
-Quando è stato distrutto <START:opera> giotto <END>
-Quando è stato distrutto <START:opera> michelangelo <END>
-Quando è stato distrutto <START:opera> leonardo da vinci <END>
-Quando è stato distrutto <START:opera> vincent van gogh <END>
-Quando è stato distrutto <START:opera> caravaggio <END>
-Quando è stato distrutto <START:opera> cimabue <END>
-Quando è stato distrutto <START:opera> salvador dalì <END>
-Quando è stato distrutto <START:opera> sandro botticelli <END>
-Quando è stato distrutto <START:opera> leonardo <END>
-Quando è stato distrutto <START:opera> donatello <END>
-Quando è stato distrutto <START:opera> raffello <END>
-Quando è stato distrutto <START:opera> goustave corbet <END>
-Quando è stato distrutto <START:opera> perugino <END>
-Quando è stato distrutto <START:opera> giorgio de chirico <END>
-Quando è stato distrutto <START:opera> william turne <END>
-Quando è stato distrutto <START:opera> paul cèzanne <END>
-Quando è stato distrutto <START:opera> andy warhol <END>
-Quando sono stati ritrovati <START:opera> picasso <END>
-Quando sono stati ritrovati <START:opera> giotto <END>
-Quando sono stati ritrovati <START:opera> michelangelo <END>
-Quando sono stati ritrovati <START:opera> leonardo da vinci <END>
-Quando sono stati ritrovati <START:opera> vincent van gogh <END>
-Quando sono stati ritrovati <START:opera> caravaggio <END>
-Quando sono stati ritrovati <START:opera> cimabue <END>
-Quando sono stati ritrovati <START:opera> salvador dalì <END>
-Quando sono stati ritrovati <START:opera> sandro botticelli <END>
-Quando sono stati ritrovati <START:opera> leonardo <END>
-Quando sono stati ritrovati <START:opera> donatello <END>
-Quando sono stati ritrovati <START:opera> raffello <END>
-Quando sono stati ritrovati <START:opera> goustave corbet <END>
-Quando sono stati ritrovati <START:opera> perugino <END>
-Quando sono stati ritrovati <START:opera> giorgio de chirico <END>
-Quando sono stati ritrovati <START:opera> william turne <END>
-Quando sono stati ritrovati <START:opera> paul cèzanne <END>
-Quando sono stati ritrovati <START:opera> andy warhol <END>
-Quando è stata rubata <START:opera> picasso <END>
-Quando è stata rubata <START:opera> giotto <END>
-Quando è stata rubata <START:opera> michelangelo <END>
-Quando è stata rubata <START:opera> leonardo da vinci <END>
-Quando è stata rubata <START:opera> vincent van gogh <END>
-Quando è stata rubata <START:opera> caravaggio <END>
-Quando è stata rubata <START:opera> cimabue <END>
-Quando è stata rubata <START:opera> salvador dalì <END>
-Quando è stata rubata <START:opera> sandro botticelli <END>
-Quando è stata rubata <START:opera> leonardo <END>
-Quando è stata rubata <START:opera> donatello <END>
-Quando è stata rubata <START:opera> raffello <END>
-Quando è stata rubata <START:opera> goustave corbet <END>
-Quando è stata rubata <START:opera> perugino <END>
-Quando è stata rubata <START:opera> giorgio de chirico <END>
-Quando è stata rubata <START:opera> william turne <END>
-Quando è stata rubata <START:opera> paul cèzanne <END>
-Quando è stata rubata <START:opera> andy warhol <END>
-Quanti anni ha <START:opera> picasso <END>
-Quanti anni ha <START:opera> giotto <END>
-Quanti anni ha <START:opera> michelangelo <END>
-Quanti anni ha <START:opera> leonardo da vinci <END>
-Quanti anni ha <START:opera> vincent van gogh <END>
-Quanti anni ha <START:opera> caravaggio <END>
-Quanti anni ha <START:opera> cimabue <END>
-Quanti anni ha <START:opera> salvador dalì <END>
-Quanti anni ha <START:opera> sandro botticelli <END>
-Quanti anni ha <START:opera> leonardo <END>
-Quanti anni ha <START:opera> donatello <END>
-Quanti anni ha <START:opera> raffello <END>
-Quanti anni ha <START:opera> goustave corbet <END>
-Quanti anni ha <START:opera> perugino <END>
-Quanti anni ha <START:opera> giorgio de chirico <END>
-Quanti anni ha <START:opera> william turne <END>
-Quanti anni ha <START:opera> paul cèzanne <END>
-Quanti anni ha <START:opera> andy warhol <END>
-Quanti metri quadrati occupa <START:opera> picasso <END>
-Quanti metri quadrati occupa <START:opera> giotto <END>
-Quanti metri quadrati occupa <START:opera> michelangelo <END>
-Quanti metri quadrati occupa <START:opera> leonardo da vinci <END>
-Quanti metri quadrati occupa <START:opera> vincent van gogh <END>
-Quanti metri quadrati occupa <START:opera> caravaggio <END>
-Quanti metri quadrati occupa <START:opera> cimabue <END>
-Quanti metri quadrati occupa <START:opera> salvador dalì <END>
-Quanti metri quadrati occupa <START:opera> sandro botticelli <END>
-Quanti metri quadrati occupa <START:opera> leonardo <END>
-Quanti metri quadrati occupa <START:opera> donatello <END>
-Quanti metri quadrati occupa <START:opera> raffello <END>
-Quanti metri quadrati occupa <START:opera> goustave corbet <END>
-Quanti metri quadrati occupa <START:opera> perugino <END>
-Quanti metri quadrati occupa <START:opera> giorgio de chirico <END>
-Quanti metri quadrati occupa <START:opera> william turne <END>
-Quanti metri quadrati occupa <START:opera> paul cèzanne <END>
-Quanti metri quadrati occupa <START:opera> andy warhol <END>
-Quanto è alta <START:opera> picasso <END>
-Quanto è alta <START:opera> giotto <END>
-Quanto è alta <START:opera> michelangelo <END>
-Quanto è alta <START:opera> leonardo da vinci <END>
-Quanto è alta <START:opera> vincent van gogh <END>
-Quanto è alta <START:opera> caravaggio <END>
-Quanto è alta <START:opera> cimabue <END>
-Quanto è alta <START:opera> salvador dalì <END>
-Quanto è alta <START:opera> sandro botticelli <END>
-Quanto è alta <START:opera> leonardo <END>
-Quanto è alta <START:opera> donatello <END>
-Quanto è alta <START:opera> raffello <END>
-Quanto è alta <START:opera> goustave corbet <END>
-Quanto è alta <START:opera> perugino <END>
-Quanto è alta <START:opera> giorgio de chirico <END>
-Quanto è alta <START:opera> william turne <END>
-Quanto è alta <START:opera> paul cèzanne <END>
-Quanto è alta <START:opera> andy warhol <END>
-Quanto pesa <START:opera> picasso <END>
-Quanto pesa <START:opera> giotto <END>
-Quanto pesa <START:opera> michelangelo <END>
-Quanto pesa <START:opera> leonardo da vinci <END>
-Quanto pesa <START:opera> vincent van gogh <END>
-Quanto pesa <START:opera> caravaggio <END>
-Quanto pesa <START:opera> cimabue <END>
-Quanto pesa <START:opera> salvador dalì <END>
-Quanto pesa <START:opera> sandro botticelli <END>
-Quanto pesa <START:opera> leonardo <END>
-Quanto pesa <START:opera> donatello <END>
-Quanto pesa <START:opera> raffello <END>
-Quanto pesa <START:opera> goustave corbet <END>
-Quanto pesa <START:opera> perugino <END>
-Quanto pesa <START:opera> giorgio de chirico <END>
-Quanto pesa <START:opera> william turne <END>
-Quanto pesa <START:opera> paul cèzanne <END>
-Quanto pesa <START:opera> andy warhol <END>
-Quanto è grande <START:opera> picasso <END>
-Quanto è grande <START:opera> giotto <END>
-Quanto è grande <START:opera> michelangelo <END>
-Quanto è grande <START:opera> leonardo da vinci <END>
-Quanto è grande <START:opera> vincent van gogh <END>
-Quanto è grande <START:opera> caravaggio <END>
-Quanto è grande <START:opera> cimabue <END>
-Quanto è grande <START:opera> salvador dalì <END>
-Quanto è grande <START:opera> sandro botticelli <END>
-Quanto è grande <START:opera> leonardo <END>
-Quanto è grande <START:opera> donatello <END>
-Quanto è grande <START:opera> raffello <END>
-Quanto è grande <START:opera> goustave corbet <END>
-Quanto è grande <START:opera> perugino <END>
-Quanto è grande <START:opera> giorgio de chirico <END>
-Quanto è grande <START:opera> william turne <END>
-Quanto è grande <START:opera> paul cèzanne <END>
-Quanto è grande <START:opera> andy warhol <END>
-Quante navate ci sono <START:opera> picasso <END>
-Quante navate ci sono <START:opera> giotto <END>
-Quante navate ci sono <START:opera> michelangelo <END>
-Quante navate ci sono <START:opera> leonardo da vinci <END>
-Quante navate ci sono <START:opera> vincent van gogh <END>
-Quante navate ci sono <START:opera> caravaggio <END>
-Quante navate ci sono <START:opera> cimabue <END>
-Quante navate ci sono <START:opera> salvador dalì <END>
-Quante navate ci sono <START:opera> sandro botticelli <END>
-Quante navate ci sono <START:opera> leonardo <END>
-Quante navate ci sono <START:opera> donatello <END>
-Quante navate ci sono <START:opera> raffello <END>
-Quante navate ci sono <START:opera> goustave corbet <END>
-Quante navate ci sono <START:opera> perugino <END>
-Quante navate ci sono <START:opera> giorgio de chirico <END>
-Quante navate ci sono <START:opera> william turne <END>
-Quante navate ci sono <START:opera> paul cèzanne <END>
-Quante navate ci sono <START:opera> andy warhol <END>
-A quale periodo risale <START:opera> picasso <END>
-A quale periodo risale <START:opera> giotto <END>
-A quale periodo risale <START:opera> michelangelo <END>
-A quale periodo risale <START:opera> leonardo da vinci <END>
-A quale periodo risale <START:opera> vincent van gogh <END>
-A quale periodo risale <START:opera> caravaggio <END>
-A quale periodo risale <START:opera> cimabue <END>
-A quale periodo risale <START:opera> salvador dalì <END>
-A quale periodo risale <START:opera> sandro botticelli <END>
-A quale periodo risale <START:opera> leonardo <END>
-A quale periodo risale <START:opera> donatello <END>
-A quale periodo risale <START:opera> raffello <END>
-A quale periodo risale <START:opera> goustave corbet <END>
-A quale periodo risale <START:opera> perugino <END>
-A quale periodo risale <START:opera> giorgio de chirico <END>
-A quale periodo risale <START:opera> william turne <END>
-A quale periodo risale <START:opera> paul cèzanne <END>
-A quale periodo risale <START:opera> andy warhol <END>
-Perchè <START:opera> picasso <END> è a 
-Perchè <START:opera> giotto <END> è a 
-Perchè <START:opera> michelangelo <END> è a 
-Perchè <START:opera> leonardo da vinci <END> è a 
-Perchè <START:opera> vincent van gogh <END> è a 
-Perchè <START:opera> caravaggio <END> è a 
-Perchè <START:opera> cimabue <END> è a 
-Perchè <START:opera> salvador dalì <END> è a 
-Perchè <START:opera> sandro botticelli <END> è a 
-Perchè <START:opera> leonardo <END> è a 
-Perchè <START:opera> donatello <END> è a 
-Perchè <START:opera> raffello <END> è a 
-Perchè <START:opera> goustave corbet <END> è a 
-Perchè <START:opera> perugino <END> è a 
-Perchè <START:opera> giorgio de chirico <END> è a 
-Perchè <START:opera> william turne <END> è a 
-Perchè <START:opera> paul cèzanne <END> è a 
-Perchè <START:opera> andy warhol <END> è a 
-Perchè <START:opera> picasso <END> non è stata terminata
-Perchè <START:opera> giotto <END> non è stata terminata
-Perchè <START:opera> michelangelo <END> non è stata terminata
-Perchè <START:opera> leonardo da vinci <END> non è stata terminata
-Perchè <START:opera> vincent van gogh <END> non è stata terminata
-Perchè <START:opera> caravaggio <END> non è stata terminata
-Perchè <START:opera> cimabue <END> non è stata terminata
-Perchè <START:opera> salvador dalì <END> non è stata terminata
-Perchè <START:opera> sandro botticelli <END> non è stata terminata
-Perchè <START:opera> leonardo <END> non è stata terminata
-Perchè <START:opera> donatello <END> non è stata terminata
-Perchè <START:opera> raffello <END> non è stata terminata
-Perchè <START:opera> goustave corbet <END> non è stata terminata
-Perchè <START:opera> perugino <END> non è stata terminata
-Perchè <START:opera> giorgio de chirico <END> non è stata terminata
-Perchè <START:opera> william turne <END> non è stata terminata
-Perchè <START:opera> paul cèzanne <END> non è stata terminata
-Perchè <START:opera> andy warhol <END> non è stata terminata
-Quanto vale <START:opera> picasso <END>
-Quanto vale <START:opera> giotto <END>
-Quanto vale <START:opera> michelangelo <END>
-Quanto vale <START:opera> leonardo da vinci <END>
-Quanto vale <START:opera> vincent van gogh <END>
-Quanto vale <START:opera> caravaggio <END>
-Quanto vale <START:opera> cimabue <END>
-Quanto vale <START:opera> salvador dalì <END>
-Quanto vale <START:opera> sandro botticelli <END>
-Quanto vale <START:opera> leonardo <END>
-Quanto vale <START:opera> donatello <END>
-Quanto vale <START:opera> raffello <END>
-Quanto vale <START:opera> goustave corbet <END>
-Quanto vale <START:opera> perugino <END>
-Quanto vale <START:opera> giorgio de chirico <END>
-Quanto vale <START:opera> william turne <END>
-Quanto vale <START:opera> paul cèzanne <END>
-Quanto vale <START:opera> andy warhol <END>
-Quanto è costato <START:opera> picasso <END>
-Quanto è costato <START:opera> giotto <END>
-Quanto è costato <START:opera> michelangelo <END>
-Quanto è costato <START:opera> leonardo da vinci <END>
-Quanto è costato <START:opera> vincent van gogh <END>
-Quanto è costato <START:opera> caravaggio <END>
-Quanto è costato <START:opera> cimabue <END>
-Quanto è costato <START:opera> salvador dalì <END>
-Quanto è costato <START:opera> sandro botticelli <END>
-Quanto è costato <START:opera> leonardo <END>
-Quanto è costato <START:opera> donatello <END>
-Quanto è costato <START:opera> raffello <END>
-Quanto è costato <START:opera> goustave corbet <END>
-Quanto è costato <START:opera> perugino <END>
-Quanto è costato <START:opera> giorgio de chirico <END>
-Quanto è costato <START:opera> william turne <END>
-Quanto è costato <START:opera> paul cèzanne <END>
-Quanto è costato <START:opera> andy warhol <END>
-Quanti anni ci sono voluti per costruire <START:opera> picasso <END>
-Quanti anni ci sono voluti per costruire <START:opera> giotto <END>
-Quanti anni ci sono voluti per costruire <START:opera> michelangelo <END>
-Quanti anni ci sono voluti per costruire <START:opera> leonardo da vinci <END>
-Quanti anni ci sono voluti per costruire <START:opera> vincent van gogh <END>
-Quanti anni ci sono voluti per costruire <START:opera> caravaggio <END>
-Quanti anni ci sono voluti per costruire <START:opera> cimabue <END>
-Quanti anni ci sono voluti per costruire <START:opera> salvador dalì <END>
-Quanti anni ci sono voluti per costruire <START:opera> sandro botticelli <END>
-Quanti anni ci sono voluti per costruire <START:opera> leonardo <END>
-Quanti anni ci sono voluti per costruire <START:opera> donatello <END>
-Quanti anni ci sono voluti per costruire <START:opera> raffello <END>
-Quanti anni ci sono voluti per costruire <START:opera> goustave corbet <END>
-Quanti anni ci sono voluti per costruire <START:opera> perugino <END>
-Quanti anni ci sono voluti per costruire <START:opera> giorgio de chirico <END>
-Quanti anni ci sono voluti per costruire <START:opera> william turne <END>
-Quanti anni ci sono voluti per costruire <START:opera> paul cèzanne <END>
-Quanti anni ci sono voluti per costruire <START:opera> andy warhol <END>
-Quanti anni ci sono voluti per ultimare <START:opera> picasso <END>
-Quanti anni ci sono voluti per ultimare <START:opera> giotto <END>
-Quanti anni ci sono voluti per ultimare <START:opera> michelangelo <END>
-Quanti anni ci sono voluti per ultimare <START:opera> leonardo da vinci <END>
-Quanti anni ci sono voluti per ultimare <START:opera> vincent van gogh <END>
-Quanti anni ci sono voluti per ultimare <START:opera> caravaggio <END>
-Quanti anni ci sono voluti per ultimare <START:opera> cimabue <END>
-Quanti anni ci sono voluti per ultimare <START:opera> salvador dalì <END>
-Quanti anni ci sono voluti per ultimare <START:opera> sandro botticelli <END>
-Quanti anni ci sono voluti per ultimare <START:opera> leonardo <END>
-Quanti anni ci sono voluti per ultimare <START:opera> donatello <END>
-Quanti anni ci sono voluti per ultimare <START:opera> raffello <END>
-Quanti anni ci sono voluti per ultimare <START:opera> goustave corbet <END>
-Quanti anni ci sono voluti per ultimare <START:opera> perugino <END>
-Quanti anni ci sono voluti per ultimare <START:opera> giorgio de chirico <END>
-Quanti anni ci sono voluti per ultimare <START:opera> william turne <END>
-Quanti anni ci sono voluti per ultimare <START:opera> paul cèzanne <END>
-Quanti anni ci sono voluti per ultimare <START:opera> andy warhol <END>
-In quale periodo storico è stata dipinta <START:opera> picasso <END>
-In quale periodo storico è stata dipinta <START:opera> giotto <END>
-In quale periodo storico è stata dipinta <START:opera> michelangelo <END>
-In quale periodo storico è stata dipinta <START:opera> leonardo da vinci <END>
-In quale periodo storico è stata dipinta <START:opera> vincent van gogh <END>
-In quale periodo storico è stata dipinta <START:opera> caravaggio <END>
-In quale periodo storico è stata dipinta <START:opera> cimabue <END>
-In quale periodo storico è stata dipinta <START:opera> salvador dalì <END>
-In quale periodo storico è stata dipinta <START:opera> sandro botticelli <END>
-In quale periodo storico è stata dipinta <START:opera> leonardo <END>
-In quale periodo storico è stata dipinta <START:opera> donatello <END>
-In quale periodo storico è stata dipinta <START:opera> raffello <END>
-In quale periodo storico è stata dipinta <START:opera> goustave corbet <END>
-In quale periodo storico è stata dipinta <START:opera> perugino <END>
-In quale periodo storico è stata dipinta <START:opera> giorgio de chirico <END>
-In quale periodo storico è stata dipinta <START:opera> william turne <END>
-In quale periodo storico è stata dipinta <START:opera> paul cèzanne <END>
-In quale periodo storico è stata dipinta <START:opera> andy warhol <END>
-Con quale tecnica è stato dipinto <START:opera> picasso <END>
-Con quale tecnica è stato dipinto <START:opera> giotto <END>
-Con quale tecnica è stato dipinto <START:opera> michelangelo <END>
-Con quale tecnica è stato dipinto <START:opera> leonardo da vinci <END>
-Con quale tecnica è stato dipinto <START:opera> vincent van gogh <END>
-Con quale tecnica è stato dipinto <START:opera> caravaggio <END>
-Con quale tecnica è stato dipinto <START:opera> cimabue <END>
-Con quale tecnica è stato dipinto <START:opera> salvador dalì <END>
-Con quale tecnica è stato dipinto <START:opera> sandro botticelli <END>
-Con quale tecnica è stato dipinto <START:opera> leonardo <END>
-Con quale tecnica è stato dipinto <START:opera> donatello <END>
-Con quale tecnica è stato dipinto <START:opera> raffello <END>
-Con quale tecnica è stato dipinto <START:opera> goustave corbet <END>
-Con quale tecnica è stato dipinto <START:opera> perugino <END>
-Con quale tecnica è stato dipinto <START:opera> giorgio de chirico <END>
-Con quale tecnica è stato dipinto <START:opera> william turne <END>
-Con quale tecnica è stato dipinto <START:opera> paul cèzanne <END>
-Con quale tecnica è stato dipinto <START:opera> andy warhol <END>
-Che tipo di colori sono stati usati per dipingere <START:opera> picasso <END>
-Che tipo di colori sono stati usati per dipingere <START:opera> giotto <END>
-Che tipo di colori sono stati usati per dipingere <START:opera> michelangelo <END>
-Che tipo di colori sono stati usati per dipingere <START:opera> leonardo da vinci <END>
-Che tipo di colori sono stati usati per dipingere <START:opera> vincent van gogh <END>
-Che tipo di colori sono stati usati per dipingere <START:opera> caravaggio <END>
-Che tipo di colori sono stati usati per dipingere <START:opera> cimabue <END>
-Che tipo di colori sono stati usati per dipingere <START:opera> salvador dalì <END>
-Che tipo di colori sono stati usati per dipingere <START:opera> sandro botticelli <END>
-Che tipo di colori sono stati usati per dipingere <START:opera> leonardo <END>
-Che tipo di colori sono stati usati per dipingere <START:opera> donatello <END>
-Che tipo di colori sono stati usati per dipingere <START:opera> raffello <END>
-Che tipo di colori sono stati usati per dipingere <START:opera> goustave corbet <END>
-Che tipo di colori sono stati usati per dipingere <START:opera> perugino <END>
-Che tipo di colori sono stati usati per dipingere <START:opera> giorgio de chirico <END>
-Che tipo di colori sono stati usati per dipingere <START:opera> william turne <END>
-Che tipo di colori sono stati usati per dipingere <START:opera> paul cèzanne <END>
-Che tipo di colori sono stati usati per dipingere <START:opera> andy warhol <END>
-Su quale materiale è stata dipinta <START:opera> picasso <END>
-Su quale materiale è stata dipinta <START:opera> giotto <END>
-Su quale materiale è stata dipinta <START:opera> michelangelo <END>
-Su quale materiale è stata dipinta <START:opera> leonardo da vinci <END>
-Su quale materiale è stata dipinta <START:opera> vincent van gogh <END>
-Su quale materiale è stata dipinta <START:opera> caravaggio <END>
-Su quale materiale è stata dipinta <START:opera> cimabue <END>
-Su quale materiale è stata dipinta <START:opera> salvador dalì <END>
-Su quale materiale è stata dipinta <START:opera> sandro botticelli <END>
-Su quale materiale è stata dipinta <START:opera> leonardo <END>
-Su quale materiale è stata dipinta <START:opera> donatello <END>
-Su quale materiale è stata dipinta <START:opera> raffello <END>
-Su quale materiale è stata dipinta <START:opera> goustave corbet <END>
-Su quale materiale è stata dipinta <START:opera> perugino <END>
-Su quale materiale è stata dipinta <START:opera> giorgio de chirico <END>
-Su quale materiale è stata dipinta <START:opera> william turne <END>
-Su quale materiale è stata dipinta <START:opera> paul cèzanne <END>
-Su quale materiale è stata dipinta <START:opera> andy warhol <END>
-Che superficie occupa <START:opera> picasso <END>
-Che superficie occupa <START:opera> giotto <END>
-Che superficie occupa <START:opera> michelangelo <END>
-Che superficie occupa <START:opera> leonardo da vinci <END>
-Che superficie occupa <START:opera> vincent van gogh <END>
-Che superficie occupa <START:opera> caravaggio <END>
-Che superficie occupa <START:opera> cimabue <END>
-Che superficie occupa <START:opera> salvador dalì <END>
-Che superficie occupa <START:opera> sandro botticelli <END>
-Che superficie occupa <START:opera> leonardo <END>
-Che superficie occupa <START:opera> donatello <END>
-Che superficie occupa <START:opera> raffello <END>
-Che superficie occupa <START:opera> goustave corbet <END>
-Che superficie occupa <START:opera> perugino <END>
-Che superficie occupa <START:opera> giorgio de chirico <END>
-Che superficie occupa <START:opera> william turne <END>
-Che superficie occupa <START:opera> paul cèzanne <END>
-Che superficie occupa <START:opera> andy warhol <END>
-Come è stato restaurato <START:opera> picasso <END>
-Come è stato restaurato <START:opera> giotto <END>
-Come è stato restaurato <START:opera> michelangelo <END>
-Come è stato restaurato <START:opera> leonardo da vinci <END>
-Come è stato restaurato <START:opera> vincent van gogh <END>
-Come è stato restaurato <START:opera> caravaggio <END>
-Come è stato restaurato <START:opera> cimabue <END>
-Come è stato restaurato <START:opera> salvador dalì <END>
-Come è stato restaurato <START:opera> sandro botticelli <END>
-Come è stato restaurato <START:opera> leonardo <END>
-Come è stato restaurato <START:opera> donatello <END>
-Come è stato restaurato <START:opera> raffello <END>
-Come è stato restaurato <START:opera> goustave corbet <END>
-Come è stato restaurato <START:opera> perugino <END>
-Come è stato restaurato <START:opera> giorgio de chirico <END>
-Come è stato restaurato <START:opera> william turne <END>
-Come è stato restaurato <START:opera> paul cèzanne <END>
-Come è stato restaurato <START:opera> andy warhol <END>
-Perchè questo quadro si chiama <START:opera> picasso <END>
-Perchè questo quadro si chiama <START:opera> giotto <END>
-Perchè questo quadro si chiama <START:opera> michelangelo <END>
-Perchè questo quadro si chiama <START:opera> leonardo da vinci <END>
-Perchè questo quadro si chiama <START:opera> vincent van gogh <END>
-Perchè questo quadro si chiama <START:opera> caravaggio <END>
-Perchè questo quadro si chiama <START:opera> cimabue <END>
-Perchè questo quadro si chiama <START:opera> salvador dalì <END>
-Perchè questo quadro si chiama <START:opera> sandro botticelli <END>
-Perchè questo quadro si chiama <START:opera> leonardo <END>
-Perchè questo quadro si chiama <START:opera> donatello <END>
-Perchè questo quadro si chiama <START:opera> raffello <END>
-Perchè questo quadro si chiama <START:opera> goustave corbet <END>
-Perchè questo quadro si chiama <START:opera> perugino <END>
-Perchè questo quadro si chiama <START:opera> giorgio de chirico <END>
-Perchè questo quadro si chiama <START:opera> william turne <END>
-Perchè questo quadro si chiama <START:opera> paul cèzanne <END>
-Perchè questo quadro si chiama <START:opera> andy warhol <END>
-Perchè questa opera si chiama <START:opera> picasso <END>
-Perchè questa opera si chiama <START:opera> giotto <END>
-Perchè questa opera si chiama <START:opera> michelangelo <END>
-Perchè questa opera si chiama <START:opera> leonardo da vinci <END>
-Perchè questa opera si chiama <START:opera> vincent van gogh <END>
-Perchè questa opera si chiama <START:opera> caravaggio <END>
-Perchè questa opera si chiama <START:opera> cimabue <END>
-Perchè questa opera si chiama <START:opera> salvador dalì <END>
-Perchè questa opera si chiama <START:opera> sandro botticelli <END>
-Perchè questa opera si chiama <START:opera> leonardo <END>
-Perchè questa opera si chiama <START:opera> donatello <END>
-Perchè questa opera si chiama <START:opera> raffello <END>
-Perchè questa opera si chiama <START:opera> goustave corbet <END>
-Perchè questa opera si chiama <START:opera> perugino <END>
-Perchè questa opera si chiama <START:opera> giorgio de chirico <END>
-Perchè questa opera si chiama <START:opera> william turne <END>
-Perchè questa opera si chiama <START:opera> paul cèzanne <END>
-Perchè questa opera si chiama <START:opera> andy warhol <END>
-Ci sono altre <START:opera> picasso <END>
-Ci sono altre <START:opera> giotto <END>
-Ci sono altre <START:opera> michelangelo <END>
-Ci sono altre <START:opera> leonardo da vinci <END>
-Ci sono altre <START:opera> vincent van gogh <END>
-Ci sono altre <START:opera> caravaggio <END>
-Ci sono altre <START:opera> cimabue <END>
-Ci sono altre <START:opera> salvador dalì <END>
-Ci sono altre <START:opera> sandro botticelli <END>
-Ci sono altre <START:opera> leonardo <END>
-Ci sono altre <START:opera> donatello <END>
-Ci sono altre <START:opera> raffello <END>
-Ci sono altre <START:opera> goustave corbet <END>
-Ci sono altre <START:opera> perugino <END>
-Ci sono altre <START:opera> giorgio de chirico <END>
-Ci sono altre <START:opera> william turne <END>
-Ci sono altre <START:opera> paul cèzanne <END>
-Ci sono altre <START:opera> andy warhol <END>
-Chi è <START:artista> picasso <END>
-Chi è <START:artista> giotto <END>
-Chi è <START:artista> michelangelo <END>
-Chi è <START:artista> leonardo da vinci <END>
-Chi è <START:artista> vincent van gogh <END>
-Chi è <START:artista> caravaggio <END>
-Chi è <START:artista> cimabue <END>
-Chi è <START:artista> salvador dalì <END>
-Chi è <START:artista> sandro botticelli <END>
-Chi è <START:artista> leonardo <END>
-Chi è <START:artista> donatello <END>
-Chi è <START:artista> raffello <END>
-Chi è <START:artista> goustave corbet <END>
-Chi è <START:artista> perugino <END>
-Chi è <START:artista> giorgio de chirico <END>
-Chi è <START:artista> william turne <END>
-Chi è <START:artista> paul cèzanne <END>
-Chi è <START:artista> andy warhol <END>
-Chi era il maestro <START:artista> picasso <END>
-Chi era il maestro <START:artista> giotto <END>
-Chi era il maestro <START:artista> michelangelo <END>
-Chi era il maestro <START:artista> leonardo da vinci <END>
-Chi era il maestro <START:artista> vincent van gogh <END>
-Chi era il maestro <START:artista> caravaggio <END>
-Chi era il maestro <START:artista> cimabue <END>
-Chi era il maestro <START:artista> salvador dalì <END>
-Chi era il maestro <START:artista> sandro botticelli <END>
-Chi era il maestro <START:artista> leonardo <END>
-Chi era il maestro <START:artista> donatello <END>
-Chi era il maestro <START:artista> raffello <END>
-Chi era il maestro <START:artista> goustave corbet <END>
-Chi era il maestro <START:artista> perugino <END>
-Chi era il maestro <START:artista> giorgio de chirico <END>
-Chi era il maestro <START:artista> william turne <END>
-Chi era il maestro <START:artista> paul cèzanne <END>
-Chi era il maestro <START:artista> andy warhol <END>
-Chi è il proprietario <START:artista> picasso <END>
-Chi è il proprietario <START:artista> giotto <END>
-Chi è il proprietario <START:artista> michelangelo <END>
-Chi è il proprietario <START:artista> leonardo da vinci <END>
-Chi è il proprietario <START:artista> vincent van gogh <END>
-Chi è il proprietario <START:artista> caravaggio <END>
-Chi è il proprietario <START:artista> cimabue <END>
-Chi è il proprietario <START:artista> salvador dalì <END>
-Chi è il proprietario <START:artista> sandro botticelli <END>
-Chi è il proprietario <START:artista> leonardo <END>
-Chi è il proprietario <START:artista> donatello <END>
-Chi è il proprietario <START:artista> raffello <END>
-Chi è il proprietario <START:artista> goustave corbet <END>
-Chi è il proprietario <START:artista> perugino <END>
-Chi è il proprietario <START:artista> giorgio de chirico <END>
-Chi è il proprietario <START:artista> william turne <END>
-Chi è il proprietario <START:artista> paul cèzanne <END>
-Chi è il proprietario <START:artista> andy warhol <END>
-Chi è l'autore <START:artista> picasso <END>
-Chi è l'autore <START:artista> giotto <END>
-Chi è l'autore <START:artista> michelangelo <END>
-Chi è l'autore <START:artista> leonardo da vinci <END>
-Chi è l'autore <START:artista> vincent van gogh <END>
-Chi è l'autore <START:artista> caravaggio <END>
-Chi è l'autore <START:artista> cimabue <END>
-Chi è l'autore <START:artista> salvador dalì <END>
-Chi è l'autore <START:artista> sandro botticelli <END>
-Chi è l'autore <START:artista> leonardo <END>
-Chi è l'autore <START:artista> donatello <END>
-Chi è l'autore <START:artista> raffello <END>
-Chi è l'autore <START:artista> goustave corbet <END>
-Chi è l'autore <START:artista> perugino <END>
-Chi è l'autore <START:artista> giorgio de chirico <END>
-Chi è l'autore <START:artista> william turne <END>
-Chi è l'autore <START:artista> paul cèzanne <END>
-Chi è l'autore <START:artista> andy warhol <END>
-Qual è la biografia <START:artista> picasso <END>
-Qual è la biografia <START:artista> giotto <END>
-Qual è la biografia <START:artista> michelangelo <END>
-Qual è la biografia <START:artista> leonardo da vinci <END>
-Qual è la biografia <START:artista> vincent van gogh <END>
-Qual è la biografia <START:artista> caravaggio <END>
-Qual è la biografia <START:artista> cimabue <END>
-Qual è la biografia <START:artista> salvador dalì <END>
-Qual è la biografia <START:artista> sandro botticelli <END>
-Qual è la biografia <START:artista> leonardo <END>
-Qual è la biografia <START:artista> donatello <END>
-Qual è la biografia <START:artista> raffello <END>
-Qual è la biografia <START:artista> goustave corbet <END>
-Qual è la biografia <START:artista> perugino <END>
-Qual è la biografia <START:artista> giorgio de chirico <END>
-Qual è la biografia <START:artista> william turne <END>
-Qual è la biografia <START:artista> paul cèzanne <END>
-Qual è la biografia <START:artista> andy warhol <END>
-Quali sono le prime opere <START:artista> picasso <END>
-Quali sono le prime opere <START:artista> giotto <END>
-Quali sono le prime opere <START:artista> michelangelo <END>
-Quali sono le prime opere <START:artista> leonardo da vinci <END>
-Quali sono le prime opere <START:artista> vincent van gogh <END>
-Quali sono le prime opere <START:artista> caravaggio <END>
-Quali sono le prime opere <START:artista> cimabue <END>
-Quali sono le prime opere <START:artista> salvador dalì <END>
-Quali sono le prime opere <START:artista> sandro botticelli <END>
-Quali sono le prime opere <START:artista> leonardo <END>
-Quali sono le prime opere <START:artista> donatello <END>
-Quali sono le prime opere <START:artista> raffello <END>
-Quali sono le prime opere <START:artista> goustave corbet <END>
-Quali sono le prime opere <START:artista> perugino <END>
-Quali sono le prime opere <START:artista> giorgio de chirico <END>
-Quali sono le prime opere <START:artista> william turne <END>
-Quali sono le prime opere <START:artista> paul cèzanne <END>
-Quali sono le prime opere <START:artista> andy warhol <END>
-Quali sono le opere incompiute <START:artista> picasso <END>
-Quali sono le opere incompiute <START:artista> giotto <END>
-Quali sono le opere incompiute <START:artista> michelangelo <END>
-Quali sono le opere incompiute <START:artista> leonardo da vinci <END>
-Quali sono le opere incompiute <START:artista> vincent van gogh <END>
-Quali sono le opere incompiute <START:artista> caravaggio <END>
-Quali sono le opere incompiute <START:artista> cimabue <END>
-Quali sono le opere incompiute <START:artista> salvador dalì <END>
-Quali sono le opere incompiute <START:artista> sandro botticelli <END>
-Quali sono le opere incompiute <START:artista> leonardo <END>
-Quali sono le opere incompiute <START:artista> donatello <END>
-Quali sono le opere incompiute <START:artista> raffello <END>
-Quali sono le opere incompiute <START:artista> goustave corbet <END>
-Quali sono le opere incompiute <START:artista> perugino <END>
-Quali sono le opere incompiute <START:artista> giorgio de chirico <END>
-Quali sono le opere incompiute <START:artista> william turne <END>
-Quali sono le opere incompiute <START:artista> paul cèzanne <END>
-Quali sono le opere incompiute <START:artista> andy warhol <END>
-Quale è lo stile <START:artista> picasso <END>
-Quale è lo stile <START:artista> giotto <END>
-Quale è lo stile <START:artista> michelangelo <END>
-Quale è lo stile <START:artista> leonardo da vinci <END>
-Quale è lo stile <START:artista> vincent van gogh <END>
-Quale è lo stile <START:artista> caravaggio <END>
-Quale è lo stile <START:artista> cimabue <END>
-Quale è lo stile <START:artista> salvador dalì <END>
-Quale è lo stile <START:artista> sandro botticelli <END>
-Quale è lo stile <START:artista> leonardo <END>
-Quale è lo stile <START:artista> donatello <END>
-Quale è lo stile <START:artista> raffello <END>
-Quale è lo stile <START:artista> goustave corbet <END>
-Quale è lo stile <START:artista> perugino <END>
-Quale è lo stile <START:artista> giorgio de chirico <END>
-Quale è lo stile <START:artista> william turne <END>
-Quale è lo stile <START:artista> paul cèzanne <END>
-Quale è lo stile <START:artista> andy warhol <END>
-Dove è nato <START:artista> picasso <END>
-Dove è nato <START:artista> giotto <END>
-Dove è nato <START:artista> michelangelo <END>
-Dove è nato <START:artista> leonardo da vinci <END>
-Dove è nato <START:artista> vincent van gogh <END>
-Dove è nato <START:artista> caravaggio <END>
-Dove è nato <START:artista> cimabue <END>
-Dove è nato <START:artista> salvador dalì <END>
-Dove è nato <START:artista> sandro botticelli <END>
-Dove è nato <START:artista> leonardo <END>
-Dove è nato <START:artista> donatello <END>
-Dove è nato <START:artista> raffello <END>
-Dove è nato <START:artista> goustave corbet <END>
-Dove è nato <START:artista> perugino <END>
-Dove è nato <START:artista> giorgio de chirico <END>
-Dove è nato <START:artista> william turne <END>
-Dove è nato <START:artista> paul cèzanne <END>
-Dove è nato <START:artista> andy warhol <END>
-Dove ha trascorso l'infanzia <START:artista> picasso <END>
-Dove ha trascorso l'infanzia <START:artista> giotto <END>
-Dove ha trascorso l'infanzia <START:artista> michelangelo <END>
-Dove ha trascorso l'infanzia <START:artista> leonardo da vinci <END>
-Dove ha trascorso l'infanzia <START:artista> vincent van gogh <END>
-Dove ha trascorso l'infanzia <START:artista> caravaggio <END>
-Dove ha trascorso l'infanzia <START:artista> cimabue <END>
-Dove ha trascorso l'infanzia <START:artista> salvador dalì <END>
-Dove ha trascorso l'infanzia <START:artista> sandro botticelli <END>
-Dove ha trascorso l'infanzia <START:artista> leonardo <END>
-Dove ha trascorso l'infanzia <START:artista> donatello <END>
-Dove ha trascorso l'infanzia <START:artista> raffello <END>
-Dove ha trascorso l'infanzia <START:artista> goustave corbet <END>
-Dove ha trascorso l'infanzia <START:artista> perugino <END>
-Dove ha trascorso l'infanzia <START:artista> giorgio de chirico <END>
-Dove ha trascorso l'infanzia <START:artista> william turne <END>
-Dove ha trascorso l'infanzia <START:artista> paul cèzanne <END>
-Dove ha trascorso l'infanzia <START:artista> andy warhol <END>
-Dove ha trascorso la vecchiaia <START:artista> picasso <END>
-Dove ha trascorso la vecchiaia <START:artista> giotto <END>
-Dove ha trascorso la vecchiaia <START:artista> michelangelo <END>
-Dove ha trascorso la vecchiaia <START:artista> leonardo da vinci <END>
-Dove ha trascorso la vecchiaia <START:artista> vincent van gogh <END>
-Dove ha trascorso la vecchiaia <START:artista> caravaggio <END>
-Dove ha trascorso la vecchiaia <START:artista> cimabue <END>
-Dove ha trascorso la vecchiaia <START:artista> salvador dalì <END>
-Dove ha trascorso la vecchiaia <START:artista> sandro botticelli <END>
-Dove ha trascorso la vecchiaia <START:artista> leonardo <END>
-Dove ha trascorso la vecchiaia <START:artista> donatello <END>
-Dove ha trascorso la vecchiaia <START:artista> raffello <END>
-Dove ha trascorso la vecchiaia <START:artista> goustave corbet <END>
-Dove ha trascorso la vecchiaia <START:artista> perugino <END>
-Dove ha trascorso la vecchiaia <START:artista> giorgio de chirico <END>
-Dove ha trascorso la vecchiaia <START:artista> william turne <END>
-Dove ha trascorso la vecchiaia <START:artista> paul cèzanne <END>
-Dove ha trascorso la vecchiaia <START:artista> andy warhol <END>
-Dove ha trascorso la vita <START:artista> picasso <END>
-Dove ha trascorso la vita <START:artista> giotto <END>
-Dove ha trascorso la vita <START:artista> michelangelo <END>
-Dove ha trascorso la vita <START:artista> leonardo da vinci <END>
-Dove ha trascorso la vita <START:artista> vincent van gogh <END>
-Dove ha trascorso la vita <START:artista> caravaggio <END>
-Dove ha trascorso la vita <START:artista> cimabue <END>
-Dove ha trascorso la vita <START:artista> salvador dalì <END>
-Dove ha trascorso la vita <START:artista> sandro botticelli <END>
-Dove ha trascorso la vita <START:artista> leonardo <END>
-Dove ha trascorso la vita <START:artista> donatello <END>
-Dove ha trascorso la vita <START:artista> raffello <END>
-Dove ha trascorso la vita <START:artista> goustave corbet <END>
-Dove ha trascorso la vita <START:artista> perugino <END>
-Dove ha trascorso la vita <START:artista> giorgio de chirico <END>
-Dove ha trascorso la vita <START:artista> william turne <END>
-Dove ha trascorso la vita <START:artista> paul cèzanne <END>
-Dove ha trascorso la vita <START:artista> andy warhol <END>
-Dove si è formato <START:artista> picasso <END>
-Dove si è formato <START:artista> giotto <END>
-Dove si è formato <START:artista> michelangelo <END>
-Dove si è formato <START:artista> leonardo da vinci <END>
-Dove si è formato <START:artista> vincent van gogh <END>
-Dove si è formato <START:artista> caravaggio <END>
-Dove si è formato <START:artista> cimabue <END>
-Dove si è formato <START:artista> salvador dalì <END>
-Dove si è formato <START:artista> sandro botticelli <END>
-Dove si è formato <START:artista> leonardo <END>
-Dove si è formato <START:artista> donatello <END>
-Dove si è formato <START:artista> raffello <END>
-Dove si è formato <START:artista> goustave corbet <END>
-Dove si è formato <START:artista> perugino <END>
-Dove si è formato <START:artista> giorgio de chirico <END>
-Dove si è formato <START:artista> william turne <END>
-Dove si è formato <START:artista> paul cèzanne <END>
-Dove si è formato <START:artista> andy warhol <END>
-Dove ha vissuto <START:artista> picasso <END>
-Dove ha vissuto <START:artista> giotto <END>
-Dove ha vissuto <START:artista> michelangelo <END>
-Dove ha vissuto <START:artista> leonardo da vinci <END>
-Dove ha vissuto <START:artista> vincent van gogh <END>
-Dove ha vissuto <START:artista> caravaggio <END>
-Dove ha vissuto <START:artista> cimabue <END>
-Dove ha vissuto <START:artista> salvador dalì <END>
-Dove ha vissuto <START:artista> sandro botticelli <END>
-Dove ha vissuto <START:artista> leonardo <END>
-Dove ha vissuto <START:artista> donatello <END>
-Dove ha vissuto <START:artista> raffello <END>
-Dove ha vissuto <START:artista> goustave corbet <END>
-Dove ha vissuto <START:artista> perugino <END>
-Dove ha vissuto <START:artista> giorgio de chirico <END>
-Dove ha vissuto <START:artista> william turne <END>
-Dove ha vissuto <START:artista> paul cèzanne <END>
-Dove ha vissuto <START:artista> andy warhol <END>
-Dove è morto <START:artista> picasso <END>
-Dove è morto <START:artista> giotto <END>
-Dove è morto <START:artista> michelangelo <END>
-Dove è morto <START:artista> leonardo da vinci <END>
-Dove è morto <START:artista> vincent van gogh <END>
-Dove è morto <START:artista> caravaggio <END>
-Dove è morto <START:artista> cimabue <END>
-Dove è morto <START:artista> salvador dalì <END>
-Dove è morto <START:artista> sandro botticelli <END>
-Dove è morto <START:artista> leonardo <END>
-Dove è morto <START:artista> donatello <END>
-Dove è morto <START:artista> raffello <END>
-Dove è morto <START:artista> goustave corbet <END>
-Dove è morto <START:artista> perugino <END>
-Dove è morto <START:artista> giorgio de chirico <END>
-Dove è morto <START:artista> william turne <END>
-Dove è morto <START:artista> paul cèzanne <END>
-Dove è morto <START:artista> andy warhol <END>
-Dove è stato sepolto <START:artista> picasso <END>
-Dove è stato sepolto <START:artista> giotto <END>
-Dove è stato sepolto <START:artista> michelangelo <END>
-Dove è stato sepolto <START:artista> leonardo da vinci <END>
-Dove è stato sepolto <START:artista> vincent van gogh <END>
-Dove è stato sepolto <START:artista> caravaggio <END>
-Dove è stato sepolto <START:artista> cimabue <END>
-Dove è stato sepolto <START:artista> salvador dalì <END>
-Dove è stato sepolto <START:artista> sandro botticelli <END>
-Dove è stato sepolto <START:artista> leonardo <END>
-Dove è stato sepolto <START:artista> donatello <END>
-Dove è stato sepolto <START:artista> raffello <END>
-Dove è stato sepolto <START:artista> goustave corbet <END>
-Dove è stato sepolto <START:artista> perugino <END>
-Dove è stato sepolto <START:artista> giorgio de chirico <END>
-Dove è stato sepolto <START:artista> william turne <END>
-Dove è stato sepolto <START:artista> paul cèzanne <END>
-Dove è stato sepolto <START:artista> andy warhol <END>
-Quando è nato <START:artista> picasso <END>
-Quando è nato <START:artista> giotto <END>
-Quando è nato <START:artista> michelangelo <END>
-Quando è nato <START:artista> leonardo da vinci <END>
-Quando è nato <START:artista> vincent van gogh <END>
-Quando è nato <START:artista> caravaggio <END>
-Quando è nato <START:artista> cimabue <END>
-Quando è nato <START:artista> salvador dalì <END>
-Quando è nato <START:artista> sandro botticelli <END>
-Quando è nato <START:artista> leonardo <END>
-Quando è nato <START:artista> donatello <END>
-Quando è nato <START:artista> raffello <END>
-Quando è nato <START:artista> goustave corbet <END>
-Quando è nato <START:artista> perugino <END>
-Quando è nato <START:artista> giorgio de chirico <END>
-Quando è nato <START:artista> william turne <END>
-Quando è nato <START:artista> paul cèzanne <END>
-Quando è nato <START:artista> andy warhol <END>
-Quando è morto <START:artista> picasso <END>
-Quando è morto <START:artista> giotto <END>
-Quando è morto <START:artista> michelangelo <END>
-Quando è morto <START:artista> leonardo da vinci <END>
-Quando è morto <START:artista> vincent van gogh <END>
-Quando è morto <START:artista> caravaggio <END>
-Quando è morto <START:artista> cimabue <END>
-Quando è morto <START:artista> salvador dalì <END>
-Quando è morto <START:artista> sandro botticelli <END>
-Quando è morto <START:artista> leonardo <END>
-Quando è morto <START:artista> donatello <END>
-Quando è morto <START:artista> raffello <END>
-Quando è morto <START:artista> goustave corbet <END>
-Quando è morto <START:artista> perugino <END>
-Quando è morto <START:artista> giorgio de chirico <END>
-Quando è morto <START:artista> william turne <END>
-Quando è morto <START:artista> paul cèzanne <END>
-Quando è morto <START:artista> andy warhol <END>
-Quanti anni ha <START:artista> picasso <END>
-Quanti anni ha <START:artista> giotto <END>
-Quanti anni ha <START:artista> michelangelo <END>
-Quanti anni ha <START:artista> leonardo da vinci <END>
-Quanti anni ha <START:artista> vincent van gogh <END>
-Quanti anni ha <START:artista> caravaggio <END>
-Quanti anni ha <START:artista> cimabue <END>
-Quanti anni ha <START:artista> salvador dalì <END>
-Quanti anni ha <START:artista> sandro botticelli <END>
-Quanti anni ha <START:artista> leonardo <END>
-Quanti anni ha <START:artista> donatello <END>
-Quanti anni ha <START:artista> raffello <END>
-Quanti anni ha <START:artista> goustave corbet <END>
-Quanti anni ha <START:artista> perugino <END>
-Quanti anni ha <START:artista> giorgio de chirico <END>
-Quanti anni ha <START:artista> william turne <END>
-Quanti anni ha <START:artista> paul cèzanne <END>
-Quanti anni ha <START:artista> andy warhol <END>
-Quanti anni aveva <START:artista> picasso <END>
-Quanti anni aveva <START:artista> giotto <END>
-Quanti anni aveva <START:artista> michelangelo <END>
-Quanti anni aveva <START:artista> leonardo da vinci <END>
-Quanti anni aveva <START:artista> vincent van gogh <END>
-Quanti anni aveva <START:artista> caravaggio <END>
-Quanti anni aveva <START:artista> cimabue <END>
-Quanti anni aveva <START:artista> salvador dalì <END>
-Quanti anni aveva <START:artista> sandro botticelli <END>
-Quanti anni aveva <START:artista> leonardo <END>
-Quanti anni aveva <START:artista> donatello <END>
-Quanti anni aveva <START:artista> raffello <END>
-Quanti anni aveva <START:artista> goustave corbet <END>
-Quanti anni aveva <START:artista> perugino <END>
-Quanti anni aveva <START:artista> giorgio de chirico <END>
-Quanti anni aveva <START:artista> william turne <END>
-Quanti anni aveva <START:artista> paul cèzanne <END>
-Quanti anni aveva <START:artista> andy warhol <END>
-Quanto è alto <START:artista> picasso <END>
-Quanto è alto <START:artista> giotto <END>
-Quanto è alto <START:artista> michelangelo <END>
-Quanto è alto <START:artista> leonardo da vinci <END>
-Quanto è alto <START:artista> vincent van gogh <END>
-Quanto è alto <START:artista> caravaggio <END>
-Quanto è alto <START:artista> cimabue <END>
-Quanto è alto <START:artista> salvador dalì <END>
-Quanto è alto <START:artista> sandro botticelli <END>
-Quanto è alto <START:artista> leonardo <END>
-Quanto è alto <START:artista> donatello <END>
-Quanto è alto <START:artista> raffello <END>
-Quanto è alto <START:artista> goustave corbet <END>
-Quanto è alto <START:artista> perugino <END>
-Quanto è alto <START:artista> giorgio de chirico <END>
-Quanto è alto <START:artista> william turne <END>
-Quanto è alto <START:artista> paul cèzanne <END>
-Quanto è alto <START:artista> andy warhol <END>
-Quanto era alto <START:artista> picasso <END>
-Quanto era alto <START:artista> giotto <END>
-Quanto era alto <START:artista> michelangelo <END>
-Quanto era alto <START:artista> leonardo da vinci <END>
-Quanto era alto <START:artista> vincent van gogh <END>
-Quanto era alto <START:artista> caravaggio <END>
-Quanto era alto <START:artista> cimabue <END>
-Quanto era alto <START:artista> salvador dalì <END>
-Quanto era alto <START:artista> sandro botticelli <END>
-Quanto era alto <START:artista> leonardo <END>
-Quanto era alto <START:artista> donatello <END>
-Quanto era alto <START:artista> raffello <END>
-Quanto era alto <START:artista> goustave corbet <END>
-Quanto era alto <START:artista> perugino <END>
-Quanto era alto <START:artista> giorgio de chirico <END>
-Quanto era alto <START:artista> william turne <END>
-Quanto era alto <START:artista> paul cèzanne <END>
-Quanto era alto <START:artista> andy warhol <END>
-Quanto pesa <START:artista> picasso <END>
-Quanto pesa <START:artista> giotto <END>
-Quanto pesa <START:artista> michelangelo <END>
-Quanto pesa <START:artista> leonardo da vinci <END>
-Quanto pesa <START:artista> vincent van gogh <END>
-Quanto pesa <START:artista> caravaggio <END>
-Quanto pesa <START:artista> cimabue <END>
-Quanto pesa <START:artista> salvador dalì <END>
-Quanto pesa <START:artista> sandro botticelli <END>
-Quanto pesa <START:artista> leonardo <END>
-Quanto pesa <START:artista> donatello <END>
-Quanto pesa <START:artista> raffello <END>
-Quanto pesa <START:artista> goustave corbet <END>
-Quanto pesa <START:artista> perugino <END>
-Quanto pesa <START:artista> giorgio de chirico <END>
-Quanto pesa <START:artista> william turne <END>
-Quanto pesa <START:artista> paul cèzanne <END>
-Quanto pesa <START:artista> andy warhol <END>
-In quale periodo è vissuto <START:artista> picasso <END>
-In quale periodo è vissuto <START:artista> giotto <END>
-In quale periodo è vissuto <START:artista> michelangelo <END>
-In quale periodo è vissuto <START:artista> leonardo da vinci <END>
-In quale periodo è vissuto <START:artista> vincent van gogh <END>
-In quale periodo è vissuto <START:artista> caravaggio <END>
-In quale periodo è vissuto <START:artista> cimabue <END>
-In quale periodo è vissuto <START:artista> salvador dalì <END>
-In quale periodo è vissuto <START:artista> sandro botticelli <END>
-In quale periodo è vissuto <START:artista> leonardo <END>
-In quale periodo è vissuto <START:artista> donatello <END>
-In quale periodo è vissuto <START:artista> raffello <END>
-In quale periodo è vissuto <START:artista> goustave corbet <END>
-In quale periodo è vissuto <START:artista> perugino <END>
-In quale periodo è vissuto <START:artista> giorgio de chirico <END>
-In quale periodo è vissuto <START:artista> william turne <END>
-In quale periodo è vissuto <START:artista> paul cèzanne <END>
-In quale periodo è vissuto <START:artista> andy warhol <END>
-Ci sono autoritratti di <START:artista> picasso <END>
-Ci sono autoritratti di <START:artista> giotto <END>
-Ci sono autoritratti di <START:artista> michelangelo <END>
-Ci sono autoritratti di <START:artista> leonardo da vinci <END>
-Ci sono autoritratti di <START:artista> vincent van gogh <END>
-Ci sono autoritratti di <START:artista> caravaggio <END>
-Ci sono autoritratti di <START:artista> cimabue <END>
-Ci sono autoritratti di <START:artista> salvador dalì <END>
-Ci sono autoritratti di <START:artista> sandro botticelli <END>
-Ci sono autoritratti di <START:artista> leonardo <END>
-Ci sono autoritratti di <START:artista> donatello <END>
-Ci sono autoritratti di <START:artista> raffello <END>
-Ci sono autoritratti di <START:artista> goustave corbet <END>
-Ci sono autoritratti di <START:artista> perugino <END>
-Ci sono autoritratti di <START:artista> giorgio de chirico <END>
-Ci sono autoritratti di <START:artista> william turne <END>
-Ci sono autoritratti di <START:artista> paul cèzanne <END>
-Ci sono autoritratti di <START:artista> andy warhol <END>
-Qual è la tecnica scultorea di <START:artista> picasso <END>
-Qual è la tecnica scultorea di <START:artista> giotto <END>
-Qual è la tecnica scultorea di <START:artista> michelangelo <END>
-Qual è la tecnica scultorea di <START:artista> leonardo da vinci <END>
-Qual è la tecnica scultorea di <START:artista> vincent van gogh <END>
-Qual è la tecnica scultorea di <START:artista> caravaggio <END>
-Qual è la tecnica scultorea di <START:artista> cimabue <END>
-Qual è la tecnica scultorea di <START:artista> salvador dalì <END>
-Qual è la tecnica scultorea di <START:artista> sandro botticelli <END>
-Qual è la tecnica scultorea di <START:artista> leonardo <END>
-Qual è la tecnica scultorea di <START:artista> donatello <END>
-Qual è la tecnica scultorea di <START:artista> raffello <END>
-Qual è la tecnica scultorea di <START:artista> goustave corbet <END>
-Qual è la tecnica scultorea di <START:artista> perugino <END>
-Qual è la tecnica scultorea di <START:artista> giorgio de chirico <END>
-Qual è la tecnica scultorea di <START:artista> william turne <END>
-Qual è la tecnica scultorea di <START:artista> paul cèzanne <END>
-Qual è la tecnica scultorea di <START:artista> andy warhol <END>
-A quale corrente artistica appartiene <START:artista> picasso <END>
-A quale corrente artistica appartiene <START:artista> giotto <END>
-A quale corrente artistica appartiene <START:artista> michelangelo <END>
-A quale corrente artistica appartiene <START:artista> leonardo da vinci <END>
-A quale corrente artistica appartiene <START:artista> vincent van gogh <END>
-A quale corrente artistica appartiene <START:artista> caravaggio <END>
-A quale corrente artistica appartiene <START:artista> cimabue <END>
-A quale corrente artistica appartiene <START:artista> salvador dalì <END>
-A quale corrente artistica appartiene <START:artista> sandro botticelli <END>
-A quale corrente artistica appartiene <START:artista> leonardo <END>
-A quale corrente artistica appartiene <START:artista> donatello <END>
-A quale corrente artistica appartiene <START:artista> raffello <END>
-A quale corrente artistica appartiene <START:artista> goustave corbet <END>
-A quale corrente artistica appartiene <START:artista> perugino <END>
-A quale corrente artistica appartiene <START:artista> giorgio de chirico <END>
-A quale corrente artistica appartiene <START:artista> william turne <END>
-A quale corrente artistica appartiene <START:artista> paul cèzanne <END>
-A quale corrente artistica appartiene <START:artista> andy warhol <END>
-Di chi era figlio <START:artista> picasso <END>
-Di chi era figlio <START:artista> giotto <END>
-Di chi era figlio <START:artista> michelangelo <END>
-Di chi era figlio <START:artista> leonardo da vinci <END>
-Di chi era figlio <START:artista> vincent van gogh <END>
-Di chi era figlio <START:artista> caravaggio <END>
-Di chi era figlio <START:artista> cimabue <END>
-Di chi era figlio <START:artista> salvador dalì <END>
-Di chi era figlio <START:artista> sandro botticelli <END>
-Di chi era figlio <START:artista> leonardo <END>
-Di chi era figlio <START:artista> donatello <END>
-Di chi era figlio <START:artista> raffello <END>
-Di chi era figlio <START:artista> goustave corbet <END>
-Di chi era figlio <START:artista> perugino <END>
-Di chi era figlio <START:artista> giorgio de chirico <END>
-Di chi era figlio <START:artista> william turne <END>
-Di chi era figlio <START:artista> paul cèzanne <END>
-Di chi era figlio <START:artista> andy warhol <END>
-Come è morto <START:artista> picasso <END>
-Come è morto <START:artista> giotto <END>
-Come è morto <START:artista> michelangelo <END>
-Come è morto <START:artista> leonardo da vinci <END>
-Come è morto <START:artista> vincent van gogh <END>
-Come è morto <START:artista> caravaggio <END>
-Come è morto <START:artista> cimabue <END>
-Come è morto <START:artista> salvador dalì <END>
-Come è morto <START:artista> sandro botticelli <END>
-Come è morto <START:artista> leonardo <END>
-Come è morto <START:artista> donatello <END>
-Come è morto <START:artista> raffello <END>
-Come è morto <START:artista> goustave corbet <END>
-Come è morto <START:artista> perugino <END>
-Come è morto <START:artista> giorgio de chirico <END>
-Come è morto <START:artista> william turne <END>
-Come è morto <START:artista> paul cèzanne <END>
-Come è morto <START:artista> andy warhol <END>
-C'è un quadro di <START:artista> picasso <END> in questo museo
-C'è un quadro di <START:artista> giotto <END> in questo museo
-C'è un quadro di <START:artista> michelangelo <END> in questo museo
-C'è un quadro di <START:artista> leonardo da vinci <END> in questo museo
-C'è un quadro di <START:artista> vincent van gogh <END> in questo museo
-C'è un quadro di <START:artista> caravaggio <END> in questo museo
-C'è un quadro di <START:artista> cimabue <END> in questo museo
-C'è un quadro di <START:artista> salvador dalì <END> in questo museo
-C'è un quadro di <START:artista> sandro botticelli <END> in questo museo
-C'è un quadro di <START:artista> leonardo <END> in questo museo
-C'è un quadro di <START:artista> donatello <END> in questo museo
-C'è un quadro di <START:artista> raffello <END> in questo museo
-C'è un quadro di <START:artista> goustave corbet <END> in questo museo
-C'è un quadro di <START:artista> perugino <END> in questo museo
-C'è un quadro di <START:artista> giorgio de chirico <END> in questo museo
-C'è un quadro di <START:artista> william turne <END> in questo museo
-C'è un quadro di <START:artista> paul cèzanne <END> in questo museo
-C'è un quadro di <START:artista> andy warhol <END> in questo museo
-C'è un'opera di <START:artista> picasso <END> in questo museo
-C'è un'opera di <START:artista> giotto <END> in questo museo
-C'è un'opera di <START:artista> michelangelo <END> in questo museo
-C'è un'opera di <START:artista> leonardo da vinci <END> in questo museo
-C'è un'opera di <START:artista> vincent van gogh <END> in questo museo
-C'è un'opera di <START:artista> caravaggio <END> in questo museo
-C'è un'opera di <START:artista> cimabue <END> in questo museo
-C'è un'opera di <START:artista> salvador dalì <END> in questo museo
-C'è un'opera di <START:artista> sandro botticelli <END> in questo museo
-C'è un'opera di <START:artista> leonardo <END> in questo museo
-C'è un'opera di <START:artista> donatello <END> in questo museo
-C'è un'opera di <START:artista> raffello <END> in questo museo
-C'è un'opera di <START:artista> goustave corbet <END> in questo museo
-C'è un'opera di <START:artista> perugino <END> in questo museo
-C'è un'opera di <START:artista> giorgio de chirico <END> in questo museo
-C'è un'opera di <START:artista> william turne <END> in questo museo
-C'è un'opera di <START:artista> paul cèzanne <END> in questo museo
-C'è un'opera di <START:artista> andy warhol <END> in questo museo
-<START:opera> picasso <END> è un dipinto di <START:artista> picasso <END>
-<START:opera> giotto <END> è un dipinto di <START:artista> giotto <END>
-<START:opera> michelangelo <END> è un dipinto di <START:artista> michelangelo <END>
-<START:opera> leonardo da vinci <END> è un dipinto di <START:artista> leonardo da vinci <END>
-<START:opera> vincent van gogh <END> è un dipinto di <START:artista> vincent van gogh <END>
-<START:opera> caravaggio <END> è un dipinto di <START:artista> caravaggio <END>
-<START:opera> cimabue <END> è un dipinto di <START:artista> cimabue <END>
-<START:opera> salvador dalì <END> è un dipinto di <START:artista> salvador dalì <END>
-<START:opera> sandro botticelli <END> è un dipinto di <START:artista> sandro botticelli <END>
-<START:opera> leonardo <END> è un dipinto di <START:artista> leonardo <END>
-<START:opera> donatello <END> è un dipinto di <START:artista> donatello <END>
-<START:opera> raffello <END> è un dipinto di <START:artista> raffello <END>
-<START:opera> goustave corbet <END> è un dipinto di <START:artista> goustave corbet <END>
-<START:opera> perugino <END> è un dipinto di <START:artista> perugino <END>
-<START:opera> giorgio de chirico <END> è un dipinto di <START:artista> giorgio de chirico <END>
-<START:opera> william turne <END> è un dipinto di <START:artista> william turne <END>
-<START:opera> paul cèzanne <END> è un dipinto di <START:artista> paul cèzanne <END>
-<START:opera> andy warhol <END> è un dipinto di <START:artista> andy warhol <END>
+Chi è <START:artist> picasso <END>
+Chi è <START:artist> giotto <END>
+Chi è <START:artist> michelangelo <END>
+Chi è <START:artist> leonardo da vinci <END>
+Chi è <START:artist> vincent van gogh <END>
+Chi è <START:artist> caravaggio <END>
+Chi è <START:artist> cimabue <END>
+Chi è <START:artist> salvador dalì <END>
+Chi è <START:artist> sandro botticelli <END>
+Chi è <START:artist> leonardo <END>
+Chi è <START:artist> donatello <END>
+Chi è <START:artist> raffello <END>
+Chi è <START:artist> goustave corbet <END>
+Chi è <START:artist> perugino <END>
+Chi è <START:artist> giorgio de chirico <END>
+Chi è <START:artist> william turne <END>
+Chi è <START:artist> paul cèzanne <END>
+Chi è <START:artist> andy warhol <END>
+Chi ha commissionato <START:opera> guernica <END>
+Chi ha commissionato <START:opera> colosseo <END>
+Chi ha commissionato <START:opera> madonna della pietà <END>
+Chi ha commissionato <START:opera> gioconda <END>
+Chi ha commissionato <START:opera> la natura morta <END>
+Chi ha commissionato <START:opera> anfiteatro flavio <END>
+Chi ha commissionato <START:opera> venere di botticelli <END>
+Chi ha commissionato <START:opera> cappella sistina <END>
+Chi ha commissionato <START:opera> madonna della pietà <END>
+Chi ha commissionato <START:opera> bronzi di riace <END>
+Chi ha commissionato <START:opera> torre di pisa <END>
+Chi ha commissionato <START:opera> tourre eiffel <END>
+Chi ha commissionato <START:opera> codex purpureo <END>
+Chi ha commissionato <START:opera> trulli <END>
+Chi ha commissionato <START:opera> ultima cena <END>
+Chi ha commissionato <START:opera> nascita di venere <END>
+Chi ha commissionato <START:opera> l'urlo <END>
+Chi ha commissionato <START:opera> la persistenza della memoria <END>
+Chi ha scolpito <START:opera> guernica <END>
+Chi ha scolpito <START:opera> colosseo <END>
+Chi ha scolpito <START:opera> madonna della pietà <END>
+Chi ha scolpito <START:opera> gioconda <END>
+Chi ha scolpito <START:opera> la natura morta <END>
+Chi ha scolpito <START:opera> anfiteatro flavio <END>
+Chi ha scolpito <START:opera> venere di botticelli <END>
+Chi ha scolpito <START:opera> cappella sistina <END>
+Chi ha scolpito <START:opera> madonna della pietà <END>
+Chi ha scolpito <START:opera> bronzi di riace <END>
+Chi ha scolpito <START:opera> torre di pisa <END>
+Chi ha scolpito <START:opera> tourre eiffel <END>
+Chi ha scolpito <START:opera> codex purpureo <END>
+Chi ha scolpito <START:opera> trulli <END>
+Chi ha scolpito <START:opera> ultima cena <END>
+Chi ha scolpito <START:opera> nascita di venere <END>
+Chi ha scolpito <START:opera> l'urlo <END>
+Chi ha scolpito <START:opera> la persistenza della memoria <END>
+Chi ha costruito <START:opera> guernica <END>
+Chi ha costruito <START:opera> colosseo <END>
+Chi ha costruito <START:opera> madonna della pietà <END>
+Chi ha costruito <START:opera> gioconda <END>
+Chi ha costruito <START:opera> la natura morta <END>
+Chi ha costruito <START:opera> anfiteatro flavio <END>
+Chi ha costruito <START:opera> venere di botticelli <END>
+Chi ha costruito <START:opera> cappella sistina <END>
+Chi ha costruito <START:opera> madonna della pietà <END>
+Chi ha costruito <START:opera> bronzi di riace <END>
+Chi ha costruito <START:opera> torre di pisa <END>
+Chi ha costruito <START:opera> tourre eiffel <END>
+Chi ha costruito <START:opera> codex purpureo <END>
+Chi ha costruito <START:opera> trulli <END>
+Chi ha costruito <START:opera> ultima cena <END>
+Chi ha costruito <START:opera> nascita di venere <END>
+Chi ha costruito <START:opera> l'urlo <END>
+Chi ha costruito <START:opera> la persistenza della memoria <END>
+Chi ha restaurato <START:opera> guernica <END>
+Chi ha restaurato <START:opera> colosseo <END>
+Chi ha restaurato <START:opera> madonna della pietà <END>
+Chi ha restaurato <START:opera> gioconda <END>
+Chi ha restaurato <START:opera> la natura morta <END>
+Chi ha restaurato <START:opera> anfiteatro flavio <END>
+Chi ha restaurato <START:opera> venere di botticelli <END>
+Chi ha restaurato <START:opera> cappella sistina <END>
+Chi ha restaurato <START:opera> madonna della pietà <END>
+Chi ha restaurato <START:opera> bronzi di riace <END>
+Chi ha restaurato <START:opera> torre di pisa <END>
+Chi ha restaurato <START:opera> tourre eiffel <END>
+Chi ha restaurato <START:opera> codex purpureo <END>
+Chi ha restaurato <START:opera> trulli <END>
+Chi ha restaurato <START:opera> ultima cena <END>
+Chi ha restaurato <START:opera> nascita di venere <END>
+Chi ha restaurato <START:opera> l'urlo <END>
+Chi ha restaurato <START:opera> la persistenza della memoria <END>
+Chi ha dipinto <START:opera> guernica <END>
+Chi ha dipinto <START:opera> colosseo <END>
+Chi ha dipinto <START:opera> madonna della pietà <END>
+Chi ha dipinto <START:opera> gioconda <END>
+Chi ha dipinto <START:opera> la natura morta <END>
+Chi ha dipinto <START:opera> anfiteatro flavio <END>
+Chi ha dipinto <START:opera> venere di botticelli <END>
+Chi ha dipinto <START:opera> cappella sistina <END>
+Chi ha dipinto <START:opera> madonna della pietà <END>
+Chi ha dipinto <START:opera> bronzi di riace <END>
+Chi ha dipinto <START:opera> torre di pisa <END>
+Chi ha dipinto <START:opera> tourre eiffel <END>
+Chi ha dipinto <START:opera> codex purpureo <END>
+Chi ha dipinto <START:opera> trulli <END>
+Chi ha dipinto <START:opera> ultima cena <END>
+Chi ha dipinto <START:opera> nascita di venere <END>
+Chi ha dipinto <START:opera> l'urlo <END>
+Chi ha dipinto <START:opera> la persistenza della memoria <END>
+Chi ha finanziato il restauro <START:opera> guernica <END>
+Chi ha finanziato il restauro <START:opera> colosseo <END>
+Chi ha finanziato il restauro <START:opera> madonna della pietà <END>
+Chi ha finanziato il restauro <START:opera> gioconda <END>
+Chi ha finanziato il restauro <START:opera> la natura morta <END>
+Chi ha finanziato il restauro <START:opera> anfiteatro flavio <END>
+Chi ha finanziato il restauro <START:opera> venere di botticelli <END>
+Chi ha finanziato il restauro <START:opera> cappella sistina <END>
+Chi ha finanziato il restauro <START:opera> madonna della pietà <END>
+Chi ha finanziato il restauro <START:opera> bronzi di riace <END>
+Chi ha finanziato il restauro <START:opera> torre di pisa <END>
+Chi ha finanziato il restauro <START:opera> tourre eiffel <END>
+Chi ha finanziato il restauro <START:opera> codex purpureo <END>
+Chi ha finanziato il restauro <START:opera> trulli <END>
+Chi ha finanziato il restauro <START:opera> ultima cena <END>
+Chi ha finanziato il restauro <START:opera> nascita di venere <END>
+Chi ha finanziato il restauro <START:opera> l'urlo <END>
+Chi ha finanziato il restauro <START:opera> la persistenza della memoria <END>
+Chi è il proprietario <START:opera> guernica <END>
+Chi è il proprietario <START:opera> colosseo <END>
+Chi è il proprietario <START:opera> madonna della pietà <END>
+Chi è il proprietario <START:opera> gioconda <END>
+Chi è il proprietario <START:opera> la natura morta <END>
+Chi è il proprietario <START:opera> anfiteatro flavio <END>
+Chi è il proprietario <START:opera> venere di botticelli <END>
+Chi è il proprietario <START:opera> cappella sistina <END>
+Chi è il proprietario <START:opera> madonna della pietà <END>
+Chi è il proprietario <START:opera> bronzi di riace <END>
+Chi è il proprietario <START:opera> torre di pisa <END>
+Chi è il proprietario <START:opera> tourre eiffel <END>
+Chi è il proprietario <START:opera> codex purpureo <END>
+Chi è il proprietario <START:opera> trulli <END>
+Chi è il proprietario <START:opera> ultima cena <END>
+Chi è il proprietario <START:opera> nascita di venere <END>
+Chi è il proprietario <START:opera> l'urlo <END>
+Chi è il proprietario <START:opera> la persistenza della memoria <END>
+Chi è l'autore <START:opera> guernica <END>
+Chi è l'autore <START:opera> colosseo <END>
+Chi è l'autore <START:opera> madonna della pietà <END>
+Chi è l'autore <START:opera> gioconda <END>
+Chi è l'autore <START:opera> la natura morta <END>
+Chi è l'autore <START:opera> anfiteatro flavio <END>
+Chi è l'autore <START:opera> venere di botticelli <END>
+Chi è l'autore <START:opera> cappella sistina <END>
+Chi è l'autore <START:opera> madonna della pietà <END>
+Chi è l'autore <START:opera> bronzi di riace <END>
+Chi è l'autore <START:opera> torre di pisa <END>
+Chi è l'autore <START:opera> tourre eiffel <END>
+Chi è l'autore <START:opera> codex purpureo <END>
+Chi è l'autore <START:opera> trulli <END>
+Chi è l'autore <START:opera> ultima cena <END>
+Chi è l'autore <START:opera> nascita di venere <END>
+Chi è l'autore <START:opera> l'urlo <END>
+Chi è l'autore <START:opera> la persistenza della memoria <END>
+Chi ha danneggiato <START:opera> guernica <END>
+Chi ha danneggiato <START:opera> colosseo <END>
+Chi ha danneggiato <START:opera> madonna della pietà <END>
+Chi ha danneggiato <START:opera> gioconda <END>
+Chi ha danneggiato <START:opera> la natura morta <END>
+Chi ha danneggiato <START:opera> anfiteatro flavio <END>
+Chi ha danneggiato <START:opera> venere di botticelli <END>
+Chi ha danneggiato <START:opera> cappella sistina <END>
+Chi ha danneggiato <START:opera> madonna della pietà <END>
+Chi ha danneggiato <START:opera> bronzi di riace <END>
+Chi ha danneggiato <START:opera> torre di pisa <END>
+Chi ha danneggiato <START:opera> tourre eiffel <END>
+Chi ha danneggiato <START:opera> codex purpureo <END>
+Chi ha danneggiato <START:opera> trulli <END>
+Chi ha danneggiato <START:opera> ultima cena <END>
+Chi ha danneggiato <START:opera> nascita di venere <END>
+Chi ha danneggiato <START:opera> l'urlo <END>
+Chi ha danneggiato <START:opera> la persistenza della memoria <END>
+Chi ha collaborato alla costruzione <START:opera> guernica <END>
+Chi ha collaborato alla costruzione <START:opera> colosseo <END>
+Chi ha collaborato alla costruzione <START:opera> madonna della pietà <END>
+Chi ha collaborato alla costruzione <START:opera> gioconda <END>
+Chi ha collaborato alla costruzione <START:opera> la natura morta <END>
+Chi ha collaborato alla costruzione <START:opera> anfiteatro flavio <END>
+Chi ha collaborato alla costruzione <START:opera> venere di botticelli <END>
+Chi ha collaborato alla costruzione <START:opera> cappella sistina <END>
+Chi ha collaborato alla costruzione <START:opera> madonna della pietà <END>
+Chi ha collaborato alla costruzione <START:opera> bronzi di riace <END>
+Chi ha collaborato alla costruzione <START:opera> torre di pisa <END>
+Chi ha collaborato alla costruzione <START:opera> tourre eiffel <END>
+Chi ha collaborato alla costruzione <START:opera> codex purpureo <END>
+Chi ha collaborato alla costruzione <START:opera> trulli <END>
+Chi ha collaborato alla costruzione <START:opera> ultima cena <END>
+Chi ha collaborato alla costruzione <START:opera> nascita di venere <END>
+Chi ha collaborato alla costruzione <START:opera> l'urlo <END>
+Chi ha collaborato alla costruzione <START:opera> la persistenza della memoria <END>
+Chi è raffigurato <START:opera> guernica <END>
+Chi è raffigurato <START:opera> colosseo <END>
+Chi è raffigurato <START:opera> madonna della pietà <END>
+Chi è raffigurato <START:opera> gioconda <END>
+Chi è raffigurato <START:opera> la natura morta <END>
+Chi è raffigurato <START:opera> anfiteatro flavio <END>
+Chi è raffigurato <START:opera> venere di botticelli <END>
+Chi è raffigurato <START:opera> cappella sistina <END>
+Chi è raffigurato <START:opera> madonna della pietà <END>
+Chi è raffigurato <START:opera> bronzi di riace <END>
+Chi è raffigurato <START:opera> torre di pisa <END>
+Chi è raffigurato <START:opera> tourre eiffel <END>
+Chi è raffigurato <START:opera> codex purpureo <END>
+Chi è raffigurato <START:opera> trulli <END>
+Chi è raffigurato <START:opera> ultima cena <END>
+Chi è raffigurato <START:opera> nascita di venere <END>
+Chi è raffigurato <START:opera> l'urlo <END>
+Chi è raffigurato <START:opera> la persistenza della memoria <END>
+Che cos'è <START:opera> guernica <END>
+Che cos'è <START:opera> colosseo <END>
+Che cos'è <START:opera> madonna della pietà <END>
+Che cos'è <START:opera> gioconda <END>
+Che cos'è <START:opera> la natura morta <END>
+Che cos'è <START:opera> anfiteatro flavio <END>
+Che cos'è <START:opera> venere di botticelli <END>
+Che cos'è <START:opera> cappella sistina <END>
+Che cos'è <START:opera> madonna della pietà <END>
+Che cos'è <START:opera> bronzi di riace <END>
+Che cos'è <START:opera> torre di pisa <END>
+Che cos'è <START:opera> tourre eiffel <END>
+Che cos'è <START:opera> codex purpureo <END>
+Che cos'è <START:opera> trulli <END>
+Che cos'è <START:opera> ultima cena <END>
+Che cos'è <START:opera> nascita di venere <END>
+Che cos'è <START:opera> l'urlo <END>
+Che cos'è <START:opera> la persistenza della memoria <END>
+Che cosa è <START:opera> guernica <END>
+Che cosa è <START:opera> colosseo <END>
+Che cosa è <START:opera> madonna della pietà <END>
+Che cosa è <START:opera> gioconda <END>
+Che cosa è <START:opera> la natura morta <END>
+Che cosa è <START:opera> anfiteatro flavio <END>
+Che cosa è <START:opera> venere di botticelli <END>
+Che cosa è <START:opera> cappella sistina <END>
+Che cosa è <START:opera> madonna della pietà <END>
+Che cosa è <START:opera> bronzi di riace <END>
+Che cosa è <START:opera> torre di pisa <END>
+Che cosa è <START:opera> tourre eiffel <END>
+Che cosa è <START:opera> codex purpureo <END>
+Che cosa è <START:opera> trulli <END>
+Che cosa è <START:opera> ultima cena <END>
+Che cosa è <START:opera> nascita di venere <END>
+Che cosa è <START:opera> l'urlo <END>
+Che cosa è <START:opera> la persistenza della memoria <END>
+Quale materiale è stato usato per costruire <START:opera> guernica <END>
+Quale materiale è stato usato per costruire <START:opera> colosseo <END>
+Quale materiale è stato usato per costruire <START:opera> madonna della pietà <END>
+Quale materiale è stato usato per costruire <START:opera> gioconda <END>
+Quale materiale è stato usato per costruire <START:opera> la natura morta <END>
+Quale materiale è stato usato per costruire <START:opera> anfiteatro flavio <END>
+Quale materiale è stato usato per costruire <START:opera> venere di botticelli <END>
+Quale materiale è stato usato per costruire <START:opera> cappella sistina <END>
+Quale materiale è stato usato per costruire <START:opera> madonna della pietà <END>
+Quale materiale è stato usato per costruire <START:opera> bronzi di riace <END>
+Quale materiale è stato usato per costruire <START:opera> torre di pisa <END>
+Quale materiale è stato usato per costruire <START:opera> tourre eiffel <END>
+Quale materiale è stato usato per costruire <START:opera> codex purpureo <END>
+Quale materiale è stato usato per costruire <START:opera> trulli <END>
+Quale materiale è stato usato per costruire <START:opera> ultima cena <END>
+Quale materiale è stato usato per costruire <START:opera> nascita di venere <END>
+Quale materiale è stato usato per costruire <START:opera> l'urlo <END>
+Quale materiale è stato usato per costruire <START:opera> la persistenza della memoria <END>
+Quale materiale è stato usato per scolpire <START:opera> guernica <END>
+Quale materiale è stato usato per scolpire <START:opera> colosseo <END>
+Quale materiale è stato usato per scolpire <START:opera> madonna della pietà <END>
+Quale materiale è stato usato per scolpire <START:opera> gioconda <END>
+Quale materiale è stato usato per scolpire <START:opera> la natura morta <END>
+Quale materiale è stato usato per scolpire <START:opera> anfiteatro flavio <END>
+Quale materiale è stato usato per scolpire <START:opera> venere di botticelli <END>
+Quale materiale è stato usato per scolpire <START:opera> cappella sistina <END>
+Quale materiale è stato usato per scolpire <START:opera> madonna della pietà <END>
+Quale materiale è stato usato per scolpire <START:opera> bronzi di riace <END>
+Quale materiale è stato usato per scolpire <START:opera> torre di pisa <END>
+Quale materiale è stato usato per scolpire <START:opera> tourre eiffel <END>
+Quale materiale è stato usato per scolpire <START:opera> codex purpureo <END>
+Quale materiale è stato usato per scolpire <START:opera> trulli <END>
+Quale materiale è stato usato per scolpire <START:opera> ultima cena <END>
+Quale materiale è stato usato per scolpire <START:opera> nascita di venere <END>
+Quale materiale è stato usato per scolpire <START:opera> l'urlo <END>
+Quale materiale è stato usato per scolpire <START:opera> la persistenza della memoria <END>
+Quale tecnica pittorica è stata usata per dipingere <START:opera> guernica <END>
+Quale tecnica pittorica è stata usata per dipingere <START:opera> colosseo <END>
+Quale tecnica pittorica è stata usata per dipingere <START:opera> madonna della pietà <END>
+Quale tecnica pittorica è stata usata per dipingere <START:opera> gioconda <END>
+Quale tecnica pittorica è stata usata per dipingere <START:opera> la natura morta <END>
+Quale tecnica pittorica è stata usata per dipingere <START:opera> anfiteatro flavio <END>
+Quale tecnica pittorica è stata usata per dipingere <START:opera> venere di botticelli <END>
+Quale tecnica pittorica è stata usata per dipingere <START:opera> cappella sistina <END>
+Quale tecnica pittorica è stata usata per dipingere <START:opera> madonna della pietà <END>
+Quale tecnica pittorica è stata usata per dipingere <START:opera> bronzi di riace <END>
+Quale tecnica pittorica è stata usata per dipingere <START:opera> torre di pisa <END>
+Quale tecnica pittorica è stata usata per dipingere <START:opera> tourre eiffel <END>
+Quale tecnica pittorica è stata usata per dipingere <START:opera> codex purpureo <END>
+Quale tecnica pittorica è stata usata per dipingere <START:opera> trulli <END>
+Quale tecnica pittorica è stata usata per dipingere <START:opera> ultima cena <END>
+Quale tecnica pittorica è stata usata per dipingere <START:opera> nascita di venere <END>
+Quale tecnica pittorica è stata usata per dipingere <START:opera> l'urlo <END>
+Quale tecnica pittorica è stata usata per dipingere <START:opera> la persistenza della memoria <END>
+Cosa rappresenta <START:opera> guernica <END>
+Cosa rappresenta <START:opera> colosseo <END>
+Cosa rappresenta <START:opera> madonna della pietà <END>
+Cosa rappresenta <START:opera> gioconda <END>
+Cosa rappresenta <START:opera> la natura morta <END>
+Cosa rappresenta <START:opera> anfiteatro flavio <END>
+Cosa rappresenta <START:opera> venere di botticelli <END>
+Cosa rappresenta <START:opera> cappella sistina <END>
+Cosa rappresenta <START:opera> madonna della pietà <END>
+Cosa rappresenta <START:opera> bronzi di riace <END>
+Cosa rappresenta <START:opera> torre di pisa <END>
+Cosa rappresenta <START:opera> tourre eiffel <END>
+Cosa rappresenta <START:opera> codex purpureo <END>
+Cosa rappresenta <START:opera> trulli <END>
+Cosa rappresenta <START:opera> ultima cena <END>
+Cosa rappresenta <START:opera> nascita di venere <END>
+Cosa rappresenta <START:opera> l'urlo <END>
+Cosa rappresenta <START:opera> la persistenza della memoria <END>
+Qual è lo stile <START:opera> guernica <END>
+Qual è lo stile <START:opera> colosseo <END>
+Qual è lo stile <START:opera> madonna della pietà <END>
+Qual è lo stile <START:opera> gioconda <END>
+Qual è lo stile <START:opera> la natura morta <END>
+Qual è lo stile <START:opera> anfiteatro flavio <END>
+Qual è lo stile <START:opera> venere di botticelli <END>
+Qual è lo stile <START:opera> cappella sistina <END>
+Qual è lo stile <START:opera> madonna della pietà <END>
+Qual è lo stile <START:opera> bronzi di riace <END>
+Qual è lo stile <START:opera> torre di pisa <END>
+Qual è lo stile <START:opera> tourre eiffel <END>
+Qual è lo stile <START:opera> codex purpureo <END>
+Qual è lo stile <START:opera> trulli <END>
+Qual è lo stile <START:opera> ultima cena <END>
+Qual è lo stile <START:opera> nascita di venere <END>
+Qual è lo stile <START:opera> l'urlo <END>
+Qual è lo stile <START:opera> la persistenza della memoria <END>
+Quali sono le dimensioni <START:opera> guernica <END>
+Quali sono le dimensioni <START:opera> colosseo <END>
+Quali sono le dimensioni <START:opera> madonna della pietà <END>
+Quali sono le dimensioni <START:opera> gioconda <END>
+Quali sono le dimensioni <START:opera> la natura morta <END>
+Quali sono le dimensioni <START:opera> anfiteatro flavio <END>
+Quali sono le dimensioni <START:opera> venere di botticelli <END>
+Quali sono le dimensioni <START:opera> cappella sistina <END>
+Quali sono le dimensioni <START:opera> madonna della pietà <END>
+Quali sono le dimensioni <START:opera> bronzi di riace <END>
+Quali sono le dimensioni <START:opera> torre di pisa <END>
+Quali sono le dimensioni <START:opera> tourre eiffel <END>
+Quali sono le dimensioni <START:opera> codex purpureo <END>
+Quali sono le dimensioni <START:opera> trulli <END>
+Quali sono le dimensioni <START:opera> ultima cena <END>
+Quali sono le dimensioni <START:opera> nascita di venere <END>
+Quali sono le dimensioni <START:opera> l'urlo <END>
+Quali sono le dimensioni <START:opera> la persistenza della memoria <END>
+Cosa significa <START:opera> guernica <END>
+Cosa significa <START:opera> colosseo <END>
+Cosa significa <START:opera> madonna della pietà <END>
+Cosa significa <START:opera> gioconda <END>
+Cosa significa <START:opera> la natura morta <END>
+Cosa significa <START:opera> anfiteatro flavio <END>
+Cosa significa <START:opera> venere di botticelli <END>
+Cosa significa <START:opera> cappella sistina <END>
+Cosa significa <START:opera> madonna della pietà <END>
+Cosa significa <START:opera> bronzi di riace <END>
+Cosa significa <START:opera> torre di pisa <END>
+Cosa significa <START:opera> tourre eiffel <END>
+Cosa significa <START:opera> codex purpureo <END>
+Cosa significa <START:opera> trulli <END>
+Cosa significa <START:opera> ultima cena <END>
+Cosa significa <START:opera> nascita di venere <END>
+Cosa significa <START:opera> l'urlo <END>
+Cosa significa <START:opera> la persistenza della memoria <END>
+Dove è stato dipinto <START:opera> guernica <END>
+Dove è stato dipinto <START:opera> colosseo <END>
+Dove è stato dipinto <START:opera> madonna della pietà <END>
+Dove è stato dipinto <START:opera> gioconda <END>
+Dove è stato dipinto <START:opera> la natura morta <END>
+Dove è stato dipinto <START:opera> anfiteatro flavio <END>
+Dove è stato dipinto <START:opera> venere di botticelli <END>
+Dove è stato dipinto <START:opera> cappella sistina <END>
+Dove è stato dipinto <START:opera> madonna della pietà <END>
+Dove è stato dipinto <START:opera> bronzi di riace <END>
+Dove è stato dipinto <START:opera> torre di pisa <END>
+Dove è stato dipinto <START:opera> tourre eiffel <END>
+Dove è stato dipinto <START:opera> codex purpureo <END>
+Dove è stato dipinto <START:opera> trulli <END>
+Dove è stato dipinto <START:opera> ultima cena <END>
+Dove è stato dipinto <START:opera> nascita di venere <END>
+Dove è stato dipinto <START:opera> l'urlo <END>
+Dove è stato dipinto <START:opera> la persistenza della memoria <END>
+Dove è custodito <START:opera> guernica <END>
+Dove è custodito <START:opera> colosseo <END>
+Dove è custodito <START:opera> madonna della pietà <END>
+Dove è custodito <START:opera> gioconda <END>
+Dove è custodito <START:opera> la natura morta <END>
+Dove è custodito <START:opera> anfiteatro flavio <END>
+Dove è custodito <START:opera> venere di botticelli <END>
+Dove è custodito <START:opera> cappella sistina <END>
+Dove è custodito <START:opera> madonna della pietà <END>
+Dove è custodito <START:opera> bronzi di riace <END>
+Dove è custodito <START:opera> torre di pisa <END>
+Dove è custodito <START:opera> tourre eiffel <END>
+Dove è custodito <START:opera> codex purpureo <END>
+Dove è custodito <START:opera> trulli <END>
+Dove è custodito <START:opera> ultima cena <END>
+Dove è custodito <START:opera> nascita di venere <END>
+Dove è custodito <START:opera> l'urlo <END>
+Dove è custodito <START:opera> la persistenza della memoria <END>
+Dove era esposta <START:opera> guernica <END>
+Dove era esposta <START:opera> colosseo <END>
+Dove era esposta <START:opera> madonna della pietà <END>
+Dove era esposta <START:opera> gioconda <END>
+Dove era esposta <START:opera> la natura morta <END>
+Dove era esposta <START:opera> anfiteatro flavio <END>
+Dove era esposta <START:opera> venere di botticelli <END>
+Dove era esposta <START:opera> cappella sistina <END>
+Dove era esposta <START:opera> madonna della pietà <END>
+Dove era esposta <START:opera> bronzi di riace <END>
+Dove era esposta <START:opera> torre di pisa <END>
+Dove era esposta <START:opera> tourre eiffel <END>
+Dove era esposta <START:opera> codex purpureo <END>
+Dove era esposta <START:opera> trulli <END>
+Dove era esposta <START:opera> ultima cena <END>
+Dove era esposta <START:opera> nascita di venere <END>
+Dove era esposta <START:opera> l'urlo <END>
+Dove era esposta <START:opera> la persistenza della memoria <END>
+Dove sono stati trovati <START:opera> guernica <END>
+Dove sono stati trovati <START:opera> colosseo <END>
+Dove sono stati trovati <START:opera> madonna della pietà <END>
+Dove sono stati trovati <START:opera> gioconda <END>
+Dove sono stati trovati <START:opera> la natura morta <END>
+Dove sono stati trovati <START:opera> anfiteatro flavio <END>
+Dove sono stati trovati <START:opera> venere di botticelli <END>
+Dove sono stati trovati <START:opera> cappella sistina <END>
+Dove sono stati trovati <START:opera> madonna della pietà <END>
+Dove sono stati trovati <START:opera> bronzi di riace <END>
+Dove sono stati trovati <START:opera> torre di pisa <END>
+Dove sono stati trovati <START:opera> tourre eiffel <END>
+Dove sono stati trovati <START:opera> codex purpureo <END>
+Dove sono stati trovati <START:opera> trulli <END>
+Dove sono stati trovati <START:opera> ultima cena <END>
+Dove sono stati trovati <START:opera> nascita di venere <END>
+Dove sono stati trovati <START:opera> l'urlo <END>
+Dove sono stati trovati <START:opera> la persistenza della memoria <END>
+Quando sono iniziati i lavori di costruzione <START:opera> guernica <END>
+Quando sono iniziati i lavori di costruzione <START:opera> colosseo <END>
+Quando sono iniziati i lavori di costruzione <START:opera> madonna della pietà <END>
+Quando sono iniziati i lavori di costruzione <START:opera> gioconda <END>
+Quando sono iniziati i lavori di costruzione <START:opera> la natura morta <END>
+Quando sono iniziati i lavori di costruzione <START:opera> anfiteatro flavio <END>
+Quando sono iniziati i lavori di costruzione <START:opera> venere di botticelli <END>
+Quando sono iniziati i lavori di costruzione <START:opera> cappella sistina <END>
+Quando sono iniziati i lavori di costruzione <START:opera> madonna della pietà <END>
+Quando sono iniziati i lavori di costruzione <START:opera> bronzi di riace <END>
+Quando sono iniziati i lavori di costruzione <START:opera> torre di pisa <END>
+Quando sono iniziati i lavori di costruzione <START:opera> tourre eiffel <END>
+Quando sono iniziati i lavori di costruzione <START:opera> codex purpureo <END>
+Quando sono iniziati i lavori di costruzione <START:opera> trulli <END>
+Quando sono iniziati i lavori di costruzione <START:opera> ultima cena <END>
+Quando sono iniziati i lavori di costruzione <START:opera> nascita di venere <END>
+Quando sono iniziati i lavori di costruzione <START:opera> l'urlo <END>
+Quando sono iniziati i lavori di costruzione <START:opera> la persistenza della memoria <END>
+Quando sono terminati i lavori di costruzione <START:opera> guernica <END>
+Quando sono terminati i lavori di costruzione <START:opera> colosseo <END>
+Quando sono terminati i lavori di costruzione <START:opera> madonna della pietà <END>
+Quando sono terminati i lavori di costruzione <START:opera> gioconda <END>
+Quando sono terminati i lavori di costruzione <START:opera> la natura morta <END>
+Quando sono terminati i lavori di costruzione <START:opera> anfiteatro flavio <END>
+Quando sono terminati i lavori di costruzione <START:opera> venere di botticelli <END>
+Quando sono terminati i lavori di costruzione <START:opera> cappella sistina <END>
+Quando sono terminati i lavori di costruzione <START:opera> madonna della pietà <END>
+Quando sono terminati i lavori di costruzione <START:opera> bronzi di riace <END>
+Quando sono terminati i lavori di costruzione <START:opera> torre di pisa <END>
+Quando sono terminati i lavori di costruzione <START:opera> tourre eiffel <END>
+Quando sono terminati i lavori di costruzione <START:opera> codex purpureo <END>
+Quando sono terminati i lavori di costruzione <START:opera> trulli <END>
+Quando sono terminati i lavori di costruzione <START:opera> ultima cena <END>
+Quando sono terminati i lavori di costruzione <START:opera> nascita di venere <END>
+Quando sono terminati i lavori di costruzione <START:opera> l'urlo <END>
+Quando sono terminati i lavori di costruzione <START:opera> la persistenza della memoria <END>
+Quando è stata ultimata <START:opera> guernica <END>
+Quando è stata ultimata <START:opera> colosseo <END>
+Quando è stata ultimata <START:opera> madonna della pietà <END>
+Quando è stata ultimata <START:opera> gioconda <END>
+Quando è stata ultimata <START:opera> la natura morta <END>
+Quando è stata ultimata <START:opera> anfiteatro flavio <END>
+Quando è stata ultimata <START:opera> venere di botticelli <END>
+Quando è stata ultimata <START:opera> cappella sistina <END>
+Quando è stata ultimata <START:opera> madonna della pietà <END>
+Quando è stata ultimata <START:opera> bronzi di riace <END>
+Quando è stata ultimata <START:opera> torre di pisa <END>
+Quando è stata ultimata <START:opera> tourre eiffel <END>
+Quando è stata ultimata <START:opera> codex purpureo <END>
+Quando è stata ultimata <START:opera> trulli <END>
+Quando è stata ultimata <START:opera> ultima cena <END>
+Quando è stata ultimata <START:opera> nascita di venere <END>
+Quando è stata ultimata <START:opera> l'urlo <END>
+Quando è stata ultimata <START:opera> la persistenza della memoria <END>
+Quando è stato restaurato <START:opera> guernica <END>
+Quando è stato restaurato <START:opera> colosseo <END>
+Quando è stato restaurato <START:opera> madonna della pietà <END>
+Quando è stato restaurato <START:opera> gioconda <END>
+Quando è stato restaurato <START:opera> la natura morta <END>
+Quando è stato restaurato <START:opera> anfiteatro flavio <END>
+Quando è stato restaurato <START:opera> venere di botticelli <END>
+Quando è stato restaurato <START:opera> cappella sistina <END>
+Quando è stato restaurato <START:opera> madonna della pietà <END>
+Quando è stato restaurato <START:opera> bronzi di riace <END>
+Quando è stato restaurato <START:opera> torre di pisa <END>
+Quando è stato restaurato <START:opera> tourre eiffel <END>
+Quando è stato restaurato <START:opera> codex purpureo <END>
+Quando è stato restaurato <START:opera> trulli <END>
+Quando è stato restaurato <START:opera> ultima cena <END>
+Quando è stato restaurato <START:opera> nascita di venere <END>
+Quando è stato restaurato <START:opera> l'urlo <END>
+Quando è stato restaurato <START:opera> la persistenza della memoria <END>
+Quando è stato distrutto <START:opera> guernica <END>
+Quando è stato distrutto <START:opera> colosseo <END>
+Quando è stato distrutto <START:opera> madonna della pietà <END>
+Quando è stato distrutto <START:opera> gioconda <END>
+Quando è stato distrutto <START:opera> la natura morta <END>
+Quando è stato distrutto <START:opera> anfiteatro flavio <END>
+Quando è stato distrutto <START:opera> venere di botticelli <END>
+Quando è stato distrutto <START:opera> cappella sistina <END>
+Quando è stato distrutto <START:opera> madonna della pietà <END>
+Quando è stato distrutto <START:opera> bronzi di riace <END>
+Quando è stato distrutto <START:opera> torre di pisa <END>
+Quando è stato distrutto <START:opera> tourre eiffel <END>
+Quando è stato distrutto <START:opera> codex purpureo <END>
+Quando è stato distrutto <START:opera> trulli <END>
+Quando è stato distrutto <START:opera> ultima cena <END>
+Quando è stato distrutto <START:opera> nascita di venere <END>
+Quando è stato distrutto <START:opera> l'urlo <END>
+Quando è stato distrutto <START:opera> la persistenza della memoria <END>
+Quando sono stati ritrovati <START:opera> guernica <END>
+Quando sono stati ritrovati <START:opera> colosseo <END>
+Quando sono stati ritrovati <START:opera> madonna della pietà <END>
+Quando sono stati ritrovati <START:opera> gioconda <END>
+Quando sono stati ritrovati <START:opera> la natura morta <END>
+Quando sono stati ritrovati <START:opera> anfiteatro flavio <END>
+Quando sono stati ritrovati <START:opera> venere di botticelli <END>
+Quando sono stati ritrovati <START:opera> cappella sistina <END>
+Quando sono stati ritrovati <START:opera> madonna della pietà <END>
+Quando sono stati ritrovati <START:opera> bronzi di riace <END>
+Quando sono stati ritrovati <START:opera> torre di pisa <END>
+Quando sono stati ritrovati <START:opera> tourre eiffel <END>
+Quando sono stati ritrovati <START:opera> codex purpureo <END>
+Quando sono stati ritrovati <START:opera> trulli <END>
+Quando sono stati ritrovati <START:opera> ultima cena <END>
+Quando sono stati ritrovati <START:opera> nascita di venere <END>
+Quando sono stati ritrovati <START:opera> l'urlo <END>
+Quando sono stati ritrovati <START:opera> la persistenza della memoria <END>
+Quando è stata rubata <START:opera> guernica <END>
+Quando è stata rubata <START:opera> colosseo <END>
+Quando è stata rubata <START:opera> madonna della pietà <END>
+Quando è stata rubata <START:opera> gioconda <END>
+Quando è stata rubata <START:opera> la natura morta <END>
+Quando è stata rubata <START:opera> anfiteatro flavio <END>
+Quando è stata rubata <START:opera> venere di botticelli <END>
+Quando è stata rubata <START:opera> cappella sistina <END>
+Quando è stata rubata <START:opera> madonna della pietà <END>
+Quando è stata rubata <START:opera> bronzi di riace <END>
+Quando è stata rubata <START:opera> torre di pisa <END>
+Quando è stata rubata <START:opera> tourre eiffel <END>
+Quando è stata rubata <START:opera> codex purpureo <END>
+Quando è stata rubata <START:opera> trulli <END>
+Quando è stata rubata <START:opera> ultima cena <END>
+Quando è stata rubata <START:opera> nascita di venere <END>
+Quando è stata rubata <START:opera> l'urlo <END>
+Quando è stata rubata <START:opera> la persistenza della memoria <END>
+Quanti anni ha <START:opera> guernica <END>
+Quanti anni ha <START:opera> colosseo <END>
+Quanti anni ha <START:opera> madonna della pietà <END>
+Quanti anni ha <START:opera> gioconda <END>
+Quanti anni ha <START:opera> la natura morta <END>
+Quanti anni ha <START:opera> anfiteatro flavio <END>
+Quanti anni ha <START:opera> venere di botticelli <END>
+Quanti anni ha <START:opera> cappella sistina <END>
+Quanti anni ha <START:opera> madonna della pietà <END>
+Quanti anni ha <START:opera> bronzi di riace <END>
+Quanti anni ha <START:opera> torre di pisa <END>
+Quanti anni ha <START:opera> tourre eiffel <END>
+Quanti anni ha <START:opera> codex purpureo <END>
+Quanti anni ha <START:opera> trulli <END>
+Quanti anni ha <START:opera> ultima cena <END>
+Quanti anni ha <START:opera> nascita di venere <END>
+Quanti anni ha <START:opera> l'urlo <END>
+Quanti anni ha <START:opera> la persistenza della memoria <END>
+Quanti metri quadrati occupa <START:opera> guernica <END>
+Quanti metri quadrati occupa <START:opera> colosseo <END>
+Quanti metri quadrati occupa <START:opera> madonna della pietà <END>
+Quanti metri quadrati occupa <START:opera> gioconda <END>
+Quanti metri quadrati occupa <START:opera> la natura morta <END>
+Quanti metri quadrati occupa <START:opera> anfiteatro flavio <END>
+Quanti metri quadrati occupa <START:opera> venere di botticelli <END>
+Quanti metri quadrati occupa <START:opera> cappella sistina <END>
+Quanti metri quadrati occupa <START:opera> madonna della pietà <END>
+Quanti metri quadrati occupa <START:opera> bronzi di riace <END>
+Quanti metri quadrati occupa <START:opera> torre di pisa <END>
+Quanti metri quadrati occupa <START:opera> tourre eiffel <END>
+Quanti metri quadrati occupa <START:opera> codex purpureo <END>
+Quanti metri quadrati occupa <START:opera> trulli <END>
+Quanti metri quadrati occupa <START:opera> ultima cena <END>
+Quanti metri quadrati occupa <START:opera> nascita di venere <END>
+Quanti metri quadrati occupa <START:opera> l'urlo <END>
+Quanti metri quadrati occupa <START:opera> la persistenza della memoria <END>
+Quanto è alta <START:opera> guernica <END>
+Quanto è alta <START:opera> colosseo <END>
+Quanto è alta <START:opera> madonna della pietà <END>
+Quanto è alta <START:opera> gioconda <END>
+Quanto è alta <START:opera> la natura morta <END>
+Quanto è alta <START:opera> anfiteatro flavio <END>
+Quanto è alta <START:opera> venere di botticelli <END>
+Quanto è alta <START:opera> cappella sistina <END>
+Quanto è alta <START:opera> madonna della pietà <END>
+Quanto è alta <START:opera> bronzi di riace <END>
+Quanto è alta <START:opera> torre di pisa <END>
+Quanto è alta <START:opera> tourre eiffel <END>
+Quanto è alta <START:opera> codex purpureo <END>
+Quanto è alta <START:opera> trulli <END>
+Quanto è alta <START:opera> ultima cena <END>
+Quanto è alta <START:opera> nascita di venere <END>
+Quanto è alta <START:opera> l'urlo <END>
+Quanto è alta <START:opera> la persistenza della memoria <END>
+Quanto pesa <START:opera> guernica <END>
+Quanto pesa <START:opera> colosseo <END>
+Quanto pesa <START:opera> madonna della pietà <END>
+Quanto pesa <START:opera> gioconda <END>
+Quanto pesa <START:opera> la natura morta <END>
+Quanto pesa <START:opera> anfiteatro flavio <END>
+Quanto pesa <START:opera> venere di botticelli <END>
+Quanto pesa <START:opera> cappella sistina <END>
+Quanto pesa <START:opera> madonna della pietà <END>
+Quanto pesa <START:opera> bronzi di riace <END>
+Quanto pesa <START:opera> torre di pisa <END>
+Quanto pesa <START:opera> tourre eiffel <END>
+Quanto pesa <START:opera> codex purpureo <END>
+Quanto pesa <START:opera> trulli <END>
+Quanto pesa <START:opera> ultima cena <END>
+Quanto pesa <START:opera> nascita di venere <END>
+Quanto pesa <START:opera> l'urlo <END>
+Quanto pesa <START:opera> la persistenza della memoria <END>
+Quanto è grande <START:opera> guernica <END>
+Quanto è grande <START:opera> colosseo <END>
+Quanto è grande <START:opera> madonna della pietà <END>
+Quanto è grande <START:opera> gioconda <END>
+Quanto è grande <START:opera> la natura morta <END>
+Quanto è grande <START:opera> anfiteatro flavio <END>
+Quanto è grande <START:opera> venere di botticelli <END>
+Quanto è grande <START:opera> cappella sistina <END>
+Quanto è grande <START:opera> madonna della pietà <END>
+Quanto è grande <START:opera> bronzi di riace <END>
+Quanto è grande <START:opera> torre di pisa <END>
+Quanto è grande <START:opera> tourre eiffel <END>
+Quanto è grande <START:opera> codex purpureo <END>
+Quanto è grande <START:opera> trulli <END>
+Quanto è grande <START:opera> ultima cena <END>
+Quanto è grande <START:opera> nascita di venere <END>
+Quanto è grande <START:opera> l'urlo <END>
+Quanto è grande <START:opera> la persistenza della memoria <END>
+Quante navate ci sono <START:opera> guernica <END>
+Quante navate ci sono <START:opera> colosseo <END>
+Quante navate ci sono <START:opera> madonna della pietà <END>
+Quante navate ci sono <START:opera> gioconda <END>
+Quante navate ci sono <START:opera> la natura morta <END>
+Quante navate ci sono <START:opera> anfiteatro flavio <END>
+Quante navate ci sono <START:opera> venere di botticelli <END>
+Quante navate ci sono <START:opera> cappella sistina <END>
+Quante navate ci sono <START:opera> madonna della pietà <END>
+Quante navate ci sono <START:opera> bronzi di riace <END>
+Quante navate ci sono <START:opera> torre di pisa <END>
+Quante navate ci sono <START:opera> tourre eiffel <END>
+Quante navate ci sono <START:opera> codex purpureo <END>
+Quante navate ci sono <START:opera> trulli <END>
+Quante navate ci sono <START:opera> ultima cena <END>
+Quante navate ci sono <START:opera> nascita di venere <END>
+Quante navate ci sono <START:opera> l'urlo <END>
+Quante navate ci sono <START:opera> la persistenza della memoria <END>
+A quale periodo risale <START:opera> guernica <END>
+A quale periodo risale <START:opera> colosseo <END>
+A quale periodo risale <START:opera> madonna della pietà <END>
+A quale periodo risale <START:opera> gioconda <END>
+A quale periodo risale <START:opera> la natura morta <END>
+A quale periodo risale <START:opera> anfiteatro flavio <END>
+A quale periodo risale <START:opera> venere di botticelli <END>
+A quale periodo risale <START:opera> cappella sistina <END>
+A quale periodo risale <START:opera> madonna della pietà <END>
+A quale periodo risale <START:opera> bronzi di riace <END>
+A quale periodo risale <START:opera> torre di pisa <END>
+A quale periodo risale <START:opera> tourre eiffel <END>
+A quale periodo risale <START:opera> codex purpureo <END>
+A quale periodo risale <START:opera> trulli <END>
+A quale periodo risale <START:opera> ultima cena <END>
+A quale periodo risale <START:opera> nascita di venere <END>
+A quale periodo risale <START:opera> l'urlo <END>
+A quale periodo risale <START:opera> la persistenza della memoria <END>
+Perchè <START:opera> guernica <END> è a 
+Perchè <START:opera> colosseo <END> è a 
+Perchè <START:opera> madonna della pietà <END> è a 
+Perchè <START:opera> gioconda <END> è a 
+Perchè <START:opera> la natura morta <END> è a 
+Perchè <START:opera> anfiteatro flavio <END> è a 
+Perchè <START:opera> venere di botticelli <END> è a 
+Perchè <START:opera> cappella sistina <END> è a 
+Perchè <START:opera> madonna della pietà <END> è a 
+Perchè <START:opera> bronzi di riace <END> è a 
+Perchè <START:opera> torre di pisa <END> è a 
+Perchè <START:opera> tourre eiffel <END> è a 
+Perchè <START:opera> codex purpureo <END> è a 
+Perchè <START:opera> trulli <END> è a 
+Perchè <START:opera> ultima cena <END> è a 
+Perchè <START:opera> nascita di venere <END> è a 
+Perchè <START:opera> l'urlo <END> è a 
+Perchè <START:opera> la persistenza della memoria <END> è a 
+Perchè <START:opera> guernica <END> non è stata terminata
+Perchè <START:opera> colosseo <END> non è stata terminata
+Perchè <START:opera> madonna della pietà <END> non è stata terminata
+Perchè <START:opera> gioconda <END> non è stata terminata
+Perchè <START:opera> la natura morta <END> non è stata terminata
+Perchè <START:opera> anfiteatro flavio <END> non è stata terminata
+Perchè <START:opera> venere di botticelli <END> non è stata terminata
+Perchè <START:opera> cappella sistina <END> non è stata terminata
+Perchè <START:opera> madonna della pietà <END> non è stata terminata
+Perchè <START:opera> bronzi di riace <END> non è stata terminata
+Perchè <START:opera> torre di pisa <END> non è stata terminata
+Perchè <START:opera> tourre eiffel <END> non è stata terminata
+Perchè <START:opera> codex purpureo <END> non è stata terminata
+Perchè <START:opera> trulli <END> non è stata terminata
+Perchè <START:opera> ultima cena <END> non è stata terminata
+Perchè <START:opera> nascita di venere <END> non è stata terminata
+Perchè <START:opera> l'urlo <END> non è stata terminata
+Perchè <START:opera> la persistenza della memoria <END> non è stata terminata
+Quanto vale <START:opera> guernica <END>
+Quanto vale <START:opera> colosseo <END>
+Quanto vale <START:opera> madonna della pietà <END>
+Quanto vale <START:opera> gioconda <END>
+Quanto vale <START:opera> la natura morta <END>
+Quanto vale <START:opera> anfiteatro flavio <END>
+Quanto vale <START:opera> venere di botticelli <END>
+Quanto vale <START:opera> cappella sistina <END>
+Quanto vale <START:opera> madonna della pietà <END>
+Quanto vale <START:opera> bronzi di riace <END>
+Quanto vale <START:opera> torre di pisa <END>
+Quanto vale <START:opera> tourre eiffel <END>
+Quanto vale <START:opera> codex purpureo <END>
+Quanto vale <START:opera> trulli <END>
+Quanto vale <START:opera> ultima cena <END>
+Quanto vale <START:opera> nascita di venere <END>
+Quanto vale <START:opera> l'urlo <END>
+Quanto vale <START:opera> la persistenza della memoria <END>
+Quanto è costato <START:opera> guernica <END>
+Quanto è costato <START:opera> colosseo <END>
+Quanto è costato <START:opera> madonna della pietà <END>
+Quanto è costato <START:opera> gioconda <END>
+Quanto è costato <START:opera> la natura morta <END>
+Quanto è costato <START:opera> anfiteatro flavio <END>
+Quanto è costato <START:opera> venere di botticelli <END>
+Quanto è costato <START:opera> cappella sistina <END>
+Quanto è costato <START:opera> madonna della pietà <END>
+Quanto è costato <START:opera> bronzi di riace <END>
+Quanto è costato <START:opera> torre di pisa <END>
+Quanto è costato <START:opera> tourre eiffel <END>
+Quanto è costato <START:opera> codex purpureo <END>
+Quanto è costato <START:opera> trulli <END>
+Quanto è costato <START:opera> ultima cena <END>
+Quanto è costato <START:opera> nascita di venere <END>
+Quanto è costato <START:opera> l'urlo <END>
+Quanto è costato <START:opera> la persistenza della memoria <END>
+Quanti anni ci sono voluti per costruire <START:opera> guernica <END>
+Quanti anni ci sono voluti per costruire <START:opera> colosseo <END>
+Quanti anni ci sono voluti per costruire <START:opera> madonna della pietà <END>
+Quanti anni ci sono voluti per costruire <START:opera> gioconda <END>
+Quanti anni ci sono voluti per costruire <START:opera> la natura morta <END>
+Quanti anni ci sono voluti per costruire <START:opera> anfiteatro flavio <END>
+Quanti anni ci sono voluti per costruire <START:opera> venere di botticelli <END>
+Quanti anni ci sono voluti per costruire <START:opera> cappella sistina <END>
+Quanti anni ci sono voluti per costruire <START:opera> madonna della pietà <END>
+Quanti anni ci sono voluti per costruire <START:opera> bronzi di riace <END>
+Quanti anni ci sono voluti per costruire <START:opera> torre di pisa <END>
+Quanti anni ci sono voluti per costruire <START:opera> tourre eiffel <END>
+Quanti anni ci sono voluti per costruire <START:opera> codex purpureo <END>
+Quanti anni ci sono voluti per costruire <START:opera> trulli <END>
+Quanti anni ci sono voluti per costruire <START:opera> ultima cena <END>
+Quanti anni ci sono voluti per costruire <START:opera> nascita di venere <END>
+Quanti anni ci sono voluti per costruire <START:opera> l'urlo <END>
+Quanti anni ci sono voluti per costruire <START:opera> la persistenza della memoria <END>
+Quanti anni ci sono voluti per ultimare <START:opera> guernica <END>
+Quanti anni ci sono voluti per ultimare <START:opera> colosseo <END>
+Quanti anni ci sono voluti per ultimare <START:opera> madonna della pietà <END>
+Quanti anni ci sono voluti per ultimare <START:opera> gioconda <END>
+Quanti anni ci sono voluti per ultimare <START:opera> la natura morta <END>
+Quanti anni ci sono voluti per ultimare <START:opera> anfiteatro flavio <END>
+Quanti anni ci sono voluti per ultimare <START:opera> venere di botticelli <END>
+Quanti anni ci sono voluti per ultimare <START:opera> cappella sistina <END>
+Quanti anni ci sono voluti per ultimare <START:opera> madonna della pietà <END>
+Quanti anni ci sono voluti per ultimare <START:opera> bronzi di riace <END>
+Quanti anni ci sono voluti per ultimare <START:opera> torre di pisa <END>
+Quanti anni ci sono voluti per ultimare <START:opera> tourre eiffel <END>
+Quanti anni ci sono voluti per ultimare <START:opera> codex purpureo <END>
+Quanti anni ci sono voluti per ultimare <START:opera> trulli <END>
+Quanti anni ci sono voluti per ultimare <START:opera> ultima cena <END>
+Quanti anni ci sono voluti per ultimare <START:opera> nascita di venere <END>
+Quanti anni ci sono voluti per ultimare <START:opera> l'urlo <END>
+Quanti anni ci sono voluti per ultimare <START:opera> la persistenza della memoria <END>
+In quale periodo storico è stata dipinta <START:opera> guernica <END>
+In quale periodo storico è stata dipinta <START:opera> colosseo <END>
+In quale periodo storico è stata dipinta <START:opera> madonna della pietà <END>
+In quale periodo storico è stata dipinta <START:opera> gioconda <END>
+In quale periodo storico è stata dipinta <START:opera> la natura morta <END>
+In quale periodo storico è stata dipinta <START:opera> anfiteatro flavio <END>
+In quale periodo storico è stata dipinta <START:opera> venere di botticelli <END>
+In quale periodo storico è stata dipinta <START:opera> cappella sistina <END>
+In quale periodo storico è stata dipinta <START:opera> madonna della pietà <END>
+In quale periodo storico è stata dipinta <START:opera> bronzi di riace <END>
+In quale periodo storico è stata dipinta <START:opera> torre di pisa <END>
+In quale periodo storico è stata dipinta <START:opera> tourre eiffel <END>
+In quale periodo storico è stata dipinta <START:opera> codex purpureo <END>
+In quale periodo storico è stata dipinta <START:opera> trulli <END>
+In quale periodo storico è stata dipinta <START:opera> ultima cena <END>
+In quale periodo storico è stata dipinta <START:opera> nascita di venere <END>
+In quale periodo storico è stata dipinta <START:opera> l'urlo <END>
+In quale periodo storico è stata dipinta <START:opera> la persistenza della memoria <END>
+Con quale tecnica è stato dipinto <START:opera> guernica <END>
+Con quale tecnica è stato dipinto <START:opera> colosseo <END>
+Con quale tecnica è stato dipinto <START:opera> madonna della pietà <END>
+Con quale tecnica è stato dipinto <START:opera> gioconda <END>
+Con quale tecnica è stato dipinto <START:opera> la natura morta <END>
+Con quale tecnica è stato dipinto <START:opera> anfiteatro flavio <END>
+Con quale tecnica è stato dipinto <START:opera> venere di botticelli <END>
+Con quale tecnica è stato dipinto <START:opera> cappella sistina <END>
+Con quale tecnica è stato dipinto <START:opera> madonna della pietà <END>
+Con quale tecnica è stato dipinto <START:opera> bronzi di riace <END>
+Con quale tecnica è stato dipinto <START:opera> torre di pisa <END>
+Con quale tecnica è stato dipinto <START:opera> tourre eiffel <END>
+Con quale tecnica è stato dipinto <START:opera> codex purpureo <END>
+Con quale tecnica è stato dipinto <START:opera> trulli <END>
+Con quale tecnica è stato dipinto <START:opera> ultima cena <END>
+Con quale tecnica è stato dipinto <START:opera> nascita di venere <END>
+Con quale tecnica è stato dipinto <START:opera> l'urlo <END>
+Con quale tecnica è stato dipinto <START:opera> la persistenza della memoria <END>
+Che tipo di colori sono stati usati per dipingere <START:opera> guernica <END>
+Che tipo di colori sono stati usati per dipingere <START:opera> colosseo <END>
+Che tipo di colori sono stati usati per dipingere <START:opera> madonna della pietà <END>
+Che tipo di colori sono stati usati per dipingere <START:opera> gioconda <END>
+Che tipo di colori sono stati usati per dipingere <START:opera> la natura morta <END>
+Che tipo di colori sono stati usati per dipingere <START:opera> anfiteatro flavio <END>
+Che tipo di colori sono stati usati per dipingere <START:opera> venere di botticelli <END>
+Che tipo di colori sono stati usati per dipingere <START:opera> cappella sistina <END>
+Che tipo di colori sono stati usati per dipingere <START:opera> madonna della pietà <END>
+Che tipo di colori sono stati usati per dipingere <START:opera> bronzi di riace <END>
+Che tipo di colori sono stati usati per dipingere <START:opera> torre di pisa <END>
+Che tipo di colori sono stati usati per dipingere <START:opera> tourre eiffel <END>
+Che tipo di colori sono stati usati per dipingere <START:opera> codex purpureo <END>
+Che tipo di colori sono stati usati per dipingere <START:opera> trulli <END>
+Che tipo di colori sono stati usati per dipingere <START:opera> ultima cena <END>
+Che tipo di colori sono stati usati per dipingere <START:opera> nascita di venere <END>
+Che tipo di colori sono stati usati per dipingere <START:opera> l'urlo <END>
+Che tipo di colori sono stati usati per dipingere <START:opera> la persistenza della memoria <END>
+Su quale materiale è stata dipinta <START:opera> guernica <END>
+Su quale materiale è stata dipinta <START:opera> colosseo <END>
+Su quale materiale è stata dipinta <START:opera> madonna della pietà <END>
+Su quale materiale è stata dipinta <START:opera> gioconda <END>
+Su quale materiale è stata dipinta <START:opera> la natura morta <END>
+Su quale materiale è stata dipinta <START:opera> anfiteatro flavio <END>
+Su quale materiale è stata dipinta <START:opera> venere di botticelli <END>
+Su quale materiale è stata dipinta <START:opera> cappella sistina <END>
+Su quale materiale è stata dipinta <START:opera> madonna della pietà <END>
+Su quale materiale è stata dipinta <START:opera> bronzi di riace <END>
+Su quale materiale è stata dipinta <START:opera> torre di pisa <END>
+Su quale materiale è stata dipinta <START:opera> tourre eiffel <END>
+Su quale materiale è stata dipinta <START:opera> codex purpureo <END>
+Su quale materiale è stata dipinta <START:opera> trulli <END>
+Su quale materiale è stata dipinta <START:opera> ultima cena <END>
+Su quale materiale è stata dipinta <START:opera> nascita di venere <END>
+Su quale materiale è stata dipinta <START:opera> l'urlo <END>
+Su quale materiale è stata dipinta <START:opera> la persistenza della memoria <END>
+Che superficie occupa <START:opera> guernica <END>
+Che superficie occupa <START:opera> colosseo <END>
+Che superficie occupa <START:opera> madonna della pietà <END>
+Che superficie occupa <START:opera> gioconda <END>
+Che superficie occupa <START:opera> la natura morta <END>
+Che superficie occupa <START:opera> anfiteatro flavio <END>
+Che superficie occupa <START:opera> venere di botticelli <END>
+Che superficie occupa <START:opera> cappella sistina <END>
+Che superficie occupa <START:opera> madonna della pietà <END>
+Che superficie occupa <START:opera> bronzi di riace <END>
+Che superficie occupa <START:opera> torre di pisa <END>
+Che superficie occupa <START:opera> tourre eiffel <END>
+Che superficie occupa <START:opera> codex purpureo <END>
+Che superficie occupa <START:opera> trulli <END>
+Che superficie occupa <START:opera> ultima cena <END>
+Che superficie occupa <START:opera> nascita di venere <END>
+Che superficie occupa <START:opera> l'urlo <END>
+Che superficie occupa <START:opera> la persistenza della memoria <END>
+Come è stato restaurato <START:opera> guernica <END>
+Come è stato restaurato <START:opera> colosseo <END>
+Come è stato restaurato <START:opera> madonna della pietà <END>
+Come è stato restaurato <START:opera> gioconda <END>
+Come è stato restaurato <START:opera> la natura morta <END>
+Come è stato restaurato <START:opera> anfiteatro flavio <END>
+Come è stato restaurato <START:opera> venere di botticelli <END>
+Come è stato restaurato <START:opera> cappella sistina <END>
+Come è stato restaurato <START:opera> madonna della pietà <END>
+Come è stato restaurato <START:opera> bronzi di riace <END>
+Come è stato restaurato <START:opera> torre di pisa <END>
+Come è stato restaurato <START:opera> tourre eiffel <END>
+Come è stato restaurato <START:opera> codex purpureo <END>
+Come è stato restaurato <START:opera> trulli <END>
+Come è stato restaurato <START:opera> ultima cena <END>
+Come è stato restaurato <START:opera> nascita di venere <END>
+Come è stato restaurato <START:opera> l'urlo <END>
+Come è stato restaurato <START:opera> la persistenza della memoria <END>
+Perchè questo quadro si chiama <START:opera> guernica <END>
+Perchè questo quadro si chiama <START:opera> colosseo <END>
+Perchè questo quadro si chiama <START:opera> madonna della pietà <END>
+Perchè questo quadro si chiama <START:opera> gioconda <END>
+Perchè questo quadro si chiama <START:opera> la natura morta <END>
+Perchè questo quadro si chiama <START:opera> anfiteatro flavio <END>
+Perchè questo quadro si chiama <START:opera> venere di botticelli <END>
+Perchè questo quadro si chiama <START:opera> cappella sistina <END>
+Perchè questo quadro si chiama <START:opera> madonna della pietà <END>
+Perchè questo quadro si chiama <START:opera> bronzi di riace <END>
+Perchè questo quadro si chiama <START:opera> torre di pisa <END>
+Perchè questo quadro si chiama <START:opera> tourre eiffel <END>
+Perchè questo quadro si chiama <START:opera> codex purpureo <END>
+Perchè questo quadro si chiama <START:opera> trulli <END>
+Perchè questo quadro si chiama <START:opera> ultima cena <END>
+Perchè questo quadro si chiama <START:opera> nascita di venere <END>
+Perchè questo quadro si chiama <START:opera> l'urlo <END>
+Perchè questo quadro si chiama <START:opera> la persistenza della memoria <END>
+Perchè questa opera si chiama <START:opera> guernica <END>
+Perchè questa opera si chiama <START:opera> colosseo <END>
+Perchè questa opera si chiama <START:opera> madonna della pietà <END>
+Perchè questa opera si chiama <START:opera> gioconda <END>
+Perchè questa opera si chiama <START:opera> la natura morta <END>
+Perchè questa opera si chiama <START:opera> anfiteatro flavio <END>
+Perchè questa opera si chiama <START:opera> venere di botticelli <END>
+Perchè questa opera si chiama <START:opera> cappella sistina <END>
+Perchè questa opera si chiama <START:opera> madonna della pietà <END>
+Perchè questa opera si chiama <START:opera> bronzi di riace <END>
+Perchè questa opera si chiama <START:opera> torre di pisa <END>
+Perchè questa opera si chiama <START:opera> tourre eiffel <END>
+Perchè questa opera si chiama <START:opera> codex purpureo <END>
+Perchè questa opera si chiama <START:opera> trulli <END>
+Perchè questa opera si chiama <START:opera> ultima cena <END>
+Perchè questa opera si chiama <START:opera> nascita di venere <END>
+Perchè questa opera si chiama <START:opera> l'urlo <END>
+Perchè questa opera si chiama <START:opera> la persistenza della memoria <END>
+Ci sono altre <START:opera> guernica <END>
+Ci sono altre <START:opera> colosseo <END>
+Ci sono altre <START:opera> madonna della pietà <END>
+Ci sono altre <START:opera> gioconda <END>
+Ci sono altre <START:opera> la natura morta <END>
+Ci sono altre <START:opera> anfiteatro flavio <END>
+Ci sono altre <START:opera> venere di botticelli <END>
+Ci sono altre <START:opera> cappella sistina <END>
+Ci sono altre <START:opera> madonna della pietà <END>
+Ci sono altre <START:opera> bronzi di riace <END>
+Ci sono altre <START:opera> torre di pisa <END>
+Ci sono altre <START:opera> tourre eiffel <END>
+Ci sono altre <START:opera> codex purpureo <END>
+Ci sono altre <START:opera> trulli <END>
+Ci sono altre <START:opera> ultima cena <END>
+Ci sono altre <START:opera> nascita di venere <END>
+Ci sono altre <START:opera> l'urlo <END>
+Ci sono altre <START:opera> la persistenza della memoria <END>
+Chi è <START:artist> picasso <END>
+Chi è <START:artist> giotto <END>
+Chi è <START:artist> michelangelo <END>
+Chi è <START:artist> leonardo da vinci <END>
+Chi è <START:artist> vincent van gogh <END>
+Chi è <START:artist> caravaggio <END>
+Chi è <START:artist> cimabue <END>
+Chi è <START:artist> salvador dalì <END>
+Chi è <START:artist> sandro botticelli <END>
+Chi è <START:artist> leonardo <END>
+Chi è <START:artist> donatello <END>
+Chi è <START:artist> raffello <END>
+Chi è <START:artist> goustave corbet <END>
+Chi è <START:artist> perugino <END>
+Chi è <START:artist> giorgio de chirico <END>
+Chi è <START:artist> william turne <END>
+Chi è <START:artist> paul cèzanne <END>
+Chi è <START:artist> andy warhol <END>
+Chi era il maestro <START:artist> picasso <END>
+Chi era il maestro <START:artist> giotto <END>
+Chi era il maestro <START:artist> michelangelo <END>
+Chi era il maestro <START:artist> leonardo da vinci <END>
+Chi era il maestro <START:artist> vincent van gogh <END>
+Chi era il maestro <START:artist> caravaggio <END>
+Chi era il maestro <START:artist> cimabue <END>
+Chi era il maestro <START:artist> salvador dalì <END>
+Chi era il maestro <START:artist> sandro botticelli <END>
+Chi era il maestro <START:artist> leonardo <END>
+Chi era il maestro <START:artist> donatello <END>
+Chi era il maestro <START:artist> raffello <END>
+Chi era il maestro <START:artist> goustave corbet <END>
+Chi era il maestro <START:artist> perugino <END>
+Chi era il maestro <START:artist> giorgio de chirico <END>
+Chi era il maestro <START:artist> william turne <END>
+Chi era il maestro <START:artist> paul cèzanne <END>
+Chi era il maestro <START:artist> andy warhol <END>
+Chi è il proprietario <START:artist> picasso <END>
+Chi è il proprietario <START:artist> giotto <END>
+Chi è il proprietario <START:artist> michelangelo <END>
+Chi è il proprietario <START:artist> leonardo da vinci <END>
+Chi è il proprietario <START:artist> vincent van gogh <END>
+Chi è il proprietario <START:artist> caravaggio <END>
+Chi è il proprietario <START:artist> cimabue <END>
+Chi è il proprietario <START:artist> salvador dalì <END>
+Chi è il proprietario <START:artist> sandro botticelli <END>
+Chi è il proprietario <START:artist> leonardo <END>
+Chi è il proprietario <START:artist> donatello <END>
+Chi è il proprietario <START:artist> raffello <END>
+Chi è il proprietario <START:artist> goustave corbet <END>
+Chi è il proprietario <START:artist> perugino <END>
+Chi è il proprietario <START:artist> giorgio de chirico <END>
+Chi è il proprietario <START:artist> william turne <END>
+Chi è il proprietario <START:artist> paul cèzanne <END>
+Chi è il proprietario <START:artist> andy warhol <END>
+Chi è l'autore <START:artist> picasso <END>
+Chi è l'autore <START:artist> giotto <END>
+Chi è l'autore <START:artist> michelangelo <END>
+Chi è l'autore <START:artist> leonardo da vinci <END>
+Chi è l'autore <START:artist> vincent van gogh <END>
+Chi è l'autore <START:artist> caravaggio <END>
+Chi è l'autore <START:artist> cimabue <END>
+Chi è l'autore <START:artist> salvador dalì <END>
+Chi è l'autore <START:artist> sandro botticelli <END>
+Chi è l'autore <START:artist> leonardo <END>
+Chi è l'autore <START:artist> donatello <END>
+Chi è l'autore <START:artist> raffello <END>
+Chi è l'autore <START:artist> goustave corbet <END>
+Chi è l'autore <START:artist> perugino <END>
+Chi è l'autore <START:artist> giorgio de chirico <END>
+Chi è l'autore <START:artist> william turne <END>
+Chi è l'autore <START:artist> paul cèzanne <END>
+Chi è l'autore <START:artist> andy warhol <END>
+Qual è la biografia <START:artist> picasso <END>
+Qual è la biografia <START:artist> giotto <END>
+Qual è la biografia <START:artist> michelangelo <END>
+Qual è la biografia <START:artist> leonardo da vinci <END>
+Qual è la biografia <START:artist> vincent van gogh <END>
+Qual è la biografia <START:artist> caravaggio <END>
+Qual è la biografia <START:artist> cimabue <END>
+Qual è la biografia <START:artist> salvador dalì <END>
+Qual è la biografia <START:artist> sandro botticelli <END>
+Qual è la biografia <START:artist> leonardo <END>
+Qual è la biografia <START:artist> donatello <END>
+Qual è la biografia <START:artist> raffello <END>
+Qual è la biografia <START:artist> goustave corbet <END>
+Qual è la biografia <START:artist> perugino <END>
+Qual è la biografia <START:artist> giorgio de chirico <END>
+Qual è la biografia <START:artist> william turne <END>
+Qual è la biografia <START:artist> paul cèzanne <END>
+Qual è la biografia <START:artist> andy warhol <END>
+Quali sono le prime opere <START:artist> picasso <END>
+Quali sono le prime opere <START:artist> giotto <END>
+Quali sono le prime opere <START:artist> michelangelo <END>
+Quali sono le prime opere <START:artist> leonardo da vinci <END>
+Quali sono le prime opere <START:artist> vincent van gogh <END>
+Quali sono le prime opere <START:artist> caravaggio <END>
+Quali sono le prime opere <START:artist> cimabue <END>
+Quali sono le prime opere <START:artist> salvador dalì <END>
+Quali sono le prime opere <START:artist> sandro botticelli <END>
+Quali sono le prime opere <START:artist> leonardo <END>
+Quali sono le prime opere <START:artist> donatello <END>
+Quali sono le prime opere <START:artist> raffello <END>
+Quali sono le prime opere <START:artist> goustave corbet <END>
+Quali sono le prime opere <START:artist> perugino <END>
+Quali sono le prime opere <START:artist> giorgio de chirico <END>
+Quali sono le prime opere <START:artist> william turne <END>
+Quali sono le prime opere <START:artist> paul cèzanne <END>
+Quali sono le prime opere <START:artist> andy warhol <END>
+Quali sono le opere incompiute <START:artist> picasso <END>
+Quali sono le opere incompiute <START:artist> giotto <END>
+Quali sono le opere incompiute <START:artist> michelangelo <END>
+Quali sono le opere incompiute <START:artist> leonardo da vinci <END>
+Quali sono le opere incompiute <START:artist> vincent van gogh <END>
+Quali sono le opere incompiute <START:artist> caravaggio <END>
+Quali sono le opere incompiute <START:artist> cimabue <END>
+Quali sono le opere incompiute <START:artist> salvador dalì <END>
+Quali sono le opere incompiute <START:artist> sandro botticelli <END>
+Quali sono le opere incompiute <START:artist> leonardo <END>
+Quali sono le opere incompiute <START:artist> donatello <END>
+Quali sono le opere incompiute <START:artist> raffello <END>
+Quali sono le opere incompiute <START:artist> goustave corbet <END>
+Quali sono le opere incompiute <START:artist> perugino <END>
+Quali sono le opere incompiute <START:artist> giorgio de chirico <END>
+Quali sono le opere incompiute <START:artist> william turne <END>
+Quali sono le opere incompiute <START:artist> paul cèzanne <END>
+Quali sono le opere incompiute <START:artist> andy warhol <END>
+Quale è lo stile <START:artist> picasso <END>
+Quale è lo stile <START:artist> giotto <END>
+Quale è lo stile <START:artist> michelangelo <END>
+Quale è lo stile <START:artist> leonardo da vinci <END>
+Quale è lo stile <START:artist> vincent van gogh <END>
+Quale è lo stile <START:artist> caravaggio <END>
+Quale è lo stile <START:artist> cimabue <END>
+Quale è lo stile <START:artist> salvador dalì <END>
+Quale è lo stile <START:artist> sandro botticelli <END>
+Quale è lo stile <START:artist> leonardo <END>
+Quale è lo stile <START:artist> donatello <END>
+Quale è lo stile <START:artist> raffello <END>
+Quale è lo stile <START:artist> goustave corbet <END>
+Quale è lo stile <START:artist> perugino <END>
+Quale è lo stile <START:artist> giorgio de chirico <END>
+Quale è lo stile <START:artist> william turne <END>
+Quale è lo stile <START:artist> paul cèzanne <END>
+Quale è lo stile <START:artist> andy warhol <END>
+Dove è nato <START:artist> picasso <END>
+Dove è nato <START:artist> giotto <END>
+Dove è nato <START:artist> michelangelo <END>
+Dove è nato <START:artist> leonardo da vinci <END>
+Dove è nato <START:artist> vincent van gogh <END>
+Dove è nato <START:artist> caravaggio <END>
+Dove è nato <START:artist> cimabue <END>
+Dove è nato <START:artist> salvador dalì <END>
+Dove è nato <START:artist> sandro botticelli <END>
+Dove è nato <START:artist> leonardo <END>
+Dove è nato <START:artist> donatello <END>
+Dove è nato <START:artist> raffello <END>
+Dove è nato <START:artist> goustave corbet <END>
+Dove è nato <START:artist> perugino <END>
+Dove è nato <START:artist> giorgio de chirico <END>
+Dove è nato <START:artist> william turne <END>
+Dove è nato <START:artist> paul cèzanne <END>
+Dove è nato <START:artist> andy warhol <END>
+Dove ha trascorso l'infanzia <START:artist> picasso <END>
+Dove ha trascorso l'infanzia <START:artist> giotto <END>
+Dove ha trascorso l'infanzia <START:artist> michelangelo <END>
+Dove ha trascorso l'infanzia <START:artist> leonardo da vinci <END>
+Dove ha trascorso l'infanzia <START:artist> vincent van gogh <END>
+Dove ha trascorso l'infanzia <START:artist> caravaggio <END>
+Dove ha trascorso l'infanzia <START:artist> cimabue <END>
+Dove ha trascorso l'infanzia <START:artist> salvador dalì <END>
+Dove ha trascorso l'infanzia <START:artist> sandro botticelli <END>
+Dove ha trascorso l'infanzia <START:artist> leonardo <END>
+Dove ha trascorso l'infanzia <START:artist> donatello <END>
+Dove ha trascorso l'infanzia <START:artist> raffello <END>
+Dove ha trascorso l'infanzia <START:artist> goustave corbet <END>
+Dove ha trascorso l'infanzia <START:artist> perugino <END>
+Dove ha trascorso l'infanzia <START:artist> giorgio de chirico <END>
+Dove ha trascorso l'infanzia <START:artist> william turne <END>
+Dove ha trascorso l'infanzia <START:artist> paul cèzanne <END>
+Dove ha trascorso l'infanzia <START:artist> andy warhol <END>
+Dove ha trascorso la vecchiaia <START:artist> picasso <END>
+Dove ha trascorso la vecchiaia <START:artist> giotto <END>
+Dove ha trascorso la vecchiaia <START:artist> michelangelo <END>
+Dove ha trascorso la vecchiaia <START:artist> leonardo da vinci <END>
+Dove ha trascorso la vecchiaia <START:artist> vincent van gogh <END>
+Dove ha trascorso la vecchiaia <START:artist> caravaggio <END>
+Dove ha trascorso la vecchiaia <START:artist> cimabue <END>
+Dove ha trascorso la vecchiaia <START:artist> salvador dalì <END>
+Dove ha trascorso la vecchiaia <START:artist> sandro botticelli <END>
+Dove ha trascorso la vecchiaia <START:artist> leonardo <END>
+Dove ha trascorso la vecchiaia <START:artist> donatello <END>
+Dove ha trascorso la vecchiaia <START:artist> raffello <END>
+Dove ha trascorso la vecchiaia <START:artist> goustave corbet <END>
+Dove ha trascorso la vecchiaia <START:artist> perugino <END>
+Dove ha trascorso la vecchiaia <START:artist> giorgio de chirico <END>
+Dove ha trascorso la vecchiaia <START:artist> william turne <END>
+Dove ha trascorso la vecchiaia <START:artist> paul cèzanne <END>
+Dove ha trascorso la vecchiaia <START:artist> andy warhol <END>
+Dove ha trascorso la vita <START:artist> picasso <END>
+Dove ha trascorso la vita <START:artist> giotto <END>
+Dove ha trascorso la vita <START:artist> michelangelo <END>
+Dove ha trascorso la vita <START:artist> leonardo da vinci <END>
+Dove ha trascorso la vita <START:artist> vincent van gogh <END>
+Dove ha trascorso la vita <START:artist> caravaggio <END>
+Dove ha trascorso la vita <START:artist> cimabue <END>
+Dove ha trascorso la vita <START:artist> salvador dalì <END>
+Dove ha trascorso la vita <START:artist> sandro botticelli <END>
+Dove ha trascorso la vita <START:artist> leonardo <END>
+Dove ha trascorso la vita <START:artist> donatello <END>
+Dove ha trascorso la vita <START:artist> raffello <END>
+Dove ha trascorso la vita <START:artist> goustave corbet <END>
+Dove ha trascorso la vita <START:artist> perugino <END>
+Dove ha trascorso la vita <START:artist> giorgio de chirico <END>
+Dove ha trascorso la vita <START:artist> william turne <END>
+Dove ha trascorso la vita <START:artist> paul cèzanne <END>
+Dove ha trascorso la vita <START:artist> andy warhol <END>
+Dove si è formato <START:artist> picasso <END>
+Dove si è formato <START:artist> giotto <END>
+Dove si è formato <START:artist> michelangelo <END>
+Dove si è formato <START:artist> leonardo da vinci <END>
+Dove si è formato <START:artist> vincent van gogh <END>
+Dove si è formato <START:artist> caravaggio <END>
+Dove si è formato <START:artist> cimabue <END>
+Dove si è formato <START:artist> salvador dalì <END>
+Dove si è formato <START:artist> sandro botticelli <END>
+Dove si è formato <START:artist> leonardo <END>
+Dove si è formato <START:artist> donatello <END>
+Dove si è formato <START:artist> raffello <END>
+Dove si è formato <START:artist> goustave corbet <END>
+Dove si è formato <START:artist> perugino <END>
+Dove si è formato <START:artist> giorgio de chirico <END>
+Dove si è formato <START:artist> william turne <END>
+Dove si è formato <START:artist> paul cèzanne <END>
+Dove si è formato <START:artist> andy warhol <END>
+Dove ha vissuto <START:artist> picasso <END>
+Dove ha vissuto <START:artist> giotto <END>
+Dove ha vissuto <START:artist> michelangelo <END>
+Dove ha vissuto <START:artist> leonardo da vinci <END>
+Dove ha vissuto <START:artist> vincent van gogh <END>
+Dove ha vissuto <START:artist> caravaggio <END>
+Dove ha vissuto <START:artist> cimabue <END>
+Dove ha vissuto <START:artist> salvador dalì <END>
+Dove ha vissuto <START:artist> sandro botticelli <END>
+Dove ha vissuto <START:artist> leonardo <END>
+Dove ha vissuto <START:artist> donatello <END>
+Dove ha vissuto <START:artist> raffello <END>
+Dove ha vissuto <START:artist> goustave corbet <END>
+Dove ha vissuto <START:artist> perugino <END>
+Dove ha vissuto <START:artist> giorgio de chirico <END>
+Dove ha vissuto <START:artist> william turne <END>
+Dove ha vissuto <START:artist> paul cèzanne <END>
+Dove ha vissuto <START:artist> andy warhol <END>
+Dove è morto <START:artist> picasso <END>
+Dove è morto <START:artist> giotto <END>
+Dove è morto <START:artist> michelangelo <END>
+Dove è morto <START:artist> leonardo da vinci <END>
+Dove è morto <START:artist> vincent van gogh <END>
+Dove è morto <START:artist> caravaggio <END>
+Dove è morto <START:artist> cimabue <END>
+Dove è morto <START:artist> salvador dalì <END>
+Dove è morto <START:artist> sandro botticelli <END>
+Dove è morto <START:artist> leonardo <END>
+Dove è morto <START:artist> donatello <END>
+Dove è morto <START:artist> raffello <END>
+Dove è morto <START:artist> goustave corbet <END>
+Dove è morto <START:artist> perugino <END>
+Dove è morto <START:artist> giorgio de chirico <END>
+Dove è morto <START:artist> william turne <END>
+Dove è morto <START:artist> paul cèzanne <END>
+Dove è morto <START:artist> andy warhol <END>
+Dove è stato sepolto <START:artist> picasso <END>
+Dove è stato sepolto <START:artist> giotto <END>
+Dove è stato sepolto <START:artist> michelangelo <END>
+Dove è stato sepolto <START:artist> leonardo da vinci <END>
+Dove è stato sepolto <START:artist> vincent van gogh <END>
+Dove è stato sepolto <START:artist> caravaggio <END>
+Dove è stato sepolto <START:artist> cimabue <END>
+Dove è stato sepolto <START:artist> salvador dalì <END>
+Dove è stato sepolto <START:artist> sandro botticelli <END>
+Dove è stato sepolto <START:artist> leonardo <END>
+Dove è stato sepolto <START:artist> donatello <END>
+Dove è stato sepolto <START:artist> raffello <END>
+Dove è stato sepolto <START:artist> goustave corbet <END>
+Dove è stato sepolto <START:artist> perugino <END>
+Dove è stato sepolto <START:artist> giorgio de chirico <END>
+Dove è stato sepolto <START:artist> william turne <END>
+Dove è stato sepolto <START:artist> paul cèzanne <END>
+Dove è stato sepolto <START:artist> andy warhol <END>
+Quando è nato <START:artist> picasso <END>
+Quando è nato <START:artist> giotto <END>
+Quando è nato <START:artist> michelangelo <END>
+Quando è nato <START:artist> leonardo da vinci <END>
+Quando è nato <START:artist> vincent van gogh <END>
+Quando è nato <START:artist> caravaggio <END>
+Quando è nato <START:artist> cimabue <END>
+Quando è nato <START:artist> salvador dalì <END>
+Quando è nato <START:artist> sandro botticelli <END>
+Quando è nato <START:artist> leonardo <END>
+Quando è nato <START:artist> donatello <END>
+Quando è nato <START:artist> raffello <END>
+Quando è nato <START:artist> goustave corbet <END>
+Quando è nato <START:artist> perugino <END>
+Quando è nato <START:artist> giorgio de chirico <END>
+Quando è nato <START:artist> william turne <END>
+Quando è nato <START:artist> paul cèzanne <END>
+Quando è nato <START:artist> andy warhol <END>
+Quando è morto <START:artist> picasso <END>
+Quando è morto <START:artist> giotto <END>
+Quando è morto <START:artist> michelangelo <END>
+Quando è morto <START:artist> leonardo da vinci <END>
+Quando è morto <START:artist> vincent van gogh <END>
+Quando è morto <START:artist> caravaggio <END>
+Quando è morto <START:artist> cimabue <END>
+Quando è morto <START:artist> salvador dalì <END>
+Quando è morto <START:artist> sandro botticelli <END>
+Quando è morto <START:artist> leonardo <END>
+Quando è morto <START:artist> donatello <END>
+Quando è morto <START:artist> raffello <END>
+Quando è morto <START:artist> goustave corbet <END>
+Quando è morto <START:artist> perugino <END>
+Quando è morto <START:artist> giorgio de chirico <END>
+Quando è morto <START:artist> william turne <END>
+Quando è morto <START:artist> paul cèzanne <END>
+Quando è morto <START:artist> andy warhol <END>
+Quanti anni ha <START:artist> picasso <END>
+Quanti anni ha <START:artist> giotto <END>
+Quanti anni ha <START:artist> michelangelo <END>
+Quanti anni ha <START:artist> leonardo da vinci <END>
+Quanti anni ha <START:artist> vincent van gogh <END>
+Quanti anni ha <START:artist> caravaggio <END>
+Quanti anni ha <START:artist> cimabue <END>
+Quanti anni ha <START:artist> salvador dalì <END>
+Quanti anni ha <START:artist> sandro botticelli <END>
+Quanti anni ha <START:artist> leonardo <END>
+Quanti anni ha <START:artist> donatello <END>
+Quanti anni ha <START:artist> raffello <END>
+Quanti anni ha <START:artist> goustave corbet <END>
+Quanti anni ha <START:artist> perugino <END>
+Quanti anni ha <START:artist> giorgio de chirico <END>
+Quanti anni ha <START:artist> william turne <END>
+Quanti anni ha <START:artist> paul cèzanne <END>
+Quanti anni ha <START:artist> andy warhol <END>
+Quanti anni aveva <START:artist> picasso <END>
+Quanti anni aveva <START:artist> giotto <END>
+Quanti anni aveva <START:artist> michelangelo <END>
+Quanti anni aveva <START:artist> leonardo da vinci <END>
+Quanti anni aveva <START:artist> vincent van gogh <END>
+Quanti anni aveva <START:artist> caravaggio <END>
+Quanti anni aveva <START:artist> cimabue <END>
+Quanti anni aveva <START:artist> salvador dalì <END>
+Quanti anni aveva <START:artist> sandro botticelli <END>
+Quanti anni aveva <START:artist> leonardo <END>
+Quanti anni aveva <START:artist> donatello <END>
+Quanti anni aveva <START:artist> raffello <END>
+Quanti anni aveva <START:artist> goustave corbet <END>
+Quanti anni aveva <START:artist> perugino <END>
+Quanti anni aveva <START:artist> giorgio de chirico <END>
+Quanti anni aveva <START:artist> william turne <END>
+Quanti anni aveva <START:artist> paul cèzanne <END>
+Quanti anni aveva <START:artist> andy warhol <END>
+Quanto è alto <START:artist> picasso <END>
+Quanto è alto <START:artist> giotto <END>
+Quanto è alto <START:artist> michelangelo <END>
+Quanto è alto <START:artist> leonardo da vinci <END>
+Quanto è alto <START:artist> vincent van gogh <END>
+Quanto è alto <START:artist> caravaggio <END>
+Quanto è alto <START:artist> cimabue <END>
+Quanto è alto <START:artist> salvador dalì <END>
+Quanto è alto <START:artist> sandro botticelli <END>
+Quanto è alto <START:artist> leonardo <END>
+Quanto è alto <START:artist> donatello <END>
+Quanto è alto <START:artist> raffello <END>
+Quanto è alto <START:artist> goustave corbet <END>
+Quanto è alto <START:artist> perugino <END>
+Quanto è alto <START:artist> giorgio de chirico <END>
+Quanto è alto <START:artist> william turne <END>
+Quanto è alto <START:artist> paul cèzanne <END>
+Quanto è alto <START:artist> andy warhol <END>
+Quanto era alto <START:artist> picasso <END>
+Quanto era alto <START:artist> giotto <END>
+Quanto era alto <START:artist> michelangelo <END>
+Quanto era alto <START:artist> leonardo da vinci <END>
+Quanto era alto <START:artist> vincent van gogh <END>
+Quanto era alto <START:artist> caravaggio <END>
+Quanto era alto <START:artist> cimabue <END>
+Quanto era alto <START:artist> salvador dalì <END>
+Quanto era alto <START:artist> sandro botticelli <END>
+Quanto era alto <START:artist> leonardo <END>
+Quanto era alto <START:artist> donatello <END>
+Quanto era alto <START:artist> raffello <END>
+Quanto era alto <START:artist> goustave corbet <END>
+Quanto era alto <START:artist> perugino <END>
+Quanto era alto <START:artist> giorgio de chirico <END>
+Quanto era alto <START:artist> william turne <END>
+Quanto era alto <START:artist> paul cèzanne <END>
+Quanto era alto <START:artist> andy warhol <END>
+Quanto pesa <START:artist> picasso <END>
+Quanto pesa <START:artist> giotto <END>
+Quanto pesa <START:artist> michelangelo <END>
+Quanto pesa <START:artist> leonardo da vinci <END>
+Quanto pesa <START:artist> vincent van gogh <END>
+Quanto pesa <START:artist> caravaggio <END>
+Quanto pesa <START:artist> cimabue <END>
+Quanto pesa <START:artist> salvador dalì <END>
+Quanto pesa <START:artist> sandro botticelli <END>
+Quanto pesa <START:artist> leonardo <END>
+Quanto pesa <START:artist> donatello <END>
+Quanto pesa <START:artist> raffello <END>
+Quanto pesa <START:artist> goustave corbet <END>
+Quanto pesa <START:artist> perugino <END>
+Quanto pesa <START:artist> giorgio de chirico <END>
+Quanto pesa <START:artist> william turne <END>
+Quanto pesa <START:artist> paul cèzanne <END>
+Quanto pesa <START:artist> andy warhol <END>
+In quale periodo è vissuto <START:artist> picasso <END>
+In quale periodo è vissuto <START:artist> giotto <END>
+In quale periodo è vissuto <START:artist> michelangelo <END>
+In quale periodo è vissuto <START:artist> leonardo da vinci <END>
+In quale periodo è vissuto <START:artist> vincent van gogh <END>
+In quale periodo è vissuto <START:artist> caravaggio <END>
+In quale periodo è vissuto <START:artist> cimabue <END>
+In quale periodo è vissuto <START:artist> salvador dalì <END>
+In quale periodo è vissuto <START:artist> sandro botticelli <END>
+In quale periodo è vissuto <START:artist> leonardo <END>
+In quale periodo è vissuto <START:artist> donatello <END>
+In quale periodo è vissuto <START:artist> raffello <END>
+In quale periodo è vissuto <START:artist> goustave corbet <END>
+In quale periodo è vissuto <START:artist> perugino <END>
+In quale periodo è vissuto <START:artist> giorgio de chirico <END>
+In quale periodo è vissuto <START:artist> william turne <END>
+In quale periodo è vissuto <START:artist> paul cèzanne <END>
+In quale periodo è vissuto <START:artist> andy warhol <END>
+Ci sono autoritratti di <START:artist> picasso <END>
+Ci sono autoritratti di <START:artist> giotto <END>
+Ci sono autoritratti di <START:artist> michelangelo <END>
+Ci sono autoritratti di <START:artist> leonardo da vinci <END>
+Ci sono autoritratti di <START:artist> vincent van gogh <END>
+Ci sono autoritratti di <START:artist> caravaggio <END>
+Ci sono autoritratti di <START:artist> cimabue <END>
+Ci sono autoritratti di <START:artist> salvador dalì <END>
+Ci sono autoritratti di <START:artist> sandro botticelli <END>
+Ci sono autoritratti di <START:artist> leonardo <END>
+Ci sono autoritratti di <START:artist> donatello <END>
+Ci sono autoritratti di <START:artist> raffello <END>
+Ci sono autoritratti di <START:artist> goustave corbet <END>
+Ci sono autoritratti di <START:artist> perugino <END>
+Ci sono autoritratti di <START:artist> giorgio de chirico <END>
+Ci sono autoritratti di <START:artist> william turne <END>
+Ci sono autoritratti di <START:artist> paul cèzanne <END>
+Ci sono autoritratti di <START:artist> andy warhol <END>
+Qual è la tecnica scultorea di <START:artist> picasso <END>
+Qual è la tecnica scultorea di <START:artist> giotto <END>
+Qual è la tecnica scultorea di <START:artist> michelangelo <END>
+Qual è la tecnica scultorea di <START:artist> leonardo da vinci <END>
+Qual è la tecnica scultorea di <START:artist> vincent van gogh <END>
+Qual è la tecnica scultorea di <START:artist> caravaggio <END>
+Qual è la tecnica scultorea di <START:artist> cimabue <END>
+Qual è la tecnica scultorea di <START:artist> salvador dalì <END>
+Qual è la tecnica scultorea di <START:artist> sandro botticelli <END>
+Qual è la tecnica scultorea di <START:artist> leonardo <END>
+Qual è la tecnica scultorea di <START:artist> donatello <END>
+Qual è la tecnica scultorea di <START:artist> raffello <END>
+Qual è la tecnica scultorea di <START:artist> goustave corbet <END>
+Qual è la tecnica scultorea di <START:artist> perugino <END>
+Qual è la tecnica scultorea di <START:artist> giorgio de chirico <END>
+Qual è la tecnica scultorea di <START:artist> william turne <END>
+Qual è la tecnica scultorea di <START:artist> paul cèzanne <END>
+Qual è la tecnica scultorea di <START:artist> andy warhol <END>
+A quale corrente artistica appartiene <START:artist> picasso <END>
+A quale corrente artistica appartiene <START:artist> giotto <END>
+A quale corrente artistica appartiene <START:artist> michelangelo <END>
+A quale corrente artistica appartiene <START:artist> leonardo da vinci <END>
+A quale corrente artistica appartiene <START:artist> vincent van gogh <END>
+A quale corrente artistica appartiene <START:artist> caravaggio <END>
+A quale corrente artistica appartiene <START:artist> cimabue <END>
+A quale corrente artistica appartiene <START:artist> salvador dalì <END>
+A quale corrente artistica appartiene <START:artist> sandro botticelli <END>
+A quale corrente artistica appartiene <START:artist> leonardo <END>
+A quale corrente artistica appartiene <START:artist> donatello <END>
+A quale corrente artistica appartiene <START:artist> raffello <END>
+A quale corrente artistica appartiene <START:artist> goustave corbet <END>
+A quale corrente artistica appartiene <START:artist> perugino <END>
+A quale corrente artistica appartiene <START:artist> giorgio de chirico <END>
+A quale corrente artistica appartiene <START:artist> william turne <END>
+A quale corrente artistica appartiene <START:artist> paul cèzanne <END>
+A quale corrente artistica appartiene <START:artist> andy warhol <END>
+Di chi era figlio <START:artist> picasso <END>
+Di chi era figlio <START:artist> giotto <END>
+Di chi era figlio <START:artist> michelangelo <END>
+Di chi era figlio <START:artist> leonardo da vinci <END>
+Di chi era figlio <START:artist> vincent van gogh <END>
+Di chi era figlio <START:artist> caravaggio <END>
+Di chi era figlio <START:artist> cimabue <END>
+Di chi era figlio <START:artist> salvador dalì <END>
+Di chi era figlio <START:artist> sandro botticelli <END>
+Di chi era figlio <START:artist> leonardo <END>
+Di chi era figlio <START:artist> donatello <END>
+Di chi era figlio <START:artist> raffello <END>
+Di chi era figlio <START:artist> goustave corbet <END>
+Di chi era figlio <START:artist> perugino <END>
+Di chi era figlio <START:artist> giorgio de chirico <END>
+Di chi era figlio <START:artist> william turne <END>
+Di chi era figlio <START:artist> paul cèzanne <END>
+Di chi era figlio <START:artist> andy warhol <END>
+Come è morto <START:artist> picasso <END>
+Come è morto <START:artist> giotto <END>
+Come è morto <START:artist> michelangelo <END>
+Come è morto <START:artist> leonardo da vinci <END>
+Come è morto <START:artist> vincent van gogh <END>
+Come è morto <START:artist> caravaggio <END>
+Come è morto <START:artist> cimabue <END>
+Come è morto <START:artist> salvador dalì <END>
+Come è morto <START:artist> sandro botticelli <END>
+Come è morto <START:artist> leonardo <END>
+Come è morto <START:artist> donatello <END>
+Come è morto <START:artist> raffello <END>
+Come è morto <START:artist> goustave corbet <END>
+Come è morto <START:artist> perugino <END>
+Come è morto <START:artist> giorgio de chirico <END>
+Come è morto <START:artist> william turne <END>
+Come è morto <START:artist> paul cèzanne <END>
+Come è morto <START:artist> andy warhol <END>
+C'è un quadro di <START:artist> picasso <END> in questo museo
+C'è un quadro di <START:artist> giotto <END> in questo museo
+C'è un quadro di <START:artist> michelangelo <END> in questo museo
+C'è un quadro di <START:artist> leonardo da vinci <END> in questo museo
+C'è un quadro di <START:artist> vincent van gogh <END> in questo museo
+C'è un quadro di <START:artist> caravaggio <END> in questo museo
+C'è un quadro di <START:artist> cimabue <END> in questo museo
+C'è un quadro di <START:artist> salvador dalì <END> in questo museo
+C'è un quadro di <START:artist> sandro botticelli <END> in questo museo
+C'è un quadro di <START:artist> leonardo <END> in questo museo
+C'è un quadro di <START:artist> donatello <END> in questo museo
+C'è un quadro di <START:artist> raffello <END> in questo museo
+C'è un quadro di <START:artist> goustave corbet <END> in questo museo
+C'è un quadro di <START:artist> perugino <END> in questo museo
+C'è un quadro di <START:artist> giorgio de chirico <END> in questo museo
+C'è un quadro di <START:artist> william turne <END> in questo museo
+C'è un quadro di <START:artist> paul cèzanne <END> in questo museo
+C'è un quadro di <START:artist> andy warhol <END> in questo museo
+C'è un'opera di <START:artist> picasso <END> in questo museo
+C'è un'opera di <START:artist> giotto <END> in questo museo
+C'è un'opera di <START:artist> michelangelo <END> in questo museo
+C'è un'opera di <START:artist> leonardo da vinci <END> in questo museo
+C'è un'opera di <START:artist> vincent van gogh <END> in questo museo
+C'è un'opera di <START:artist> caravaggio <END> in questo museo
+C'è un'opera di <START:artist> cimabue <END> in questo museo
+C'è un'opera di <START:artist> salvador dalì <END> in questo museo
+C'è un'opera di <START:artist> sandro botticelli <END> in questo museo
+C'è un'opera di <START:artist> leonardo <END> in questo museo
+C'è un'opera di <START:artist> donatello <END> in questo museo
+C'è un'opera di <START:artist> raffello <END> in questo museo
+C'è un'opera di <START:artist> goustave corbet <END> in questo museo
+C'è un'opera di <START:artist> perugino <END> in questo museo
+C'è un'opera di <START:artist> giorgio de chirico <END> in questo museo
+C'è un'opera di <START:artist> william turne <END> in questo museo
+C'è un'opera di <START:artist> paul cèzanne <END> in questo museo
+C'è un'opera di <START:artist> andy warhol <END> in questo museo

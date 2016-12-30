@@ -3,6 +3,8 @@ package core;
 import java.util.HashMap;
 import java.util.List;
 
+import utility.Pair;
+
 public class RightMatchAnnotator extends AnnotationStrategy
 {
 	
@@ -17,10 +19,10 @@ public class RightMatchAnnotator extends AnnotationStrategy
 	}
 
 	@Override
-	public void annotatorStrategy(Object o)
+	public HashMap<String, List<Pair<Integer, Integer>>> annotatorStrategy(Object o)
 	{
 		Interpreter i = (Interpreter) o;
-		i.execute(data, mappedElements);
+		return i.execute(data, mappedElements);
 	}
-
+	
 }

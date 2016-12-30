@@ -10,6 +10,6 @@ public interface ResourcesAcquisitionInterface
 	/*List<String> getOpere(Connection connection, String table, String name);
 	List<String> getArtists(Connection connection, String table, String name);
 	*/
-	void getByFile (File file);
+	List<String> getByFile (File file);
 	Connection getConnection();
 }

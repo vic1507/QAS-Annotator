@@ -9,9 +9,8 @@ class Pair:
 def printPair(Pair):
     print(str(Pair.begin) + "," + str(Pair.end))
 
-myQuestion = raw_input ("Inserisci la domanda").lower()
               
-words = myQuestion.split(" ")
+words = myQuestion.lower().split(" ")
 
 begin_time = time.time()
 
@@ -77,11 +76,14 @@ def research(pattern, text, charachterRange):
             i -= 1
         if j == -1: 
             foundElement.append(i + 1) 
-        skipValue += skipList[ord(text[skipValue])]
+        if (ord(text[skipValue])>256):
+            skipValue += patternLength
+        else:
+            skipValue += skipList[ord(text[skipValue])]
     return foundElement
 
 
-text = myQuestion
+text = myQuestion.lower()
 
 solutionArray = {}
 positionValues = []

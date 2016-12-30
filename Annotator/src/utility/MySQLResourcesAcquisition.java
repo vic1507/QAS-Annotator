@@ -29,19 +29,22 @@ public class MySQLResourcesAcquisition implements ResourcesAcquisitionInterface
 		this.mappedTypes = new HashMap<String,String>();
 	}
 
-	public void getByFile(File file)
+	public List<String> getByFile(File file)
 	{
+		List<String>data = new ArrayList<>();
 		String path = file.getAbsolutePath();
 		try
 		{
 			data = new ArrayList<String>();
 			FileReader fr = new FileReader(path);
 			BufferedReader br = new BufferedReader(fr);
-			while (br.readLine() != null)
+			String s = br.readLine();
+			while (s != null)
 			{
-				String [] model = br.readLine().split("::");
+				String [] model = s.split("::");
 				data.add(model[0]);
 				mappedTypes.put(model[0].toLowerCase(), model[1].toLowerCase());
+				s=br.readLine();
 			}
 			br.close();
 			fr.close();
@@ -50,6 +53,7 @@ public class MySQLResourcesAcquisition implements ResourcesAcquisitionInterface
 		{
 			JOptionPane.showMessageDialog(null, "Errore durante la lettura dei dati");
 		}
+		return data;
 	}
 
 	

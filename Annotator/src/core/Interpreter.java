@@ -5,6 +5,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Scanner;
 import java.util.Set;
 
 
@@ -17,16 +18,36 @@ public class Interpreter
 {
 	File myFile;
 	HashMap<String, List<Pair<Integer, Integer>>> annotatedElements;
-
+	private boolean input;
+	private String myQuestion;
+	
 	public Interpreter(File file)
 	{
 		myFile = file;
 		annotatedElements = new HashMap<>();
+		input = false;
 	}
 
-	public void execute(List<String> data, HashMap<String,String> mappedElements)
+	public void setDataExtra(String analyze)
 	{
+		this.input = true;
+		this.myQuestion = analyze;
+	}
+	
+	public HashMap<String, List<Pair<Integer, Integer>>> execute(List<String> data, HashMap<String,String> mappedElements)
+	{
+		
 		PythonInterpreter pi = new PythonInterpreter();
+		
+		if (input)
+			pi.set("myQuestion", this.myQuestion);
+		else
+		{
+			Scanner in = new Scanner (System.in);
+			System.out.println("Inserisci la domanda");
+			String pass = in.nextLine();
+			pi.set("myQuestion", pass);
+		}
 		pi.set("dataset", data);
 		pi.execfile(myFile.getAbsolutePath());
 		PyDictionary pd = (PyDictionary) pi.get("solutionArray");
@@ -55,8 +76,10 @@ public class Interpreter
 		}
 		
 		System.out.println("tempo di esecuzione annotazione :" + (final_time - begin_time));
-
+		 
 		pi.close();
+		
+		return annotatedElements;
 	}
 
 

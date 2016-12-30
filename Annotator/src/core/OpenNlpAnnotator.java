@@ -9,6 +9,8 @@ import java.nio.charset.Charset;
 import java.util.Collections;
 import java.util.Scanner;
 
+import javax.swing.JOptionPane;
+
 import opennlp.tools.namefind.NameFinderME;
 import opennlp.tools.namefind.NameSample;
 import opennlp.tools.namefind.NameSampleDataStream;
@@ -31,7 +33,7 @@ public class OpenNlpAnnotator extends AnnotationStrategy
 
 	@SuppressWarnings({ "deprecation", "unused" })
 	@Override
-	public void annotatorStrategy(Object o)
+	public Object annotatorStrategy(Object o)
 	{
 		try
 		{
@@ -60,7 +62,7 @@ public class OpenNlpAnnotator extends AnnotationStrategy
 
 			System.err.println("inserisci la domanda");
 			Scanner input = new Scanner(System.in);
-			String s = input.nextLine();
+			String s = input.nextLine().toLowerCase();
 			input.close();
 
 			InputStream modelIn = new FileInputStream(o.toString());
@@ -91,9 +93,9 @@ public class OpenNlpAnnotator extends AnnotationStrategy
 		
 		} catch (Exception e)
 		{
-			e.printStackTrace();
-		}
-
+			JOptionPane.showMessageDialog(null,e.getStackTrace());
+			}
+		return null;
 	}
 
 }
