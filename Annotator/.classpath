@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_101"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jython"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jdbc"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/apacheopennlp"/>
+	<classpathentry kind="lib" path="C:/Users/Vic/workspaceNeon/Annotator/libs/jsoup-1.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vic/workspaceNeon/Annotator/libs/jsoup-1.10.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vic/workspaceNeon/Annotator/libs/jsoup-1.10.1-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
