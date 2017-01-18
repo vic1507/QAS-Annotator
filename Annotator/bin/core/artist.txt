@@ -1,0 +1,32 @@
+Chi è <START:artist> OBJECT <END> 
+<START:artist> OBJECT <END> ha dipinto la Gioconda
+<START:artist> OBJECT <END> dipinse Guernica
+Chi è <START:artist> OBJECT <END>
+Chi era il maestro <START:artist> OBJECT <END>
+Chi era il maestro di <START:artist> OBJECT <END>
+Qual è la biografia di <START:artist> OBJECT <END>
+Quali sono le prime opere di <START:artist> OBJECT <END>
+Quali sono le opere incompiute di <START:artist> OBJECT <END>
+Quale è lo stile di <START:artist> OBJECT <END>
+Dove è nato <START:artist> OBJECT <END>
+Dove ha trascorso l'infanzia <START:artist> OBJECT <END>
+Dove ha trascorso la vecchiaia <START:artist> OBJECT <END>
+Dove ha trascorso la vita <START:artist> OBJECT <END>
+Dove si è formato <START:artist> OBJECT <END>
+Dove ha vissuto <START:artist> OBJECT <END>
+Dove è morto <START:artist> OBJECT <END>
+Dove è stato sepolto <START:artist> OBJECT <END>
+Quando è nato <START:artist> OBJECT <END>
+Quando è morto <START:artist> OBJECT <END>
+Quanti anni ha <START:artist> OBJECT <END>
+Quanti anni aveva <START:artist> OBJECT <END>
+Quanto è alto <START:artist> OBJECT <END>
+Quanto era alto <START:artist> OBJECT <END>
+Quanto pesa <START:artist> OBJECT <END>
+In quale periodo è vissuto <START:artist> OBJECT <END>
+Ci sono autoritratti di <START:artist> OBJECT <END>
+Qual è la tecnica scultorea di <START:artist> OBJECT <END>
+A quale corrente artistica appartiene <START:artist> OBJECT <END>
+Di chi era figlio <START:artist> OBJECT <END>
+Come è morto <START:artist> OBJECT <END>
+C'è un quadro di <START:artist> OBJECT <END> in questo museo

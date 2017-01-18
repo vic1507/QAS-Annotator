@@ -1,0 +1,38 @@
+This is the readme file for the downloaded training and development
+sets of the Dependency Parsing for Information Extraction (DPIE)
+Shared Task of Evalita 2014.
+
+Table of contents:
+1. Training data 
+2. Development data
+3. Data format
+
+1. Training data
+
+The training data consists of 165,845 tokens (7,398 sentences) from
+the "Italian Stanford Dependency Treebank" (file isdt_train.conll).
+ISDT derives from the merging and harmonization of two existing
+resources for the Italian language, i.e. the Turin University Treebank
+(TUT) and the ISST-TANL Treebank.
+
+2. Development data
+
+The development data consists of 12,703 tokens extracted from the same
+resource (file isdt_devel.conll).
+
+3. Data format
+
+- Data format adheres to the standard CoNLL format
+  
+- Data files contain sentences separated by a blank line. A sentence
+  consists of one or more tokens, each one starting on a new line. For
+  each token the following information is provided: id, word form,
+  lemma, coarse grained part-of-speech, fine grained part-of-speech,
+  morpho-syntactic features, the id of its governing head, the
+  dependency relation holding between the two
+
+- The part-of-speech and dependency tagsets are described at the following address:
+
+> http://medialab.di.unipi.it/wiki/ISDT
+
+
