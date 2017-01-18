@@ -9,9 +9,6 @@ class Pair:
 def printPair(Pair):
     print(str(Pair.begin) + "," + str(Pair.end))
 
-              
-words = myQuestion.lower().split(" ")
-
 begin_time = time.time()
 
 dict = {}
@@ -22,7 +19,7 @@ def letterKey(x):
 base = 101
 p = sys.maxsize
 
-#funzione hash (Rabin Karp rolling hash)
+#funzione hash (Rabin fingerprinting)
 def hashing (letter,base,index,p):
     return (letterKey(letter)*(base**(index)))%p
 
@@ -37,7 +34,7 @@ for element in words:
                 mySum+=hashing(letter,base,index-1,p)
         if not dict.get(mySum):
             dict[mySum] = []
-        dict.get(mySum).append(element.lower().rstrip("\n"))
+        dict.get(mySum).append(element.rstrip("\n"))
 
 allElementDict = {}
 
@@ -45,7 +42,7 @@ allElementDict = {}
 for line in dataset:
     mySum = 0
     index = 0
-    strippata = line.rstrip("\n").lower()
+    strippata = line.rstrip("\n")
     if strippata.__len__()>1:
         while index<2:
             mySum+= hashing(strippata[index], base, index,p)
@@ -75,7 +72,13 @@ def research(pattern, text, charachterRange):
             j -= 1
             i -= 1
         if j == -1: 
-            foundElement.append(i + 1) 
+            if (i == -1) and ((textLength==patternLength) or (text[i+patternLength+1]==" ")):
+                foundElement.append(i + 1) 
+            elif (text[i]==" "):    
+                if (i+patternLength+1>=textLength): 
+                    foundElement.append(i + 1)
+                elif(text[i+patternLength+1]==" ") or (text[i+patternLength+1]=="?"):
+                    foundElement.append(i+1)
         if (ord(text[skipValue])>256):
             skipValue += patternLength
         else:
@@ -83,15 +86,13 @@ def research(pattern, text, charachterRange):
     return foundElement
 
 
-text = myQuestion.lower()
-
 solutionArray = {}
 positionValues = []
 
 for element in dict:
     if allElementDict.get(element):
         for indexElement in allElementDict.get(element):
-            positionValues=research(indexElement, text, 256)
+            positionValues=research(indexElement,myQuestion, 256)
             if (positionValues.__len__() >0):
                 if not solutionArray.get(indexElement):
                     solutionArray[indexElement]=[]

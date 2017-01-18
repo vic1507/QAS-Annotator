@@ -1,8 +1,7 @@
 package gui;
 
-import dataFromWiki.*;
+import dataFromWiki.DataFromSite;
 import java.awt.Dimension;
-import java.io.IOException;
 
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
@@ -33,6 +32,7 @@ public class MainFrame extends JFrame
 				am.execute(annotator);
 			} else
 			{
+				@SuppressWarnings("unused")
 				DataFromSite p = new DataFromSite();
 			}
 		} catch (NullPointerException e)

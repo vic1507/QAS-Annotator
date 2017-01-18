@@ -28,7 +28,7 @@ public class MySQLResourcesAcquisition implements ResourcesAcquisitionInterface
 		this.data = new ArrayList<String>();
 		this.mappedTypes = new HashMap<String,String>();
 	}
-
+	
 	public List<String> getByFile(File file)
 	{
 		List<String>data = new ArrayList<>();
@@ -138,8 +138,8 @@ public class MySQLResourcesAcquisition implements ResourcesAcquisitionInterface
 			ResultSet res = cmd.executeQuery(query);
 			while (res.next())
 			{
-				dataFromDb.add(res.getString(name).toLowerCase());
-				mappedTypes.put(res.getString(name).toLowerCase(), table.toLowerCase());
+				dataFromDb.add(res.getString(name));
+				mappedTypes.put(res.getString(name), table.toLowerCase());
 			}
 			
 		} catch (SQLException e)

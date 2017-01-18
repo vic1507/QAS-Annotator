@@ -3,6 +3,7 @@ package core;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
@@ -26,31 +27,32 @@ public class GenerateModel
 			{
 				if (corr.contains("<START:artist>"))
 				{
-					toPrint.addAll(toAddAtModel(corr,artist, "artist"));
-
-				} if (corr.contains("<START:opera>"))
+					toPrint.addAll(addToModel(corr, artist, "artist"));
+				}
+				if (corr.contains("<START:opera>"))
 				{
-					toPrint.addAll(toAddAtModel(corr,opere, "opera"));
+					toPrint.addAll(addToModel(corr, opere, "opera"));
 				}
 				corr = br.readLine();
 			}
-			for (String s : toPrint)
+			for (int i =0; i< toPrint.size(); i++)
 			{
-				if (s.contains("OBJECT"))
+				if (toPrint.get(i).contains("OBJECT"))
 				{
 					for (String s2 : artist)
 					{
-						s = s.replaceAll("<START:artist> OBJECT", "<START:artist> " + s2);
+						String replace = toPrint.get(i).replaceAll("<START:artist> OBJECT", "<START:artist> " + s2);
+						toPrint.set(i,replace );
 					}
-					
+
 					for (String s3 : opere)
 					{
-						s= s.replaceAll("<START:opera> OBJECT", "<START:opere> " + s3);
-						
+						String replace = toPrint.get(i).replaceAll("<START:opera> OBJECT", "<START:opera> " + s3);
+						toPrint.set(i, replace);
 					}
-					
+
 				}
-				pw.println(s);
+				pw.println(toPrint.get(i));
 			}
 			br.close();
 			pw.close();
@@ -60,22 +62,22 @@ public class GenerateModel
 		}
 	}
 
-	private List<String> toAddAtModel(String corr, List<String> data, String type)
+	private List<String> addToModel(String corr, List<String> data, String type)
 	{
 		List<String> toReturn = new ArrayList<String>();
 		for (String s : data)
 		{
-			String toWrite = corr.replaceAll("<START:"+ type +"> OBJECT", "<START:"+ type +"> " + s);
+			String toWrite = corr.replaceAll("<START:" + type + "> OBJECT", "<START:" + type + "> " + s);
 			toReturn.add(toWrite);
 		}
 		return toReturn;
 	}
-	
-	public void addToTemplate(File input, File output)
+
+	public void addToTemplate(File input, String output)
 	{
 		try
 		{
-			PrintWriter pw2 = new PrintWriter(output);
+			FileWriter fw = new FileWriter(output, true);
 			FileReader fr = new FileReader(input);
 			BufferedReader br = new BufferedReader(fr);
 			String s2 = br.readLine();
@@ -83,16 +85,19 @@ public class GenerateModel
 			{
 				if (s2.contains("START"))
 				{
-					pw2.println(s2);
+					String writeS = s2.replaceAll("," , "");
+					fw.write("\n" + writeS);
 				}
 				s2 = br.readLine();
 			}
 			br.close();
-			pw2.close();
+			fw.flush();
+			fw.close();
 		} catch (Exception e)
 		{
 			e.printStackTrace();
 		}
+
 	}
-	
+
 }
