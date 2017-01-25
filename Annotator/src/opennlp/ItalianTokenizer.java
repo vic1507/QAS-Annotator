@@ -19,7 +19,7 @@ public class ItalianTokenizer
 
 	public String[] tokenize(String input)
 	{
-		String [] tokens = null;
+		String[] tokens = null;
 		try
 		{
 			InputStream modelIn = new FileInputStream("libs/italianModels/it-token.bin");
@@ -41,11 +41,13 @@ public class ItalianTokenizer
 						modelIn.close();
 					} catch (IOException e)
 					{
+						//TODO
 					}
 				}
 			}
 		} catch (Exception e)
 		{
+			//TODO
 			e.printStackTrace();
 		}
 		return tokens;

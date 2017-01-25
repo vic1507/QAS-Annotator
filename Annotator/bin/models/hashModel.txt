@@ -1,0 +1,78 @@
+9864::Caravaggio
+9877::Pablo Picasso
+9880::Sandro Boticelli
+10682::Michelangelo Buonarotti
+10691::Vincent Van Gogh
+9877::Paul Cèzanne
+9880::Salvador Dalì
+10975::Claude Monet
+9879::Raffaello Sanzio
+10277::Leonardo Da Vinci
+11175::Andy Warhol
+11888::Gustav Klimt
+10676::Giotto
+9864::Canaletto
+11285::Joan Miro
+9877::Paul Gaugin
+9877::Paul Klee
+10169::Edgar Degas
+11584::Francisco Goya
+11888::Gustave Courbet
+9874::Marc Chagall
+10685::Pieter Paul Rubens
+11074::Amedeo Modigliani
+10692::William Turner
+11584::Francis Bacon
+9864::Camille Pissarro
+10672::Cimabue
+9877::Paolo Uccello
+11293::Roy Lichtenstein
+9865::David Bowie
+11094::Umberto Boccioni
+10169::Edward Hopper
+10685::Picasso
+11279::Donatello
+10277::Leonardo
+9879::Raffello
+10682::Michelangelo
+10169::Edvard Munch
+11894::Munch
+10676::Gioconda
+9875::Nascita di Venere
+4015::L'urlo
+10993::Ultima Cena
+10287::Venere di Urbino
+10676::Giudizio Universale
+9865::David
+9874::Madonna 
+9874::Madonna della pietà
+9864::Canestra di frutta
+11581::Creazione di Adamo
+9864::Cappella Sistina
+11278::Colosseo
+10987::Olympia
+10287::Venere di Milo
+11888::Guernica
+10082::Scudo con testa di Medusa
+11594::Primavera
+9865::Darma con l'ermellino
+10685::Pietà vaticana
+11074::Amore e Psiche
+10277::Le muse inquietanti
+9875::Natività con i santi Lorenzo e Francesco d'Assisi
+9879::Ragazza col turbante
+9863::Bacco
+3305::I papaveri
+10269::Deposizione
+9863::Battaglia di San Romano
+11183::Incredulità di san Tommaso
+10284::Sette opere di Misericordia
+10277::Les demoiselles d'Avignon
+11297::Vocazione di san Matteo
+3305::I mangiatori di patate
+11295::Tondo Doni
+9873::Las Meninas
+9874::Madonna del Cardellino
+11580::Bronzi di Riace
+10683::Nike di Samotracia
+11278::Colosso di Rodi

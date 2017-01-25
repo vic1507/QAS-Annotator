@@ -24,6 +24,7 @@ import utility.Pair;
 
 public class DataFromSite
 {
+	@SuppressWarnings("unused")
 	public DataFromSite()
 	{
 		try
@@ -40,7 +41,7 @@ public class DataFromSite
 			rs.getMappedTypes().put("Caravaggio", "artist");
 			AnnotationStrategy as = new RightMatchAnnotator(dataset, rs.getMappedTypes());
 
-			Interpreter i = new Interpreter(new File("src/core/annotator.py"));
+			Interpreter i = new Interpreter(new File("src/core/annotator.py"),true);
 
 			HashMap<String, String> mt = rs.getMappedTypes();
 
@@ -55,10 +56,9 @@ public class DataFromSite
 				System.out.println(e.size());
 				Set<String> firstList = new TreeSet<String>();
 				String processedInput = e2.text().replaceAll(regex, " ");
-				i.setDataExtra(processedInput);
 
 				@SuppressWarnings("unchecked")
-				HashMap<String, List<Pair<Integer, Integer>>> myRes = (HashMap<String, List<Pair<Integer, Integer>>>) as.annotatorStrategy(i);
+				HashMap<String, List<Pair<Integer, Integer>>> myRes = (HashMap<String, List<Pair<Integer, Integer>>>) as.annotatorStrategy(i,processedInput);
 				for (Map.Entry<String, List<Pair<Integer, Integer>>> entry : myRes.entrySet())
 				{
 					String tmp = processedInput;
@@ -96,7 +96,7 @@ public class DataFromSite
 			}
 			pw.close();
 			GenerateModel gm = new GenerateModel();
-			gm.addToTemplate(f, "src/core/questionTemplate.txt");
+			gm.addToTemplate(f, "src/models/questionTemplate.txt");
 		} catch (Exception e)
 		{
 			e.printStackTrace();

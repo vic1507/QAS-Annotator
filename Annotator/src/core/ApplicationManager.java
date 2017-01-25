@@ -3,7 +3,9 @@ package core;
 import java.io.File;
 import java.sql.Connection;
 
+import opennlp.tools.namefind.TokenNameFinderModel;
 import utility.MySQLResourcesAcquisition;
+import utility.QuestionInput;
 
 public class ApplicationManager
 {
@@ -16,20 +18,23 @@ public class ApplicationManager
 			
 			rs.getData().addAll(rs.getDataFromDb(connection, "artist", "name", ""));
 			rs.getData().addAll(rs.getDataFromDb(connection, "opere", "operename", ""));
-			
+		
 //			rs.getData().addAll(rs.getByFile(new File("src/core/modello")));
 			
 			if (type.equals("OpenNlp"))
 			{
-				GenerateModel gm = new GenerateModel();
-				gm.execute(rs.getDataFromDb(connection, "artist", "name", ""),rs.getDataFromDb(connection,  "opere", "operename", ""));
-				AnnotationStrategy as = new OpenNlpAnnotator("src/core/it-ner-art.bin", "src/core/model.txt");
-				as.annotatorStrategy("src/core/it-ner-art.bin.bin");
+//				GenerateModel gm = new GenerateModel();
+//				gm.execute(rs.getDataFromDb(connection, "artist", "name", ""),rs.getDataFromDb(connection,  "opere", "operename", ""));
+//				OpenNlpAnnotator.trainModel("src/core/model.txt", "src/core/it-ner-art.bin");
+				File f = new File("src/models/it-ner-art.bin");
+				TokenNameFinderModel model = new TokenNameFinderModel(f);
+				AnnotationStrategy as = new OpenNlpAnnotator(model);
+				as.annotatorStrategy("src/models/it-ner-art.bin", QuestionInput.insertInput());
 			}
 			else 
 			{
 				AnnotationStrategy as = new RightMatchAnnotator(rs.getData(), rs.getMappedTypes());
-				as.annotatorStrategy(new Interpreter(new File("src/core/annotator.py")) );
+				as.annotatorStrategy(new Interpreter(new File("src/core/annotator.py"),false) , QuestionInput.insertInput());
 			}
 			
 			connection.close();

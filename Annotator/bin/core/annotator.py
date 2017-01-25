@@ -34,24 +34,41 @@ for element in words:
                 mySum+=hashing(letter,base,index-1,p)
         if not dict.get(mySum):
             dict[mySum] = []
-        dict.get(mySum).append(element.rstrip("\n"))
+        dict.get(mySum).append(element.rstrip("\n").encode("utf-8"))
 
-allElementDict = {}
 
-#hashing degli elementi presi da file o da db(prime due lettere)
-for line in dataset:
-    mySum = 0
-    index = 0
-    strippata = line.rstrip("\n")
-    if strippata.__len__()>1:
-        while index<2:
-            mySum+= hashing(strippata[index], base, index,p)
-            index=index+1 
-        if not allElementDict.get(mySum):
-            allElementDict[mySum]=[]
-        allElementDict.get(mySum).append(strippata)
-                
+allElementDict={}
 
+if (writeOnModel):
+   
+    writeModel = open("src/models/hashModel.txt","w")
+
+    #hashing degli elementi presi da file o da db(prime due lettere)
+    for line in dataset:
+        mySum = 0
+        index = 0
+        strippata = line.rstrip("\n")
+        if strippata.__len__()>1:
+            while index<2:
+                mySum+= hashing(strippata[index], base, index,p)
+                index=index+1 
+                if not allElementDict.get(mySum):
+                    allElementDict[mySum]=[]
+                allElementDict.get(mySum).append(strippata)
+            writeModel.write(str(mySum) + "::"+strippata.encode("utf-8") + "\n")
+    writeModel.close()
+
+else:
+    inputFromFile = open("src/models/hashModel.txt","r")
+    for line in inputFromFile.readlines():
+        data = line.rstrip("\n").split("::")
+        key = int(data[0])
+        value = data[1]
+        if not allElementDict.get(key):
+            allElementDict[key] = []
+        allElementDict.get(key).append(value)
+    inputFromFile.close()
+    
 #algoritmo di ricerca (boyyer more hoolands)
 def research(pattern, text, charachterRange):
     foundElement = []

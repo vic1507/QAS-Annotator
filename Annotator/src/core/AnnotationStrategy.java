@@ -2,5 +2,5 @@ package core;
 
 public abstract class AnnotationStrategy
 {
-	public abstract Object annotatorStrategy (Object o);
+	public abstract Object annotatorStrategy (Object o, String question);
 }

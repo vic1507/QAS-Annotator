@@ -19,10 +19,10 @@ public class RightMatchAnnotator extends AnnotationStrategy
 	}
 
 	@Override
-	public HashMap<String, List<Pair<Integer, Integer>>> annotatorStrategy(Object o)
+	public HashMap<String, List<Pair<Integer, Integer>>> annotatorStrategy(Object o, String question)
 	{
 		Interpreter i = (Interpreter) o;
-		return i.execute(data, mappedElements);
+		return i.execute(data, mappedElements, question);
 	}
 	
 }

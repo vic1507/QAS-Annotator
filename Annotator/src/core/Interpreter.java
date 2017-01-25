@@ -5,7 +5,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.Scanner;
 import java.util.Set;
 
 import org.python.core.PyDictionary;
@@ -18,49 +17,30 @@ public class Interpreter
 {
 	File myFile;
 	HashMap<String, List<Pair<Integer, Integer>>> annotatedElements;
-	private boolean input;
-	private String myQuestion;
-
-	public Interpreter(File file)
+	boolean writeOnModel;
+	
+	public Interpreter(File file, boolean writeOnModel)
 	{
 		myFile = file;
 		annotatedElements = new HashMap<>();
-		input = false;
+		this.writeOnModel = writeOnModel;
 	}
 
-	public List<String> generateTokens (String input)
+	public List<String> generateTokens(String input)
 	{
 		List<String> tokens = new ArrayList<String>();
 		for (String s : ItalianTokenizer.getInstance().tokenize(input))
 			tokens.add(s);
 		return tokens;
 	}
-	
-	public void setDataExtra(String analyze)
-	{
-		this.input = true;
-		this.myQuestion = analyze;
-	}
 
-	public HashMap<String, List<Pair<Integer, Integer>>> execute(List<String> data, HashMap<String, String> mappedElements)
+	public HashMap<String, List<Pair<Integer, Integer>>> execute(List<String> data, HashMap<String, String> mappedElements, String input)
 	{
-
 		PythonInterpreter pi = new PythonInterpreter();
-
-		if (input)
-		{
-			pi.set("myQuestion", this.myQuestion);
-			pi.set("words", ItalianTokenizer.getInstance().tokenize(this.myQuestion));
-		} else
-		{
-			Scanner in = new Scanner(System.in);
-			System.out.println("Inserisci la domanda");
-			String pass = in.nextLine();
-			in.close();
-			pi.set("myQuestion", pass);
-			List<String> words = generateTokens(pass);
-			pi.set("words", words);
-		}
+		pi.set("writeOnModel", this.writeOnModel);
+		pi.set("myQuestion", input);
+		List<String> words = generateTokens(input);
+		pi.set("words", words);
 		pi.set("dataset", data);
 		pi.execfile(myFile.getAbsolutePath());
 		PyDictionary pd = (PyDictionary) pi.get("solutionArray");

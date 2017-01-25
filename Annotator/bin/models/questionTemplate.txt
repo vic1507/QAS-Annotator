@@ -1,0 +1,128 @@
+Chi è <START:artist> OBJECT <END> ?
+Chi era <START:artist> OBJECT <END> ?
+Chi ha commissionato la <START:opera> OBJECT <END> ? 
+Chi ha commissionato <START:opera> OBJECT <END> ? 
+Chi ha scolpito il <START:opera> OBJECT <END> ?
+Chi ha scolpito <START:opera> OBJECT <END> ?
+Chi ha costruito lo <START:opera> OBJECT <END> ?
+Chi ha costruito <START:opera> OBJECT <END> ?
+Chi ha restaurato i <START:opera> OBJECT <END> ?
+Chi ha restaurato <START:opera> OBJECT <END> ?
+Chi ha dipinto le <START:opera> OBJECT <END> ?
+Chi ha dipinto <START:opera> OBJECT <END> ?
+Chi dipinse <START:opera> OBJECT <END> ?
+Chi dipinse la <START:opera> OBJECT <END> ? 
+Chi ha finanziato il restauro del <START:opera> OBJECT <END> ?
+Chi è il proprietario della <START:opera> OBJECT <END> ?
+Chi è l'autore di <START:opera> OBJECT <END> ?
+Chi ha danneggiato il <START:opera> OBJECT <END> ?
+Chi ha danneggiato <START:opera> OBJECT <END> ?
+Chi ha collaborato alla costruzione di <START:opera> OBJECT <END> ?
+Chi è raffigurato nel <START:opera> OBJECT <END> ?
+Chi è raffigurato in <START:opera> OBJECT <END> ?
+Che cos'è il <START:opera> OBJECT <END> ? 
+Che cos'è <START:opera> OBJECT <END> ?
+Che cosa è la <START:opera> OBJECT <END> ?
+<START:artist> OBJECT <END> ha dipinto la <START:opera> OBJECT <END> ?
+<START:artist> OBJECT <END> ha dipinto <START:opera> OBJECT <END> ?
+<START:artist> OBJECT <END> dipinse la <START:opera> OBJECT <END> ?
+<START:artist> OBJECT <END> dipinse <START:opera> OBJECT <END> ?
+Quale materiale è stato usato per costruire il <START:opera> OBJECT <END> ?
+Quale materiale è stato usato per scolpire la <START:opera> OBJECT <END> ?
+Quale tecnica pittorica è stata usata per dipingere il <START:opera> OBJECT <END> ?
+Cosa rappresenta la <START:opera> OBJECT <END> ?
+Quale materiale è stato usato per scolpire <START:opera> OBJECT <END> ?
+Quale tecnica pittorica è stata usata per dipingere <START:opera> OBJECT <END> ?
+Cosa rappresenta <START:opera> OBJECT <END> ?
+Qual è lo stile di <START:opera> OBJECT <END> ?
+Quali sono le dimensioni di <START:opera> OBJECT <END> ?
+Cosa significa la <START:opera> OBJECT <END> ?
+Cosa significa <START:opera> OBJECT <END> ?
+Dove è stato dipinto il <START:opera> OBJECT <END> ?
+Dove è stato dipinto <START:opera> OBJECT <END> ?
+Dove è custodito il <START:opera> OBJECT <END> ?
+Dove è custodito <START:opera> OBJECT <END> ?
+Dove era esposta la <START:opera> OBJECT <END> ?
+Dove era esposta <START:opera> OBJECT <END> ?
+Dove sono stati trovati i <START:opera> OBJECT <END> ?
+Dove sono stati trovati <START:opera> OBJECT <END> ?
+Quando sono iniziati i lavori di costruzione del <START:opera> OBJECT <END> ?
+Quando sono terminati i lavori di costruzione degli <START:opera> OBJECT <END> ?
+Quando è stata ultimata la <START:opera> OBJECT <END> ?
+Quando è stata ultimata <START:opera> OBJECT <END> ?
+Quando è stato restaurato lo <START:opera> OBJECT <END> ?
+Quando è stato restaurato <START:opera> OBJECT <END> ?
+Quando è stato distrutto il <START:opera> OBJECT <END> ?
+Quando è stato distrutto <START:opera> OBJECT <END> ?
+Quando sono stati ritrovati i <START:opera> OBJECT <END> ?
+Quando sono stati ritrovati <START:opera> OBJECT <END> ?
+Quando è stata rubata la <START:opera> OBJECT <END> ?
+Quando è stata rubata <START:opera> OBJECT <END> ?
+Quanti anni ha la <START:opera> OBJECT <END> ?
+Quanti anni ha <START:opera> OBJECT <END> ?
+Quanti metri quadrati occupa la <START:opera> OBJECT <END> ?
+Quanti metri quadrati occupa <START:opera> OBJECT <END> ?
+Quanto è alta la <START:opera> OBJECT <END> ?
+Quanto è alta <START:opera> OBJECT <END> ?
+Quanto pesa lo <START:opera> OBJECT <END> ?
+Quanto pesa <START:opera> OBJECT <END> ?
+Quanto è grande la <START:opera> OBJECT <END> ?
+Quanto è grande <START:opera> OBJECT <END> ?
+Quante navate ci sono nella <START:opera> OBJECT <END> ?
+Quante navate ci sono in <START:opera> OBJECT <END> ?
+A quale periodo risale la <START:opera> OBJECT <END> ?
+A quale periodo risale <START:opera> OBJECT <END> ?
+Perchè il <START:opera> OBJECT <END> è a Roma ? 
+Perchè <START:opera> OBJECT <END> è a Milano ?
+Perchè il <START:opera> OBJECT <END> si trova a Parigi ?
+Perchè <START:opera> OBJECT <END> si trova a Londra? 
+Perchè la <START:opera> OBJECT <END> non è stata terminata ?
+Quanto vale lo <START:opera> OBJECT <END> ?
+Quanto è costato il <START:opera> OBJECT <END> ?
+Quanti anni ci sono voluti per costruire le <START:opera> OBJECT <END> ?
+Quanti anni ci sono voluti per ultimare la <START:opera> OBJECT <END> ?
+In quale periodo storico è stata dipinta la <START:opera> OBJECT <END> ?
+Con quale tecnica è stato dipinto il <START:opera> OBJECT <END> ?
+Che tipo di colori sono stati usati per dipingere lo <START:opera> OBJECT <END> ?
+Su quale materiale è stata dipinta la <START:opera> OBJECT <END> ?
+Che superficie occupa il <START:opera> OBJECT <END> ?
+Come è stato restaurato il <START:opera> OBJECT <END> ?
+Perchè questo quadro si chiama <START:opera> OBJECT <END> ?
+Perchè questa opera si chiama <START:opera> OBJECT <END> ?
+Ci sono altre <START:opera> OBJECT <END> ?
+Chi era <START:artist> OBJECT <END> ?
+Chi era il maestro <START:artist> OBJECT <END> ?
+Chi era il maestro di <START:artist> OBJECT <END> ?
+Chi è il proprietario della <START:opera> OBJECT <END> ?
+Chi è l'autore della <START:opera> OBJECT <END> ?
+Qual è la biografia di <START:artist> OBJECT <END> ?
+Quali sono le prime opere di <START:artist> OBJECT <END> ?
+Quali sono le opere incompiute di <START:artist> OBJECT <END> ?
+Quale è lo stile di <START:artist> OBJECT <END> ?
+Dove è nato <START:artist> OBJECT <END> ?
+Dove ha trascorso l'infanzia <START:artist> OBJECT <END> ?
+Dove ha trascorso la vecchiaia <START:artist> OBJECT <END> ?
+Dove ha trascorso la vita <START:artist> OBJECT <END> ?
+Dove si è formato <START:artist> OBJECT <END> ?
+Dove ha vissuto <START:artist> OBJECT <END> ?
+Dove è morto <START:artist> OBJECT <END> ?
+Dove è stato sepolto <START:artist> OBJECT <END> ?
+Quando è nato <START:artist> OBJECT <END> ?
+Quando è morto <START:artist> OBJECT <END> ?
+Quanti anni ha <START:artist> OBJECT <END> ?
+Quanti anni aveva <START:artist> OBJECT <END> ?
+Quanto è alto <START:artist> OBJECT <END> ?
+Quanto era alto <START:artist> OBJECT <END> ?
+Quanto pesa <START:artist> OBJECT <END> ?
+In quale periodo è vissuto <START:artist> OBJECT <END> ?
+Ci sono autoritratti di <START:artist> OBJECT <END> ?
+Qual è la tecnica scultorea di <START:artist> OBJECT <END> ?
+A quale corrente artistica appartiene <START:artist> OBJECT <END> ?
+Di chi era figlio <START:artist> OBJECT <END> ?
+Come è morto <START:artist> OBJECT <END> ?
+C'è un quadro di <START:artist> OBJECT <END> in questo museo ?
+Abbiamo opere di <START:artist> OBJECT <END> in questo museo ?
+Chi scrisse <START:opera> OBJECT <END> ?
+Chi scrisse la <START:opera> OBJECT <END> ?
+<START:artist> OBJECT <END> era il maestro di <START:artist> OBJECT <END> ?
+<START:opera> OBJECT <END> è una famosa opera di <START:artist> OBJECT <END> .

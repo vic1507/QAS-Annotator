@@ -13,15 +13,14 @@ import javax.swing.JOptionPane;
 
 public class GenerateModel
 {
-
 	public void execute(List<String> artist, List<String> opere)
 	{
 		try
 		{
 			List<String> toPrint = new ArrayList<String>();
-			FileReader fileReader = new FileReader(new File("src/core/questionTemplate.txt"));
+			FileReader fileReader = new FileReader(new File("src/models/questionTemplate.txt"));
 			BufferedReader br = new BufferedReader(fileReader);
-			PrintWriter pw = new PrintWriter(new File("src/core/model.txt"));
+			PrintWriter pw = new PrintWriter(new File("src/models/model.txt"));
 			String corr = br.readLine();
 			while (corr != null)
 			{

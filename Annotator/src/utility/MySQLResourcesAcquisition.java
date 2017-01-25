@@ -43,7 +43,7 @@ public class MySQLResourcesAcquisition implements ResourcesAcquisitionInterface
 			{
 				String [] model = s.split("::");
 				data.add(model[0]);
-				mappedTypes.put(model[0].toLowerCase(), model[1].toLowerCase());
+				mappedTypes.put(model[0], model[1].toLowerCase());
 				s=br.readLine();
 			}
 			br.close();

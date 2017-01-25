@@ -1,42 +1,45 @@
 package core;
 
-import java.util.Scanner;
+import java.util.ArrayList;
+import java.util.List;
 
 import opennlp.ItalianTokenizer;
 import opennlp.ItalianNER;
 import opennlp.TrainModel;
 import opennlp.tools.namefind.NameFinderME;
+import opennlp.tools.namefind.TokenNameFinderModel;
 import opennlp.tools.util.Span;
 
 public class OpenNlpAnnotator extends AnnotationStrategy
 {
+	private TokenNameFinderModel model;
 
-	private String onlpModelPath;
-	private String trainingDataFilePath;
-
-	public OpenNlpAnnotator(String onlpModelPath, String trainingDataFilePath)
+	public OpenNlpAnnotator(TokenNameFinderModel tnfm)
 	{
-		this.onlpModelPath = onlpModelPath;
-		this.trainingDataFilePath = trainingDataFilePath;
+		this.model = tnfm;
+	}
+
+	public static void trainModel(String trainingDataFilePath, String onlpModelPath)
+	{
+		TrainModel.train(trainingDataFilePath, onlpModelPath);
 	}
 
 	@Override
-	public Object annotatorStrategy(Object o)
+	public Object annotatorStrategy(Object o, String question)
 	{
-		System.err.println("inserisci la domanda");
-		Scanner input = new Scanner(System.in);
-		String s = input.nextLine();
-		input.close();
-		String[] tokens = ItalianTokenizer.getInstance().tokenize(s);
+		List<String> results = new ArrayList<String>();
+		String[] tokens = ItalianTokenizer.getInstance().tokenize(question);
 		for (String s2 : tokens)
 		{
 			System.out.println(s2);
 		}
-		ItalianNER ner = new ItalianNER(new NameFinderME(TrainModel.train(trainingDataFilePath, onlpModelPath)));
+		ItalianNER ner = new ItalianNER(new NameFinderME(model));
 		for (Span span : ner.entityRecognition(tokens))
+		{
 			System.out.println(span);
-
-		return null;
+			results.add(span.toString());
+		}
+		return results;
 	}
 
 }

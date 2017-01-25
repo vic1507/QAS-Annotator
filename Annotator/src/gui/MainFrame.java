@@ -7,6 +7,7 @@ import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
 import core.ApplicationManager;
+import core.OpenNlpAnnotator;
 
 public class MainFrame extends JFrame
 {
@@ -22,7 +23,7 @@ public class MainFrame extends JFrame
 	{
 		try
 		{
-			String[] pV = { "Annotator", "GenerateModel" };
+			String[] pV = { "Annotator", "ExtendsCorpora", "Test", "TrainModel" };
 			String gg = JOptionPane.showInputDialog(null, "Choose an operation", "Operation", JOptionPane.INFORMATION_MESSAGE, null, pV, pV[0]).toString();
 			if (gg.equals("Annotator"))
 			{
@@ -30,10 +31,18 @@ public class MainFrame extends JFrame
 				String annotator = JOptionPane.showInputDialog(null, "Choose an annotator", "Annotator", JOptionPane.INFORMATION_MESSAGE, null, possibleValues, possibleValues[0]).toString();
 				ApplicationManager am = new ApplicationManager();
 				am.execute(annotator);
-			} else
+			} else if (gg.equals("ExtendsCorpora"))
 			{
 				@SuppressWarnings("unused")
 				DataFromSite p = new DataFromSite();
+			}
+			else if (gg.equals("Test"))
+			{
+				//test
+			}
+			else if (gg.equals("TrainModel"))
+			{
+				OpenNlpAnnotator.trainModel("src/models/it-ner-art.bin", "src/models/model.txt");
 			}
 		} catch (NullPointerException e)
 		{
