@@ -1,7 +1,10 @@
 package gui;
 
 import dataFromWiki.DataFromSite;
+import utility.AnnotatorTest;
+
 import java.awt.Dimension;
+import java.io.File;
 
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
@@ -38,7 +41,10 @@ public class MainFrame extends JFrame
 			}
 			else if (gg.equals("Test"))
 			{
-				//test
+				AnnotatorTest at = new AnnotatorTest(AnnotatorTest.OPEN_NLP_ANNOTATOR);
+				at.readTestCase(new File ("src/models/testCase.txt"));
+				at.compute();
+				at.evalutate(at.getAnnotationResults());
 			}
 			else if (gg.equals("TrainModel"))
 			{

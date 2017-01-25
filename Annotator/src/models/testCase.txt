@@ -1,3 +1,11 @@
 Quale tra questi artisti ha dipinto Guernica?::[6..7) opera
 Di chi è il famoso quadro la Gioconda?::[7..8) opera
 E' vero che il Colosseo era il teatro di alcuni giochi?::[4..5) opera
+Che cosa è il Colosseo?::[4..5) opera
+Chi è Vincenzo Straface?::[2..4) artist
+Chi ha commissionato la Gioconda?::[4..5) opera
+Chi ha scolpito la Pietà?::[4..5) opera
+Chi era il maestro di Giotto?::[5..6) artist
+Qual è la biografia di Gaudì?::[5..6) artist
+Dove è nato Picasso?::[3..4) artist
+Quanto pesa Amore e Psiche?::[2..5) opera
