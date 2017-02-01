@@ -9,3 +9,22 @@ Chi era il maestro di Giotto?::[5..6) artist
 Qual è la biografia di Gaudì?::[5..6) artist
 Dove è nato Picasso?::[3..4) artist
 Quanto pesa Amore e Psiche?::[2..5) opera
+Perchè è stata restaurata la Chiesa di Santa Chiara?::[5..9) opera
+Di quale ordine è il Partenone?::[5..6) opera
+Perchè la Gioconda si trova a Parigi?::[2..3) opera
+Cimabue è stato il maestro di noti artisti.::[0..1) artist
+Chi è Simon?::[2..3) artist
+Cimabue è stato il maestro di Giotto.::[0..1) artist,[6..7) artist
+Vincenzo Straface ha dipinto la Camminata nel bosco?::[0..2) artist,[5..8) opera
+Ci sono altre Pietà?::[3..4) opera
+Ci sono altri Guernica?::[3..4) opera
+C'è un quadro di Michelangelo in questo museo?::[5..6) artist
+Ci sono autoritratti di Son Goku?::[4..6) artist
+Guernica è un famoso quadro di Paul Pogba.::[0..1) opera,[6..8) artist
+E' vero che Guernica era un quadro di Pablo Picasso?::[3..4) opera,[8..10) artist
+Perchè questo quadro si chiama Guernica?::[5..6) opera
+Chi è Michelangelo?::[2..3) artist
+Cosa è la Monnalisa?::[3..4) opera
+Quali sono le opere incompiute di Son Gohan?::[6..8) artist
+Dov'è nato Picasso?::[3..4) artist
+Quanti anni ha la Tourre Eiffel?::[4..6) opera

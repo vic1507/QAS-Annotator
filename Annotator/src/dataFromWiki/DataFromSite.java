@@ -95,7 +95,7 @@ public class DataFromSite
 				}
 			}
 			pw.close();
-			GenerateModel gm = new GenerateModel();
+			GenerateModel gm = new GenerateModel(GenerateModel.MODEL1);
 			gm.addToTemplate(f, "src/models/questionTemplate.txt");
 		} catch (Exception e)
 		{

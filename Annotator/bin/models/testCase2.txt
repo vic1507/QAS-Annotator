@@ -1,0 +1,18 @@
+Chi è OBJECT ?::[2..3) artist
+Qual è la tecnica scultorea di OBJECT ?::[6..7) artist
+A quale corrente artistica appartiene OBJECT ?::[5..6) artist
+OBJECT è un famoso artista.::[0..1) artist
+OBJECT è stato il maestro di molti artisti.::[0..1) artist
+OBJECT ha dipinto diversi quadri.::[0..1) artist
+C'è un quadro di OBJECT in questo museo ?::[5..6) artist
+Abbiamo opere di OBJECT in questo museo ?::[3..4) artist
+E' vero che OBJECT ha dipinto tanto?::[3..4) artist
+E' vero che il OBJECT è stato teatro di molti giochi?::[4..5) opera
+Quale artista ha creato OBJECT famoso quadro qui esposto?::[4..5) opera
+Quando verrà esposto il OBJECT in questo museo?::[4..5) opera
+OBJECT è una famosa opera.::[0..1) opera
+OBJECT è stato scolpito nel 1270.::[0..1) opera
+OBJECT ha ricevuto tanti consensi.::[0..1) opera
+Chi è raffigurato nel OBJECT ?::[4..5) opera
+Chi è raffigurato in OBJECT ?::[4..5) opera
+Che cos'è OBJECT ?::[3..4) opera

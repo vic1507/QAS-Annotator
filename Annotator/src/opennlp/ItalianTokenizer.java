@@ -12,9 +12,9 @@ public class ItalianTokenizer
 {
 	private ItalianTokenizer()
 	{
-
+		
 	}
-
+	
 	public static ItalianTokenizer instance = new ItalianTokenizer();
 
 	public String[] tokenize(String input)
@@ -28,7 +28,9 @@ public class ItalianTokenizer
 			{
 				TokenizerModel model = new TokenizerModel(modelIn);
 				Tokenizer tokenizer = new TokenizerME(model);
+				
 				tokens = tokenizer.tokenize(input);
+				
 			} catch (IOException e)
 			{
 				e.printStackTrace();
@@ -41,13 +43,13 @@ public class ItalianTokenizer
 						modelIn.close();
 					} catch (IOException e)
 					{
-						//TODO
+						// TODO
 					}
 				}
 			}
 		} catch (Exception e)
 		{
-			//TODO
+			// TODO
 			e.printStackTrace();
 		}
 		return tokens;

@@ -22,11 +22,30 @@ public class MySQLResourcesAcquisition implements ResourcesAcquisitionInterface
 	private String dbAddress="jdbc:mysql://127.0.0.1:3306/tesi";
 	private static final String DRIVER = "com.mysql.jdbc.Driver";
 	private HashMap <String,String> mappedTypes;
+	private static Connection connection;
 	
 	public MySQLResourcesAcquisition()
 	{
 		this.data = new ArrayList<String>();
 		this.mappedTypes = new HashMap<String,String>();
+	}
+	
+	public static MySQLResourcesAcquisition createResources ()
+	{
+		MySQLResourcesAcquisition rs = new MySQLResourcesAcquisition();
+
+		Connection connection2 = rs.getConnection();
+		connection = connection2;
+		rs.getData().addAll(rs.getDataFromDb(connection2, "artist", "name", ""));
+		rs.getData().addAll(rs.getDataFromDb(connection2, "opere", "operename", ""));
+		
+		return rs;
+	}
+	
+	
+	public Connection returnStaticConnection()
+	{
+		return connection;
 	}
 	
 	public List<String> getByFile(File file)

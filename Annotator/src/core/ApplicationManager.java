@@ -23,9 +23,9 @@ public class ApplicationManager
 			
 			if (type.equals("OpenNlp"))
 			{
-//				GenerateModel gm = new GenerateModel();
-//				gm.execute(rs.getDataFromDb(connection, "artist", "name", ""),rs.getDataFromDb(connection,  "opere", "operename", ""));
-//				OpenNlpAnnotator.trainModel("src/core/model.txt", "src/core/it-ner-art.bin");
+				GenerateModel gm = new GenerateModel(GenerateModel.MODEL1);
+				gm.execute(rs.getDataFromDb(connection, "artist", "name", ""),rs.getDataFromDb(connection,  "opere", "operename", ""));
+				OpenNlpAnnotator.trainModel("src/models/model.txt", "src/models/it-ner-art.bin");
 				File f = new File("src/models/it-ner-art.bin");
 				TokenNameFinderModel model = new TokenNameFinderModel(f);
 				AnnotationStrategy as = new OpenNlpAnnotator(model);

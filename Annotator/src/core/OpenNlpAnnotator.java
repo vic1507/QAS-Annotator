@@ -29,14 +29,12 @@ public class OpenNlpAnnotator extends AnnotationStrategy
 	{
 		List<String> results = new ArrayList<String>();
 		String[] tokens = ItalianTokenizer.getInstance().tokenize(question);
-		for (String s2 : tokens)
-		{
-			System.out.println(s2);
-		}
 		ItalianNER ner = new ItalianNER(new NameFinderME(model));
+		System.out.println("********************************************************************************:P********************************************************************************");
+		System.out.println("RESULT FOR "+ '"' + question + '"');
 		for (Span span : ner.entityRecognition(tokens))
 		{
-			System.out.println(span);
+			System.out.println("NER result: " + span);
 			results.add(span.toString());
 		}
 		return results;

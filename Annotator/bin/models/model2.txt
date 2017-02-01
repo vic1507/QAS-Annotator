@@ -1,0 +1,24 @@
+Chi è <START:artist> Caravaggio <END> ?
+Qual è la tecnica scultorea di <START:artist> Pablo Picasso <END> ?
+Qual è la biografia di <START:artist> Sandro Boticelli <END> ?
+A quale corrente artistica appartiene <START:artist> Michelangelo Buonarotti <END> ?
+<START:artist> Vincent Van Gogh <END> è un famoso artista.
+<START:artist> Paul Cèzanne <END> è stato il maestro di molti artisti.
+<START:artist> Salvador Dalì <END> ha dipinto diversi quadri.
+C'è un quadro di <START:artist> Claude Monet <END> in questo museo ?
+Abbiamo opere di <START:artist> Raffaello Sanzio <END> in questo museo ?
+E' vero che <START:artist> Leonardo Da Vinci <END> ha dipinto tanto?
+E' vero che il <START:opera> Creazione di Adamo <END> è stato teatro di molti giochi?
+Quale artista ha creato <START:opera> Cappella Sistina <END> famoso quadro qui esposto?
+Quando verrà esposto il <START:opera> Colosseo <END> in questo museo?
+<START:opera> Olympia <END> è una famosa opera.
+<START:opera> Venere di Milo <END> è stato scolpito nel 1270.
+<START:opera> Guernica <END> ha ricevuto tanti consensi.
+Chi è raffigurato nel <START:opera> Scudo con testa di Medusa <END> ?
+Chi è raffigurato in <START:opera> Primavera <END> ?
+Che cos'è <START:opera> Darma con l'ermellino <END> ?
+Che cos'è la <START:opera> Pietà vaticana <END> ?
+<START:artist> Marc Chagall <END> ha dipinto la <START:opera> Amore e Psiche <END> ?
+Perchè la <START:opera> Le muse inquietanti <END> si trova a Parigi?
+Quando è stato restaurato il <START:opera> Natività con i santi Lorenzo e Francesco d'Assisi <END> ?
+Perchè è stata restaurata la <START:opera> Ragazza col turbante <END> ?

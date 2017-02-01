@@ -13,12 +13,61 @@ import javax.swing.JOptionPane;
 
 public class GenerateModel
 {
+	public static final String MODEL1 = "src/models/equilibratedTemplates.txt";
+	public static final String MODEL2 = "src/models/questionTemplate.txt";
+	private String model;
+	
+	public GenerateModel (String model)
+	{
+		this.model = model;
+	}
+	public void executeProva(List<String> artist, List<String> opere)
+	{
+		try
+		{
+			FileReader fr = new FileReader(new File(model));
+			BufferedReader br = new BufferedReader(fr);
+			PrintWriter pw = new PrintWriter(new File("src/models/model2.txt"));
+			String corr = br.readLine();
+			int index = 0;
+			int index2 = 0;
+			while (corr != null)
+			{
+				while (corr.contains("OBJECT"))
+				{
+					if (index < artist.size() - 1)
+					{
+						corr = corr.replaceFirst("<START:artist> OBJECT <END>", "<START:artist> " + artist.get(index) + " <END>");
+						index++;
+					}
+					else
+						index = 0;
+					
+					if (index2 < opere.size()-1)
+					{
+						corr = corr.replaceFirst("<START:opera> OBJECT <END>","<START:opera> "+ opere.get(index2) + " <END>");
+						index2++;
+					}else
+						index2=0;
+				}
+				
+				pw.println(corr);
+				corr = br.readLine();
+			}
+			br.close();
+			pw.close();
+		} catch (Exception e)
+		{
+			e.printStackTrace();
+		}
+	}
+
 	public void execute(List<String> artist, List<String> opere)
 	{
 		try
 		{
 			List<String> toPrint = new ArrayList<String>();
-			FileReader fileReader = new FileReader(new File("src/models/questionTemplate.txt"));
+			FileReader fileReader = new FileReader(new File(MODEL1));
 			BufferedReader br = new BufferedReader(fileReader);
 			PrintWriter pw = new PrintWriter(new File("src/models/model.txt"));
 			String corr = br.readLine();
@@ -34,14 +83,14 @@ public class GenerateModel
 				}
 				corr = br.readLine();
 			}
-			for (int i =0; i< toPrint.size(); i++)
+			for (int i = 0; i < toPrint.size(); i++)
 			{
 				if (toPrint.get(i).contains("OBJECT"))
 				{
 					for (String s2 : artist)
 					{
 						String replace = toPrint.get(i).replaceAll("<START:artist> OBJECT", "<START:artist> " + s2);
-						toPrint.set(i,replace );
+						toPrint.set(i, replace);
 					}
 
 					for (String s3 : opere)
@@ -84,7 +133,7 @@ public class GenerateModel
 			{
 				if (s2.contains("START"))
 				{
-					String writeS = s2.replaceAll("," , "");
+					String writeS = s2.replaceAll(",", "");
 					fw.write("\n" + writeS);
 				}
 				s2 = br.readLine();
