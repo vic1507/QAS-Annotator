@@ -1,18 +1,975 @@
-Chi è OBJECT ?::[2..3) artist
-Qual è la tecnica scultorea di OBJECT ?::[6..7) artist
-A quale corrente artistica appartiene OBJECT ?::[5..6) artist
-OBJECT è un famoso artista.::[0..1) artist
-OBJECT è stato il maestro di molti artisti.::[0..1) artist
-OBJECT ha dipinto diversi quadri.::[0..1) artist
-C'è un quadro di OBJECT in questo museo ?::[5..6) artist
-Abbiamo opere di OBJECT in questo museo ?::[3..4) artist
-E' vero che OBJECT ha dipinto tanto?::[3..4) artist
-E' vero che il OBJECT è stato teatro di molti giochi?::[4..5) opera
-Quale artista ha creato OBJECT famoso quadro qui esposto?::[4..5) opera
-Quando verrà esposto il OBJECT in questo museo?::[4..5) opera
-OBJECT è una famosa opera.::[0..1) opera
-OBJECT è stato scolpito nel 1270.::[0..1) opera
-OBJECT ha ricevuto tanti consensi.::[0..1) opera
-Chi è raffigurato nel OBJECT ?::[4..5) opera
-Chi è raffigurato in OBJECT ?::[4..5) opera
-Che cos'è OBJECT ?::[3..4) opera
+Chi è Caravaggio ?::[2..3) artist
+Chi è Pablo Picasso ?::[2..4) artist
+Chi è Sandro Boticelli ?::[2..4) artist
+Chi è Michelangelo Buonarotti ?::[2..4) artist
+Chi è Vincent Van Gogh ?::[2..5) artist
+Chi è Paul Cèzanne ?::[2..4) artist
+Chi è Salvador Dalì ?::[2..4) artist
+Chi è Claude Monet ?::[2..4) artist
+Chi è Raffaello Sanzio ?::[2..4) artist
+Chi è Leonardo Da Vinci ?::[2..5) artist
+Chi è Andy Warhol ?::[2..4) artist
+Chi è Gustav Klimt ?::[2..4) artist
+Chi è Giotto ?::[2..3) artist
+Chi è Canaletto ?::[2..3) artist
+Chi è Joan Miro ?::[2..4) artist
+Chi è Paul Gaugin ?::[2..4) artist
+Chi è Paul Klee ?::[2..4) artist
+Chi è Edgar Degas ?::[2..4) artist
+Chi è Francisco Goya ?::[2..4) artist
+Chi è Gustave Courbet ?::[2..4) artist
+Chi è Marc Chagall ?::[2..4) artist
+Chi è Pieter Paul Rubens ?::[2..5) artist
+Chi è Amedeo Modigliani ?::[2..4) artist
+Chi è William Turner ?::[2..4) artist
+Chi è Francis Bacon ?::[2..4) artist
+Chi è Camille Pissarro ?::[2..4) artist
+Chi è Cimabue ?::[2..3) artist
+Chi è Paolo Uccello ?::[2..4) artist
+Chi è Roy Lichtenstein ?::[2..4) artist
+Chi è David Bowie ?::[2..4) artist
+Chi è Umberto Boccioni ?::[2..4) artist
+Chi è Edward Hopper ?::[2..4) artist
+Chi è Picasso ?::[2..3) artist
+Chi è Donatello ?::[2..3) artist
+Chi è Leonardo ?::[2..3) artist
+Chi è Raffello ?::[2..3) artist
+Chi è Michelangelo ?::[2..3) artist
+Chi è Edvard Munch ?::[2..4) artist
+Chi è Munch ?::[2..3) artist
+Qual è la tecnica scultorea di Caravaggio ?::[6..7) artist
+Qual è la tecnica scultorea di Pablo Picasso ?::[6..8) artist
+Qual è la tecnica scultorea di Sandro Boticelli ?::[6..8) artist
+Qual è la tecnica scultorea di Michelangelo Buonarotti ?::[6..8) artist
+Qual è la tecnica scultorea di Vincent Van Gogh ?::[6..9) artist
+Qual è la tecnica scultorea di Paul Cèzanne ?::[6..8) artist
+Qual è la tecnica scultorea di Salvador Dalì ?::[6..8) artist
+Qual è la tecnica scultorea di Claude Monet ?::[6..8) artist
+Qual è la tecnica scultorea di Raffaello Sanzio ?::[6..8) artist
+Qual è la tecnica scultorea di Leonardo Da Vinci ?::[6..9) artist
+Qual è la tecnica scultorea di Andy Warhol ?::[6..8) artist
+Qual è la tecnica scultorea di Gustav Klimt ?::[6..8) artist
+Qual è la tecnica scultorea di Giotto ?::[6..7) artist
+Qual è la tecnica scultorea di Canaletto ?::[6..7) artist
+Qual è la tecnica scultorea di Joan Miro ?::[6..8) artist
+Qual è la tecnica scultorea di Paul Gaugin ?::[6..8) artist
+Qual è la tecnica scultorea di Paul Klee ?::[6..8) artist
+Qual è la tecnica scultorea di Edgar Degas ?::[6..8) artist
+Qual è la tecnica scultorea di Francisco Goya ?::[6..8) artist
+Qual è la tecnica scultorea di Gustave Courbet ?::[6..8) artist
+Qual è la tecnica scultorea di Marc Chagall ?::[6..8) artist
+Qual è la tecnica scultorea di Pieter Paul Rubens ?::[6..9) artist
+Qual è la tecnica scultorea di Amedeo Modigliani ?::[6..8) artist
+Qual è la tecnica scultorea di William Turner ?::[6..8) artist
+Qual è la tecnica scultorea di Francis Bacon ?::[6..8) artist
+Qual è la tecnica scultorea di Camille Pissarro ?::[6..8) artist
+Qual è la tecnica scultorea di Cimabue ?::[6..7) artist
+Qual è la tecnica scultorea di Paolo Uccello ?::[6..8) artist
+Qual è la tecnica scultorea di Roy Lichtenstein ?::[6..8) artist
+Qual è la tecnica scultorea di David Bowie ?::[6..8) artist
+Qual è la tecnica scultorea di Umberto Boccioni ?::[6..8) artist
+Qual è la tecnica scultorea di Edward Hopper ?::[6..8) artist
+Qual è la tecnica scultorea di Picasso ?::[6..7) artist
+Qual è la tecnica scultorea di Donatello ?::[6..7) artist
+Qual è la tecnica scultorea di Leonardo ?::[6..7) artist
+Qual è la tecnica scultorea di Raffello ?::[6..7) artist
+Qual è la tecnica scultorea di Michelangelo ?::[6..7) artist
+Qual è la tecnica scultorea di Edvard Munch ?::[6..8) artist
+Qual è la tecnica scultorea di Munch ?::[6..7) artist
+Qual è la biografia di Caravaggio ?::[5..6) artist
+Qual è la biografia di Pablo Picasso ?::[5..7) artist
+Qual è la biografia di Sandro Boticelli ?::[5..7) artist
+Qual è la biografia di Michelangelo Buonarotti ?::[5..7) artist
+Qual è la biografia di Vincent Van Gogh ?::[5..8) artist
+Qual è la biografia di Paul Cèzanne ?::[5..7) artist
+Qual è la biografia di Salvador Dalì ?::[5..7) artist
+Qual è la biografia di Claude Monet ?::[5..7) artist
+Qual è la biografia di Raffaello Sanzio ?::[5..7) artist
+Qual è la biografia di Leonardo Da Vinci ?::[5..8) artist
+Qual è la biografia di Andy Warhol ?::[5..7) artist
+Qual è la biografia di Gustav Klimt ?::[5..7) artist
+Qual è la biografia di Giotto ?::[5..6) artist
+Qual è la biografia di Canaletto ?::[5..6) artist
+Qual è la biografia di Joan Miro ?::[5..7) artist
+Qual è la biografia di Paul Gaugin ?::[5..7) artist
+Qual è la biografia di Paul Klee ?::[5..7) artist
+Qual è la biografia di Edgar Degas ?::[5..7) artist
+Qual è la biografia di Francisco Goya ?::[5..7) artist
+Qual è la biografia di Gustave Courbet ?::[5..7) artist
+Qual è la biografia di Marc Chagall ?::[5..7) artist
+Qual è la biografia di Pieter Paul Rubens ?::[5..8) artist
+Qual è la biografia di Amedeo Modigliani ?::[5..7) artist
+Qual è la biografia di William Turner ?::[5..7) artist
+Qual è la biografia di Francis Bacon ?::[5..7) artist
+Qual è la biografia di Camille Pissarro ?::[5..7) artist
+Qual è la biografia di Cimabue ?::[5..6) artist
+Qual è la biografia di Paolo Uccello ?::[5..7) artist
+Qual è la biografia di Roy Lichtenstein ?::[5..7) artist
+Qual è la biografia di David Bowie ?::[5..7) artist
+Qual è la biografia di Umberto Boccioni ?::[5..7) artist
+Qual è la biografia di Edward Hopper ?::[5..7) artist
+Qual è la biografia di Picasso ?::[5..6) artist
+Qual è la biografia di Donatello ?::[5..6) artist
+Qual è la biografia di Leonardo ?::[5..6) artist
+Qual è la biografia di Raffello ?::[5..6) artist
+Qual è la biografia di Michelangelo ?::[5..6) artist
+Qual è la biografia di Edvard Munch ?::[5..7) artist
+Qual è la biografia di Munch ?::[5..6) artist
+A quale corrente artistica appartiene Caravaggio ?::[5..6) artist
+A quale corrente artistica appartiene Pablo Picasso ?::[5..7) artist
+A quale corrente artistica appartiene Sandro Boticelli ?::[5..7) artist
+A quale corrente artistica appartiene Michelangelo Buonarotti ?::[5..7) artist
+A quale corrente artistica appartiene Vincent Van Gogh ?::[5..8) artist
+A quale corrente artistica appartiene Paul Cèzanne ?::[5..7) artist
+A quale corrente artistica appartiene Salvador Dalì ?::[5..7) artist
+A quale corrente artistica appartiene Claude Monet ?::[5..7) artist
+A quale corrente artistica appartiene Raffaello Sanzio ?::[5..7) artist
+A quale corrente artistica appartiene Leonardo Da Vinci ?::[5..8) artist
+A quale corrente artistica appartiene Andy Warhol ?::[5..7) artist
+A quale corrente artistica appartiene Gustav Klimt ?::[5..7) artist
+A quale corrente artistica appartiene Giotto ?::[5..6) artist
+A quale corrente artistica appartiene Canaletto ?::[5..6) artist
+A quale corrente artistica appartiene Joan Miro ?::[5..7) artist
+A quale corrente artistica appartiene Paul Gaugin ?::[5..7) artist
+A quale corrente artistica appartiene Paul Klee ?::[5..7) artist
+A quale corrente artistica appartiene Edgar Degas ?::[5..7) artist
+A quale corrente artistica appartiene Francisco Goya ?::[5..7) artist
+A quale corrente artistica appartiene Gustave Courbet ?::[5..7) artist
+A quale corrente artistica appartiene Marc Chagall ?::[5..7) artist
+A quale corrente artistica appartiene Pieter Paul Rubens ?::[5..8) artist
+A quale corrente artistica appartiene Amedeo Modigliani ?::[5..7) artist
+A quale corrente artistica appartiene William Turner ?::[5..7) artist
+A quale corrente artistica appartiene Francis Bacon ?::[5..7) artist
+A quale corrente artistica appartiene Camille Pissarro ?::[5..7) artist
+A quale corrente artistica appartiene Cimabue ?::[5..6) artist
+A quale corrente artistica appartiene Paolo Uccello ?::[5..7) artist
+A quale corrente artistica appartiene Roy Lichtenstein ?::[5..7) artist
+A quale corrente artistica appartiene David Bowie ?::[5..7) artist
+A quale corrente artistica appartiene Umberto Boccioni ?::[5..7) artist
+A quale corrente artistica appartiene Edward Hopper ?::[5..7) artist
+A quale corrente artistica appartiene Picasso ?::[5..6) artist
+A quale corrente artistica appartiene Donatello ?::[5..6) artist
+A quale corrente artistica appartiene Leonardo ?::[5..6) artist
+A quale corrente artistica appartiene Raffello ?::[5..6) artist
+A quale corrente artistica appartiene Michelangelo ?::[5..6) artist
+A quale corrente artistica appartiene Edvard Munch ?::[5..7) artist
+A quale corrente artistica appartiene Munch ?::[5..6) artist
+Caravaggio è un famoso artista.::[0..1) artist
+Pablo Picasso è un famoso artista.::[0..2) artist
+Sandro Boticelli è un famoso artista.::[0..2) artist
+Michelangelo Buonarotti è un famoso artista.::[0..2) artist
+Vincent Van Gogh è un famoso artista.::[0..3) artist
+Paul Cèzanne è un famoso artista.::[0..2) artist
+Salvador Dalì è un famoso artista.::[0..2) artist
+Claude Monet è un famoso artista.::[0..2) artist
+Raffaello Sanzio è un famoso artista.::[0..2) artist
+Leonardo Da Vinci è un famoso artista.::[0..3) artist
+Andy Warhol è un famoso artista.::[0..2) artist
+Gustav Klimt è un famoso artista.::[0..2) artist
+Giotto è un famoso artista.::[0..1) artist
+Canaletto è un famoso artista.::[0..1) artist
+Joan Miro è un famoso artista.::[0..2) artist
+Paul Gaugin è un famoso artista.::[0..2) artist
+Paul Klee è un famoso artista.::[0..2) artist
+Edgar Degas è un famoso artista.::[0..2) artist
+Francisco Goya è un famoso artista.::[0..2) artist
+Gustave Courbet è un famoso artista.::[0..2) artist
+Marc Chagall è un famoso artista.::[0..2) artist
+Pieter Paul Rubens è un famoso artista.::[0..3) artist
+Amedeo Modigliani è un famoso artista.::[0..2) artist
+William Turner è un famoso artista.::[0..2) artist
+Francis Bacon è un famoso artista.::[0..2) artist
+Camille Pissarro è un famoso artista.::[0..2) artist
+Cimabue è un famoso artista.::[0..1) artist
+Paolo Uccello è un famoso artista.::[0..2) artist
+Roy Lichtenstein è un famoso artista.::[0..2) artist
+David Bowie è un famoso artista.::[0..2) artist
+Umberto Boccioni è un famoso artista.::[0..2) artist
+Edward Hopper è un famoso artista.::[0..2) artist
+Picasso è un famoso artista.::[0..1) artist
+Donatello è un famoso artista.::[0..1) artist
+Leonardo è un famoso artista.::[0..1) artist
+Raffello è un famoso artista.::[0..1) artist
+Michelangelo è un famoso artista.::[0..1) artist
+Edvard Munch è un famoso artista.::[0..2) artist
+Munch è un famoso artista.::[0..1) artist
+Caravaggio è stato il maestro di molti artisti.::[0..1) artist
+Pablo Picasso è stato il maestro di molti artisti.::[0..2) artist
+Sandro Boticelli è stato il maestro di molti artisti.::[0..2) artist
+Michelangelo Buonarotti è stato il maestro di molti artisti.::[0..2) artist
+Vincent Van Gogh è stato il maestro di molti artisti.::[0..3) artist
+Paul Cèzanne è stato il maestro di molti artisti.::[0..2) artist
+Salvador Dalì è stato il maestro di molti artisti.::[0..2) artist
+Claude Monet è stato il maestro di molti artisti.::[0..2) artist
+Raffaello Sanzio è stato il maestro di molti artisti.::[0..2) artist
+Leonardo Da Vinci è stato il maestro di molti artisti.::[0..3) artist
+Andy Warhol è stato il maestro di molti artisti.::[0..2) artist
+Gustav Klimt è stato il maestro di molti artisti.::[0..2) artist
+Giotto è stato il maestro di molti artisti.::[0..1) artist
+Canaletto è stato il maestro di molti artisti.::[0..1) artist
+Joan Miro è stato il maestro di molti artisti.::[0..2) artist
+Paul Gaugin è stato il maestro di molti artisti.::[0..2) artist
+Paul Klee è stato il maestro di molti artisti.::[0..2) artist
+Edgar Degas è stato il maestro di molti artisti.::[0..2) artist
+Francisco Goya è stato il maestro di molti artisti.::[0..2) artist
+Gustave Courbet è stato il maestro di molti artisti.::[0..2) artist
+Marc Chagall è stato il maestro di molti artisti.::[0..2) artist
+Pieter Paul Rubens è stato il maestro di molti artisti.::[0..3) artist
+Amedeo Modigliani è stato il maestro di molti artisti.::[0..2) artist
+William Turner è stato il maestro di molti artisti.::[0..2) artist
+Francis Bacon è stato il maestro di molti artisti.::[0..2) artist
+Camille Pissarro è stato il maestro di molti artisti.::[0..2) artist
+Cimabue è stato il maestro di molti artisti.::[0..1) artist
+Paolo Uccello è stato il maestro di molti artisti.::[0..2) artist
+Roy Lichtenstein è stato il maestro di molti artisti.::[0..2) artist
+David Bowie è stato il maestro di molti artisti.::[0..2) artist
+Umberto Boccioni è stato il maestro di molti artisti.::[0..2) artist
+Edward Hopper è stato il maestro di molti artisti.::[0..2) artist
+Picasso è stato il maestro di molti artisti.::[0..1) artist
+Donatello è stato il maestro di molti artisti.::[0..1) artist
+Leonardo è stato il maestro di molti artisti.::[0..1) artist
+Raffello è stato il maestro di molti artisti.::[0..1) artist
+Michelangelo è stato il maestro di molti artisti.::[0..1) artist
+Edvard Munch è stato il maestro di molti artisti.::[0..2) artist
+Munch è stato il maestro di molti artisti.::[0..1) artist
+Caravaggio ha dipinto diversi quadri.::[0..1) artist
+Pablo Picasso ha dipinto diversi quadri.::[0..2) artist
+Sandro Boticelli ha dipinto diversi quadri.::[0..2) artist
+Michelangelo Buonarotti ha dipinto diversi quadri.::[0..2) artist
+Vincent Van Gogh ha dipinto diversi quadri.::[0..3) artist
+Paul Cèzanne ha dipinto diversi quadri.::[0..2) artist
+Salvador Dalì ha dipinto diversi quadri.::[0..2) artist
+Claude Monet ha dipinto diversi quadri.::[0..2) artist
+Raffaello Sanzio ha dipinto diversi quadri.::[0..2) artist
+Leonardo Da Vinci ha dipinto diversi quadri.::[0..3) artist
+Andy Warhol ha dipinto diversi quadri.::[0..2) artist
+Gustav Klimt ha dipinto diversi quadri.::[0..2) artist
+Giotto ha dipinto diversi quadri.::[0..1) artist
+Canaletto ha dipinto diversi quadri.::[0..1) artist
+Joan Miro ha dipinto diversi quadri.::[0..2) artist
+Paul Gaugin ha dipinto diversi quadri.::[0..2) artist
+Paul Klee ha dipinto diversi quadri.::[0..2) artist
+Edgar Degas ha dipinto diversi quadri.::[0..2) artist
+Francisco Goya ha dipinto diversi quadri.::[0..2) artist
+Gustave Courbet ha dipinto diversi quadri.::[0..2) artist
+Marc Chagall ha dipinto diversi quadri.::[0..2) artist
+Pieter Paul Rubens ha dipinto diversi quadri.::[0..3) artist
+Amedeo Modigliani ha dipinto diversi quadri.::[0..2) artist
+William Turner ha dipinto diversi quadri.::[0..2) artist
+Francis Bacon ha dipinto diversi quadri.::[0..2) artist
+Camille Pissarro ha dipinto diversi quadri.::[0..2) artist
+Cimabue ha dipinto diversi quadri.::[0..1) artist
+Paolo Uccello ha dipinto diversi quadri.::[0..2) artist
+Roy Lichtenstein ha dipinto diversi quadri.::[0..2) artist
+David Bowie ha dipinto diversi quadri.::[0..2) artist
+Umberto Boccioni ha dipinto diversi quadri.::[0..2) artist
+Edward Hopper ha dipinto diversi quadri.::[0..2) artist
+Picasso ha dipinto diversi quadri.::[0..1) artist
+Donatello ha dipinto diversi quadri.::[0..1) artist
+Leonardo ha dipinto diversi quadri.::[0..1) artist
+Raffello ha dipinto diversi quadri.::[0..1) artist
+Michelangelo ha dipinto diversi quadri.::[0..1) artist
+Edvard Munch ha dipinto diversi quadri.::[0..2) artist
+Munch ha dipinto diversi quadri.::[0..1) artist
+C'è un quadro di Caravaggio in questo museo ?::[5..6) artist
+C'è un quadro di Pablo Picasso in questo museo ?::[5..7) artist
+C'è un quadro di Sandro Boticelli in questo museo ?::[5..7) artist
+C'è un quadro di Michelangelo Buonarotti in questo museo ?::[5..7) artist
+C'è un quadro di Vincent Van Gogh in questo museo ?::[5..8) artist
+C'è un quadro di Paul Cèzanne in questo museo ?::[5..7) artist
+C'è un quadro di Salvador Dalì in questo museo ?::[5..7) artist
+C'è un quadro di Claude Monet in questo museo ?::[5..7) artist
+C'è un quadro di Raffaello Sanzio in questo museo ?::[5..7) artist
+C'è un quadro di Leonardo Da Vinci in questo museo ?::[5..8) artist
+C'è un quadro di Andy Warhol in questo museo ?::[5..7) artist
+C'è un quadro di Gustav Klimt in questo museo ?::[5..7) artist
+C'è un quadro di Giotto in questo museo ?::[5..6) artist
+C'è un quadro di Canaletto in questo museo ?::[5..6) artist
+C'è un quadro di Joan Miro in questo museo ?::[5..7) artist
+C'è un quadro di Paul Gaugin in questo museo ?::[5..7) artist
+C'è un quadro di Paul Klee in questo museo ?::[5..7) artist
+C'è un quadro di Edgar Degas in questo museo ?::[5..7) artist
+C'è un quadro di Francisco Goya in questo museo ?::[5..7) artist
+C'è un quadro di Gustave Courbet in questo museo ?::[5..7) artist
+C'è un quadro di Marc Chagall in questo museo ?::[5..7) artist
+C'è un quadro di Pieter Paul Rubens in questo museo ?::[5..8) artist
+C'è un quadro di Amedeo Modigliani in questo museo ?::[5..7) artist
+C'è un quadro di William Turner in questo museo ?::[5..7) artist
+C'è un quadro di Francis Bacon in questo museo ?::[5..7) artist
+C'è un quadro di Camille Pissarro in questo museo ?::[5..7) artist
+C'è un quadro di Cimabue in questo museo ?::[5..6) artist
+C'è un quadro di Paolo Uccello in questo museo ?::[5..7) artist
+C'è un quadro di Roy Lichtenstein in questo museo ?::[5..7) artist
+C'è un quadro di David Bowie in questo museo ?::[5..7) artist
+C'è un quadro di Umberto Boccioni in questo museo ?::[5..7) artist
+C'è un quadro di Edward Hopper in questo museo ?::[5..7) artist
+C'è un quadro di Picasso in questo museo ?::[5..6) artist
+C'è un quadro di Donatello in questo museo ?::[5..6) artist
+C'è un quadro di Leonardo in questo museo ?::[5..6) artist
+C'è un quadro di Raffello in questo museo ?::[5..6) artist
+C'è un quadro di Michelangelo in questo museo ?::[5..6) artist
+C'è un quadro di Edvard Munch in questo museo ?::[5..7) artist
+C'è un quadro di Munch in questo museo ?::[5..6) artist
+Abbiamo opere di Caravaggio in questo museo ?::[3..4) artist
+Abbiamo opere di Pablo Picasso in questo museo ?::[3..5) artist
+Abbiamo opere di Sandro Boticelli in questo museo ?::[3..5) artist
+Abbiamo opere di Michelangelo Buonarotti in questo museo ?::[3..5) artist
+Abbiamo opere di Vincent Van Gogh in questo museo ?::[3..6) artist
+Abbiamo opere di Paul Cèzanne in questo museo ?::[3..5) artist
+Abbiamo opere di Salvador Dalì in questo museo ?::[3..5) artist
+Abbiamo opere di Claude Monet in questo museo ?::[3..5) artist
+Abbiamo opere di Raffaello Sanzio in questo museo ?::[3..5) artist
+Abbiamo opere di Leonardo Da Vinci in questo museo ?::[3..6) artist
+Abbiamo opere di Andy Warhol in questo museo ?::[3..5) artist
+Abbiamo opere di Gustav Klimt in questo museo ?::[3..5) artist
+Abbiamo opere di Giotto in questo museo ?::[3..4) artist
+Abbiamo opere di Canaletto in questo museo ?::[3..4) artist
+Abbiamo opere di Joan Miro in questo museo ?::[3..5) artist
+Abbiamo opere di Paul Gaugin in questo museo ?::[3..5) artist
+Abbiamo opere di Paul Klee in questo museo ?::[3..5) artist
+Abbiamo opere di Edgar Degas in questo museo ?::[3..5) artist
+Abbiamo opere di Francisco Goya in questo museo ?::[3..5) artist
+Abbiamo opere di Gustave Courbet in questo museo ?::[3..5) artist
+Abbiamo opere di Marc Chagall in questo museo ?::[3..5) artist
+Abbiamo opere di Pieter Paul Rubens in questo museo ?::[3..6) artist
+Abbiamo opere di Amedeo Modigliani in questo museo ?::[3..5) artist
+Abbiamo opere di William Turner in questo museo ?::[3..5) artist
+Abbiamo opere di Francis Bacon in questo museo ?::[3..5) artist
+Abbiamo opere di Camille Pissarro in questo museo ?::[3..5) artist
+Abbiamo opere di Cimabue in questo museo ?::[3..4) artist
+Abbiamo opere di Paolo Uccello in questo museo ?::[3..5) artist
+Abbiamo opere di Roy Lichtenstein in questo museo ?::[3..5) artist
+Abbiamo opere di David Bowie in questo museo ?::[3..5) artist
+Abbiamo opere di Umberto Boccioni in questo museo ?::[3..5) artist
+Abbiamo opere di Edward Hopper in questo museo ?::[3..5) artist
+Abbiamo opere di Picasso in questo museo ?::[3..4) artist
+Abbiamo opere di Donatello in questo museo ?::[3..4) artist
+Abbiamo opere di Leonardo in questo museo ?::[3..4) artist
+Abbiamo opere di Raffello in questo museo ?::[3..4) artist
+Abbiamo opere di Michelangelo in questo museo ?::[3..4) artist
+Abbiamo opere di Edvard Munch in questo museo ?::[3..5) artist
+Abbiamo opere di Munch in questo museo ?::[3..4) artist
+E' vero che Caravaggio ha dipinto tanto?::[3..4) artist
+E' vero che Pablo Picasso ha dipinto tanto?::[3..5) artist
+E' vero che Sandro Boticelli ha dipinto tanto?::[3..5) artist
+E' vero che Michelangelo Buonarotti ha dipinto tanto?::[3..5) artist
+E' vero che Vincent Van Gogh ha dipinto tanto?::[3..6) artist
+E' vero che Paul Cèzanne ha dipinto tanto?::[3..5) artist
+E' vero che Salvador Dalì ha dipinto tanto?::[3..5) artist
+E' vero che Claude Monet ha dipinto tanto?::[3..5) artist
+E' vero che Raffaello Sanzio ha dipinto tanto?::[3..5) artist
+E' vero che Leonardo Da Vinci ha dipinto tanto?::[3..6) artist
+E' vero che Andy Warhol ha dipinto tanto?::[3..5) artist
+E' vero che Gustav Klimt ha dipinto tanto?::[3..5) artist
+E' vero che Giotto ha dipinto tanto?::[3..4) artist
+E' vero che Canaletto ha dipinto tanto?::[3..4) artist
+E' vero che Joan Miro ha dipinto tanto?::[3..5) artist
+E' vero che Paul Gaugin ha dipinto tanto?::[3..5) artist
+E' vero che Paul Klee ha dipinto tanto?::[3..5) artist
+E' vero che Edgar Degas ha dipinto tanto?::[3..5) artist
+E' vero che Francisco Goya ha dipinto tanto?::[3..5) artist
+E' vero che Gustave Courbet ha dipinto tanto?::[3..5) artist
+E' vero che Marc Chagall ha dipinto tanto?::[3..5) artist
+E' vero che Pieter Paul Rubens ha dipinto tanto?::[3..6) artist
+E' vero che Amedeo Modigliani ha dipinto tanto?::[3..5) artist
+E' vero che William Turner ha dipinto tanto?::[3..5) artist
+E' vero che Francis Bacon ha dipinto tanto?::[3..5) artist
+E' vero che Camille Pissarro ha dipinto tanto?::[3..5) artist
+E' vero che Cimabue ha dipinto tanto?::[3..4) artist
+E' vero che Paolo Uccello ha dipinto tanto?::[3..5) artist
+E' vero che Roy Lichtenstein ha dipinto tanto?::[3..5) artist
+E' vero che David Bowie ha dipinto tanto?::[3..5) artist
+E' vero che Umberto Boccioni ha dipinto tanto?::[3..5) artist
+E' vero che Edward Hopper ha dipinto tanto?::[3..5) artist
+E' vero che Picasso ha dipinto tanto?::[3..4) artist
+E' vero che Donatello ha dipinto tanto?::[3..4) artist
+E' vero che Leonardo ha dipinto tanto?::[3..4) artist
+E' vero che Raffello ha dipinto tanto?::[3..4) artist
+E' vero che Michelangelo ha dipinto tanto?::[3..4) artist
+E' vero che Edvard Munch ha dipinto tanto?::[3..5) artist
+E' vero che Munch ha dipinto tanto?::[3..4) artist
+E' vero che il Gioconda è stato teatro di molti giochi?::[4..5) opera
+E' vero che il Nascita di Venere è stato teatro di molti giochi?::[4..7) opera
+E' vero che il L'urlo è stato teatro di molti giochi?::[4..6) opera
+E' vero che il Ultima Cena è stato teatro di molti giochi?::[4..6) opera
+E' vero che il Venere di Urbino è stato teatro di molti giochi?::[4..7) opera
+E' vero che il Giudizio Universale è stato teatro di molti giochi?::[4..6) opera
+E' vero che il David è stato teatro di molti giochi?::[4..5) opera
+E' vero che il Madonna  è stato teatro di molti giochi?::[4..5) opera
+E' vero che il Madonna della pietà è stato teatro di molti giochi?::[4..7) opera
+E' vero che il Canestra di frutta è stato teatro di molti giochi?::[4..7) opera
+E' vero che il Creazione di Adamo è stato teatro di molti giochi?::[4..7) opera
+E' vero che il Cappella Sistina è stato teatro di molti giochi?::[4..6) opera
+E' vero che il Colosseo è stato teatro di molti giochi?::[4..5) opera
+E' vero che il Olympia è stato teatro di molti giochi?::[4..5) opera
+E' vero che il Venere di Milo è stato teatro di molti giochi?::[4..7) opera
+E' vero che il Guernica è stato teatro di molti giochi?::[4..5) opera
+E' vero che il Scudo con testa di Medusa è stato teatro di molti giochi?::[4..9) opera
+E' vero che il Primavera è stato teatro di molti giochi?::[4..5) opera
+E' vero che il Darma con l'ermellino è stato teatro di molti giochi?::[4..8) opera
+E' vero che il Pietà vaticana è stato teatro di molti giochi?::[4..6) opera
+E' vero che il Amore e Psiche è stato teatro di molti giochi?::[4..7) opera
+E' vero che il Le muse inquietanti è stato teatro di molti giochi?::[4..7) opera
+E' vero che il Natività con i santi Lorenzo e Francesco d'Assisi è stato teatro di molti giochi?::[4..13) opera
+E' vero che il Ragazza col turbante è stato teatro di molti giochi?::[4..7) opera
+E' vero che il Bacco è stato teatro di molti giochi?::[4..5) opera
+E' vero che il I papaveri è stato teatro di molti giochi?::[4..6) opera
+E' vero che il Deposizione è stato teatro di molti giochi?::[4..5) opera
+E' vero che il Battaglia di San Romano è stato teatro di molti giochi?::[4..8) opera
+E' vero che il Incredulità di san Tommaso è stato teatro di molti giochi?::[4..8) opera
+E' vero che il Sette opere di Misericordia è stato teatro di molti giochi?::[4..8) opera
+E' vero che il Les demoiselles d'Avignon è stato teatro di molti giochi?::[4..8) opera
+E' vero che il Vocazione di san Matteo è stato teatro di molti giochi?::[4..8) opera
+E' vero che il I mangiatori di patate è stato teatro di molti giochi?::[4..8) opera
+E' vero che il Tondo Doni è stato teatro di molti giochi?::[4..6) opera
+E' vero che il Las Meninas è stato teatro di molti giochi?::[4..6) opera
+E' vero che il Madonna del Cardellino è stato teatro di molti giochi?::[4..7) opera
+E' vero che il Bronzi di Riace è stato teatro di molti giochi?::[4..7) opera
+E' vero che il Nike di Samotracia è stato teatro di molti giochi?::[4..7) opera
+E' vero che il Colosso di Rodi è stato teatro di molti giochi?::[4..7) opera
+Quale artista ha creato Gioconda famoso quadro qui esposto?::[4..5) opera
+Quale artista ha creato Nascita di Venere famoso quadro qui esposto?::[4..7) opera
+Quale artista ha creato L'urlo famoso quadro qui esposto?::[4..6) opera
+Quale artista ha creato Ultima Cena famoso quadro qui esposto?::[4..6) opera
+Quale artista ha creato Venere di Urbino famoso quadro qui esposto?::[4..7) opera
+Quale artista ha creato Giudizio Universale famoso quadro qui esposto?::[4..6) opera
+Quale artista ha creato David famoso quadro qui esposto?::[4..5) opera
+Quale artista ha creato Madonna  famoso quadro qui esposto?::[4..5) opera
+Quale artista ha creato Madonna della pietà famoso quadro qui esposto?::[4..7) opera
+Quale artista ha creato Canestra di frutta famoso quadro qui esposto?::[4..7) opera
+Quale artista ha creato Creazione di Adamo famoso quadro qui esposto?::[4..7) opera
+Quale artista ha creato Cappella Sistina famoso quadro qui esposto?::[4..6) opera
+Quale artista ha creato Colosseo famoso quadro qui esposto?::[4..5) opera
+Quale artista ha creato Olympia famoso quadro qui esposto?::[4..5) opera
+Quale artista ha creato Venere di Milo famoso quadro qui esposto?::[4..7) opera
+Quale artista ha creato Guernica famoso quadro qui esposto?::[4..5) opera
+Quale artista ha creato Scudo con testa di Medusa famoso quadro qui esposto?::[4..9) opera
+Quale artista ha creato Primavera famoso quadro qui esposto?::[4..5) opera
+Quale artista ha creato Darma con l'ermellino famoso quadro qui esposto?::[4..8) opera
+Quale artista ha creato Pietà vaticana famoso quadro qui esposto?::[4..6) opera
+Quale artista ha creato Amore e Psiche famoso quadro qui esposto?::[4..7) opera
+Quale artista ha creato Le muse inquietanti famoso quadro qui esposto?::[4..7) opera
+Quale artista ha creato Natività con i santi Lorenzo e Francesco d'Assisi famoso quadro qui esposto?::[4..13) opera
+Quale artista ha creato Ragazza col turbante famoso quadro qui esposto?::[4..7) opera
+Quale artista ha creato Bacco famoso quadro qui esposto?::[4..5) opera
+Quale artista ha creato I papaveri famoso quadro qui esposto?::[4..6) opera
+Quale artista ha creato Deposizione famoso quadro qui esposto?::[4..5) opera
+Quale artista ha creato Battaglia di San Romano famoso quadro qui esposto?::[4..8) opera
+Quale artista ha creato Incredulità di san Tommaso famoso quadro qui esposto?::[4..8) opera
+Quale artista ha creato Sette opere di Misericordia famoso quadro qui esposto?::[4..8) opera
+Quale artista ha creato Les demoiselles d'Avignon famoso quadro qui esposto?::[4..8) opera
+Quale artista ha creato Vocazione di san Matteo famoso quadro qui esposto?::[4..8) opera
+Quale artista ha creato I mangiatori di patate famoso quadro qui esposto?::[4..8) opera
+Quale artista ha creato Tondo Doni famoso quadro qui esposto?::[4..6) opera
+Quale artista ha creato Las Meninas famoso quadro qui esposto?::[4..6) opera
+Quale artista ha creato Madonna del Cardellino famoso quadro qui esposto?::[4..7) opera
+Quale artista ha creato Bronzi di Riace famoso quadro qui esposto?::[4..7) opera
+Quale artista ha creato Nike di Samotracia famoso quadro qui esposto?::[4..7) opera
+Quale artista ha creato Colosso di Rodi famoso quadro qui esposto?::[4..7) opera
+Quando verrà esposto il Gioconda in questo museo?::[4..5) opera
+Quando verrà esposto il Nascita di Venere in questo museo?::[4..7) opera
+Quando verrà esposto il L'urlo in questo museo?::[4..6) opera
+Quando verrà esposto il Ultima Cena in questo museo?::[4..6) opera
+Quando verrà esposto il Venere di Urbino in questo museo?::[4..7) opera
+Quando verrà esposto il Giudizio Universale in questo museo?::[4..6) opera
+Quando verrà esposto il David in questo museo?::[4..5) opera
+Quando verrà esposto il Madonna  in questo museo?::[4..5) opera
+Quando verrà esposto il Madonna della pietà in questo museo?::[4..7) opera
+Quando verrà esposto il Canestra di frutta in questo museo?::[4..7) opera
+Quando verrà esposto il Creazione di Adamo in questo museo?::[4..7) opera
+Quando verrà esposto il Cappella Sistina in questo museo?::[4..6) opera
+Quando verrà esposto il Colosseo in questo museo?::[4..5) opera
+Quando verrà esposto il Olympia in questo museo?::[4..5) opera
+Quando verrà esposto il Venere di Milo in questo museo?::[4..7) opera
+Quando verrà esposto il Guernica in questo museo?::[4..5) opera
+Quando verrà esposto il Scudo con testa di Medusa in questo museo?::[4..9) opera
+Quando verrà esposto il Primavera in questo museo?::[4..5) opera
+Quando verrà esposto il Darma con l'ermellino in questo museo?::[4..8) opera
+Quando verrà esposto il Pietà vaticana in questo museo?::[4..6) opera
+Quando verrà esposto il Amore e Psiche in questo museo?::[4..7) opera
+Quando verrà esposto il Le muse inquietanti in questo museo?::[4..7) opera
+Quando verrà esposto il Natività con i santi Lorenzo e Francesco d'Assisi in questo museo?::[4..13) opera
+Quando verrà esposto il Ragazza col turbante in questo museo?::[4..7) opera
+Quando verrà esposto il Bacco in questo museo?::[4..5) opera
+Quando verrà esposto il I papaveri in questo museo?::[4..6) opera
+Quando verrà esposto il Deposizione in questo museo?::[4..5) opera
+Quando verrà esposto il Battaglia di San Romano in questo museo?::[4..8) opera
+Quando verrà esposto il Incredulità di san Tommaso in questo museo?::[4..8) opera
+Quando verrà esposto il Sette opere di Misericordia in questo museo?::[4..8) opera
+Quando verrà esposto il Les demoiselles d'Avignon in questo museo?::[4..8) opera
+Quando verrà esposto il Vocazione di san Matteo in questo museo?::[4..8) opera
+Quando verrà esposto il I mangiatori di patate in questo museo?::[4..8) opera
+Quando verrà esposto il Tondo Doni in questo museo?::[4..6) opera
+Quando verrà esposto il Las Meninas in questo museo?::[4..6) opera
+Quando verrà esposto il Madonna del Cardellino in questo museo?::[4..7) opera
+Quando verrà esposto il Bronzi di Riace in questo museo?::[4..7) opera
+Quando verrà esposto il Nike di Samotracia in questo museo?::[4..7) opera
+Quando verrà esposto il Colosso di Rodi in questo museo?::[4..7) opera
+Gioconda è una famosa opera.::[0..1) opera
+Nascita di Venere è una famosa opera.::[0..3) opera
+L'urlo è una famosa opera.::[0..2) opera
+Ultima Cena è una famosa opera.::[0..2) opera
+Venere di Urbino è una famosa opera.::[0..3) opera
+Giudizio Universale è una famosa opera.::[0..2) opera
+David è una famosa opera.::[0..1) opera
+Madonna  è una famosa opera.::[0..1) opera
+Madonna della pietà è una famosa opera.::[0..3) opera
+Canestra di frutta è una famosa opera.::[0..3) opera
+Creazione di Adamo è una famosa opera.::[0..3) opera
+Cappella Sistina è una famosa opera.::[0..2) opera
+Colosseo è una famosa opera.::[0..1) opera
+Olympia è una famosa opera.::[0..1) opera
+Venere di Milo è una famosa opera.::[0..3) opera
+Guernica è una famosa opera.::[0..1) opera
+Scudo con testa di Medusa è una famosa opera.::[0..5) opera
+Primavera è una famosa opera.::[0..1) opera
+Darma con l'ermellino è una famosa opera.::[0..4) opera
+Pietà vaticana è una famosa opera.::[0..2) opera
+Amore e Psiche è una famosa opera.::[0..3) opera
+Le muse inquietanti è una famosa opera.::[0..3) opera
+Natività con i santi Lorenzo e Francesco d'Assisi è una famosa opera.::[0..9) opera
+Ragazza col turbante è una famosa opera.::[0..3) opera
+Bacco è una famosa opera.::[0..1) opera
+I papaveri è una famosa opera.::[0..2) opera
+Deposizione è una famosa opera.::[0..1) opera
+Battaglia di San Romano è una famosa opera.::[0..4) opera
+Incredulità di san Tommaso è una famosa opera.::[0..4) opera
+Sette opere di Misericordia è una famosa opera.::[0..4) opera
+Les demoiselles d'Avignon è una famosa opera.::[0..4) opera
+Vocazione di san Matteo è una famosa opera.::[0..4) opera
+I mangiatori di patate è una famosa opera.::[0..4) opera
+Tondo Doni è una famosa opera.::[0..2) opera
+Las Meninas è una famosa opera.::[0..2) opera
+Madonna del Cardellino è una famosa opera.::[0..3) opera
+Bronzi di Riace è una famosa opera.::[0..3) opera
+Nike di Samotracia è una famosa opera.::[0..3) opera
+Colosso di Rodi è una famosa opera.::[0..3) opera
+Gioconda è stato scolpito nel 1270.::[0..1) opera
+Nascita di Venere è stato scolpito nel 1270.::[0..3) opera
+L'urlo è stato scolpito nel 1270.::[0..2) opera
+Ultima Cena è stato scolpito nel 1270.::[0..2) opera
+Venere di Urbino è stato scolpito nel 1270.::[0..3) opera
+Giudizio Universale è stato scolpito nel 1270.::[0..2) opera
+David è stato scolpito nel 1270.::[0..1) opera
+Madonna  è stato scolpito nel 1270.::[0..1) opera
+Madonna della pietà è stato scolpito nel 1270.::[0..3) opera
+Canestra di frutta è stato scolpito nel 1270.::[0..3) opera
+Creazione di Adamo è stato scolpito nel 1270.::[0..3) opera
+Cappella Sistina è stato scolpito nel 1270.::[0..2) opera
+Colosseo è stato scolpito nel 1270.::[0..1) opera
+Olympia è stato scolpito nel 1270.::[0..1) opera
+Venere di Milo è stato scolpito nel 1270.::[0..3) opera
+Guernica è stato scolpito nel 1270.::[0..1) opera
+Scudo con testa di Medusa è stato scolpito nel 1270.::[0..5) opera
+Primavera è stato scolpito nel 1270.::[0..1) opera
+Darma con l'ermellino è stato scolpito nel 1270.::[0..4) opera
+Pietà vaticana è stato scolpito nel 1270.::[0..2) opera
+Amore e Psiche è stato scolpito nel 1270.::[0..3) opera
+Le muse inquietanti è stato scolpito nel 1270.::[0..3) opera
+Natività con i santi Lorenzo e Francesco d'Assisi è stato scolpito nel 1270.::[0..9) opera
+Ragazza col turbante è stato scolpito nel 1270.::[0..3) opera
+Bacco è stato scolpito nel 1270.::[0..1) opera
+I papaveri è stato scolpito nel 1270.::[0..2) opera
+Deposizione è stato scolpito nel 1270.::[0..1) opera
+Battaglia di San Romano è stato scolpito nel 1270.::[0..4) opera
+Incredulità di san Tommaso è stato scolpito nel 1270.::[0..4) opera
+Sette opere di Misericordia è stato scolpito nel 1270.::[0..4) opera
+Les demoiselles d'Avignon è stato scolpito nel 1270.::[0..4) opera
+Vocazione di san Matteo è stato scolpito nel 1270.::[0..4) opera
+I mangiatori di patate è stato scolpito nel 1270.::[0..4) opera
+Tondo Doni è stato scolpito nel 1270.::[0..2) opera
+Las Meninas è stato scolpito nel 1270.::[0..2) opera
+Madonna del Cardellino è stato scolpito nel 1270.::[0..3) opera
+Bronzi di Riace è stato scolpito nel 1270.::[0..3) opera
+Nike di Samotracia è stato scolpito nel 1270.::[0..3) opera
+Colosso di Rodi è stato scolpito nel 1270.::[0..3) opera
+Gioconda ha ricevuto tanti consensi.::[0..1) opera
+Nascita di Venere ha ricevuto tanti consensi.::[0..3) opera
+L'urlo ha ricevuto tanti consensi.::[0..2) opera
+Ultima Cena ha ricevuto tanti consensi.::[0..2) opera
+Venere di Urbino ha ricevuto tanti consensi.::[0..3) opera
+Giudizio Universale ha ricevuto tanti consensi.::[0..2) opera
+David ha ricevuto tanti consensi.::[0..1) opera
+Madonna  ha ricevuto tanti consensi.::[0..1) opera
+Madonna della pietà ha ricevuto tanti consensi.::[0..3) opera
+Canestra di frutta ha ricevuto tanti consensi.::[0..3) opera
+Creazione di Adamo ha ricevuto tanti consensi.::[0..3) opera
+Cappella Sistina ha ricevuto tanti consensi.::[0..2) opera
+Colosseo ha ricevuto tanti consensi.::[0..1) opera
+Olympia ha ricevuto tanti consensi.::[0..1) opera
+Venere di Milo ha ricevuto tanti consensi.::[0..3) opera
+Guernica ha ricevuto tanti consensi.::[0..1) opera
+Scudo con testa di Medusa ha ricevuto tanti consensi.::[0..5) opera
+Primavera ha ricevuto tanti consensi.::[0..1) opera
+Darma con l'ermellino ha ricevuto tanti consensi.::[0..4) opera
+Pietà vaticana ha ricevuto tanti consensi.::[0..2) opera
+Amore e Psiche ha ricevuto tanti consensi.::[0..3) opera
+Le muse inquietanti ha ricevuto tanti consensi.::[0..3) opera
+Natività con i santi Lorenzo e Francesco d'Assisi ha ricevuto tanti consensi.::[0..9) opera
+Ragazza col turbante ha ricevuto tanti consensi.::[0..3) opera
+Bacco ha ricevuto tanti consensi.::[0..1) opera
+I papaveri ha ricevuto tanti consensi.::[0..2) opera
+Deposizione ha ricevuto tanti consensi.::[0..1) opera
+Battaglia di San Romano ha ricevuto tanti consensi.::[0..4) opera
+Incredulità di san Tommaso ha ricevuto tanti consensi.::[0..4) opera
+Sette opere di Misericordia ha ricevuto tanti consensi.::[0..4) opera
+Les demoiselles d'Avignon ha ricevuto tanti consensi.::[0..4) opera
+Vocazione di san Matteo ha ricevuto tanti consensi.::[0..4) opera
+I mangiatori di patate ha ricevuto tanti consensi.::[0..4) opera
+Tondo Doni ha ricevuto tanti consensi.::[0..2) opera
+Las Meninas ha ricevuto tanti consensi.::[0..2) opera
+Madonna del Cardellino ha ricevuto tanti consensi.::[0..3) opera
+Bronzi di Riace ha ricevuto tanti consensi.::[0..3) opera
+Nike di Samotracia ha ricevuto tanti consensi.::[0..3) opera
+Colosso di Rodi ha ricevuto tanti consensi.::[0..3) opera
+Chi è raffigurato nel Gioconda ?::[4..5) opera
+Chi è raffigurato nel Nascita di Venere ?::[4..7) opera
+Chi è raffigurato nel L'urlo ?::[4..6) opera
+Chi è raffigurato nel Ultima Cena ?::[4..6) opera
+Chi è raffigurato nel Venere di Urbino ?::[4..7) opera
+Chi è raffigurato nel Giudizio Universale ?::[4..6) opera
+Chi è raffigurato nel David ?::[4..5) opera
+Chi è raffigurato nel Madonna  ?::[4..5) opera
+Chi è raffigurato nel Madonna della pietà ?::[4..7) opera
+Chi è raffigurato nel Canestra di frutta ?::[4..7) opera
+Chi è raffigurato nel Creazione di Adamo ?::[4..7) opera
+Chi è raffigurato nel Cappella Sistina ?::[4..6) opera
+Chi è raffigurato nel Colosseo ?::[4..5) opera
+Chi è raffigurato nel Olympia ?::[4..5) opera
+Chi è raffigurato nel Venere di Milo ?::[4..7) opera
+Chi è raffigurato nel Guernica ?::[4..5) opera
+Chi è raffigurato nel Scudo con testa di Medusa ?::[4..9) opera
+Chi è raffigurato nel Primavera ?::[4..5) opera
+Chi è raffigurato nel Darma con l'ermellino ?::[4..8) opera
+Chi è raffigurato nel Pietà vaticana ?::[4..6) opera
+Chi è raffigurato nel Amore e Psiche ?::[4..7) opera
+Chi è raffigurato nel Le muse inquietanti ?::[4..7) opera
+Chi è raffigurato nel Natività con i santi Lorenzo e Francesco d'Assisi ?::[4..13) opera
+Chi è raffigurato nel Ragazza col turbante ?::[4..7) opera
+Chi è raffigurato nel Bacco ?::[4..5) opera
+Chi è raffigurato nel I papaveri ?::[4..6) opera
+Chi è raffigurato nel Deposizione ?::[4..5) opera
+Chi è raffigurato nel Battaglia di San Romano ?::[4..8) opera
+Chi è raffigurato nel Incredulità di san Tommaso ?::[4..8) opera
+Chi è raffigurato nel Sette opere di Misericordia ?::[4..8) opera
+Chi è raffigurato nel Les demoiselles d'Avignon ?::[4..8) opera
+Chi è raffigurato nel Vocazione di san Matteo ?::[4..8) opera
+Chi è raffigurato nel I mangiatori di patate ?::[4..8) opera
+Chi è raffigurato nel Tondo Doni ?::[4..6) opera
+Chi è raffigurato nel Las Meninas ?::[4..6) opera
+Chi è raffigurato nel Madonna del Cardellino ?::[4..7) opera
+Chi è raffigurato nel Bronzi di Riace ?::[4..7) opera
+Chi è raffigurato nel Nike di Samotracia ?::[4..7) opera
+Chi è raffigurato nel Colosso di Rodi ?::[4..7) opera
+Chi è raffigurato in Gioconda ?::[4..5) opera
+Chi è raffigurato in Nascita di Venere ?::[4..7) opera
+Chi è raffigurato in L'urlo ?::[4..6) opera
+Chi è raffigurato in Ultima Cena ?::[4..6) opera
+Chi è raffigurato in Venere di Urbino ?::[4..7) opera
+Chi è raffigurato in Giudizio Universale ?::[4..6) opera
+Chi è raffigurato in David ?::[4..5) opera
+Chi è raffigurato in Madonna  ?::[4..5) opera
+Chi è raffigurato in Madonna della pietà ?::[4..7) opera
+Chi è raffigurato in Canestra di frutta ?::[4..7) opera
+Chi è raffigurato in Creazione di Adamo ?::[4..7) opera
+Chi è raffigurato in Cappella Sistina ?::[4..6) opera
+Chi è raffigurato in Colosseo ?::[4..5) opera
+Chi è raffigurato in Olympia ?::[4..5) opera
+Chi è raffigurato in Venere di Milo ?::[4..7) opera
+Chi è raffigurato in Guernica ?::[4..5) opera
+Chi è raffigurato in Scudo con testa di Medusa ?::[4..9) opera
+Chi è raffigurato in Primavera ?::[4..5) opera
+Chi è raffigurato in Darma con l'ermellino ?::[4..8) opera
+Chi è raffigurato in Pietà vaticana ?::[4..6) opera
+Chi è raffigurato in Amore e Psiche ?::[4..7) opera
+Chi è raffigurato in Le muse inquietanti ?::[4..7) opera
+Chi è raffigurato in Natività con i santi Lorenzo e Francesco d'Assisi ?::[4..13) opera
+Chi è raffigurato in Ragazza col turbante ?::[4..7) opera
+Chi è raffigurato in Bacco ?::[4..5) opera
+Chi è raffigurato in I papaveri ?::[4..6) opera
+Chi è raffigurato in Deposizione ?::[4..5) opera
+Chi è raffigurato in Battaglia di San Romano ?::[4..8) opera
+Chi è raffigurato in Incredulità di san Tommaso ?::[4..8) opera
+Chi è raffigurato in Sette opere di Misericordia ?::[4..8) opera
+Chi è raffigurato in Les demoiselles d'Avignon ?::[4..8) opera
+Chi è raffigurato in Vocazione di san Matteo ?::[4..8) opera
+Chi è raffigurato in I mangiatori di patate ?::[4..8) opera
+Chi è raffigurato in Tondo Doni ?::[4..6) opera
+Chi è raffigurato in Las Meninas ?::[4..6) opera
+Chi è raffigurato in Madonna del Cardellino ?::[4..7) opera
+Chi è raffigurato in Bronzi di Riace ?::[4..7) opera
+Chi è raffigurato in Nike di Samotracia ?::[4..7) opera
+Chi è raffigurato in Colosso di Rodi ?::[4..7) opera
+Che cos'è Gioconda ?::[3..4) opera
+Che cos'è Nascita di Venere ?::[3..6) opera
+Che cos'è L'urlo ?::[3..5) opera
+Che cos'è Ultima Cena ?::[3..5) opera
+Che cos'è Venere di Urbino ?::[3..6) opera
+Che cos'è Giudizio Universale ?::[3..5) opera
+Che cos'è David ?::[3..4) opera
+Che cos'è Madonna  ?::[3..4) opera
+Che cos'è Madonna della pietà ?::[3..6) opera
+Che cos'è Canestra di frutta ?::[3..6) opera
+Che cos'è Creazione di Adamo ?::[3..6) opera
+Che cos'è Cappella Sistina ?::[3..5) opera
+Che cos'è Colosseo ?::[3..4) opera
+Che cos'è Olympia ?::[3..4) opera
+Che cos'è Venere di Milo ?::[3..6) opera
+Che cos'è Guernica ?::[3..4) opera
+Che cos'è Scudo con testa di Medusa ?::[3..8) opera
+Che cos'è Primavera ?::[3..4) opera
+Che cos'è Darma con l'ermellino ?::[3..7) opera
+Che cos'è Pietà vaticana ?::[3..5) opera
+Che cos'è Amore e Psiche ?::[3..6) opera
+Che cos'è Le muse inquietanti ?::[3..6) opera
+Che cos'è Natività con i santi Lorenzo e Francesco d'Assisi ?::[3..12) opera
+Che cos'è Ragazza col turbante ?::[3..6) opera
+Che cos'è Bacco ?::[3..4) opera
+Che cos'è I papaveri ?::[3..5) opera
+Che cos'è Deposizione ?::[3..4) opera
+Che cos'è Battaglia di San Romano ?::[3..7) opera
+Che cos'è Incredulità di san Tommaso ?::[3..7) opera
+Che cos'è Sette opere di Misericordia ?::[3..7) opera
+Che cos'è Les demoiselles d'Avignon ?::[3..7) opera
+Che cos'è Vocazione di san Matteo ?::[3..7) opera
+Che cos'è I mangiatori di patate ?::[3..7) opera
+Che cos'è Tondo Doni ?::[3..5) opera
+Che cos'è Las Meninas ?::[3..5) opera
+Che cos'è Madonna del Cardellino ?::[3..6) opera
+Che cos'è Bronzi di Riace ?::[3..6) opera
+Che cos'è Nike di Samotracia ?::[3..6) opera
+Che cos'è Colosso di Rodi ?::[3..6) opera
+Che cos'è la Gioconda ?::[4..5) opera
+Che cos'è la Nascita di Venere ?::[4..7) opera
+Che cos'è la L'urlo ?::[4..6) opera
+Che cos'è la Ultima Cena ?::[4..6) opera
+Che cos'è la Venere di Urbino ?::[4..7) opera
+Che cos'è la Giudizio Universale ?::[4..6) opera
+Che cos'è la David ?::[4..5) opera
+Che cos'è la Madonna  ?::[4..5) opera
+Che cos'è la Madonna della pietà ?::[4..7) opera
+Che cos'è la Canestra di frutta ?::[4..7) opera
+Che cos'è la Creazione di Adamo ?::[4..7) opera
+Che cos'è la Cappella Sistina ?::[4..6) opera
+Che cos'è la Colosseo ?::[4..5) opera
+Che cos'è la Olympia ?::[4..5) opera
+Che cos'è la Venere di Milo ?::[4..7) opera
+Che cos'è la Guernica ?::[4..5) opera
+Che cos'è la Scudo con testa di Medusa ?::[4..9) opera
+Che cos'è la Primavera ?::[4..5) opera
+Che cos'è la Darma con l'ermellino ?::[4..8) opera
+Che cos'è la Pietà vaticana ?::[4..6) opera
+Che cos'è la Amore e Psiche ?::[4..7) opera
+Che cos'è la Le muse inquietanti ?::[4..7) opera
+Che cos'è la Natività con i santi Lorenzo e Francesco d'Assisi ?::[4..13) opera
+Che cos'è la Ragazza col turbante ?::[4..7) opera
+Che cos'è la Bacco ?::[4..5) opera
+Che cos'è la I papaveri ?::[4..6) opera
+Che cos'è la Deposizione ?::[4..5) opera
+Che cos'è la Battaglia di San Romano ?::[4..8) opera
+Che cos'è la Incredulità di san Tommaso ?::[4..8) opera
+Che cos'è la Sette opere di Misericordia ?::[4..8) opera
+Che cos'è la Les demoiselles d'Avignon ?::[4..8) opera
+Che cos'è la Vocazione di san Matteo ?::[4..8) opera
+Che cos'è la I mangiatori di patate ?::[4..8) opera
+Che cos'è la Tondo Doni ?::[4..6) opera
+Che cos'è la Las Meninas ?::[4..6) opera
+Che cos'è la Madonna del Cardellino ?::[4..7) opera
+Che cos'è la Bronzi di Riace ?::[4..7) opera
+Che cos'è la Nike di Samotracia ?::[4..7) opera
+Che cos'è la Colosso di Rodi ?::[4..7) opera
+Caravaggio ha dipinto la Gioconda ?::[0..1) artist,[4..5) opera
+Pablo Picasso ha dipinto la Gioconda ?::[5..6) opera,[0..2) artist
+Sandro Boticelli ha dipinto la Gioconda ?::[0..2) artist,[5..6) opera
+Michelangelo Buonarotti ha dipinto la Gioconda ?::[0..2) artist,[5..6) opera
+Vincent Van Gogh ha dipinto la Gioconda ?::[0..3) artist,[6..7) opera
+Paul Cèzanne ha dipinto la Gioconda ?::[0..2) artist,[5..6) opera
+Salvador Dalì ha dipinto la Gioconda ?::[0..2) artist,[5..6) opera
+Claude Monet ha dipinto la Gioconda ?::[0..2) artist,[5..6) opera
+Raffaello Sanzio ha dipinto la Gioconda ?::[5..6) opera,[0..2) artist
+Leonardo Da Vinci ha dipinto la Gioconda ?::[0..3) artist,[6..7) opera
+Andy Warhol ha dipinto la Gioconda ?::[5..6) opera,[0..2) artist
+Gustav Klimt ha dipinto la Gioconda ?::[5..6) opera,[0..2) artist
+Giotto ha dipinto la Gioconda ?::[0..1) artist,[4..5) opera
+Canaletto ha dipinto la Gioconda ?::[0..1) artist,[4..5) opera
+Joan Miro ha dipinto la Gioconda ?::[0..2) artist,[5..6) opera
+Paul Gaugin ha dipinto la Gioconda ?::[5..6) opera,[0..2) artist
+Paul Klee ha dipinto la Gioconda ?::[0..2) artist,[5..6) opera
+Edgar Degas ha dipinto la Gioconda ?::[5..6) opera,[0..2) artist
+Francisco Goya ha dipinto la Gioconda ?::[5..6) opera,[0..2) artist
+Gustave Courbet ha dipinto la Gioconda ?::[0..2) artist,[5..6) opera
+Marc Chagall ha dipinto la Gioconda ?::[0..2) artist,[5..6) opera
+Pieter Paul Rubens ha dipinto la Gioconda ?::[6..7) opera,[0..3) artist
+Amedeo Modigliani ha dipinto la Gioconda ?::[5..6) opera,[0..2) artist
+William Turner ha dipinto la Gioconda ?::[0..2) artist,[5..6) opera
+Francis Bacon ha dipinto la Gioconda ?::[0..2) artist,[5..6) opera
+Camille Pissarro ha dipinto la Gioconda ?::[0..2) artist,[5..6) opera
+Cimabue ha dipinto la Gioconda ?::[0..1) artist,[4..5) opera
+Paolo Uccello ha dipinto la Gioconda ?::[5..6) opera,[0..2) artist
+Roy Lichtenstein ha dipinto la Gioconda ?::[0..2) artist,[5..6) opera
+David Bowie ha dipinto la Gioconda ?::[0..2) artist,[5..6) opera
+Umberto Boccioni ha dipinto la Gioconda ?::[0..2) artist,[5..6) opera
+Edward Hopper ha dipinto la Gioconda ?::[0..2) artist,[5..6) opera
+Picasso ha dipinto la Gioconda ?::[0..1) artist,[4..5) opera
+Donatello ha dipinto la Gioconda ?::[0..1) artist,[4..5) opera
+Leonardo ha dipinto la Gioconda ?::[0..1) artist,[4..5) opera
+Raffello ha dipinto la Gioconda ?::[0..1) artist,[4..5) opera
+Michelangelo ha dipinto la Gioconda ?::[0..1) artist,[4..5) opera
+Edvard Munch ha dipinto la Gioconda ?::[0..2) artist,[5..6) opera
+Munch ha dipinto la Gioconda ?::[0..1) artist,[4..5) opera
+Caravaggio ha dipinto la Gioconda ?::[4..5) opera,[0..1) artist
+Caravaggio ha dipinto la Nascita di Venere ?::[4..7) opera,[0..1) artist
+Caravaggio ha dipinto la L'urlo ?::[0..1) artist,[4..6) opera
+Caravaggio ha dipinto la Ultima Cena ?::[0..1) artist,[4..6) opera
+Caravaggio ha dipinto la Venere di Urbino ?::[0..1) artist,[4..7) opera
+Caravaggio ha dipinto la Giudizio Universale ?::[4..6) opera,[0..1) artist
+Caravaggio ha dipinto la David ?::[0..1) artist,[4..5) opera
+Caravaggio ha dipinto la Madonna  ?::[0..1) artist,[4..5) opera
+Caravaggio ha dipinto la Madonna della pietà ?::[0..1) artist,[4..7) opera
+Caravaggio ha dipinto la Canestra di frutta ?::[4..7) opera,[0..1) artist
+Caravaggio ha dipinto la Creazione di Adamo ?::[0..1) artist,[4..7) opera
+Caravaggio ha dipinto la Cappella Sistina ?::[4..6) opera,[0..1) artist
+Caravaggio ha dipinto la Colosseo ?::[4..5) opera,[0..1) artist
+Caravaggio ha dipinto la Olympia ?::[0..1) artist,[4..5) opera
+Caravaggio ha dipinto la Venere di Milo ?::[0..1) artist,[4..7) opera
+Caravaggio ha dipinto la Guernica ?::[0..1) artist,[4..5) opera
+Caravaggio ha dipinto la Scudo con testa di Medusa ?::[0..1) artist,[4..9) opera
+Caravaggio ha dipinto la Primavera ?::[0..1) artist,[4..5) opera
+Caravaggio ha dipinto la Darma con l'ermellino ?::[0..1) artist,[4..8) opera
+Caravaggio ha dipinto la Pietà vaticana ?::[4..6) opera,[0..1) artist
+Caravaggio ha dipinto la Amore e Psiche ?::[0..1) artist,[4..7) opera
+Caravaggio ha dipinto la Le muse inquietanti ?::[4..7) opera,[0..1) artist
+Caravaggio ha dipinto la Natività con i santi Lorenzo e Francesco d'Assisi ?::[0..1) artist,[4..13) opera
+Caravaggio ha dipinto la Ragazza col turbante ?::[0..1) artist,[4..7) opera
+Caravaggio ha dipinto la Bacco ?::[0..1) artist,[4..5) opera
+Caravaggio ha dipinto la I papaveri ?::[4..6) opera,[0..1) artist
+Caravaggio ha dipinto la Deposizione ?::[4..5) opera,[0..1) artist
+Caravaggio ha dipinto la Battaglia di San Romano ?::[4..8) opera,[0..1) artist
+Caravaggio ha dipinto la Incredulità di san Tommaso ?::[4..8) opera,[0..1) artist
+Caravaggio ha dipinto la Sette opere di Misericordia ?::[4..8) opera,[0..1) artist
+Caravaggio ha dipinto la Les demoiselles d'Avignon ?::[0..1) artist,[4..8) opera
+Caravaggio ha dipinto la Vocazione di san Matteo ?::[4..8) opera,[0..1) artist
+Caravaggio ha dipinto la I mangiatori di patate ?::[0..1) artist,[4..8) opera
+Caravaggio ha dipinto la Tondo Doni ?::[4..6) opera,[0..1) artist
+Caravaggio ha dipinto la Las Meninas ?::[4..6) opera,[0..1) artist
+Caravaggio ha dipinto la Madonna del Cardellino ?::[0..1) artist,[4..7) opera
+Caravaggio ha dipinto la Bronzi di Riace ?::[0..1) artist,[4..7) opera
+Caravaggio ha dipinto la Nike di Samotracia ?::[0..1) artist,[4..7) opera
+Caravaggio ha dipinto la Colosso di Rodi ?::[0..1) artist,[4..7) opera
+Perchè la Gioconda si trova a Parigi?::[2..3) opera
+Perchè la Nascita di Venere si trova a Parigi?::[2..5) opera
+Perchè la L'urlo si trova a Parigi?::[2..4) opera
+Perchè la Ultima Cena si trova a Parigi?::[2..4) opera
+Perchè la Venere di Urbino si trova a Parigi?::[2..5) opera
+Perchè la Giudizio Universale si trova a Parigi?::[2..4) opera
+Perchè la David si trova a Parigi?::[2..3) opera
+Perchè la Madonna  si trova a Parigi?::[2..3) opera
+Perchè la Madonna della pietà si trova a Parigi?::[2..5) opera
+Perchè la Canestra di frutta si trova a Parigi?::[2..5) opera
+Perchè la Creazione di Adamo si trova a Parigi?::[2..5) opera
+Perchè la Cappella Sistina si trova a Parigi?::[2..4) opera
+Perchè la Colosseo si trova a Parigi?::[2..3) opera
+Perchè la Olympia si trova a Parigi?::[2..3) opera
+Perchè la Venere di Milo si trova a Parigi?::[2..5) opera
+Perchè la Guernica si trova a Parigi?::[2..3) opera
+Perchè la Scudo con testa di Medusa si trova a Parigi?::[2..7) opera
+Perchè la Primavera si trova a Parigi?::[2..3) opera
+Perchè la Darma con l'ermellino si trova a Parigi?::[2..6) opera
+Perchè la Pietà vaticana si trova a Parigi?::[2..4) opera
+Perchè la Amore e Psiche si trova a Parigi?::[2..5) opera
+Perchè la Le muse inquietanti si trova a Parigi?::[2..5) opera
+Perchè la Natività con i santi Lorenzo e Francesco d'Assisi si trova a Parigi?::[2..11) opera
+Perchè la Ragazza col turbante si trova a Parigi?::[2..5) opera
+Perchè la Bacco si trova a Parigi?::[2..3) opera
+Perchè la I papaveri si trova a Parigi?::[2..4) opera
+Perchè la Deposizione si trova a Parigi?::[2..3) opera
+Perchè la Battaglia di San Romano si trova a Parigi?::[2..6) opera
+Perchè la Incredulità di san Tommaso si trova a Parigi?::[2..6) opera
+Perchè la Sette opere di Misericordia si trova a Parigi?::[2..6) opera
+Perchè la Les demoiselles d'Avignon si trova a Parigi?::[2..6) opera
+Perchè la Vocazione di san Matteo si trova a Parigi?::[2..6) opera
+Perchè la I mangiatori di patate si trova a Parigi?::[2..6) opera
+Perchè la Tondo Doni si trova a Parigi?::[2..4) opera
+Perchè la Las Meninas si trova a Parigi?::[2..4) opera
+Perchè la Madonna del Cardellino si trova a Parigi?::[2..5) opera
+Perchè la Bronzi di Riace si trova a Parigi?::[2..5) opera
+Perchè la Nike di Samotracia si trova a Parigi?::[2..5) opera
+Perchè la Colosso di Rodi si trova a Parigi?::[2..5) opera
+Quando è stato restaurato il Gioconda ?::[5..6) opera
+Quando è stato restaurato il Nascita di Venere ?::[5..8) opera
+Quando è stato restaurato il L'urlo ?::[5..7) opera
+Quando è stato restaurato il Ultima Cena ?::[5..7) opera
+Quando è stato restaurato il Venere di Urbino ?::[5..8) opera
+Quando è stato restaurato il Giudizio Universale ?::[5..7) opera
+Quando è stato restaurato il David ?::[5..6) opera
+Quando è stato restaurato il Madonna  ?::[5..6) opera
+Quando è stato restaurato il Madonna della pietà ?::[5..8) opera
+Quando è stato restaurato il Canestra di frutta ?::[5..8) opera
+Quando è stato restaurato il Creazione di Adamo ?::[5..8) opera
+Quando è stato restaurato il Cappella Sistina ?::[5..7) opera
+Quando è stato restaurato il Colosseo ?::[5..6) opera
+Quando è stato restaurato il Olympia ?::[5..6) opera
+Quando è stato restaurato il Venere di Milo ?::[5..8) opera
+Quando è stato restaurato il Guernica ?::[5..6) opera
+Quando è stato restaurato il Scudo con testa di Medusa ?::[5..10) opera
+Quando è stato restaurato il Primavera ?::[5..6) opera
+Quando è stato restaurato il Darma con l'ermellino ?::[5..9) opera
+Quando è stato restaurato il Pietà vaticana ?::[5..7) opera
+Quando è stato restaurato il Amore e Psiche ?::[5..8) opera
+Quando è stato restaurato il Le muse inquietanti ?::[5..8) opera
+Quando è stato restaurato il Natività con i santi Lorenzo e Francesco d'Assisi ?::[5..14) opera
+Quando è stato restaurato il Ragazza col turbante ?::[5..8) opera
+Quando è stato restaurato il Bacco ?::[5..6) opera
+Quando è stato restaurato il I papaveri ?::[5..7) opera
+Quando è stato restaurato il Deposizione ?::[5..6) opera
+Quando è stato restaurato il Battaglia di San Romano ?::[5..9) opera
+Quando è stato restaurato il Incredulità di san Tommaso ?::[5..9) opera
+Quando è stato restaurato il Sette opere di Misericordia ?::[5..9) opera
+Quando è stato restaurato il Les demoiselles d'Avignon ?::[5..9) opera
+Quando è stato restaurato il Vocazione di san Matteo ?::[5..9) opera
+Quando è stato restaurato il I mangiatori di patate ?::[5..9) opera
+Quando è stato restaurato il Tondo Doni ?::[5..7) opera
+Quando è stato restaurato il Las Meninas ?::[5..7) opera
+Quando è stato restaurato il Madonna del Cardellino ?::[5..8) opera
+Quando è stato restaurato il Bronzi di Riace ?::[5..8) opera
+Quando è stato restaurato il Nike di Samotracia ?::[5..8) opera
+Quando è stato restaurato il Colosso di Rodi ?::[5..8) opera
+Perchè è stata restaurata la Gioconda ?::[5..6) opera
+Perchè è stata restaurata la Nascita di Venere ?::[5..8) opera
+Perchè è stata restaurata la L'urlo ?::[5..7) opera
+Perchè è stata restaurata la Ultima Cena ?::[5..7) opera
+Perchè è stata restaurata la Venere di Urbino ?::[5..8) opera
+Perchè è stata restaurata la Giudizio Universale ?::[5..7) opera
+Perchè è stata restaurata la David ?::[5..6) opera
+Perchè è stata restaurata la Madonna  ?::[5..6) opera
+Perchè è stata restaurata la Madonna della pietà ?::[5..8) opera
+Perchè è stata restaurata la Canestra di frutta ?::[5..8) opera
+Perchè è stata restaurata la Creazione di Adamo ?::[5..8) opera
+Perchè è stata restaurata la Cappella Sistina ?::[5..7) opera
+Perchè è stata restaurata la Colosseo ?::[5..6) opera
+Perchè è stata restaurata la Olympia ?::[5..6) opera
+Perchè è stata restaurata la Venere di Milo ?::[5..8) opera
+Perchè è stata restaurata la Guernica ?::[5..6) opera
+Perchè è stata restaurata la Scudo con testa di Medusa ?::[5..10) opera
+Perchè è stata restaurata la Primavera ?::[5..6) opera
+Perchè è stata restaurata la Darma con l'ermellino ?::[5..9) opera
+Perchè è stata restaurata la Pietà vaticana ?::[5..7) opera
+Perchè è stata restaurata la Amore e Psiche ?::[5..8) opera
+Perchè è stata restaurata la Le muse inquietanti ?::[5..8) opera
+Perchè è stata restaurata la Natività con i santi Lorenzo e Francesco d'Assisi ?::[5..14) opera
+Perchè è stata restaurata la Ragazza col turbante ?::[5..8) opera
+Perchè è stata restaurata la Bacco ?::[5..6) opera
+Perchè è stata restaurata la I papaveri ?::[5..7) opera
+Perchè è stata restaurata la Deposizione ?::[5..6) opera
+Perchè è stata restaurata la Battaglia di San Romano ?::[5..9) opera
+Perchè è stata restaurata la Incredulità di san Tommaso ?::[5..9) opera
+Perchè è stata restaurata la Sette opere di Misericordia ?::[5..9) opera
+Perchè è stata restaurata la Les demoiselles d'Avignon ?::[5..9) opera
+Perchè è stata restaurata la Vocazione di san Matteo ?::[5..9) opera
+Perchè è stata restaurata la I mangiatori di patate ?::[5..9) opera
+Perchè è stata restaurata la Tondo Doni ?::[5..7) opera
+Perchè è stata restaurata la Las Meninas ?::[5..7) opera
+Perchè è stata restaurata la Madonna del Cardellino ?::[5..8) opera
+Perchè è stata restaurata la Bronzi di Riace ?::[5..8) opera
+Perchè è stata restaurata la Nike di Samotracia ?::[5..8) opera
+Perchè è stata restaurata la Colosso di Rodi ?::[5..8) opera

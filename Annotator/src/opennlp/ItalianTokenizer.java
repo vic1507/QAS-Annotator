@@ -12,14 +12,6 @@ public class ItalianTokenizer
 {
 	private ItalianTokenizer()
 	{
-		
-	}
-	
-	public static ItalianTokenizer instance = new ItalianTokenizer();
-
-	public String[] tokenize(String input)
-	{
-		String[] tokens = null;
 		try
 		{
 			InputStream modelIn = new FileInputStream("libs/italianModels/it-token.bin");
@@ -27,10 +19,7 @@ public class ItalianTokenizer
 			try
 			{
 				TokenizerModel model = new TokenizerModel(modelIn);
-				Tokenizer tokenizer = new TokenizerME(model);
-				
-				tokens = tokenizer.tokenize(input);
-				
+				this.tokenizer = new TokenizerME(model);
 			} catch (IOException e)
 			{
 				e.printStackTrace();
@@ -52,6 +41,48 @@ public class ItalianTokenizer
 			// TODO
 			e.printStackTrace();
 		}
+
+	}
+
+	private Tokenizer tokenizer;
+
+	public static ItalianTokenizer instance = new ItalianTokenizer();
+
+	public String[] tokenize(String input)
+	{
+		String[] tokens = null;
+/*		try
+		{
+			InputStream modelIn = new FileInputStream("libs/italianModels/it-token.bin");
+
+			try
+			{
+				TokenizerModel model = new TokenizerModel(modelIn);
+				Tokenizer tokenizer = new TokenizerME(model);
+*/
+				tokens = tokenizer.tokenize(input);
+
+	/*		} catch (IOException e)
+			{
+				e.printStackTrace();
+			} finally
+			{
+				if (modelIn != null)
+				{
+					try
+					{
+						modelIn.close();
+					} catch (IOException e)
+					{
+						 TODO
+					}
+				}
+			}
+		} catch (Exception e)
+		{
+			 TODO
+			e.printStackTrace();
+		}*/
 		return tokens;
 
 	}

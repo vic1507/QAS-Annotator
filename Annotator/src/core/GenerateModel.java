@@ -21,7 +21,7 @@ public class GenerateModel
 	{
 		this.model = model;
 	}
-	public void executeProva(List<String> artist, List<String> opere)
+	public void miniModelExecution(List<String> artist, List<String> opere)
 	{
 		try
 		{
@@ -67,7 +67,7 @@ public class GenerateModel
 		try
 		{
 			List<String> toPrint = new ArrayList<String>();
-			FileReader fileReader = new FileReader(new File(MODEL1));
+			FileReader fileReader = new FileReader(new File(model));
 			BufferedReader br = new BufferedReader(fileReader);
 			PrintWriter pw = new PrintWriter(new File("src/models/model.txt"));
 			String corr = br.readLine();

@@ -18,9 +18,11 @@ public class Interpreter
 	File myFile;
 	HashMap<String, List<Pair<Integer, Integer>>> annotatedElements;
 	boolean writeOnModel;
+	PythonInterpreter pi;
 	
 	public Interpreter(File file, boolean writeOnModel)
 	{
+		pi = new PythonInterpreter();
 		myFile = file;
 		annotatedElements = new HashMap<>();
 		this.writeOnModel = writeOnModel;
@@ -36,10 +38,13 @@ public class Interpreter
 
 	public HashMap<String, List<Pair<Integer, Integer>>> execute(List<String> data, HashMap<String, String> mappedElements, String input)
 	{
-		PythonInterpreter pi = new PythonInterpreter();
 		pi.set("writeOnModel", this.writeOnModel);
 		pi.set("myQuestion", input);
 		List<String> words = generateTokens(input);
+		for (String s : words)
+		{
+			System.out.println(s);
+		}
 		pi.set("words", words);
 		pi.set("dataset", data);
 		pi.execfile(myFile.getAbsolutePath());

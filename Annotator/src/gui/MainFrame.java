@@ -32,7 +32,7 @@ public class MainFrame extends JFrame
 			String gg = JOptionPane.showInputDialog(null, "Choose an operation", "Operation", JOptionPane.INFORMATION_MESSAGE, null, pV, pV[0]).toString();
 			if (gg.equals("Annotator"))
 			{
-				String[] possibleValues = { "OpenNlp", "RightMatch" };
+				String[] possibleValues = { "OpenNlp", "PatternsMatching" };
 				String annotator = JOptionPane.showInputDialog(null, "Choose an annotator", "Annotator", JOptionPane.INFORMATION_MESSAGE, null, possibleValues, possibleValues[0]).toString();
 				ApplicationManager am = new ApplicationManager();
 				am.execute(annotator);
@@ -44,7 +44,7 @@ public class MainFrame extends JFrame
 			} else if (gg.equals("Test"))
 			{
 				AnnotatorTest at = new AnnotatorTest(AnnotatorTest.OPEN_NLP_ANNOTATOR);
-				at.readTestCase(new File("src/models/testCase.txt"));
+				at.readTestCase(new File("src/models/testCase3.txt"));
 				at.compute();
 				at.evalutate(at.getAnnotationResults());
 			} else if (gg.equals("TrainModel"))
@@ -57,7 +57,7 @@ public class MainFrame extends JFrame
 			else if (gg.equals("Create Test Case"))
 			{
 				AnnotatorTest at = new AnnotatorTest(AnnotatorTest.OPEN_NLP_ANNOTATOR);
-				at.generateTestCase(new File ("src/models/equilibratedTemplates.txt"));
+				at.generateTestCase(new File ("src/models/model.txt"));
 			}
 		} catch (NullPointerException e)
 		{

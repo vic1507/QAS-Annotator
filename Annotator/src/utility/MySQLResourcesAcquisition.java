@@ -42,7 +42,6 @@ public class MySQLResourcesAcquisition implements ResourcesAcquisitionInterface
 		return rs;
 	}
 	
-	
 	public Connection returnStaticConnection()
 	{
 		return connection;
@@ -91,51 +90,7 @@ public class MySQLResourcesAcquisition implements ResourcesAcquisitionInterface
 		return connection;
 	}
 
-	/*
-	@Override
-	public List<String> getOpere(Connection connection, String table, String name)
-	{
-		List<String> opere = new ArrayList<String>();
-		try
-		{
-			Statement cmd= connection.createStatement();;
-			String query = "SELECT "+ name +" FROM "+ table;
-			ResultSet res = cmd.executeQuery(query);
-			while (res.next())
-			{
-				opere.add(res.getString(1));
-			}
-			
-		} catch (SQLException e)
-		{
-			JOptionPane.showMessageDialog(null, e.getMessage());
-		}
-		
-		return opere;
-	}
-
-	@Override
-	public List<String> getArtists(Connection connection, String table, String name)
-	{
-		List<String> artist = new ArrayList<String>();
-		try
-		{
-			Statement cmd= connection.createStatement();;
-			String query = "SELECT "+ name +" FROM "+ table;
-			ResultSet res = cmd.executeQuery(query);
-			while (res.next())
-			{
-				artist.add(res.getString(1));
-			}
-			
-		} catch (SQLException e)
-		{
-			JOptionPane.showMessageDialog(null, e.getMessage());
-		}
-		
-		return artist;
-	}
-*/
+	
 	public List<String> getData()
 	{
 		return data;

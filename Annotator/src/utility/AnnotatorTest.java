@@ -5,7 +5,6 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.sql.Connection;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -91,7 +90,7 @@ public class AnnotatorTest
 			int index = 0;
 			FileReader fr = new FileReader(model);
 			BufferedReader br = new BufferedReader(fr);
-			PrintWriter pw = new PrintWriter(new File("src/models/testCase2.txt"));
+			PrintWriter pw = new PrintWriter(new File("src/models/testCase3.txt"));
 			String line = br.readLine();
 			while (line != null)
 			{
@@ -143,12 +142,12 @@ public class AnnotatorTest
 	{
 		try
 		{
-			MySQLResourcesAcquisition rs = new MySQLResourcesAcquisition();
+//			MySQLResourcesAcquisition rs = new MySQLResourcesAcquisition();
 
-			Connection connection = rs.getConnection();
+//			Connection connection = rs.getConnection();
 
-			rs.getData().addAll(rs.getDataFromDb(connection, "artist", "name", ""));
-			rs.getData().addAll(rs.getDataFromDb(connection, "opere", "operename", ""));
+//			rs.getData().addAll(rs.getDataFromDb(connection, "artist", "name", ""));
+//			rs.getData().addAll(rs.getDataFromDb(connection, "opere", "operename", ""));
 
 			File f = new File("src/models/it-ner-art.bin");
 			TokenNameFinderModel model = new TokenNameFinderModel(f);

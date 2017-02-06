@@ -59,13 +59,13 @@
 10685::Piet√† vaticana
 11074::Amore e Psiche
 10277::Le muse inquietanti
-9875::Nativit√† con i santi Lorenzo e Francesco d'Assisi
+9875::Nativit‡†con i santi Lorenzo e Francesco d'Assisi
 9879::Ragazza col turbante
 9863::Bacco
 3305::I papaveri
 10269::Deposizione
 9863::Battaglia di San Romano
-11183::Incredulit√† di san Tommaso
+11183::Incredulit‡†di san Tommaso
 10284::Sette opere di Misericordia
 10277::Les demoiselles d'Avignon
 11297::Vocazione di san Matteo

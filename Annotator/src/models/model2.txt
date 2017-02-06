@@ -1,24 +1,128 @@
 Chi è <START:artist> Caravaggio <END> ?
-Qual è la tecnica scultorea di <START:artist> Pablo Picasso <END> ?
-Qual è la biografia di <START:artist> Sandro Boticelli <END> ?
-A quale corrente artistica appartiene <START:artist> Michelangelo Buonarotti <END> ?
-<START:artist> Vincent Van Gogh <END> è un famoso artista.
-<START:artist> Paul Cèzanne <END> è stato il maestro di molti artisti.
-<START:artist> Salvador Dalì <END> ha dipinto diversi quadri.
-C'è un quadro di <START:artist> Claude Monet <END> in questo museo ?
-Abbiamo opere di <START:artist> Raffaello Sanzio <END> in questo museo ?
-E' vero che <START:artist> Leonardo Da Vinci <END> ha dipinto tanto?
-E' vero che il <START:opera> Creazione di Adamo <END> è stato teatro di molti giochi?
-Quale artista ha creato <START:opera> Cappella Sistina <END> famoso quadro qui esposto?
-Quando verrà esposto il <START:opera> Colosseo <END> in questo museo?
-<START:opera> Olympia <END> è una famosa opera.
-<START:opera> Venere di Milo <END> è stato scolpito nel 1270.
-<START:opera> Guernica <END> ha ricevuto tanti consensi.
-Chi è raffigurato nel <START:opera> Scudo con testa di Medusa <END> ?
-Chi è raffigurato in <START:opera> Primavera <END> ?
-Che cos'è <START:opera> Darma con l'ermellino <END> ?
-Che cos'è la <START:opera> Pietà vaticana <END> ?
-<START:artist> Marc Chagall <END> ha dipinto la <START:opera> Amore e Psiche <END> ?
-Perchè la <START:opera> Le muse inquietanti <END> si trova a Parigi?
-Quando è stato restaurato il <START:opera> Natività con i santi Lorenzo e Francesco d'Assisi <END> ?
-Perchè è stata restaurata la <START:opera> Ragazza col turbante <END> ?
+Chi era <START:artist> Pablo Picasso <END> ?
+Chi ha commissionato la <START:opera> L'urlo <END> ? 
+Chi ha commissionato <START:opera> Ultima Cena <END> ? 
+Chi ha scolpito il <START:opera> Venere di Urbino <END> ?
+Chi ha scolpito <START:opera> Giudizio Universale <END> ?
+Chi ha costruito lo <START:opera> David <END> ?
+Chi ha costruito <START:opera> Madonna  <END> ?
+Chi ha restaurato i <START:opera> Madonna della pietà <END> ?
+Chi ha restaurato <START:opera> Canestra di frutta <END> ?
+Chi ha dipinto le <START:opera> Creazione di Adamo <END> ?
+Chi ha dipinto <START:opera> Cappella Sistina <END> ?
+Chi dipinse <START:opera> Colosseo <END> ?
+Chi dipinse la <START:opera> Olympia <END> ? 
+Chi ha finanziato il restauro del <START:opera> Venere di Milo <END> ?
+Chi è il proprietario della <START:opera> Guernica <END> ?
+Chi è l'autore di <START:opera> Scudo con testa di Medusa <END> ?
+Chi ha danneggiato il <START:opera> Primavera <END> ?
+Chi ha danneggiato <START:opera> Darma con l'ermellino <END> ?
+Chi ha collaborato alla costruzione di <START:opera> Pietà vaticana <END> ?
+Chi è raffigurato nel <START:opera> Amore e Psiche <END> ?
+Chi è raffigurato in <START:opera> Le muse inquietanti <END> ?
+Che cos'è il <START:opera> Natività con i santi Lorenzo e Francesco d'Assisi <END> ? 
+Che cos'è <START:opera> Ragazza col turbante <END> ?
+Che cosa è la <START:opera> Bacco <END> ?
+<START:artist> Camille Pissarro <END> ha dipinto la <START:opera> I papaveri <END> ?
+<START:artist> Cimabue <END> ha dipinto <START:opera> Deposizione <END> ?
+<START:artist> Paolo Uccello <END> dipinse la <START:opera> Battaglia di San Romano <END> ?
+<START:artist> Roy Lichtenstein <END> dipinse <START:opera> Incredulità di san Tommaso <END> ?
+Quale materiale è stato usato per costruire il <START:opera> Sette opere di Misericordia <END> ?
+Quale materiale è stato usato per scolpire la <START:opera> Les demoiselles d'Avignon <END> ?
+Quale tecnica pittorica è stata usata per dipingere il <START:opera> Vocazione di san Matteo <END> ?
+Cosa rappresenta la <START:opera> I mangiatori di patate <END> ?
+Quale materiale è stato usato per scolpire <START:opera> Tondo Doni <END> ?
+Quale tecnica pittorica è stata usata per dipingere <START:opera> Las Meninas <END> ?
+Cosa rappresenta <START:opera> Madonna del Cardellino <END> ?
+Qual è lo stile di <START:opera> Bronzi di Riace <END> ?
+Quali sono le dimensioni di <START:opera> Nike di Samotracia <END> ?
+Cosa significa la <START:opera> Gioconda <END> ?
+Cosa significa <START:opera> Nascita di Venere <END> ?
+Dove è stato dipinto il <START:opera> L'urlo <END> ?
+Dove è stato dipinto <START:opera> Ultima Cena <END> ?
+Dove è custodito il <START:opera> Venere di Urbino <END> ?
+Dove è custodito <START:opera> Giudizio Universale <END> ?
+Dove era esposta la <START:opera> David <END> ?
+Dove era esposta <START:opera> Madonna  <END> ?
+Dove sono stati trovati i <START:opera> Madonna della pietà <END> ?
+Dove sono stati trovati <START:opera> Canestra di frutta <END> ?
+Quando sono iniziati i lavori di costruzione del <START:opera> Creazione di Adamo <END> ?
+Quando sono terminati i lavori di costruzione degli <START:opera> Cappella Sistina <END> ?
+Quando è stata ultimata la <START:opera> Colosseo <END> ?
+Quando è stata ultimata <START:opera> Olympia <END> ?
+Quando è stato restaurato lo <START:opera> Venere di Milo <END> ?
+Quando è stato restaurato <START:opera> Guernica <END> ?
+Quando è stato distrutto il <START:opera> Scudo con testa di Medusa <END> ?
+Quando è stato distrutto <START:opera> Primavera <END> ?
+Quando sono stati ritrovati i <START:opera> Darma con l'ermellino <END> ?
+Quando sono stati ritrovati <START:opera> Pietà vaticana <END> ?
+Quando è stata rubata la <START:opera> Amore e Psiche <END> ?
+Quando è stata rubata <START:opera> Le muse inquietanti <END> ?
+Quanti anni ha la <START:opera> Natività con i santi Lorenzo e Francesco d'Assisi <END> ?
+Quanti anni ha <START:opera> Ragazza col turbante <END> ?
+Quanti metri quadrati occupa la <START:opera> Bacco <END> ?
+Quanti metri quadrati occupa <START:opera> I papaveri <END> ?
+Quanto è alta la <START:opera> Deposizione <END> ?
+Quanto è alta <START:opera> Battaglia di San Romano <END> ?
+Quanto pesa lo <START:opera> Incredulità di san Tommaso <END> ?
+Quanto pesa <START:opera> Sette opere di Misericordia <END> ?
+Quanto è grande la <START:opera> Les demoiselles d'Avignon <END> ?
+Quanto è grande <START:opera> Vocazione di san Matteo <END> ?
+Quante navate ci sono nella <START:opera> I mangiatori di patate <END> ?
+Quante navate ci sono in <START:opera> Tondo Doni <END> ?
+A quale periodo risale la <START:opera> Las Meninas <END> ?
+A quale periodo risale <START:opera> Madonna del Cardellino <END> ?
+Perchè il <START:opera> Bronzi di Riace <END> è a Roma ? 
+Perchè <START:opera> Nike di Samotracia <END> è a Milano ?
+Perchè il <START:opera> Gioconda <END> si trova a Parigi ?
+Perchè <START:opera> Nascita di Venere <END> si trova a Londra? 
+Perchè la <START:opera> L'urlo <END> non è stata terminata ?
+Quanto vale lo <START:opera> Ultima Cena <END> ?
+Quanto è costato il <START:opera> Venere di Urbino <END> ?
+Quanti anni ci sono voluti per costruire le <START:opera> Giudizio Universale <END> ?
+Quanti anni ci sono voluti per ultimare la <START:opera> David <END> ?
+In quale periodo storico è stata dipinta la <START:opera> Madonna  <END> ?
+Con quale tecnica è stato dipinto il <START:opera> Madonna della pietà <END> ?
+Che tipo di colori sono stati usati per dipingere lo <START:opera> Canestra di frutta <END> ?
+Su quale materiale è stata dipinta la <START:opera> Creazione di Adamo <END> ?
+Che superficie occupa il <START:opera> Cappella Sistina <END> ?
+Come è stato restaurato il <START:opera> Colosseo <END> ?
+Perchè questo quadro si chiama <START:opera> Olympia <END> ?
+Perchè questa opera si chiama <START:opera> Venere di Milo <END> ?
+Ci sono altre <START:opera> Guernica <END> ?
+Chi era <START:artist> Paul Klee <END> ?
+Chi era il maestro <START:artist> Edgar Degas <END> ?
+Chi era il maestro di <START:artist> Francisco Goya <END> ?
+Chi è il proprietario della <START:opera> Pietà vaticana <END> ?
+Chi è l'autore della <START:opera> Amore e Psiche <END> ?
+Qual è la biografia di <START:artist> Pieter Paul Rubens <END> ?
+Quali sono le prime opere di <START:artist> Amedeo Modigliani <END> ?
+Quali sono le opere incompiute di <START:artist> William Turner <END> ?
+Quale è lo stile di <START:artist> Francis Bacon <END> ?
+Dove è nato <START:artist> Camille Pissarro <END> ?
+Dove ha trascorso l'infanzia <START:artist> Cimabue <END> ?
+Dove ha trascorso la vecchiaia <START:artist> Paolo Uccello <END> ?
+Dove ha trascorso la vita <START:artist> Roy Lichtenstein <END> ?
+Dove si è formato <START:artist> David Bowie <END> ?
+Dove ha vissuto <START:artist> Umberto Boccioni <END> ?
+Dove è morto <START:artist> Edward Hopper <END> ?
+Dove è stato sepolto <START:artist> Picasso <END> ?
+Quando è nato <START:artist> Donatello <END> ?
+Quando è morto <START:artist> Leonardo <END> ?
+Quanti anni ha <START:artist> Raffello <END> ?
+Quanti anni aveva <START:artist> Michelangelo <END> ?
+Quanto è alto <START:artist> Edvard Munch <END> ?
+Quanto era alto <START:artist> Caravaggio <END> ?
+Quanto pesa <START:artist> Pablo Picasso <END> ?
+In quale periodo è vissuto <START:artist> Sandro Boticelli <END> ?
+Ci sono autoritratti di <START:artist> Michelangelo Buonarotti <END> ?
+Qual è la tecnica scultorea di <START:artist> Vincent Van Gogh <END> ?
+A quale corrente artistica appartiene <START:artist> Paul Cèzanne <END> ?
+Di chi era figlio <START:artist> Salvador Dalì <END> ?
+Come è morto <START:artist> Claude Monet <END> ?
+C'è un quadro di <START:artist> Raffaello Sanzio <END> in questo museo ?
+Abbiamo opere di <START:artist> Leonardo Da Vinci <END> in questo museo ?
+Chi scrisse <START:opera> Creazione di Adamo <END> ?
+Chi scrisse la <START:opera> Cappella Sistina <END> ?
+<START:artist> Giotto <END> era il maestro di <START:artist> Canaletto <END> ?
+<START:opera> Venere di Milo <END> è una famosa opera di <START:artist> Joan Miro <END> .
