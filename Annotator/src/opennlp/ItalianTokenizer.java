@@ -4,6 +4,8 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 
+import javax.swing.JOptionPane;
+
 import opennlp.tools.tokenize.Tokenizer;
 import opennlp.tools.tokenize.TokenizerME;
 import opennlp.tools.tokenize.TokenizerModel;
@@ -32,14 +34,13 @@ public class ItalianTokenizer
 						modelIn.close();
 					} catch (IOException e)
 					{
-						// TODO
+						JOptionPane.showMessageDialog(null, "Errore nell'elaborazione del modello");
 					}
 				}
 			}
 		} catch (Exception e)
 		{
-			// TODO
-			e.printStackTrace();
+			JOptionPane.showMessageDialog(null, "Errore nella lettura del modello");
 		}
 
 	}
@@ -50,41 +51,7 @@ public class ItalianTokenizer
 
 	public String[] tokenize(String input)
 	{
-		String[] tokens = null;
-/*		try
-		{
-			InputStream modelIn = new FileInputStream("libs/italianModels/it-token.bin");
-
-			try
-			{
-				TokenizerModel model = new TokenizerModel(modelIn);
-				Tokenizer tokenizer = new TokenizerME(model);
-*/
-				tokens = tokenizer.tokenize(input);
-
-	/*		} catch (IOException e)
-			{
-				e.printStackTrace();
-			} finally
-			{
-				if (modelIn != null)
-				{
-					try
-					{
-						modelIn.close();
-					} catch (IOException e)
-					{
-						 TODO
-					}
-				}
-			}
-		} catch (Exception e)
-		{
-			 TODO
-			e.printStackTrace();
-		}*/
-		return tokens;
-
+		return tokenizer.tokenize(input);
 	}
 
 	public static ItalianTokenizer getInstance()

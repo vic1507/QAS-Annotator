@@ -6,31 +6,83 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.sql.Connection;
 import java.sql.DriverManager;
+import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
+
 import javax.swing.JOptionPane;
 
 public class MySQLResourcesAcquisition implements ResourcesAcquisitionInterface
 {
 	private List<String> data;
-	private String username="root";
-	private String password="checkmate_10";
-	private String dbAddress="jdbc:mysql://127.0.0.1:3306/tesi";
+	private String username = "root";
+	private String password = "checkmate_10";
+	private String dbAddress = "jdbc:mysql://127.0.0.1:3306/tesi";
 	private static final String DRIVER = "com.mysql.jdbc.Driver";
-	private HashMap <String,String> mappedTypes;
+	private HashMap<String, String> mappedTypes;
 	private static Connection connection;
-	
+
 	public MySQLResourcesAcquisition()
 	{
 		this.data = new ArrayList<String>();
-		this.mappedTypes = new HashMap<String,String>();
+		this.mappedTypes = new HashMap<String, String>();
 	}
-	
-	public static MySQLResourcesAcquisition createResources ()
+
+	public void insertAllArtist(List<String> data, String table, Connection connection)
+	{
+		Set<String> noDuplicate = new HashSet<String>();
+		for (String s : data)
+		{
+			noDuplicate.add(s);
+		}
+
+		for (String s : noDuplicate)
+		{
+			try
+			{
+				String insert = "insert into artist(name) values (?)";
+				PreparedStatement statement = connection.prepareStatement(insert);
+				statement.setString(1, s);
+				statement.executeUpdate();
+				System.out.println("inserisco");
+			} catch (SQLException e)
+			{
+				e.printStackTrace();
+			}
+		}
+	}
+
+	public void insertAllOpere(List<String> data, String table, Connection connection)
+	{
+		Set<String> noDuplicate = new HashSet<String>();
+		for (String s : data)
+		{
+			noDuplicate.add(s);
+		}
+
+		for (String s : noDuplicate)
+		{
+			try
+			{
+				String insert = "insert into opere(operename) values (?)";
+				PreparedStatement statement = connection.prepareStatement(insert);
+				statement.setString(1, s);
+				statement.executeUpdate();
+				System.out.println("inserisco");
+			} catch (SQLException e)
+			{
+				e.printStackTrace();
+			}
+		}
+	}
+
+	public static MySQLResourcesAcquisition createResources()
 	{
 		MySQLResourcesAcquisition rs = new MySQLResourcesAcquisition();
 
@@ -38,18 +90,18 @@ public class MySQLResourcesAcquisition implements ResourcesAcquisitionInterface
 		connection = connection2;
 		rs.getData().addAll(rs.getDataFromDb(connection2, "artist", "name", ""));
 		rs.getData().addAll(rs.getDataFromDb(connection2, "opere", "operename", ""));
-		
+
 		return rs;
 	}
-	
+
 	public Connection returnStaticConnection()
 	{
 		return connection;
 	}
-	
+
 	public List<String> getByFile(File file)
 	{
-		List<String>data = new ArrayList<>();
+		List<String> data = new ArrayList<>();
 		String path = file.getAbsolutePath();
 		try
 		{
@@ -59,10 +111,10 @@ public class MySQLResourcesAcquisition implements ResourcesAcquisitionInterface
 			String s = br.readLine();
 			while (s != null)
 			{
-				String [] model = s.split("::");
+				String[] model = s.split("::");
 				data.add(model[0]);
 				mappedTypes.put(model[0], model[1].toLowerCase());
-				s=br.readLine();
+				s = br.readLine();
 			}
 			br.close();
 			fr.close();
@@ -74,10 +126,9 @@ public class MySQLResourcesAcquisition implements ResourcesAcquisitionInterface
 		return data;
 	}
 
-	
 	public Connection getConnection()
 	{
-		
+
 		Connection connection = null;
 		try
 		{
@@ -90,7 +141,6 @@ public class MySQLResourcesAcquisition implements ResourcesAcquisitionInterface
 		return connection;
 	}
 
-	
 	public List<String> getData()
 	{
 		return data;
@@ -107,20 +157,20 @@ public class MySQLResourcesAcquisition implements ResourcesAcquisitionInterface
 		List<String> dataFromDb = new ArrayList<String>();
 		try
 		{
-			Statement cmd= connection.createStatement();
-			String query = "SELECT * " + "FROM "+ table;
+			Statement cmd = connection.createStatement();
+			String query = "SELECT * " + "FROM " + table;
 			ResultSet res = cmd.executeQuery(query);
 			while (res.next())
 			{
 				dataFromDb.add(res.getString(name));
 				mappedTypes.put(res.getString(name), table.toLowerCase());
 			}
-			
+
 		} catch (SQLException e)
 		{
 			JOptionPane.showMessageDialog(null, e.getMessage());
 		}
-		
+
 		return dataFromDb;
 	}
 
@@ -133,6 +183,5 @@ public class MySQLResourcesAcquisition implements ResourcesAcquisitionInterface
 	{
 		this.mappedTypes = mappedTypes;
 	}
-	
 
 }

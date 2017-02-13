@@ -40,7 +40,7 @@ for element in words:
 allElementDict={}
 
 if (writeOnModel):
-   
+    
     writeModel = open("src/models/hashModel.txt","w")
 
     #hashing degli elementi presi da file o da db(prime due lettere)

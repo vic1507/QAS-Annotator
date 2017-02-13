@@ -35,16 +35,12 @@ public class Interpreter
 			tokens.add(s);
 		return tokens;
 	}
-
+	
 	public HashMap<String, List<Pair<Integer, Integer>>> execute(List<String> data, HashMap<String, String> mappedElements, String input)
 	{
+		List<String> words = generateTokens(input);
 		pi.set("writeOnModel", this.writeOnModel);
 		pi.set("myQuestion", input);
-		List<String> words = generateTokens(input);
-		for (String s : words)
-		{
-			System.out.println(s);
-		}
 		pi.set("words", words);
 		pi.set("dataset", data);
 		pi.execfile(myFile.getAbsolutePath());

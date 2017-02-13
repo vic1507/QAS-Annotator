@@ -7,8 +7,8 @@ Chi è <START:artist> Paul Cèzanne <END> ?
 Chi è <START:artist> Salvador Dalì <END> ?
 Chi è <START:artist> Claude Monet <END> ?
 Chi è <START:artist> Raffaello Sanzio <END> ?
-Chi è <START:artist> Leonardo Da Vinci <END> ?
-Chi è <START:artist> Andy Warhol <END> ?
+Chi è <START:artist> Leonardo da Vinci <END> ?
+Chi è <START:artist> Blind Willie McTell <END> ?
 Chi è <START:artist> Gustav Klimt <END> ?
 Chi è <START:artist> Giotto <END> ?
 Chi è <START:artist> Canaletto <END> ?
@@ -46,8 +46,8 @@ Qual è la tecnica scultorea di <START:artist> Paul Cèzanne <END> ?
 Qual è la tecnica scultorea di <START:artist> Salvador Dalì <END> ?
 Qual è la tecnica scultorea di <START:artist> Claude Monet <END> ?
 Qual è la tecnica scultorea di <START:artist> Raffaello Sanzio <END> ?
-Qual è la tecnica scultorea di <START:artist> Leonardo Da Vinci <END> ?
-Qual è la tecnica scultorea di <START:artist> Andy Warhol <END> ?
+Qual è la tecnica scultorea di <START:artist> Leonardo da Vinci <END> ?
+Qual è la tecnica scultorea di <START:artist> Blind Willie McTell <END> ?
 Qual è la tecnica scultorea di <START:artist> Gustav Klimt <END> ?
 Qual è la tecnica scultorea di <START:artist> Giotto <END> ?
 Qual è la tecnica scultorea di <START:artist> Canaletto <END> ?
@@ -85,8 +85,8 @@ Qual è la biografia di <START:artist> Paul Cèzanne <END> ?
 Qual è la biografia di <START:artist> Salvador Dalì <END> ?
 Qual è la biografia di <START:artist> Claude Monet <END> ?
 Qual è la biografia di <START:artist> Raffaello Sanzio <END> ?
-Qual è la biografia di <START:artist> Leonardo Da Vinci <END> ?
-Qual è la biografia di <START:artist> Andy Warhol <END> ?
+Qual è la biografia di <START:artist> Leonardo da Vinci <END> ?
+Qual è la biografia di <START:artist> Blind Willie McTell <END> ?
 Qual è la biografia di <START:artist> Gustav Klimt <END> ?
 Qual è la biografia di <START:artist> Giotto <END> ?
 Qual è la biografia di <START:artist> Canaletto <END> ?
@@ -124,8 +124,8 @@ A quale corrente artistica appartiene <START:artist> Paul Cèzanne <END> ?
 A quale corrente artistica appartiene <START:artist> Salvador Dalì <END> ?
 A quale corrente artistica appartiene <START:artist> Claude Monet <END> ?
 A quale corrente artistica appartiene <START:artist> Raffaello Sanzio <END> ?
-A quale corrente artistica appartiene <START:artist> Leonardo Da Vinci <END> ?
-A quale corrente artistica appartiene <START:artist> Andy Warhol <END> ?
+A quale corrente artistica appartiene <START:artist> Leonardo da Vinci <END> ?
+A quale corrente artistica appartiene <START:artist> Blind Willie McTell <END> ?
 A quale corrente artistica appartiene <START:artist> Gustav Klimt <END> ?
 A quale corrente artistica appartiene <START:artist> Giotto <END> ?
 A quale corrente artistica appartiene <START:artist> Canaletto <END> ?
@@ -163,8 +163,8 @@ A quale corrente artistica appartiene <START:artist> Munch <END> ?
 <START:artist> Salvador Dalì <END> è un famoso artista.
 <START:artist> Claude Monet <END> è un famoso artista.
 <START:artist> Raffaello Sanzio <END> è un famoso artista.
-<START:artist> Leonardo Da Vinci <END> è un famoso artista.
-<START:artist> Andy Warhol <END> è un famoso artista.
+<START:artist> Leonardo da Vinci <END> è un famoso artista.
+<START:artist> Blind Willie McTell <END> è un famoso artista.
 <START:artist> Gustav Klimt <END> è un famoso artista.
 <START:artist> Giotto <END> è un famoso artista.
 <START:artist> Canaletto <END> è un famoso artista.
@@ -202,8 +202,8 @@ A quale corrente artistica appartiene <START:artist> Munch <END> ?
 <START:artist> Salvador Dalì <END> è stato il maestro di molti artisti.
 <START:artist> Claude Monet <END> è stato il maestro di molti artisti.
 <START:artist> Raffaello Sanzio <END> è stato il maestro di molti artisti.
-<START:artist> Leonardo Da Vinci <END> è stato il maestro di molti artisti.
-<START:artist> Andy Warhol <END> è stato il maestro di molti artisti.
+<START:artist> Leonardo da Vinci <END> è stato il maestro di molti artisti.
+<START:artist> Blind Willie McTell <END> è stato il maestro di molti artisti.
 <START:artist> Gustav Klimt <END> è stato il maestro di molti artisti.
 <START:artist> Giotto <END> è stato il maestro di molti artisti.
 <START:artist> Canaletto <END> è stato il maestro di molti artisti.
@@ -241,8 +241,8 @@ A quale corrente artistica appartiene <START:artist> Munch <END> ?
 <START:artist> Salvador Dalì <END> ha dipinto diversi quadri.
 <START:artist> Claude Monet <END> ha dipinto diversi quadri.
 <START:artist> Raffaello Sanzio <END> ha dipinto diversi quadri.
-<START:artist> Leonardo Da Vinci <END> ha dipinto diversi quadri.
-<START:artist> Andy Warhol <END> ha dipinto diversi quadri.
+<START:artist> Leonardo da Vinci <END> ha dipinto diversi quadri.
+<START:artist> Blind Willie McTell <END> ha dipinto diversi quadri.
 <START:artist> Gustav Klimt <END> ha dipinto diversi quadri.
 <START:artist> Giotto <END> ha dipinto diversi quadri.
 <START:artist> Canaletto <END> ha dipinto diversi quadri.
@@ -280,8 +280,8 @@ C'è un quadro di <START:artist> Paul Cèzanne <END> in questo museo ?
 C'è un quadro di <START:artist> Salvador Dalì <END> in questo museo ?
 C'è un quadro di <START:artist> Claude Monet <END> in questo museo ?
 C'è un quadro di <START:artist> Raffaello Sanzio <END> in questo museo ?
-C'è un quadro di <START:artist> Leonardo Da Vinci <END> in questo museo ?
-C'è un quadro di <START:artist> Andy Warhol <END> in questo museo ?
+C'è un quadro di <START:artist> Leonardo da Vinci <END> in questo museo ?
+C'è un quadro di <START:artist> Blind Willie McTell <END> in questo museo ?
 C'è un quadro di <START:artist> Gustav Klimt <END> in questo museo ?
 C'è un quadro di <START:artist> Giotto <END> in questo museo ?
 C'è un quadro di <START:artist> Canaletto <END> in questo museo ?
@@ -319,8 +319,8 @@ Abbiamo opere di <START:artist> Paul Cèzanne <END> in questo museo ?
 Abbiamo opere di <START:artist> Salvador Dalì <END> in questo museo ?
 Abbiamo opere di <START:artist> Claude Monet <END> in questo museo ?
 Abbiamo opere di <START:artist> Raffaello Sanzio <END> in questo museo ?
-Abbiamo opere di <START:artist> Leonardo Da Vinci <END> in questo museo ?
-Abbiamo opere di <START:artist> Andy Warhol <END> in questo museo ?
+Abbiamo opere di <START:artist> Leonardo da Vinci <END> in questo museo ?
+Abbiamo opere di <START:artist> Blind Willie McTell <END> in questo museo ?
 Abbiamo opere di <START:artist> Gustav Klimt <END> in questo museo ?
 Abbiamo opere di <START:artist> Giotto <END> in questo museo ?
 Abbiamo opere di <START:artist> Canaletto <END> in questo museo ?
@@ -358,8 +358,8 @@ E' vero che <START:artist> Paul Cèzanne <END> ha dipinto tanto?
 E' vero che <START:artist> Salvador Dalì <END> ha dipinto tanto?
 E' vero che <START:artist> Claude Monet <END> ha dipinto tanto?
 E' vero che <START:artist> Raffaello Sanzio <END> ha dipinto tanto?
-E' vero che <START:artist> Leonardo Da Vinci <END> ha dipinto tanto?
-E' vero che <START:artist> Andy Warhol <END> ha dipinto tanto?
+E' vero che <START:artist> Leonardo da Vinci <END> ha dipinto tanto?
+E' vero che <START:artist> Blind Willie McTell <END> ha dipinto tanto?
 E' vero che <START:artist> Gustav Klimt <END> ha dipinto tanto?
 E' vero che <START:artist> Giotto <END> ha dipinto tanto?
 E' vero che <START:artist> Canaletto <END> ha dipinto tanto?
@@ -400,7 +400,7 @@ E' vero che il <START:opera> Madonna della pietà <END> è stato teatro di molti g
 E' vero che il <START:opera> Canestra di frutta <END> è stato teatro di molti giochi?
 E' vero che il <START:opera> Creazione di Adamo <END> è stato teatro di molti giochi?
 E' vero che il <START:opera> Cappella Sistina <END> è stato teatro di molti giochi?
-E' vero che il <START:opera> Colosseo <END> è stato teatro di molti giochi?
+E' vero che il <START:opera> Annunciazione Bartolini Salimbeni <END> è stato teatro di molti giochi?
 E' vero che il <START:opera> Olympia <END> è stato teatro di molti giochi?
 E' vero che il <START:opera> Venere di Milo <END> è stato teatro di molti giochi?
 E' vero che il <START:opera> Guernica <END> è stato teatro di molti giochi?
@@ -421,12 +421,13 @@ E' vero che il <START:opera> Sette opere di Misericordia <END> è stato teatro di
 E' vero che il <START:opera> Les demoiselles d'Avignon <END> è stato teatro di molti giochi?
 E' vero che il <START:opera> Vocazione di san Matteo <END> è stato teatro di molti giochi?
 E' vero che il <START:opera> I mangiatori di patate <END> è stato teatro di molti giochi?
-E' vero che il <START:opera> Tondo Doni <END> è stato teatro di molti giochi?
+E' vero che il <START:opera> Dinamismo di un cavallo in corsa + case <END> è stato teatro di molti giochi?
 E' vero che il <START:opera> Las Meninas <END> è stato teatro di molti giochi?
 E' vero che il <START:opera> Madonna del Cardellino <END> è stato teatro di molti giochi?
 E' vero che il <START:opera> Bronzi di Riace <END> è stato teatro di molti giochi?
 E' vero che il <START:opera> Nike di Samotracia <END> è stato teatro di molti giochi?
 E' vero che il <START:opera> Colosso di Rodi <END> è stato teatro di molti giochi?
+E' vero che il <START:opera> Jacopo Pesaro presentato a san Pietro da papa Alessandro VI <END> è stato teatro di molti giochi?
 Quale artista ha creato <START:opera> Gioconda <END> famoso quadro qui esposto?
 Quale artista ha creato <START:opera> Nascita di Venere <END> famoso quadro qui esposto?
 Quale artista ha creato <START:opera> L'urlo <END> famoso quadro qui esposto?
@@ -439,7 +440,7 @@ Quale artista ha creato <START:opera> Madonna della pietà <END> famoso quadro qu
 Quale artista ha creato <START:opera> Canestra di frutta <END> famoso quadro qui esposto?
 Quale artista ha creato <START:opera> Creazione di Adamo <END> famoso quadro qui esposto?
 Quale artista ha creato <START:opera> Cappella Sistina <END> famoso quadro qui esposto?
-Quale artista ha creato <START:opera> Colosseo <END> famoso quadro qui esposto?
+Quale artista ha creato <START:opera> Annunciazione Bartolini Salimbeni <END> famoso quadro qui esposto?
 Quale artista ha creato <START:opera> Olympia <END> famoso quadro qui esposto?
 Quale artista ha creato <START:opera> Venere di Milo <END> famoso quadro qui esposto?
 Quale artista ha creato <START:opera> Guernica <END> famoso quadro qui esposto?
@@ -460,12 +461,13 @@ Quale artista ha creato <START:opera> Sette opere di Misericordia <END> famoso q
 Quale artista ha creato <START:opera> Les demoiselles d'Avignon <END> famoso quadro qui esposto?
 Quale artista ha creato <START:opera> Vocazione di san Matteo <END> famoso quadro qui esposto?
 Quale artista ha creato <START:opera> I mangiatori di patate <END> famoso quadro qui esposto?
-Quale artista ha creato <START:opera> Tondo Doni <END> famoso quadro qui esposto?
+Quale artista ha creato <START:opera> Dinamismo di un cavallo in corsa + case <END> famoso quadro qui esposto?
 Quale artista ha creato <START:opera> Las Meninas <END> famoso quadro qui esposto?
 Quale artista ha creato <START:opera> Madonna del Cardellino <END> famoso quadro qui esposto?
 Quale artista ha creato <START:opera> Bronzi di Riace <END> famoso quadro qui esposto?
 Quale artista ha creato <START:opera> Nike di Samotracia <END> famoso quadro qui esposto?
 Quale artista ha creato <START:opera> Colosso di Rodi <END> famoso quadro qui esposto?
+Quale artista ha creato <START:opera> Jacopo Pesaro presentato a san Pietro da papa Alessandro VI <END> famoso quadro qui esposto?
 Quando verrà esposto il <START:opera> Gioconda <END> in questo museo?
 Quando verrà esposto il <START:opera> Nascita di Venere <END> in questo museo?
 Quando verrà esposto il <START:opera> L'urlo <END> in questo museo?
@@ -478,7 +480,7 @@ Quando verrà esposto il <START:opera> Madonna della pietà <END> in questo museo?
 Quando verrà esposto il <START:opera> Canestra di frutta <END> in questo museo?
 Quando verrà esposto il <START:opera> Creazione di Adamo <END> in questo museo?
 Quando verrà esposto il <START:opera> Cappella Sistina <END> in questo museo?
-Quando verrà esposto il <START:opera> Colosseo <END> in questo museo?
+Quando verrà esposto il <START:opera> Annunciazione Bartolini Salimbeni <END> in questo museo?
 Quando verrà esposto il <START:opera> Olympia <END> in questo museo?
 Quando verrà esposto il <START:opera> Venere di Milo <END> in questo museo?
 Quando verrà esposto il <START:opera> Guernica <END> in questo museo?
@@ -499,12 +501,13 @@ Quando verrà esposto il <START:opera> Sette opere di Misericordia <END> in quest
 Quando verrà esposto il <START:opera> Les demoiselles d'Avignon <END> in questo museo?
 Quando verrà esposto il <START:opera> Vocazione di san Matteo <END> in questo museo?
 Quando verrà esposto il <START:opera> I mangiatori di patate <END> in questo museo?
-Quando verrà esposto il <START:opera> Tondo Doni <END> in questo museo?
+Quando verrà esposto il <START:opera> Dinamismo di un cavallo in corsa + case <END> in questo museo?
 Quando verrà esposto il <START:opera> Las Meninas <END> in questo museo?
 Quando verrà esposto il <START:opera> Madonna del Cardellino <END> in questo museo?
 Quando verrà esposto il <START:opera> Bronzi di Riace <END> in questo museo?
 Quando verrà esposto il <START:opera> Nike di Samotracia <END> in questo museo?
 Quando verrà esposto il <START:opera> Colosso di Rodi <END> in questo museo?
+Quando verrà esposto il <START:opera> Jacopo Pesaro presentato a san Pietro da papa Alessandro VI <END> in questo museo?
 <START:opera> Gioconda <END> è una famosa opera.
 <START:opera> Nascita di Venere <END> è una famosa opera.
 <START:opera> L'urlo <END> è una famosa opera.
@@ -517,7 +520,7 @@ Quando verrà esposto il <START:opera> Colosso di Rodi <END> in questo museo?
 <START:opera> Canestra di frutta <END> è una famosa opera.
 <START:opera> Creazione di Adamo <END> è una famosa opera.
 <START:opera> Cappella Sistina <END> è una famosa opera.
-<START:opera> Colosseo <END> è una famosa opera.
+<START:opera> Annunciazione Bartolini Salimbeni <END> è una famosa opera.
 <START:opera> Olympia <END> è una famosa opera.
 <START:opera> Venere di Milo <END> è una famosa opera.
 <START:opera> Guernica <END> è una famosa opera.
@@ -538,12 +541,13 @@ Quando verrà esposto il <START:opera> Colosso di Rodi <END> in questo museo?
 <START:opera> Les demoiselles d'Avignon <END> è una famosa opera.
 <START:opera> Vocazione di san Matteo <END> è una famosa opera.
 <START:opera> I mangiatori di patate <END> è una famosa opera.
-<START:opera> Tondo Doni <END> è una famosa opera.
+<START:opera> Dinamismo di un cavallo in corsa + case <END> è una famosa opera.
 <START:opera> Las Meninas <END> è una famosa opera.
 <START:opera> Madonna del Cardellino <END> è una famosa opera.
 <START:opera> Bronzi di Riace <END> è una famosa opera.
 <START:opera> Nike di Samotracia <END> è una famosa opera.
 <START:opera> Colosso di Rodi <END> è una famosa opera.
+<START:opera> Jacopo Pesaro presentato a san Pietro da papa Alessandro VI <END> è una famosa opera.
 <START:opera> Gioconda <END> è stato scolpito nel 1270.
 <START:opera> Nascita di Venere <END> è stato scolpito nel 1270.
 <START:opera> L'urlo <END> è stato scolpito nel 1270.
@@ -556,7 +560,7 @@ Quando verrà esposto il <START:opera> Colosso di Rodi <END> in questo museo?
 <START:opera> Canestra di frutta <END> è stato scolpito nel 1270.
 <START:opera> Creazione di Adamo <END> è stato scolpito nel 1270.
 <START:opera> Cappella Sistina <END> è stato scolpito nel 1270.
-<START:opera> Colosseo <END> è stato scolpito nel 1270.
+<START:opera> Annunciazione Bartolini Salimbeni <END> è stato scolpito nel 1270.
 <START:opera> Olympia <END> è stato scolpito nel 1270.
 <START:opera> Venere di Milo <END> è stato scolpito nel 1270.
 <START:opera> Guernica <END> è stato scolpito nel 1270.
@@ -577,12 +581,13 @@ Quando verrà esposto il <START:opera> Colosso di Rodi <END> in questo museo?
 <START:opera> Les demoiselles d'Avignon <END> è stato scolpito nel 1270.
 <START:opera> Vocazione di san Matteo <END> è stato scolpito nel 1270.
 <START:opera> I mangiatori di patate <END> è stato scolpito nel 1270.
-<START:opera> Tondo Doni <END> è stato scolpito nel 1270.
+<START:opera> Dinamismo di un cavallo in corsa + case <END> è stato scolpito nel 1270.
 <START:opera> Las Meninas <END> è stato scolpito nel 1270.
 <START:opera> Madonna del Cardellino <END> è stato scolpito nel 1270.
 <START:opera> Bronzi di Riace <END> è stato scolpito nel 1270.
 <START:opera> Nike di Samotracia <END> è stato scolpito nel 1270.
 <START:opera> Colosso di Rodi <END> è stato scolpito nel 1270.
+<START:opera> Jacopo Pesaro presentato a san Pietro da papa Alessandro VI <END> è stato scolpito nel 1270.
 <START:opera> Gioconda <END> ha ricevuto tanti consensi.
 <START:opera> Nascita di Venere <END> ha ricevuto tanti consensi.
 <START:opera> L'urlo <END> ha ricevuto tanti consensi.
@@ -595,7 +600,7 @@ Quando verrà esposto il <START:opera> Colosso di Rodi <END> in questo museo?
 <START:opera> Canestra di frutta <END> ha ricevuto tanti consensi.
 <START:opera> Creazione di Adamo <END> ha ricevuto tanti consensi.
 <START:opera> Cappella Sistina <END> ha ricevuto tanti consensi.
-<START:opera> Colosseo <END> ha ricevuto tanti consensi.
+<START:opera> Annunciazione Bartolini Salimbeni <END> ha ricevuto tanti consensi.
 <START:opera> Olympia <END> ha ricevuto tanti consensi.
 <START:opera> Venere di Milo <END> ha ricevuto tanti consensi.
 <START:opera> Guernica <END> ha ricevuto tanti consensi.
@@ -616,12 +621,13 @@ Quando verrà esposto il <START:opera> Colosso di Rodi <END> in questo museo?
 <START:opera> Les demoiselles d'Avignon <END> ha ricevuto tanti consensi.
 <START:opera> Vocazione di san Matteo <END> ha ricevuto tanti consensi.
 <START:opera> I mangiatori di patate <END> ha ricevuto tanti consensi.
-<START:opera> Tondo Doni <END> ha ricevuto tanti consensi.
+<START:opera> Dinamismo di un cavallo in corsa + case <END> ha ricevuto tanti consensi.
 <START:opera> Las Meninas <END> ha ricevuto tanti consensi.
 <START:opera> Madonna del Cardellino <END> ha ricevuto tanti consensi.
 <START:opera> Bronzi di Riace <END> ha ricevuto tanti consensi.
 <START:opera> Nike di Samotracia <END> ha ricevuto tanti consensi.
 <START:opera> Colosso di Rodi <END> ha ricevuto tanti consensi.
+<START:opera> Jacopo Pesaro presentato a san Pietro da papa Alessandro VI <END> ha ricevuto tanti consensi.
 Chi è raffigurato nel <START:opera> Gioconda <END> ?
 Chi è raffigurato nel <START:opera> Nascita di Venere <END> ?
 Chi è raffigurato nel <START:opera> L'urlo <END> ?
@@ -634,7 +640,7 @@ Chi è raffigurato nel <START:opera> Madonna della pietà <END> ?
 Chi è raffigurato nel <START:opera> Canestra di frutta <END> ?
 Chi è raffigurato nel <START:opera> Creazione di Adamo <END> ?
 Chi è raffigurato nel <START:opera> Cappella Sistina <END> ?
-Chi è raffigurato nel <START:opera> Colosseo <END> ?
+Chi è raffigurato nel <START:opera> Annunciazione Bartolini Salimbeni <END> ?
 Chi è raffigurato nel <START:opera> Olympia <END> ?
 Chi è raffigurato nel <START:opera> Venere di Milo <END> ?
 Chi è raffigurato nel <START:opera> Guernica <END> ?
@@ -655,12 +661,13 @@ Chi è raffigurato nel <START:opera> Sette opere di Misericordia <END> ?
 Chi è raffigurato nel <START:opera> Les demoiselles d'Avignon <END> ?
 Chi è raffigurato nel <START:opera> Vocazione di san Matteo <END> ?
 Chi è raffigurato nel <START:opera> I mangiatori di patate <END> ?
-Chi è raffigurato nel <START:opera> Tondo Doni <END> ?
+Chi è raffigurato nel <START:opera> Dinamismo di un cavallo in corsa + case <END> ?
 Chi è raffigurato nel <START:opera> Las Meninas <END> ?
 Chi è raffigurato nel <START:opera> Madonna del Cardellino <END> ?
 Chi è raffigurato nel <START:opera> Bronzi di Riace <END> ?
 Chi è raffigurato nel <START:opera> Nike di Samotracia <END> ?
 Chi è raffigurato nel <START:opera> Colosso di Rodi <END> ?
+Chi è raffigurato nel <START:opera> Jacopo Pesaro presentato a san Pietro da papa Alessandro VI <END> ?
 Chi è raffigurato in <START:opera> Gioconda <END> ?
 Chi è raffigurato in <START:opera> Nascita di Venere <END> ?
 Chi è raffigurato in <START:opera> L'urlo <END> ?
@@ -673,7 +680,7 @@ Chi è raffigurato in <START:opera> Madonna della pietà <END> ?
 Chi è raffigurato in <START:opera> Canestra di frutta <END> ?
 Chi è raffigurato in <START:opera> Creazione di Adamo <END> ?
 Chi è raffigurato in <START:opera> Cappella Sistina <END> ?
-Chi è raffigurato in <START:opera> Colosseo <END> ?
+Chi è raffigurato in <START:opera> Annunciazione Bartolini Salimbeni <END> ?
 Chi è raffigurato in <START:opera> Olympia <END> ?
 Chi è raffigurato in <START:opera> Venere di Milo <END> ?
 Chi è raffigurato in <START:opera> Guernica <END> ?
@@ -694,12 +701,13 @@ Chi è raffigurato in <START:opera> Sette opere di Misericordia <END> ?
 Chi è raffigurato in <START:opera> Les demoiselles d'Avignon <END> ?
 Chi è raffigurato in <START:opera> Vocazione di san Matteo <END> ?
 Chi è raffigurato in <START:opera> I mangiatori di patate <END> ?
-Chi è raffigurato in <START:opera> Tondo Doni <END> ?
+Chi è raffigurato in <START:opera> Dinamismo di un cavallo in corsa + case <END> ?
 Chi è raffigurato in <START:opera> Las Meninas <END> ?
 Chi è raffigurato in <START:opera> Madonna del Cardellino <END> ?
 Chi è raffigurato in <START:opera> Bronzi di Riace <END> ?
 Chi è raffigurato in <START:opera> Nike di Samotracia <END> ?
 Chi è raffigurato in <START:opera> Colosso di Rodi <END> ?
+Chi è raffigurato in <START:opera> Jacopo Pesaro presentato a san Pietro da papa Alessandro VI <END> ?
 Che cos'è <START:opera> Gioconda <END> ?
 Che cos'è <START:opera> Nascita di Venere <END> ?
 Che cos'è <START:opera> L'urlo <END> ?
@@ -712,7 +720,7 @@ Che cos'è <START:opera> Madonna della pietà <END> ?
 Che cos'è <START:opera> Canestra di frutta <END> ?
 Che cos'è <START:opera> Creazione di Adamo <END> ?
 Che cos'è <START:opera> Cappella Sistina <END> ?
-Che cos'è <START:opera> Colosseo <END> ?
+Che cos'è <START:opera> Annunciazione Bartolini Salimbeni <END> ?
 Che cos'è <START:opera> Olympia <END> ?
 Che cos'è <START:opera> Venere di Milo <END> ?
 Che cos'è <START:opera> Guernica <END> ?
@@ -733,12 +741,13 @@ Che cos'è <START:opera> Sette opere di Misericordia <END> ?
 Che cos'è <START:opera> Les demoiselles d'Avignon <END> ?
 Che cos'è <START:opera> Vocazione di san Matteo <END> ?
 Che cos'è <START:opera> I mangiatori di patate <END> ?
-Che cos'è <START:opera> Tondo Doni <END> ?
+Che cos'è <START:opera> Dinamismo di un cavallo in corsa + case <END> ?
 Che cos'è <START:opera> Las Meninas <END> ?
 Che cos'è <START:opera> Madonna del Cardellino <END> ?
 Che cos'è <START:opera> Bronzi di Riace <END> ?
 Che cos'è <START:opera> Nike di Samotracia <END> ?
 Che cos'è <START:opera> Colosso di Rodi <END> ?
+Che cos'è <START:opera> Jacopo Pesaro presentato a san Pietro da papa Alessandro VI <END> ?
 Che cos'è la <START:opera> Gioconda <END> ?
 Che cos'è la <START:opera> Nascita di Venere <END> ?
 Che cos'è la <START:opera> L'urlo <END> ?
@@ -751,7 +760,7 @@ Che cos'è la <START:opera> Madonna della pietà <END> ?
 Che cos'è la <START:opera> Canestra di frutta <END> ?
 Che cos'è la <START:opera> Creazione di Adamo <END> ?
 Che cos'è la <START:opera> Cappella Sistina <END> ?
-Che cos'è la <START:opera> Colosseo <END> ?
+Che cos'è la <START:opera> Annunciazione Bartolini Salimbeni <END> ?
 Che cos'è la <START:opera> Olympia <END> ?
 Che cos'è la <START:opera> Venere di Milo <END> ?
 Che cos'è la <START:opera> Guernica <END> ?
@@ -772,12 +781,13 @@ Che cos'è la <START:opera> Sette opere di Misericordia <END> ?
 Che cos'è la <START:opera> Les demoiselles d'Avignon <END> ?
 Che cos'è la <START:opera> Vocazione di san Matteo <END> ?
 Che cos'è la <START:opera> I mangiatori di patate <END> ?
-Che cos'è la <START:opera> Tondo Doni <END> ?
+Che cos'è la <START:opera> Dinamismo di un cavallo in corsa + case <END> ?
 Che cos'è la <START:opera> Las Meninas <END> ?
 Che cos'è la <START:opera> Madonna del Cardellino <END> ?
 Che cos'è la <START:opera> Bronzi di Riace <END> ?
 Che cos'è la <START:opera> Nike di Samotracia <END> ?
 Che cos'è la <START:opera> Colosso di Rodi <END> ?
+Che cos'è la <START:opera> Jacopo Pesaro presentato a san Pietro da papa Alessandro VI <END> ?
 <START:artist> Caravaggio <END> ha dipinto la <START:opera> Gioconda <END> ?
 <START:artist> Pablo Picasso <END> ha dipinto la <START:opera> Gioconda <END> ?
 <START:artist> Sandro Boticelli <END> ha dipinto la <START:opera> Gioconda <END> ?
@@ -787,8 +797,8 @@ Che cos'è la <START:opera> Colosso di Rodi <END> ?
 <START:artist> Salvador Dalì <END> ha dipinto la <START:opera> Gioconda <END> ?
 <START:artist> Claude Monet <END> ha dipinto la <START:opera> Gioconda <END> ?
 <START:artist> Raffaello Sanzio <END> ha dipinto la <START:opera> Gioconda <END> ?
-<START:artist> Leonardo Da Vinci <END> ha dipinto la <START:opera> Gioconda <END> ?
-<START:artist> Andy Warhol <END> ha dipinto la <START:opera> Gioconda <END> ?
+<START:artist> Leonardo da Vinci <END> ha dipinto la <START:opera> Gioconda <END> ?
+<START:artist> Blind Willie McTell <END> ha dipinto la <START:opera> Gioconda <END> ?
 <START:artist> Gustav Klimt <END> ha dipinto la <START:opera> Gioconda <END> ?
 <START:artist> Giotto <END> ha dipinto la <START:opera> Gioconda <END> ?
 <START:artist> Canaletto <END> ha dipinto la <START:opera> Gioconda <END> ?
@@ -829,7 +839,7 @@ Che cos'è la <START:opera> Colosso di Rodi <END> ?
 <START:artist> Caravaggio <END> ha dipinto la <START:opera> Canestra di frutta <END> ?
 <START:artist> Caravaggio <END> ha dipinto la <START:opera> Creazione di Adamo <END> ?
 <START:artist> Caravaggio <END> ha dipinto la <START:opera> Cappella Sistina <END> ?
-<START:artist> Caravaggio <END> ha dipinto la <START:opera> Colosseo <END> ?
+<START:artist> Caravaggio <END> ha dipinto la <START:opera> Annunciazione Bartolini Salimbeni <END> ?
 <START:artist> Caravaggio <END> ha dipinto la <START:opera> Olympia <END> ?
 <START:artist> Caravaggio <END> ha dipinto la <START:opera> Venere di Milo <END> ?
 <START:artist> Caravaggio <END> ha dipinto la <START:opera> Guernica <END> ?
@@ -850,12 +860,13 @@ Che cos'è la <START:opera> Colosso di Rodi <END> ?
 <START:artist> Caravaggio <END> ha dipinto la <START:opera> Les demoiselles d'Avignon <END> ?
 <START:artist> Caravaggio <END> ha dipinto la <START:opera> Vocazione di san Matteo <END> ?
 <START:artist> Caravaggio <END> ha dipinto la <START:opera> I mangiatori di patate <END> ?
-<START:artist> Caravaggio <END> ha dipinto la <START:opera> Tondo Doni <END> ?
+<START:artist> Caravaggio <END> ha dipinto la <START:opera> Dinamismo di un cavallo in corsa + case <END> ?
 <START:artist> Caravaggio <END> ha dipinto la <START:opera> Las Meninas <END> ?
 <START:artist> Caravaggio <END> ha dipinto la <START:opera> Madonna del Cardellino <END> ?
 <START:artist> Caravaggio <END> ha dipinto la <START:opera> Bronzi di Riace <END> ?
 <START:artist> Caravaggio <END> ha dipinto la <START:opera> Nike di Samotracia <END> ?
 <START:artist> Caravaggio <END> ha dipinto la <START:opera> Colosso di Rodi <END> ?
+<START:artist> Caravaggio <END> ha dipinto la <START:opera> Jacopo Pesaro presentato a san Pietro da papa Alessandro VI <END> ?
 Perchè la <START:opera> Gioconda <END> si trova a Parigi?
 Perchè la <START:opera> Nascita di Venere <END> si trova a Parigi?
 Perchè la <START:opera> L'urlo <END> si trova a Parigi?
@@ -868,7 +879,7 @@ Perchè la <START:opera> Madonna della pietà <END> si trova a Parigi?
 Perchè la <START:opera> Canestra di frutta <END> si trova a Parigi?
 Perchè la <START:opera> Creazione di Adamo <END> si trova a Parigi?
 Perchè la <START:opera> Cappella Sistina <END> si trova a Parigi?
-Perchè la <START:opera> Colosseo <END> si trova a Parigi?
+Perchè la <START:opera> Annunciazione Bartolini Salimbeni <END> si trova a Parigi?
 Perchè la <START:opera> Olympia <END> si trova a Parigi?
 Perchè la <START:opera> Venere di Milo <END> si trova a Parigi?
 Perchè la <START:opera> Guernica <END> si trova a Parigi?
@@ -889,12 +900,13 @@ Perchè la <START:opera> Sette opere di Misericordia <END> si trova a Parigi?
 Perchè la <START:opera> Les demoiselles d'Avignon <END> si trova a Parigi?
 Perchè la <START:opera> Vocazione di san Matteo <END> si trova a Parigi?
 Perchè la <START:opera> I mangiatori di patate <END> si trova a Parigi?
-Perchè la <START:opera> Tondo Doni <END> si trova a Parigi?
+Perchè la <START:opera> Dinamismo di un cavallo in corsa + case <END> si trova a Parigi?
 Perchè la <START:opera> Las Meninas <END> si trova a Parigi?
 Perchè la <START:opera> Madonna del Cardellino <END> si trova a Parigi?
 Perchè la <START:opera> Bronzi di Riace <END> si trova a Parigi?
 Perchè la <START:opera> Nike di Samotracia <END> si trova a Parigi?
 Perchè la <START:opera> Colosso di Rodi <END> si trova a Parigi?
+Perchè la <START:opera> Jacopo Pesaro presentato a san Pietro da papa Alessandro VI <END> si trova a Parigi?
 Quando è stato restaurato il <START:opera> Gioconda <END> ?
 Quando è stato restaurato il <START:opera> Nascita di Venere <END> ?
 Quando è stato restaurato il <START:opera> L'urlo <END> ?
@@ -907,7 +919,7 @@ Quando è stato restaurato il <START:opera> Madonna della pietà <END> ?
 Quando è stato restaurato il <START:opera> Canestra di frutta <END> ?
 Quando è stato restaurato il <START:opera> Creazione di Adamo <END> ?
 Quando è stato restaurato il <START:opera> Cappella Sistina <END> ?
-Quando è stato restaurato il <START:opera> Colosseo <END> ?
+Quando è stato restaurato il <START:opera> Annunciazione Bartolini Salimbeni <END> ?
 Quando è stato restaurato il <START:opera> Olympia <END> ?
 Quando è stato restaurato il <START:opera> Venere di Milo <END> ?
 Quando è stato restaurato il <START:opera> Guernica <END> ?
@@ -928,12 +940,13 @@ Quando è stato restaurato il <START:opera> Sette opere di Misericordia <END> ?
 Quando è stato restaurato il <START:opera> Les demoiselles d'Avignon <END> ?
 Quando è stato restaurato il <START:opera> Vocazione di san Matteo <END> ?
 Quando è stato restaurato il <START:opera> I mangiatori di patate <END> ?
-Quando è stato restaurato il <START:opera> Tondo Doni <END> ?
+Quando è stato restaurato il <START:opera> Dinamismo di un cavallo in corsa + case <END> ?
 Quando è stato restaurato il <START:opera> Las Meninas <END> ?
 Quando è stato restaurato il <START:opera> Madonna del Cardellino <END> ?
 Quando è stato restaurato il <START:opera> Bronzi di Riace <END> ?
 Quando è stato restaurato il <START:opera> Nike di Samotracia <END> ?
 Quando è stato restaurato il <START:opera> Colosso di Rodi <END> ?
+Quando è stato restaurato il <START:opera> Jacopo Pesaro presentato a san Pietro da papa Alessandro VI <END> ?
 Perchè è stata restaurata la <START:opera> Gioconda <END> ?
 Perchè è stata restaurata la <START:opera> Nascita di Venere <END> ?
 Perchè è stata restaurata la <START:opera> L'urlo <END> ?
@@ -946,7 +959,7 @@ Perchè è stata restaurata la <START:opera> Madonna della pietà <END> ?
 Perchè è stata restaurata la <START:opera> Canestra di frutta <END> ?
 Perchè è stata restaurata la <START:opera> Creazione di Adamo <END> ?
 Perchè è stata restaurata la <START:opera> Cappella Sistina <END> ?
-Perchè è stata restaurata la <START:opera> Colosseo <END> ?
+Perchè è stata restaurata la <START:opera> Annunciazione Bartolini Salimbeni <END> ?
 Perchè è stata restaurata la <START:opera> Olympia <END> ?
 Perchè è stata restaurata la <START:opera> Venere di Milo <END> ?
 Perchè è stata restaurata la <START:opera> Guernica <END> ?
@@ -967,9 +980,10 @@ Perchè è stata restaurata la <START:opera> Sette opere di Misericordia <END> ?
 Perchè è stata restaurata la <START:opera> Les demoiselles d'Avignon <END> ?
 Perchè è stata restaurata la <START:opera> Vocazione di san Matteo <END> ?
 Perchè è stata restaurata la <START:opera> I mangiatori di patate <END> ?
-Perchè è stata restaurata la <START:opera> Tondo Doni <END> ?
+Perchè è stata restaurata la <START:opera> Dinamismo di un cavallo in corsa + case <END> ?
 Perchè è stata restaurata la <START:opera> Las Meninas <END> ?
 Perchè è stata restaurata la <START:opera> Madonna del Cardellino <END> ?
 Perchè è stata restaurata la <START:opera> Bronzi di Riace <END> ?
 Perchè è stata restaurata la <START:opera> Nike di Samotracia <END> ?
 Perchè è stata restaurata la <START:opera> Colosso di Rodi <END> ?
+Perchè è stata restaurata la <START:opera> Jacopo Pesaro presentato a san Pietro da papa Alessandro VI <END> ?

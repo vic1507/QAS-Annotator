@@ -1,0 +1,24 @@
+Chi è <START:artist> OBJECT <END> ?
+Qual è la tecnica scultorea di <START:artist> OBJECT <END> ?
+Qual è la biografia di <START:artist> OBJECT <END> ?
+A quale corrente artistica appartiene <START:artist> OBJECT <END> ?
+<START:artist> OBJECT <END> è un famoso artista.
+<START:artist> OBJECT <END> è stato il maestro di molti artisti.
+<START:artist> OBJECT <END> ha dipinto diversi quadri.
+C'è un quadro di <START:artist> OBJECT <END> in questo museo ?
+Abbiamo opere di <START:artist> OBJECT <END> in questo museo ?
+E' vero che <ART> <START:artist> OBJECT <END> ha dipinto tanto?
+E' vero che <ART> <START:opera> OBJECT <END> è stato teatro di molti giochi?
+Quale artista ha creato <ART> <START:opera> OBJECT <END> famoso quadro qui esposto?
+Quando verrà esposto <ART> <START:opera> OBJECT <END> in questo museo?
+<ART> <START:opera> OBJECT <END> è una famosa opera.
+<ART> <START:opera> OBJECT <END> è stato scolpito nel 1270.
+<ART> <START:opera> OBJECT <END> ha ricevuto tanti consensi.
+Chi è raffigurato nel <START:opera> OBJECT <END> ?
+Chi è raffigurato <ART> <START:opera> OBJECT <END> ?
+Che cos'è <ART> <START:opera> OBJECT <END> ?
+Che cos'è <ART> <START:opera> OBJECT <END> ?
+<START:artist> OBJECT <END> ha dipinto la <START:opera> OBJECT <END> ?
+Perchè <ART> <START:opera> OBJECT <END> si trova a Parigi?
+Quando è stato restaurato <ART> <START:opera> OBJECT <END> ?
+Perchè è stata restaurata <ART> <START:opera> OBJECT <END> ?

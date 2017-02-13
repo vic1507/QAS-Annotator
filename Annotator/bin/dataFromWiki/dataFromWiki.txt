@@ -1,185 +1,26 @@
-Michelangelo Merisi, o Amerighi, noto come il <START:artist> OBJECT <END> (Milano, 29 settembre 1571 
-Di animo particolarmente irrequieto, affrontò diverse vicissitudini durante la sua breve esistenza
-Data cruciale per l'arte e la vita di Merisi fu quella del 28 maggio 1606, a partire dalla quale, essendosi reso responsabile di un omicidio durante una rissa e condannato a morte per lo stesso, dovette vivere in costante fuga per scampare alla pena capitale
-Il suo stile influenzò direttamente o indirettamente la pittura dei secoli successivi costituendo un filone di seguaci racchiusi nella corrente del caravaggismo.
+<START:opera> Guernica <END> è un dipinto di Pablo Picasso, realizzato in memoria del 26 aprile 1937 per il bombardamento aereo dell'omonima città basca durante la guerra civile spagnola
+<START:opera> Guernica <END> fece un giro in tutto il mondo, diventando molto acclamato ma soprattutto servì a far conoscere a tutto il mondo la storia della Guerra Civile Spagnola.
 
 
-Prima del ritrovamento dell'atto di battesimo di Michelangelo Merisi, si credeva che il pittore fosse nato nel paese bergamasco di <START:artist> OBJECT <END>, nel 1573
-A seguito della scoperta archivistica nel Liber Baptizatorum della Parrocchia di Santo Stefano in Brolo, è ormai fuor di dubbio che Merisi sia nato a Milano, e probabilmente il 29 settembre (giorno di San Michele Arcangelo, da cui forse il nome Michelangelo
-I genitori del pittore – Fermo Merisi e Lucia Aratori – erano nativi di <START:artist> OBJECT <END>
-Il 14 gennaio 1571 i genitori si sposarono e, sotto la protezione e l'aiuto del marchese di <START:artist> OBJECT <END> e conte di Galliate Francesco I Sforza (che fece loro da testimone di nozze), si trasferirono a Milano, probabilmente per lavoro, poiché sembra che Fermo Merisi fosse un magister (cioè uno dei maestri-architetti addetti ai cantieri delle chiese milanesi)
-, Giovan Battista, che si farà prete, e Giovan Pietro.
-Nel 1577, a causa della peste, i Merisi lasciarono Milano e tornarono a <START:artist> OBJECT <END> per sfuggire all'epidemia, ma qui morirono il padre Fermo, il nonno paterno Bernardino e lo zio Pietro
-Terminata l'epidemia, nel 1584, Michelangelo torna nel capoluogo lombardo e viene mandato a bottega da Simone Peterzano,  Tutte le varie date dei documenti sono certe, considerando che in quel periodo era appena stato riformato il calendario.
-L'apprendistato del giovane pittore si protrae per circa quattro anni, durante i quali apprende la lezione dei maestri della scuola pittorica lombarda e veneta
-Dalle Considerazioni sulla pittura di Giulio Mancini (1558-1630), uno dei biografi dell'artista, abbiamo notizia del carattere del giovane <START:artist> OBJECT <END> in quegli anni: «Studiò in fanciullezza per quattro o cinque anni in Milano, con diligenza ancorché di quando in quando, facesse qualche stravaganza causata da quel calore e spirito così grande».
-Gli anni che vanno dal 1588, anno di scadenza del contratto con Peterzano, al 1592, ultima testimonianza della sua presenza in Lombardia prima di raggiungere Roma, sono piuttosto nebulosi
-Secondo quanto scrive Giulio Mancini, la madre del pittore muore a Milano il 29 novembre 1590
-Risolte le pratiche sulla spartizione dell'eredità (di cui è pervenuta la documentazione d'archivio), il giovane Merisi lascia definitivamente la Lombardia per andare a Roma a circa metà del 1592
-.
-Secondo Giovanni Pietro Bellori, il pittore andò a Venezia col maestro Peterzano per un soggiorno di breve durata
-Bellori è comunque l'unico biografo a menzionare un soggiorno di Merisi a Venezia e tale notizia è fortemente dibattuta, giacché una sua presenza in quella città non è stata mai confermata da documenti d'archivio
-Tuttavia, nell'ipotesi in cui l'informazione di Bellori sia attendibile e che <START:artist> OBJECT <END> sia effettivamente andato a Venezia, i legami stilistici con la grande scuola veneta di Giorgione, Tiziano e Tintoretto sarebbero facilmente spiegabili
- Occorre comunque precisare che lo stile di <START:artist> OBJECT <END> avrebbe potuto risentire degli influssi veneti anche senza un viaggio nella città lagunare, poiché in quegli anni il dominio della Serenissima arrivava fino a Bergamo, con inevitabili ripercussioni anche sul piano artistico.
-Secondo lo studioso Longhi, per lo sviluppo del futuro stile del pittore, sarebbe stata di capitale importanza la riflessione giovanile su alcuni maestri lombardi, soprattutto di area bresciana, quali Foppa, Bergognone, Savoldo, Moretto e Romanino, che Longhi definisce pre-caravaggeschi
-A questa scuola si dovrebbero, infatti, l'avvio della rivoluzione luministica e la caratterizzazione naturalistica (contrapposta a certa aulicità rinascimentale) dei soggetti dipinti, elementi centrali della pittura di <START:artist> OBJECT <END>
-.
-La sua presenza a Roma nel periodo dal 1592 al 1593 non è sostenuta da fonti storiche certe, tuttavia sappiamo che nel 1594 è sicuramente ospite di monsignor Pandolfo Pucci da Recanati, da lui soprannominato monsignor Insalata, dall'unico alimento di vitto che gli forniva
-Ha inoltre rapporti artistici, più o meno fugaci, con degli altri pittori locali
-Dapprima con il siciliano Lorenzo Carli, grazie al quale conoscerà Mario Minniti, che sarà uno dei suoi più cari amici fino a quando, nel 1600, il Minniti non tornerà in Sicilia, terra ov'era nato
-Lasciato il Carli, autore di opere destinate alle fasce più modeste del mercato, ha un breve sodalizio con Antiveduto Gramatica e, infine, frequenta per alcuni mesi la bottega di Giuseppe Cesari detto il Cavalier d'Arpino
- Durante queste esperienze probabilmente <START:artist> OBJECT <END> viene impiegato come esecutore di nature morte e di parti decorative di opere più complesse, ma, in merito, non si ha nessuna testimonianza certa
-Un'ipotesi, priva in ogni caso di riscontro documentale, è che <START:artist> OBJECT <END> possa aver realizzato i festoni decorativi della cappella Olgiati, nella basilica di Santa Prassede a Roma, cappella affrescata dal cavalier d'Arpino.
-Grazie a Costantino Spata  La fama dell'artista cominciò a salire all'interno dei più importanti salotti dell'alta nobiltà romana
-L'ambiente fu scosso dalla sua rivoluzionaria pittura, che si pose immediatamente al centro di forti discussioni e accese polemiche
-Grazie alle commissioni del suo influente e illuminato prelato, <START:artist> OBJECT <END> mutò il suo stile, abbandonando le tele di piccole dimensioni e i singoli ritratti e cominciando a dedicarsi alla realizzazione di opere complesse, con gruppi di più personaggi descritti in un episodio specifico
-Uno dei primi lavori di questo periodo è il Riposo durante la fuga in Egitto
-Nel giro di pochi anni la sua fama crebbe in maniera esponenziale, <START:artist> OBJECT <END> divenne un mito vivente per un'intera generazione di pittori che ne esaltavano lo stile e le tematiche.
-Nel 1599 <START:artist> OBJECT <END>, grazie all'aiuto del cardinale Francesco Maria del Monte, ricevette la prima commissione pubblica per tre grandi tele da collocare all'interno della cappella Contarelli nella Chiesa di San Luigi dei Francesi, a Roma
- I dipinti che <START:artist> OBJECT <END> doveva realizzare riguardavano degli episodi tratti dalla vita di san Matteo: la Vocazione e il Martirio.
-In meno di un anno il pittore concluse le due opere che gli aprirono il successo pubblico, così che ebbe immediatamente altri importanti incarichi
-Dapprima da parte del commerciante Fabio Nuti, per un quadro che è stato identificato nella Natività con i santi Lorenzo e Francesco d'Assisi di Palermo, a lungo ritenuta dipinta in Sicilia nel 1609
-La prima versione del San Matteo e l'angelo, distrutta in Germania durante la seconda guerra mondiale, fu rifiutata, almeno a detta del pittore e biografo Giovanni Baglione
-Questa notizia, ritenuta attendibile fino a tutto il XX secolo, è stata smentita da Luigi Spezzaferro nel 2000
-L'insigne studioso ha dimostrato che la prima versione del San Matteo e l'angelo non era altro che una pala d'altare provvisoria, da collocare temporaneamente nella Cappella in attesa che vi terminassero i lavori
-La tela provvisoria non solo dava la possibilità ai religiosi di officiare la messa in un ambiente più decoroso, ma offriva a <START:artist> OBJECT <END> la possibilità di mettere in mostra le sue capacità, con la speranza di ricevere - come poi avvenne - la commissione delle tele, oggi note come il Ciclo di San Matteo
- L'episodio del presunto rifiuto del San Matteo e l'angelo, narrato anche da Bellori, coinvolge anche un altro importante protettore di <START:artist> OBJECT <END>, il marchese Vincenzo Giustiniani (1564-1637)
-Queste le parole di Bellori:
-Il marchese Giustiniani era un ricco banchiere genovese nell'orbita della corte pontificia (oltre che vicino di casa del cardinal Del Monte, visto che aveva sede in palazzo Giustiniani a Roma con il fratello cardinal Benedetto Giustiniani) e fu protettore di <START:artist> OBJECT <END> per molti anni; collezionò moltissime delle sue opere e contribuì moltissimo alla formazione culturale del pittore
-In più di un'occasione, grazie alle sue ramificate influenze, riuscì a salvare l'artista dalle gravose questioni legali nelle quali era spesso implicato per colpa della sua indole aggressiva
-Un'altra opera comunemente ed erroneamente ritenuta rifiutata è la prima versione della Conversione di San Paolo, dipinta su legno di cipresso per la Cappella Cerasi in Santa Maria del Popolo
-Come dimostrato da Luigi Spezzaferro, la pala non fu rifiutata ma sostituita con l'attuale in seguito a nuovi accordi intervenuti tra l'artista e gli eredi del committente Tiberio Cerasi
-Nel caso invece della Morte della Vergine, commissionata per la chiesa di Santa Maria della Scala a Roma, si trattò senza ombra di dubbio di un rifiuto
- La figura della Vergine, rappresentata con il ventre gonfio e con le caviglie e i piedi in vista, fu ritenuta indecente dai Carmelitani Scalzi che di conseguenza rifiutarono il dipinto
-Oltre alla posa indecorosa, Baglione e Bellori scrivono che la Vergine era stata raffigurata addirittura come "morta gonfia"
-Scrive Spezzaferro:
-Dunque, piuttosto che una morte per annegamento, il ventre gonfio suggeriva una gravidanza che, ovviamente, rendeva questa raffigurazione della Vergine ancora più scandalosa
-L'opera di <START:artist> OBJECT <END> fu quindi rimossa e sostituita da un dipinto eseguito da Carlo Saraceni (1579-1620), raffigurante lo stesso soggetto
-Nonostante il rifiuto dei Carmelitani Scalzi, la tela di Merisi fu immediatamente notata (e apprezzata) da Pieter Paul Rubens (1577-1640), celebre pittore fiammingo che all'epoca si trovava in Italia, al servizio di Vincenzo I Gonzaga (1562-1612) in qualità di pittore di corte
-Rubens, che aveva anche l'incarico di arricchire la collezione del Duca di Mantova, suggerì a Vincenzo I di acquistare la Morte della Vergine per la considerevole cifra di 300 scudi
-Durante il soggiorno presso palazzo Madama, dimora del cardinal Del Monte, il 28 novembre del 1600 Merisi malmenò e percosse con un bastone Girolamo Stampa da Montepulciano, un nobile ospite del prelato: ne seguì una denuncia
-In seguito gli episodi di risse, violenze e schiamazzi andarono via via aumentando; spesso il pittore venne arrestato e condotto presso le carceri di Tor di Nona
-Non sarebbe comunque stato il primo guaio con la legge per il turbolento artista
-Giovanni Pietro Bellori (uno dei suoi primi biografi) sostiene che, intorno al 1590-1592, <START:artist> OBJECT <END>, già distintosi per risse tra bande di giovinastri, avrebbe commesso un omicidio a causa del quale era fuggito da Milano prima per Venezia (dove studiò la pittura locale, in particolar modo Giorgione) e poi per Roma
-Il suo trasferimento nella città papale non sarebbe stato, dunque, una meta prefissata, ma la conseguenza di una fuga
-Nel 1601-1602 dipinge la Cattura di Cristo e Amor vincit omnia
-Nel 1603 fu processato per la diffamazione di un altro pittore, Giovanni Baglione, che querelò sia <START:artist> OBJECT <END> sia i suoi seguaci Orazio Gentileschi e Onorio Longhi, colpevoli di aver scritto rime offensive nei suoi confronti
-Grazie all'intervento dell'ambasciatore francese, Merisi, condannato al processo, venne liberato e trasferito agli arresti domiciliari, seppur per poco (in precedenza, aveva scontato già un mese di carcere a Tor di Nona)
-Tra il maggio e l'ottobre del 1604 il pittore fu arrestato varie volte per possesso d'armi abusivo e ingiurie alle guardie cittadine; inoltre, fu querelato da un garzone d'osteria per avergli tirato in faccia un piatto di carciofi
-Nel 1605 fu costretto a scappare a Genova per circa tre settimane, dopo aver ferito gravemente un notaio, Mariano Pasqualone da Accumuli, a causa di una donna: Lena, l'amante di <START:artist> OBJECT <END>
-Il fatto più grave però si svolse a Campo Marzio, la sera del 28 maggio 1606: a causa di una discussione causata da un fallo nel gioco della pallacorda (una sorta di tennis) il pittore venne ferito e, a sua volta, ferì mortalmente il rivale, Ranuccio Tomassoni da Terni, con il quale aveva avuto già in precedenza delle discussioni spesso sfociate in risse
-Anche questa volta c'era di mezzo una donna, Fillide Melandroni, le cui grazie erano contese da entrambi
-Probabilmente dietro l'assassinio di Ranuccio c'erano anche questioni economiche, forse qualche debito di gioco non pagato dal pittore o addirittura politiche: la famiglia Tomassoni infatti era notoriamente filo-spagnola, mentre Michelangelo Merisi era un protetto dell'ambasciatore di Francia
-Il verdetto del processo per il delitto di Campo Marzio fu severissimo: <START:artist> OBJECT <END> venne condannato alla decapitazione, che poteva esser eseguita da chiunque lo avesse riconosciuto per la strada
-In seguito alla condanna, nei dipinti dell'artista lombardo cominciarono ossessivamente a comparire personaggi giustiziati con la testa mozzata, dove il suo macabro autoritratto prendeva spesso il posto del condannato
- Degli autoritratti di come fosse effettivamente il reale volto del pittore, forse uno dei più verosimili resta quello di un fuggitivo nella sua scena del Martirio di san Matteo
-Tuttavia, il ritratto più noto del Merisi rimane quello a opera di Ottavio Leoni, che lo conobbe personalmente ma lo eseguì almeno 11 anni dopo la sua morte
-Lo stesso Leoni ritrarrà anche Galileo Galilei, praticamente contemporaneo del Merisi, nel 1624; alcuni hanno riconosciuto, in quest'ultimo, una grande somiglianza con il Pilato nella celebre tela Ecce Homo di <START:artist> OBJECT <END> del 1601.
-La permanenza in città non era più possibile: ad aiutare <START:artist> OBJECT <END> a fuggire da Roma fu dunque il principe Filippo I Colonna che gli offrì asilo all'interno di uno dei suoi feudi laziali di Marino, Palestrina, Zagarolo e Paliano
- Il nobile romano mise in atto una serie di depistaggi, grazie anche agli altri componenti della sua famiglia che testimoniarono la presenza del pittore in altre città italiane, facendo così perdere le tracce del famoso artista.
-Per i Colonna <START:artist> OBJECT <END> eseguì in quel periodo diversi dipinti, su tutti la Cena in Emmaus, nella scarna versione che oggi è a Brera
-Alla fine del 1606, <START:artist> OBJECT <END> giunse a Napoli, nei Quartieri Spagnoli, dove rimase per circa un anno
-La fama del pittore era ben nota a tutti nella città
-I Colonna lo raccomandarono a un ramo collaterale della famiglia residente a Napoli: i Carafa-Colonna
-Qui il Merisi visse un periodo felice e prolifico per quanto riguarda le commissioni
-Furono infatti eseguiti: la Giuditta che decapita Oloferne (1607), scomparsa e di cui forse esiste una copia coeva facente parte delle collezioni del banco di Napoli; la Sacra famiglia con san Giovanni Battista (1607), appartenente alla collezione privata Clara-Otello Silva a Caracas; una prima versione della Flagellazione di Cristo (1607), conservata presso il Musée des Beaux-Arts di Rouen; la Salomè con la testa del Battista (1607), alla National Gallery di Londra; la prima versione di Davide con la testa di Golia (1607), al Kunsthistorisches Museum di Vienna; la Crocifissione di sant'Andrea (1607), presso il Cleveland Museum of Art e infine, la più importante, che si ipotizza sia stata commissionata dai Carafa-Colonna, forse per collocarla nella cappella di famiglia nella chiesa di San Domenico Maggiore, la Madonna del Rosario (1606-1607)
-Poco dopo la sua esecuzione, il dipinto fu venduto a dei mercanti e portato nelle Fiandre prima e a Vienna poi, dove si trova tuttora.
-Dei molti dipinti eseguiti durante il primo periodo napoletano, solo due sono ancora nella città
-Il primo è il suggestivo Sette opere di Misericordia (1606-1607), uno dei lavori più importanti del <START:artist> OBJECT <END>
-La tela, che si rivelerà cardine per la pittura in Italia Meridionale e per la pittura italiana in generale, presenta una composizione più drammatica e concitata rispetto alle pitture romane, rinunciando a un fulcro centrale dell'azione
-Questo aspetto sarà di grande stimolo per la pittura barocca partenopea successiva e il passaggio del Merisi in città, infatti, darà luogo alla nascita di molti esponenti caravaggeschi tra i pittori locali.
-L'altro dipinto rimasto a Napoli fu quello eseguito tra il 1607 e il 1608, direttamente per la chiesa di San Domenico Maggiore, poi spostato al museo di Capodimonte, ovvero una seconda versione della Flagellazione di Cristo.
-Nel 1607 Michelangelo Merisi parte per Malta, sempre per intercessione dei Colonna, e qui entra in contatto con il gran maestro dell'ordine dei cavalieri di san Giovanni, Alof de Wignacourt, a cui il pittore fece anche un ritratto
-Il suo obiettivo era diventare cavaliere per ottenere l'immunità, in quanto su di lui pendeva ancora la condanna alla decapitazione
-In questo contesto il <START:artist> OBJECT <END> firma un documento che metterà in discussione il suo reale luogo di nascita
-Infatti il pittore dichiara che la sua città natale è proprio <START:artist> OBJECT <END>, in provincia di Bergamo: "Carraca oppido vulgo de Caravagio in Longobardis natus"
-Intanto l'attività di pittore del Merisi prosegue, dipingendo nel 1608 la Decollazione di san Giovanni Battista, il suo quadro più grande per dimensioni, tuttora conservato nella cattedrale di La Valletta
-Nella stessa chiesa si trova soltanto un'altra opera del pittore, il San Girolamo scrivente
-Dopo un anno di noviziato, il 14 luglio 1608 <START:artist> OBJECT <END> fu investito della carica di cavaliere di grazia, di rango inferiore rispetto ai cavalieri di giustizia di origine aristocratica
-Anche qui ebbe dei problemi: fu arrestato per un duro litigio con un cavaliere del rango superiore e perché si venne a sapere che su di lui pendeva la condanna a morte
-Venne rinchiuso nel carcere di Sant'Angelo a La Valletta, il 6 ottobre: riuscì incredibilmente a evadere e a rifugiarsi in Sicilia a Siracusa
-Il 6 dicembre i cavalieri espulsero <START:artist> OBJECT <END> dall'ordine con disonore: «Come membro fetido e putrido»
-A Siracusa, <START:artist> OBJECT <END> fu ospite di Mario Minniti, suo amico di vecchia data, conosciuto durante gli ultimi anni romani
-Nella città siciliana si interessò molto all'archeologia, studiando i reperti ellenistici e romani ivi presenti: durante una visita assieme allo storico Vincenzo Mirabella coniò il nome "orecchio di Dionigi" per descrivere la Grotta delle Latomie
-Durante questo soggiorno dipinse, per la Chiesa di Santa Lucia al Sepolcro, una pala d'altare raffigurante il Seppellimento di santa Lucia (la patrona della città siciliana), la cui ambientazione sembra proprio quella delle vicine grotte da lui tanto ammirate.
-A Messina dipinse la Resurrezione di Lazzaro, tetra incompiuta e cimiteriale rappresentazione, la cui parte centrale è occupata dal corpo di Lazzaro spasmodicamente teso nel gesto del braccio verso la luce, e l'Adorazione dei pastori.
-Giovanni Pietro Bellori ricorda la Natività con i santi Lorenzo e Francesco d'Assisi eseguita a Palermo per l'oratorio di san Lorenzo, ma recentemente ha preso maggiore consistenza l'ipotesi, suffragata anche da nuovi ritrovamenti documentari, secondo cui essa fu dipinta nel 1600 a Roma, su richiesta del commerciante Fabio Nuti, e da lì spedita a Palermo
-Alla fine dell'estate del 1609 <START:artist> OBJECT <END> tornò a Napoli
-Qui, probabilmente in ottobre, affrontato con violenza da alcuni uomini al soldo del suo rivale maltese, all'uscita della Locanda del Cerriglio (nei pressi di via Monteoliveto), rimase sfigurato e la notizia della sua morte cominciò a circolare prematura
-La fase creativa del suo secondo periodo napoletano è ricostruita dagli storici con molte congetture: dipinse sicuramente il San Giovanni Battista disteso (1610) appartenente a una collezione privata a Monaco di Baviera, la Negazione di san Pietro, il San Giovanni Battista e il Davide con la testa di Golia, quest'ultimo molto importante dal punto di vista storiografico in quanto raffigurante un macabro autoritratto del <START:artist> OBJECT <END> nella figura del Golia con la testa mozzata, sorte questa dalla quale il Merisi tentava da anni di fuggire
-Infine, dipinse il Martirio di sant'Orsola (1610) per Marcantonio Doria, oggi conservato nel palazzo Zevallos di Napoli
-Questo è considerato di fatto l'ultimo dipinto di <START:artist> OBJECT <END> arrivato ai giorni nostri
-Nel frattempo, da Roma gli fu inviata la notizia che papa Paolo V stava preparando una revoca del suo bando di condanna a morte
-Da Napoli quindi, dove abitava presso la marchesa Costanza Colonna nel palazzo Cellammare,  si mise in viaggio nel luglio 1610 con una feluca-traghetto che settimanalmente faceva il tragitto Napoli-Porto Ercole e ritorno, ma diretto segretamente allo scalo portuale di Palo di Ladispoli, sotto il feudo degli Orsini, in territorio papale, luogo distante circa 40 km da Roma
-In quel feudo avrebbe atteso in tutta sicurezza il condono papale prima di ritornare, da uomo libero, nella città eterna.
-L'ipotesi più certa racconterebbe che l'arrivo a Palo di Ladispoli, disatteso dalla sorveglianza costiera, ne causò il fermo per accertamenti
-Tuttavia la feluca, non potendo aspettare, sbarcò il Merisi e proseguì più a nord, per Porto Ercole, dove era effettivamente diretta, portandosi dietro il bagaglio dell'artista
-Quelle casse però, contenevano anche il prezzo concordato dal Merisi col cardinal Scipione Borghese per la sua definitiva libertà, consistente, in special modo, in alcune sue tele, tra cui un prezioso quadro del Battista
-Il bagaglio quindi era obbligatoriamente da recuperare, poiché letteralmente vitale; la versione ufficiale affermerebbe che gli Orsini gli avrebbero offerto un'imbarcazione per raggiungere Porto Ercole, e recuperare quindi il prezioso carico; l'artista vi giunse, ma tuttavia, non è qui ben chiaro se la precedente feluca-traghetto stesse già ritornando a Napoli, coi suoi bagagli a bordo
-Provato, e malato di febbre alta, probabilmente a causa di un'infezione intestinale trascurata, restò quindi a Porto Ercole, curato inutilmente da una confraternita locale, che il 18 luglio 1610 ne certificò la morte, avvenuta nel loro sanatorio
-Nell'occasione delle celebrazioni per i quattrocento anni dalla morte, viene data la notizia da un professore dell'Università di Napoli, Vincenzo Pacelli, esperto del Merisi, a conclusione di uno studio, coadiuvato da documenti dell'archivio di Stato e dell'Archivio Vaticano, che sposta la sua morte nella laziale riva di Palo di Ladispoli
-Secondo Pacelli, il <START:artist> OBJECT <END> fu assassinato da emissari dei cavalieri di Malta, con il tacito assenso della Curia Romana
-<START:artist> OBJECT <END> ebbe molte storie d'amore, ma nessun matrimonio o presunto figlio documentato
-Il 16 luglio 2010, a 400 anni dalla morte, e dopo oltre un anno di ricerche storiografiche e analisi scheletrica, nonché confronti col DNA dei discendenti dei fratelli, gli unici parenti stretti del pittore, di cognome Merisio di <START:artist> OBJECT <END> 
-Giulio Carlo Argan rileva che la pittura caravaggesca si distingue per un realismo drammatico
-Argan evidenzia anche che «il motivo religioso è anche sociale: il divino si rivela negli umili»
-Il suo realismo nasce dall'etica religiosa instaurata da Carlo Borromeo: non consiste nell'osservare e copiare la natura ma nel rifiutare le convenzioni, nel puntare sul vero rinunciando alla ricerca del "bello", nel rinunciare all'invenzione per puntare sui fatti
-Quanto alla morte: «il pensiero della morte è dominante nel <START:artist> OBJECT <END>, come già in Michelangelo Buonarroti
-Ma per Michelangelo la morte era liberazione e sublimazione, per il <START:artist> OBJECT <END> è soltanto la fine, l'enigma della tomba»
-La particolare tecnica pittorica e realizzativa di <START:artist> OBJECT <END> fu il suo successo
-Fino al suo inizio nella pittura, lo stile che avevano molti artisti era estremamente legato a un metodo che si basava prevalentemente sullo studio dell'arte classica, con forti influssi derivati dai grandi protagonisti del periodo d'oro del rinascimento italiano
-Su tutti le figure di Michelangelo e Raffaello, nel centro Italia, mentre per quanto riguarda il settentrione, la pittura si rifaceva soprattutto a Tiziano, Correggio e Leonardo.
-La rivoluzione di <START:artist> OBJECT <END> sta nel naturalismo della sua opera, espresso nei soggetti dei suoi dipinti e nelle atmosfere in cui la capacità di dare a un corpo una forma tridimensionale viene evidenziata dalla particolare illuminazione che teatralmente sottolinea i volumi dei corpi che escono improvvisamente dal buio della scena
-Sono pochi i quadri in cui il pittore lombardo dipinge lo sfondo, che passa nettamente in secondo piano rispetto ai soggetti, i veri e soli protagonisti della sua opera
-Per la realizzazione dei suoi dipinti, <START:artist> OBJECT <END> nel suo studio posizionava delle lanterne in posti specifici per far sì che i modelli venissero illuminati solo in parte, mediante la "luce radente"
-Attraverso questo artificio, <START:artist> OBJECT <END> fa emergere da uno sfondo scuro solo specifiche porzioni della scena dipinta, che acquistano in tal modo un rilievo quasi scultoreo.
-Nell'opera del pittore sono evidenti dunque forti contrasti di luci e ombre
-La luce plasma le figure, determina ambienti e situazioni ed è concepita o come apparizione simbolica (essa è "Grazia" nella Vocazione di San Matteo in San Luigi dei Francesi) o come fatto drammatico nell'intensità dei gesti dei personaggi (Martirio di San Matteo nella medesima chiesa romana)
- Nella pittura caravaggesca il valore materico - percettivo della luce si fonde con quello teologico - mistico.
-Tra le opere giovanili del <START:artist> OBJECT <END> ci sono molti ragazzi seducenti solitamente intenti a suonare uno strumento (tradizionale accompagnamento all'amore) o mangiare un frutto (simbolo dell'appagamento dei sensi); sono giovani colti dalla strada, dai luoghi che lui amava frequentare come osterie, bische, bordelli e luoghi di malaffare della città
-La continua proposta di questi personaggi ha fatto formulare a molti critici supposizioni riguardo alla presunta omosessualità dell'artista e dei suoi due più importanti committenti, il Cardinale del Monte e il marchese Giustiniani, che conservavano molte di queste opere all'interno dei loro gabinetti privati; la più famosa tra queste è l'Amor vincit omnia, dipinto dai forti toni sensuali che l'artista dovette replicare per entrambi i committenti.
-È documentata la frequentazione del <START:artist> OBJECT <END>, specie nei suoi anni romani, sia di diverse prostitute, alcune delle quali, come è noto, ritratte nei suoi dipinti, sia di ragazzi con cui pare intrattenesse rapporti sentimentali, tra cui Mario Minniti, modello per il Fanciullo con canestro di frutta, la Buona ventura, I bari, il Concerto, il Suonatore di liuto, il Bacco, il Ragazzo morso da un ramarro, la Vocazione e il Martirio di san Matteo.
-Sulla questione, i critici d'arte e gli storici hanno espresso pareri contrastanti
-Maurizio Calvesi sostiene:
-Vittorio Sgarbi sostiene invece:
-Margaret Walters ha scritto:
-Non solo soggetti efebici caratterizzarono le pitture di <START:artist> OBJECT <END>, spesso la rappresentazione, anche nelle opere ufficiali per committenze pubbliche, di personaggi vecchi e deformi nei panni di venerati santi e di prostitute e umili donne nelle vesti di importanti figure femminili della storia della chiesa
-L'utilizzo di questi modelli fu motivo di molte critiche che accusavano l'artista di esaltare la goffaggine e la sporcizia di certi personaggi, lasciando da parte l'idealizzazione della bellezza e la ricerca di una perfezione compositiva, particolarità da sempre ricercate dagli artisti precedenti, specie nella rappresentazione di soggetti appartenenti alla storia della religione.
-Nelle prime opere del <START:artist> OBJECT <END> si trovano spesso splendidi particolari di nature morte, ma una sola è la composizione completa che ci sia pervenuta, la Canestra di frutta della pinacoteca Ambrosiana
-Ciò è riferibile soprattutto al periodo di apprendistato nella bottega dal Cavalier d'Arpino
-La frutta rappresentata da Merisi è in perfetta sintonia con i personaggi
-Le foglie appassite, con il loro stato di maturazione avanzata, danno l'idea di una particolare atmosfera di decadenza autunnale
-Tradizionalmente, alle nature morte venivano associati significati allegorici, e l'appassire di frutta e verdura in questo caso sembra parlare del rapporto di convivenza tra vita e morte.
-Il pittore non dipinse molti ritratti e di quei pochi restano soltanto quattro o cinque (l'unico ritratto femminile, quello di una cortigiana, probabilmente Fillide Melandroni, modella per dipinti dell'artista, andò distrutto a Berlino, nel Kaiser Friedrich Museum durante la Seconda guerra mondiale)
-Sopravvivono inoltre il ritratto del cardinale Maffeo Barberini (che poi sarà papa col nome di Urbano VIII), quello del Gran Maestro dei cavalieri di Malta Alof de Wignacourt con un paggio, il ritratto di un altro cavaliere di Malta, Antonio Martelli, quello di un gentiluomo sconosciuto e quello del papa Paolo V (di incerta attribuzione).
-Tra il 1600 e il 1606 <START:artist> OBJECT <END> dipinse per alcune chiese romane quattro importanti tele laterali e cinque pale d'altare (compresa la Deposizione nel sepolcro, ora alla Pinacoteca vaticana, ma dipinta per la seconda cappella a destra in Santa Maria in Vallicella, la chiesa Nuova di Roma), di cui tre (San Matteo e l'angelo, Morte della Vergine e Madonna dei Palafrenieri) furono rifiutate o rimosse perché ritenute rappresentazioni disdicevoli e poco decorose del soggetto sacro
-Molti quadri di <START:artist> OBJECT <END> raffigurano santi, i più rappresentati sono san Francesco, san Girolamo e san Giovanni Battista
-San Francesco appare di solito come una figura ascetica in preghiera, San Girolamo come un vecchio intento a scrivere e San Giovanni come un giovane, praticamente nudo, nel deserto.
-Famoso e ammirato in vita, <START:artist> OBJECT <END> fu quasi completamente dimenticato nei secoli successivi alla sua morte
-In realtà dopo la sua scomparsa, il duro giudizio sul suo modo - così crudo - di rappresentare la realtà fu presto utilizzato dai suoi detrattori per denigrare il suo valore e la sua memoria
-Basti pensare alle parole di un celebre pittore del Seicento, Nicolas Poussin, giunto a Roma quattordici anni dopo la morte di <START:artist> OBJECT <END>, che lo apostrofò con parole lapidarie: "Era venuto per distruggere la pittura"
-Questo lungo periodo di oblio fu interrotto solo a metà del XX secolo e la validità della sua opera fu universalmente riconosciuta solo grazie al contributo di alcuni dei più importanti storici dell'arte del tempo, tra cui spicca il fondamentale apporto critico di Roberto Longhi, che mise in luce la sua importanza nello sviluppo dell'arte pittorica moderna e le sue profonde influenze sull'arte europea dei due secoli successivi, dimostrando la profonda influenza di <START:artist> OBJECT <END> soprattutto sulla successiva pittura barocca (lo stile pittorico che emerse dalle rovine del manierismo)
-André Berne-Joffroy, autore di Le Dossier Caravage, disse di lui: «ciò che inizia con l'opera di <START:artist> OBJECT <END> è molto semplicemente la pittura moderna.» 
-Con questo termine si indica lo stile degli artisti che si ispirano al <START:artist> OBJECT <END>
-Nei dipinti caravaggeschi troviamo grande realismo nel riprodurre le figure, rappresentate generalmente su uno sfondo monocromo, e illuminate da una luce violenta
-I principali pittori caravaggisti sono Bartolomeo Manfredi, Carlo Saraceni, Orazio e Artemisia Gentileschi, Giovanni Antonio Galli (detto lo Spadarino), Francesco Boneri (più noto come Cecco del <START:artist> OBJECT <END>), Gerrit van Honthorst (tradizionalmente chiamato Gherardo delle Notti), Hendrick ter Brugghen, Giovanni Serodine, Carlo Sellitto, Battistello Caracciolo e Jusepe de Ribera; in questi ultimi due, operanti a Napoli, ritroviamo riproposto lo stile degli ultimi anni del <START:artist> OBJECT <END>, caratterizzato da atmosfere molto cupe - altri artisti del Regno di Napoli influenzati dalla lezione caravaggesca saranno Luca Giordano, Mattia Preti e (attraverso questi ultimi) Francesco Solimena.
-La monumentale opera del <START:artist> OBJECT <END> influenza anche una fitta schiera di grandi artisti d'Oltralpe, tra i quali: Louis Le Nain, Georges de La Tour, Valentin de Boulogne, Simon Vouet, Francisco de Zurbarán, Diego Velázquez, Bartolomé Esteban Murillo, Matthias Stomer, Pieter Paul Rubens, Antoon van Dyck, Rembrandt, Jan Vermeer, Adam Elsheimer.
-Inoltre, influenze caravaggesche pervadono persino le opere di artisti ottocenteschi quali: David, Goya, Gericault, Delacroix, Courbet
-Sono stati girati due lungometraggi sulla vita del pittore:
-Nel 1967 la Rai trasmise lo sceneggiato televisivo <START:artist> OBJECT <END> con la regia di Silverio Blasi e Gian Maria Volonté nelle vesti dell'artista.
-Nel 2002 il cortometraggio Vernissage!...1607 <START:artist> OBJECT <END>, regia di Stella Leonetti, racconta la presentazione di uno dei dipinti del <START:artist> OBJECT <END>, le Sette opere di Misericordia
-L'artista è interpretato dall'attore Danny Quinn.
-Nel 2004 viene presentato il mediometraggio <START:artist> OBJECT <END>
-L'ultimo tempo (1606-1610), opera del regista napoletano Mario Martone.
-Il 17 e 18 febbraio 2008, Rai 1 manda in onda lo sceneggiato televisivo di due puntate <START:artist> OBJECT <END>, regia di Angelo Longoni, con Alessio Boni nei panni dell'artista, Claire Keim, Jordi Mollà, Paolo Briguglia, Elena Sofia Ricci, Francesco Siciliano, Sarah Felberbaum, Benjamin Sadler, fotografia di Vittorio Storaro e musiche di Luis Bacalov.
-Nel 2008 è stato prodotto dalla Fondazione Marco Fodella un art film-mediometraggio Voluptas dolendi i gesti del <START:artist> OBJECT <END>, tratto dall'omonimo spettacolo teatrale di Mara Galassi e Deda Cristina Colonna con la regia di Francesco Vitali, con Deda Cristina Colonna e Mara Galassi, fotografia di Francesco Vitali, musica italiana del XVII secolo dei compositori barocchi Francesco da Milano, Laurencinus Romanus, Giovanni Girolamo Kapsperger, Girolamo Frescobaldi, Ascanio Mayone e Giovanni Maria Trabaci
-È stato mandato in onda su Sky Classica dal 2010 al 2013
-È stato pubblicato in DVD Pal dalla Fondazione Marco Fodella nel 2010.
-Il 2 febbraio 2011 è stato trasmesso su National Geographic il documentario <START:artist> OBJECT <END>
-Il corpo ritrovato
-Viene raccontata in esso l'unica ricerca effettuata sui, probabili, resti mortali del più grande artista del barocco italiano e dell'arte in generale
-Prodotto da Doclab (regia Marco Visalberghi, autore Patrizia Marani) per National Geographic Channel e girato in alta definizione (HD), il documentario segue, passo dopo passo, lo svolgersi di una grande ricerca scientifica che si è prefissa di trovare lo scheletro di <START:artist> OBJECT <END> e interrogare le sue ossa, per rispondere alle domande che gli storici dell'arte si pongono da sempre su di lui.
-Al <START:artist> OBJECT <END> è intitolato il cratere <START:artist> OBJECT <END> su Mercurio .
-Opere fumettistiche
+L'attacco mirato al ponte di Renteria fu opera della Legione Condor, corpo volontario composto da elementi dell'armata tedesca Luftwaffe, e della Aviazione Legionaria Fascista d'Italia il 26 aprile 1937
+È ormai storicamente accertato che la distruzione della città fu causata dal bombardamento nazista, mentre la tesi riportata dai franchisti, di essere stata provocata da miliziani anarchici in ritirata, è stata abbandonata negli anni settanta  Dopo l'esposizione, quando il governo repubblicano era ormai caduto, Picasso non permise che il suo dipinto più famoso venisse esposto in Spagna, dichiarando esplicitamente che avrebbe potuto tornarvi solo dopo la fine del franchismo.
+Secondo una testimonianza oculare di George Steer, Picasso iniziò a lavorare nel gennaio 1937, lasciando perdere il progetto iniziale per creare tanti disegni per decidere le dimensioni del quadro
+Tutto ciò finì nel maggio 1937.
+L'ordine con cui deve essere letta l'opera d'arte è da destra a sinistra, poiché il lato destro era vicino all'entrata del luogo per cui è stata progettata, cioè il padiglione della Repubblica Spagnola all'Esposizione Universale di Parigi
+È un dipinto di protesta contro la violenza, la distruzione e la guerra in generale
+La presenza della madre con il neonato in braccio, di un toro, simbolo dell'irrompere della brutalità, e di un cavallo, che somiglia a un asino, simbolo del sacrificio nella corrida, ricorda la composizione del presepe natalizio, che risulta però sconvolto dal bombardamento
+La lampada a olio in mano ad una donna, posta al centro dell'opera, indica l'involuzione tecnologica e sociale che ogni guerra, insieme alla distruzione, porta con sé; la colomba a sinistra, richiamo alla pace, ha un moto di strazio prima di cadere a terra; il cavallo simboleggia la follia della guerra, mentre il toro rappresenta la Spagna
+ 
+La violenza e la sofferenza sono deducibili esplicitamente guardando, sulla sinistra dell'opera, la madre che grida al cielo disperata, con in grembo il figlio ormai senza vita; da contraltare ad essa l'altra figura apparentemente femminile a destra, che alza disperata le braccia al cielo
+In basso nel dipinto c'è un cadavere che ha una stigma sulla mano sinistra come simbolo di innocenza, in contrasto con la crudeltà nazi-fascista, e che stringe nella mano destra una spada spezzata, da cui sorge un pallido fiore, quasi a dare speranza per un futuro migliore
+La gamma dei colori è limitata; vengono, infatti, utilizzati esclusivamente toni grigi, neri e bianchi, così da rappresentare l'assenza di vita e la drammaticità
+L'alto senso drammatico nasce dalla deformazione dei corpi, dalle linee che si tagliano vicendevolmente, dalle lingue aguzze che fanno pensare ad urli disperati e laceranti, dall'alternarsi di campi bianchi, grigi, neri, che accentuano la dinamica delle forme contorte e sottolineano l'assenza di vita a <START:opera> Guernica <END>
+Questo quadro doveva rappresentare una sorta di manifesto che esponesse al mondo la crudeltà e l'ingiustizia delle guerre
+I colori del quadro sono il bianco e nero perché, secondo Picasso la guerra è sofferenza, ma nell'opera, se guardiamo bene, c'è una lampadina che simboleggia la speranza.
+Il dipinto venne ospitato per molti anni al Museum of Modern Art di New York e tornò in patria nel 1982 a nove anni dalla morte dell'autore e sei da quella di Francisco Franco
+Durante gli anni '70 fu un simbolo per gli spagnoli sia della fine del regime franchista che del nazionalismo, così come lo era stato prima, per tutta l'Europa, della resistenza al nazionalsocialismo.
+Nel corridoio che si trova davanti alla sala del Consiglio di Sicurezza dell'ONU si trova un arazzo che riporta il famoso quadro di Picasso, <START:opera> Guernica <END>, che viene riprodotta alle spalle dei relatori
+Quindi, ogni qual volta i politici escono a fare dichiarazioni per la stampa, l'arazzo viene inquadrato in secondo piano
+Negli anni in cui si discuteva di un'eventuale guerra "preventiva" in Iraq, i vertici ONU non hanno però ritenuto opportuno farsi riprendere con un tale manifesto dello scempio della guerra e l'arazzo è stato quindi coperto da un drappo blu
+Il commento di Fred Eckhard (portavoce ONU) in merito è stato che il misto di bianchi, neri e grigi dell'arazzo producevano un effetto di confusione visiva
 Altri progetti
-Segnalazioni  ·  Criteri di ammissione  ·  Voci di qualità in altre lingue

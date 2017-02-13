@@ -28,6 +28,9 @@ public class AnnotatorTest
 	private HashMap<String, String[]> annotationResults;
 	private List<String> data;
 
+	private double precision= 0;
+	private double recall = 0;
+	private double f1Score = 0;
 	private int applicationTipe;
 
 	public AnnotatorTest(int applicationTipe)
@@ -83,14 +86,14 @@ public class AnnotatorTest
 		return returnValue.replaceAll("::,", "::");
 	}
 
-	public void generateTestCase(File model)
+	public void generateTestCase(File model, File output)
 	{
 		try
 		{
 			int index = 0;
 			FileReader fr = new FileReader(model);
 			BufferedReader br = new BufferedReader(fr);
-			PrintWriter pw = new PrintWriter(new File("src/models/testCase3.txt"));
+			PrintWriter pw = new PrintWriter(output);
 			String line = br.readLine();
 			while (line != null)
 			{
@@ -138,24 +141,22 @@ public class AnnotatorTest
 		}
 	}
 
-	public void compute()
+	public void compute(boolean tmpbool)
 	{
+		String url = "";
+		if (tmpbool)
+			url = "src/models/it-ner-art-tmp.bin";
+		else
+			url = "src/models/it-ner-art.bin";
 		try
 		{
-//			MySQLResourcesAcquisition rs = new MySQLResourcesAcquisition();
-
-//			Connection connection = rs.getConnection();
-
-//			rs.getData().addAll(rs.getDataFromDb(connection, "artist", "name", ""));
-//			rs.getData().addAll(rs.getDataFromDb(connection, "opere", "operename", ""));
-
-			File f = new File("src/models/it-ner-art.bin");
+			File f = new File(url);
 			TokenNameFinderModel model = new TokenNameFinderModel(f);
 			AnnotationStrategy as = new OpenNlpAnnotator(model);
 
 			for (String s : data)
 			{
-				String tmp = as.annotatorStrategy("src/models/it-ner-art.bin", s).toString();
+				String tmp = as.annotatorStrategy(url, s).toString();
 				for (String res : testCase.get(s))
 				{
 					System.err.println("Correct result: " + res);
@@ -203,24 +204,27 @@ public class AnnotatorTest
 								if (!tag[i].equals("NTA"))
 								{
 									fp++;
-									System.out.println("found at " + entry.getKey() + "for " + tag[i]);
+//									System.out.println("found at " + entry.getKey() + "for " + tag[i]);
 								}
 							}
 						}
 						if (!found)
 						{
-							System.out.println("negative found at " + entry.getKey());
+//							System.out.println("negative found at " + entry.getKey());
 							fn++;
 						}
 					}
 
 				}
 				double prec = FMeasure.calculatePrecision(tp, fp);
+				this.precision = prec;
 				double rec = FMeasure.calculateRecall(tp, fn);
+				this.recall = rec;
 				System.err.println("Dati : tp " + tp + " fp " + fp + " fn " + fn);
 				System.out.println("Precision : " + prec);
 				System.out.println("Recall : " + rec);
 				System.out.println("F1 Score : " + FMeasure.calculateF1Score(prec, rec, 1));
+				this.f1Score = FMeasure.calculateF1Score(prec, rec, 1);
 				break;
 			case PATTERN_RESEARCH_ANNOTATOR:
 				break;
@@ -239,4 +243,19 @@ public class AnnotatorTest
 		return annotationResults;
 	}
 
+	public double getPrecision()
+	{
+		return precision;
+	}
+
+	public double getRecall()
+	{
+		return recall;
+	}
+
+	public double getF1Score()
+	{
+		return f1Score;
+	}
+	
 }

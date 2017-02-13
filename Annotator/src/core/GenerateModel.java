@@ -16,11 +16,12 @@ public class GenerateModel
 	public static final String MODEL1 = "src/models/equilibratedTemplates.txt";
 	public static final String MODEL2 = "src/models/questionTemplate.txt";
 	private String model;
-	
-	public GenerateModel (String model)
+
+	public GenerateModel(String model)
 	{
 		this.model = model;
 	}
+
 	public void miniModelExecution(List<String> artist, List<String> opere)
 	{
 		try
@@ -29,31 +30,80 @@ public class GenerateModel
 			BufferedReader br = new BufferedReader(fr);
 			PrintWriter pw = new PrintWriter(new File("src/models/model2.txt"));
 			String corr = br.readLine();
-			int index = 0;
-			int index2 = 0;
+			List<String> questions = new ArrayList<String>();
 			while (corr != null)
 			{
-				while (corr.contains("OBJECT"))
-				{
-					if (index < artist.size() - 1)
-					{
-						corr = corr.replaceFirst("<START:artist> OBJECT <END>", "<START:artist> " + artist.get(index) + " <END>");
-						index++;
-					}
-					else
-						index = 0;
-					
-					if (index2 < opere.size()-1)
-					{
-						corr = corr.replaceFirst("<START:opera> OBJECT <END>","<START:opera> "+ opere.get(index2) + " <END>");
-						index2++;
-					}else
-						index2=0;
-				}
-				
-				pw.println(corr);
+				questions.add(corr);
 				corr = br.readLine();
 			}
+			List<String> def = new ArrayList<String>();
+			List<String> ciao = new ArrayList<String>();
+			int index3 = 0;
+			for (String s : artist)
+			{
+				boolean used = false;
+				if (!s.contains("$"))
+				{
+					while (!used)
+					{
+						String m = questions.get(index3);
+
+						if (!m.contains("START:artist"))
+							index3++;
+
+						if (index3 > questions.size() - 1)
+							index3 = 0;
+
+						if (questions.get(index3).contains("<START:artist> OBJECT <END>"))
+						{
+							used = true;
+							m = questions.get(index3).replaceFirst("<START:artist> OBJECT <END>", "<START:artist> " + s + " <END>");
+						}
+						index3++;
+						if (index3 > questions.size() - 1)
+							index3 = 0;
+
+						if (!m.contains("OBJECT"))
+							def.add(m);
+						else
+							ciao.add(m);
+					}
+				}
+			}
+
+			index3 = 0;
+
+			for (String s2 : opere)
+			{
+				if (!s2.contains("$"))
+				{
+					if (index3 > ciao.size() - 1)
+						index3 = 0;
+
+					String m = ciao.get(index3);
+
+					if (index3 > ciao.size() - 1)
+						index3 = 0;
+
+					while (m.contains("<START:opera> OBJECT <END>"))
+					{
+						m = ciao.get(index3).replaceFirst("<START:opera> OBJECT <END>", "<START:opera> " + s2 + " <END>");
+					}
+
+					index3++;
+					if (index3 > questions.size() - 1)
+						index3 = 0;
+
+					if (!m.contains("OBJECT"))
+						def.add(m);
+				}
+			}
+
+			for (String s222 : def)
+			{
+				pw.println(s222);
+			}
+
 			br.close();
 			pw.close();
 		} catch (Exception e)
@@ -100,6 +150,7 @@ public class GenerateModel
 					}
 
 				}
+				System.out.println("metto su modello");
 				pw.println(toPrint.get(i));
 			}
 			br.close();
@@ -115,8 +166,11 @@ public class GenerateModel
 		List<String> toReturn = new ArrayList<String>();
 		for (String s : data)
 		{
-			String toWrite = corr.replaceAll("<START:" + type + "> OBJECT", "<START:" + type + "> " + s);
-			toReturn.add(toWrite);
+			if (!s.contains("$"))
+			{
+				String toWrite = corr.replaceAll("<START:" + type + "> OBJECT", "<START:" + type + "> " + s);
+				toReturn.add(toWrite);
+			}
 		}
 		return toReturn;
 	}
