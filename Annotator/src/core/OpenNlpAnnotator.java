@@ -13,6 +13,7 @@ import opennlp.tools.namefind.NameFinderME;
 import opennlp.tools.namefind.TokenNameFinderModel;
 import opennlp.tools.util.Span;
 import utility.Pair;
+import utility.RegexUtility;
 
 public class OpenNlpAnnotator extends AnnotationStrategy
 {
@@ -30,18 +31,15 @@ public class OpenNlpAnnotator extends AnnotationStrategy
 
 	public String getType(String s)
 	{
-		String typeRegex = ".*?\\)\\s(.+?)";
-		return s.replaceAll(typeRegex, "$1");
+		return s.replaceAll(RegexUtility.getInstance().openNLPEntityType(), "$1");
 	}
 
 	public Pair<Integer, Integer> getSpansIndex(String s)
 	{
 		if (s.equals(""))
 			return null;
-		String regexIndex1 = ".*?\\[(.+?)[.].*";
-		String regexIndex2 = ".*?\\..(.+?)\\).*";
-		String result1 = s.replaceAll(regexIndex1, "$1");
-		String resutl2 = s.replaceAll(regexIndex2, "$1");
+		String result1 = s.replaceAll(RegexUtility.getInstance().openNLPEntityStart(), "$1");
+		String resutl2 = s.replaceAll(RegexUtility.getInstance().openNLPEntityEnd(), "$1");
 		return new Pair<Integer, Integer>(Integer.parseInt(result1), Integer.parseInt(resutl2));
 	}
 
@@ -55,7 +53,7 @@ public class OpenNlpAnnotator extends AnnotationStrategy
 			{
 				if (jump)
 					jump = false;
-				else 	
+				else
 				{
 					int j = i + 1;
 					if (j < results.length)
@@ -64,7 +62,7 @@ public class OpenNlpAnnotator extends AnnotationStrategy
 						Pair<Integer, Integer> indexForJ = getSpansIndex(results[j].toString());
 						String typeForI = getType(results[i].toString());
 						String typeForJ = getType(results[j].toString());
-						if ((indexForI.getSecondElement() + 1 == indexForJ.getFirstElement()) && (typeForI.equals(typeForJ)))
+						if ((indexForI.getSecondElement() + 1 == indexForJ.getFirstElement() || indexForI.getSecondElement() == indexForJ.getFirstElement()) && (typeForI.equals(typeForJ)))
 						{
 							complexResults.add("[" + indexForI.getFirstElement() + ".." + indexForJ.getSecondElement() + ") " + typeForI);
 							jump = true;
@@ -75,7 +73,7 @@ public class OpenNlpAnnotator extends AnnotationStrategy
 
 					} else
 						complexResults.add(results[i].toString());
-				} 
+				}
 			}
 		} else if (results.length == 1)
 			complexResults.add(results[0].toString());
@@ -84,36 +82,48 @@ public class OpenNlpAnnotator extends AnnotationStrategy
 		return complexResults;
 	}
 
-	
 	@SuppressWarnings("unchecked")
-	public List<Pair<Integer,Integer>> charactherResulsts (String text)
+	public HashMap<Pair<Integer, Integer>, String> charactherResulsts(String text)
 	{
-		List<Pair<Integer,Integer>> charachterIndex = new ArrayList<Pair<Integer,Integer>>();
+		HashMap<Pair<Integer, Integer>, String> charachterIndex = new HashMap<Pair<Integer, Integer>, String>();
 		List<String> res = (List<String>) annotatorStrategy("src/models/it-ner-art.bin", text);
 		String[] tokens = ItalianTokenizer.getInstance().tokenize(text);
-		HashMap<String, Pair<Integer, Integer>> characterForTokens = new HashMap<String, Pair<Integer, Integer>>();
+
+		HashMap<Integer, Pair<Integer, Integer>> characterForTokensIndex = new HashMap<Integer, Pair<Integer, Integer>>();
+
 		int currentIndex = 0;
 		for (int i = 0; i < tokens.length; i++)
 		{
 			int length = tokens[i].length();
-			characterForTokens.put(tokens[i], new Pair<Integer, Integer>(currentIndex, currentIndex + length - 1));
+
+			characterForTokensIndex.put(i, new Pair<Integer, Integer>(currentIndex, currentIndex + length - 1));
+
 			currentIndex += length;
-			if (!tokens[i].contains("'"))
-				currentIndex++;
-		}
-		
-		for (String s : res)
-		{
-			Pair<Integer,Integer> startEnd = getSpansIndex(s);
-			if (startEnd!=null)
-				charachterIndex.add(characterForTokens.get(tokens[startEnd.getFirstElement()]));
-			else
-				JOptionPane.showMessageDialog(null, "Niente da annotare");
+			if (currentIndex + 1 < text.length())
+			{
+				if (text.substring(currentIndex, currentIndex + 1).equals(" "))
+					currentIndex++;
+			}
 		}
 
+		for (String s : res)
+		{
+			String type = getType(s);
+			Pair<Integer, Integer> startEnd = getSpansIndex(s);
+			if (startEnd != null)
+			{
+
+				int first = characterForTokensIndex.get(startEnd.getFirstElement()).getFirstElement();
+				int second = characterForTokensIndex.get(startEnd.getSecondElement() - 1).getSecondElement();
+
+				Pair<Integer, Integer> p = new Pair<Integer, Integer>(first, second);
+				charachterIndex.put(p, type);
+			} else
+				JOptionPane.showMessageDialog(null, "Niente da annotare");
+		}
 		return charachterIndex;
 	}
-	
+
 	@Override
 	public Object annotatorStrategy(Object o, String question)
 	{

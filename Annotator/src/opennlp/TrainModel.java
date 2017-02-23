@@ -6,6 +6,8 @@ import java.io.FileOutputStream;
 import java.nio.charset.Charset;
 import java.util.Collections;
 
+import javax.swing.JOptionPane;
+
 import opennlp.tools.namefind.NameFinderME;
 import opennlp.tools.namefind.NameSample;
 import opennlp.tools.namefind.NameSampleDataStream;
@@ -17,10 +19,8 @@ import opennlp.tools.util.featuregen.AdaptiveFeatureGenerator;
 import opennlp.tools.util.featuregen.BigramNameFeatureGenerator;
 import opennlp.tools.util.featuregen.CachedFeatureGenerator;
 import opennlp.tools.util.featuregen.OutcomePriorFeatureGenerator;
-import opennlp.tools.util.featuregen.PrefixFeatureGenerator;
 import opennlp.tools.util.featuregen.PreviousMapFeatureGenerator;
 import opennlp.tools.util.featuregen.SentenceFeatureGenerator;
-import opennlp.tools.util.featuregen.SuffixFeatureGenerator;
 import opennlp.tools.util.featuregen.TokenClassFeatureGenerator;
 import opennlp.tools.util.featuregen.TokenFeatureGenerator;
 import opennlp.tools.util.featuregen.WindowFeatureGenerator;
@@ -44,8 +44,8 @@ public class TrainModel
 				           new OutcomePriorFeatureGenerator(),
 				           new PreviousMapFeatureGenerator(),
 				           new BigramNameFeatureGenerator(),
-				           new PrefixFeatureGenerator(),
-				           new SuffixFeatureGenerator(),
+//				           new PrefixFeatureGenerator(),
+//				           new SuffixFeatureGenerator(),
 //				           new PreviousTwoMapFeatureGenerator(),
 				           new SentenceFeatureGenerator(true, false),
 				           });
@@ -66,8 +66,7 @@ public class TrainModel
 			}
 		} catch (Exception e)
 		{
-			e.printStackTrace();
-//			JOptionPane.showMessageDialog(null, "Errore durante il train del modello");
+			JOptionPane.showMessageDialog(null, "Errore durante il train del modello");
 		}
 
 		return model;

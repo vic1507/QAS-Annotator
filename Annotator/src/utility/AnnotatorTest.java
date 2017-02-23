@@ -210,7 +210,7 @@ public class AnnotatorTest
 						}
 						if (!found)
 						{
-//							System.out.println("negative found at " + entry.getKey());
+							System.out.println("negative found at " + entry.getKey());
 							fn++;
 						}
 					}

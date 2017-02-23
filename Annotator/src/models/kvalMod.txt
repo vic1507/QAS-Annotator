@@ -2,7 +2,7 @@ Chi è <START:artist> Caravaggio <END> ?
 Chi è <START:artist> Pablo Picasso <END> ?
 Chi è <START:artist> Sandro Boticelli <END> ?
 Chi è <START:artist> Michelangelo Buonarotti <END> ?
-Chi è <START:artist> Vincent Van Gogh <END> ?
+Chi è <START:artist> Vincent van Gogh <END> ?
 Chi è <START:artist> Paul Cèzanne <END> ?
 Chi è <START:artist> Salvador Dalì <END> ?
 Chi è <START:artist> Claude Monet <END> ?
@@ -41,7 +41,7 @@ Qual è la tecnica scultorea di <START:artist> Caravaggio <END> ?
 Qual è la tecnica scultorea di <START:artist> Pablo Picasso <END> ?
 Qual è la tecnica scultorea di <START:artist> Sandro Boticelli <END> ?
 Qual è la tecnica scultorea di <START:artist> Michelangelo Buonarotti <END> ?
-Qual è la tecnica scultorea di <START:artist> Vincent Van Gogh <END> ?
+Qual è la tecnica scultorea di <START:artist> Vincent van Gogh <END> ?
 Qual è la tecnica scultorea di <START:artist> Paul Cèzanne <END> ?
 Qual è la tecnica scultorea di <START:artist> Salvador Dalì <END> ?
 Qual è la tecnica scultorea di <START:artist> Claude Monet <END> ?
@@ -80,7 +80,7 @@ Qual è la biografia di <START:artist> Caravaggio <END> ?
 Qual è la biografia di <START:artist> Pablo Picasso <END> ?
 Qual è la biografia di <START:artist> Sandro Boticelli <END> ?
 Qual è la biografia di <START:artist> Michelangelo Buonarotti <END> ?
-Qual è la biografia di <START:artist> Vincent Van Gogh <END> ?
+Qual è la biografia di <START:artist> Vincent van Gogh <END> ?
 Qual è la biografia di <START:artist> Paul Cèzanne <END> ?
 Qual è la biografia di <START:artist> Salvador Dalì <END> ?
 Qual è la biografia di <START:artist> Claude Monet <END> ?
@@ -119,7 +119,7 @@ A quale corrente artistica appartiene <START:artist> Caravaggio <END> ?
 A quale corrente artistica appartiene <START:artist> Pablo Picasso <END> ?
 A quale corrente artistica appartiene <START:artist> Sandro Boticelli <END> ?
 A quale corrente artistica appartiene <START:artist> Michelangelo Buonarotti <END> ?
-A quale corrente artistica appartiene <START:artist> Vincent Van Gogh <END> ?
+A quale corrente artistica appartiene <START:artist> Vincent van Gogh <END> ?
 A quale corrente artistica appartiene <START:artist> Paul Cèzanne <END> ?
 A quale corrente artistica appartiene <START:artist> Salvador Dalì <END> ?
 A quale corrente artistica appartiene <START:artist> Claude Monet <END> ?
@@ -158,7 +158,7 @@ A quale corrente artistica appartiene <START:artist> Munch <END> ?
 <START:artist> Pablo Picasso <END> è un famoso artista.
 <START:artist> Sandro Boticelli <END> è un famoso artista.
 <START:artist> Michelangelo Buonarotti <END> è un famoso artista.
-<START:artist> Vincent Van Gogh <END> è un famoso artista.
+<START:artist> Vincent van Gogh <END> è un famoso artista.
 <START:artist> Paul Cèzanne <END> è un famoso artista.
 <START:artist> Salvador Dalì <END> è un famoso artista.
 <START:artist> Claude Monet <END> è un famoso artista.
@@ -197,7 +197,7 @@ A quale corrente artistica appartiene <START:artist> Munch <END> ?
 <START:artist> Pablo Picasso <END> è stato il maestro di molti artisti.
 <START:artist> Sandro Boticelli <END> è stato il maestro di molti artisti.
 <START:artist> Michelangelo Buonarotti <END> è stato il maestro di molti artisti.
-<START:artist> Vincent Van Gogh <END> è stato il maestro di molti artisti.
+<START:artist> Vincent van Gogh <END> è stato il maestro di molti artisti.
 <START:artist> Paul Cèzanne <END> è stato il maestro di molti artisti.
 <START:artist> Salvador Dalì <END> è stato il maestro di molti artisti.
 <START:artist> Claude Monet <END> è stato il maestro di molti artisti.
@@ -236,7 +236,7 @@ A quale corrente artistica appartiene <START:artist> Munch <END> ?
 <START:artist> Pablo Picasso <END> ha dipinto diversi quadri.
 <START:artist> Sandro Boticelli <END> ha dipinto diversi quadri.
 <START:artist> Michelangelo Buonarotti <END> ha dipinto diversi quadri.
-<START:artist> Vincent Van Gogh <END> ha dipinto diversi quadri.
+<START:artist> Vincent van Gogh <END> ha dipinto diversi quadri.
 <START:artist> Paul Cèzanne <END> ha dipinto diversi quadri.
 <START:artist> Salvador Dalì <END> ha dipinto diversi quadri.
 <START:artist> Claude Monet <END> ha dipinto diversi quadri.
@@ -275,7 +275,7 @@ C'è un quadro di <START:artist> Caravaggio <END> in questo museo ?
 C'è un quadro di <START:artist> Pablo Picasso <END> in questo museo ?
 C'è un quadro di <START:artist> Sandro Boticelli <END> in questo museo ?
 C'è un quadro di <START:artist> Michelangelo Buonarotti <END> in questo museo ?
-C'è un quadro di <START:artist> Vincent Van Gogh <END> in questo museo ?
+C'è un quadro di <START:artist> Vincent van Gogh <END> in questo museo ?
 C'è un quadro di <START:artist> Paul Cèzanne <END> in questo museo ?
 C'è un quadro di <START:artist> Salvador Dalì <END> in questo museo ?
 C'è un quadro di <START:artist> Claude Monet <END> in questo museo ?
@@ -314,7 +314,7 @@ Abbiamo opere di <START:artist> Caravaggio <END> in questo museo ?
 Abbiamo opere di <START:artist> Pablo Picasso <END> in questo museo ?
 Abbiamo opere di <START:artist> Sandro Boticelli <END> in questo museo ?
 Abbiamo opere di <START:artist> Michelangelo Buonarotti <END> in questo museo ?
-Abbiamo opere di <START:artist> Vincent Van Gogh <END> in questo museo ?
+Abbiamo opere di <START:artist> Vincent van Gogh <END> in questo museo ?
 Abbiamo opere di <START:artist> Paul Cèzanne <END> in questo museo ?
 Abbiamo opere di <START:artist> Salvador Dalì <END> in questo museo ?
 Abbiamo opere di <START:artist> Claude Monet <END> in questo museo ?
@@ -353,7 +353,7 @@ E' vero che <START:artist> Caravaggio <END> ha dipinto tanto?
 E' vero che <START:artist> Pablo Picasso <END> ha dipinto tanto?
 E' vero che <START:artist> Sandro Boticelli <END> ha dipinto tanto?
 E' vero che <START:artist> Michelangelo Buonarotti <END> ha dipinto tanto?
-E' vero che <START:artist> Vincent Van Gogh <END> ha dipinto tanto?
+E' vero che <START:artist> Vincent van Gogh <END> ha dipinto tanto?
 E' vero che <START:artist> Paul Cèzanne <END> ha dipinto tanto?
 E' vero che <START:artist> Salvador Dalì <END> ha dipinto tanto?
 E' vero che <START:artist> Claude Monet <END> ha dipinto tanto?
@@ -414,7 +414,7 @@ E' vero che il <START:opera> Natività con i santi Lorenzo e Francesco d'Assisi <
 E' vero che il <START:opera> Ragazza col turbante <END> è stato teatro di molti giochi?
 E' vero che il <START:opera> Bacco <END> è stato teatro di molti giochi?
 E' vero che il <START:opera> I papaveri <END> è stato teatro di molti giochi?
-E' vero che il <START:opera> Deposizione <END> è stato teatro di molti giochi?
+E' vero che l' <START:opera> Anfiteatro Flavio <END> è stato teatro di molti giochi?
 E' vero che il <START:opera> Battaglia di San Romano <END> è stato teatro di molti giochi?
 E' vero che il <START:opera> Incredulità di san Tommaso <END> è stato teatro di molti giochi?
 E' vero che il <START:opera> Sette opere di Misericordia <END> è stato teatro di molti giochi?
@@ -454,7 +454,7 @@ Quale artista ha creato <START:opera> Natività con i santi Lorenzo e Francesco d
 Quale artista ha creato <START:opera> Ragazza col turbante <END> famoso quadro qui esposto?
 Quale artista ha creato <START:opera> Bacco <END> famoso quadro qui esposto?
 Quale artista ha creato <START:opera> I papaveri <END> famoso quadro qui esposto?
-Quale artista ha creato <START:opera> Deposizione <END> famoso quadro qui esposto?
+Quale artista ha creato l' <START:opera> Anfiteatro Flavio <END> famoso quadro qui esposto?
 Quale artista ha creato <START:opera> Battaglia di San Romano <END> famoso quadro qui esposto?
 Quale artista ha creato <START:opera> Incredulità di san Tommaso <END> famoso quadro qui esposto?
 Quale artista ha creato <START:opera> Sette opere di Misericordia <END> famoso quadro qui esposto?
@@ -494,7 +494,7 @@ Quando verrà esposto il <START:opera> Natività con i santi Lorenzo e Francesco d
 Quando verrà esposto il <START:opera> Ragazza col turbante <END> in questo museo?
 Quando verrà esposto il <START:opera> Bacco <END> in questo museo?
 Quando verrà esposto il <START:opera> I papaveri <END> in questo museo?
-Quando verrà esposto il <START:opera> Deposizione <END> in questo museo?
+Quando verrà esposto l' <START:opera> Anfiteatro Flavio <END> in questo museo?
 Quando verrà esposto il <START:opera> Battaglia di San Romano <END> in questo museo?
 Quando verrà esposto il <START:opera> Incredulità di san Tommaso <END> in questo museo?
 Quando verrà esposto il <START:opera> Sette opere di Misericordia <END> in questo museo?
@@ -534,7 +534,7 @@ Quando verrà esposto il <START:opera> Jacopo Pesaro presentato a san Pietro da p
 <START:opera> Ragazza col turbante <END> è una famosa opera.
 <START:opera> Bacco <END> è una famosa opera.
 <START:opera> I papaveri <END> è una famosa opera.
-<START:opera> Deposizione <END> è una famosa opera.
+L' <START:opera> Anfiteatro Flavio <END> è una famosa opera.
 <START:opera> Battaglia di San Romano <END> è una famosa opera.
 <START:opera> Incredulità di san Tommaso <END> è una famosa opera.
 <START:opera> Sette opere di Misericordia <END> è una famosa opera.
@@ -574,7 +574,7 @@ Quando verrà esposto il <START:opera> Jacopo Pesaro presentato a san Pietro da p
 <START:opera> Ragazza col turbante <END> è stato scolpito nel 1270.
 <START:opera> Bacco <END> è stato scolpito nel 1270.
 <START:opera> I papaveri <END> è stato scolpito nel 1270.
-<START:opera> Deposizione <END> è stato scolpito nel 1270.
+L' <START:opera> Anfiteatro Flavio <END> è stato scolpito nel 1270.
 <START:opera> Battaglia di San Romano <END> è stato scolpito nel 1270.
 <START:opera> Incredulità di san Tommaso <END> è stato scolpito nel 1270.
 <START:opera> Sette opere di Misericordia <END> è stato scolpito nel 1270.
@@ -614,7 +614,7 @@ Quando verrà esposto il <START:opera> Jacopo Pesaro presentato a san Pietro da p
 <START:opera> Ragazza col turbante <END> ha ricevuto tanti consensi.
 <START:opera> Bacco <END> ha ricevuto tanti consensi.
 <START:opera> I papaveri <END> ha ricevuto tanti consensi.
-<START:opera> Deposizione <END> ha ricevuto tanti consensi.
+L' <START:opera> Anfiteatro Flavio <END> ha ricevuto tanti consensi.
 <START:opera> Battaglia di San Romano <END> ha ricevuto tanti consensi.
 <START:opera> Incredulità di san Tommaso <END> ha ricevuto tanti consensi.
 <START:opera> Sette opere di Misericordia <END> ha ricevuto tanti consensi.
@@ -654,7 +654,7 @@ Chi è raffigurato nel <START:opera> Natività con i santi Lorenzo e Francesco d'A
 Chi è raffigurato nel <START:opera> Ragazza col turbante <END> ?
 Chi è raffigurato nel <START:opera> Bacco <END> ?
 Chi è raffigurato nel <START:opera> I papaveri <END> ?
-Chi è raffigurato nel <START:opera> Deposizione <END> ?
+Chi è raffigurato nell' <START:opera> Anfiteatro Flavio <END> ?
 Chi è raffigurato nel <START:opera> Battaglia di San Romano <END> ?
 Chi è raffigurato nel <START:opera> Incredulità di san Tommaso <END> ?
 Chi è raffigurato nel <START:opera> Sette opere di Misericordia <END> ?
@@ -694,7 +694,7 @@ Chi è raffigurato in <START:opera> Natività con i santi Lorenzo e Francesco d'As
 Chi è raffigurato in <START:opera> Ragazza col turbante <END> ?
 Chi è raffigurato in <START:opera> Bacco <END> ?
 Chi è raffigurato in <START:opera> I papaveri <END> ?
-Chi è raffigurato in <START:opera> Deposizione <END> ?
+Chi è raffigurato nell' <START:opera> Anfiteatro Flavio <END> ?
 Chi è raffigurato in <START:opera> Battaglia di San Romano <END> ?
 Chi è raffigurato in <START:opera> Incredulità di san Tommaso <END> ?
 Chi è raffigurato in <START:opera> Sette opere di Misericordia <END> ?
@@ -734,7 +734,7 @@ Che cos'è <START:opera> Natività con i santi Lorenzo e Francesco d'Assisi <END> 
 Che cos'è <START:opera> Ragazza col turbante <END> ?
 Che cos'è <START:opera> Bacco <END> ?
 Che cos'è <START:opera> I papaveri <END> ?
-Che cos'è <START:opera> Deposizione <END> ?
+Che cos'è l' <START:opera> Anfiteatro Flavio <END> ?
 Che cos'è <START:opera> Battaglia di San Romano <END> ?
 Che cos'è <START:opera> Incredulità di san Tommaso <END> ?
 Che cos'è <START:opera> Sette opere di Misericordia <END> ?
@@ -774,7 +774,7 @@ Che cos'è la <START:opera> Natività con i santi Lorenzo e Francesco d'Assisi <EN
 Che cos'è la <START:opera> Ragazza col turbante <END> ?
 Che cos'è la <START:opera> Bacco <END> ?
 Che cos'è la <START:opera> I papaveri <END> ?
-Che cos'è la <START:opera> Deposizione <END> ?
+Che cos'è l' <START:opera> Anfiteatro Flavio <END> ?
 Che cos'è la <START:opera> Battaglia di San Romano <END> ?
 Che cos'è la <START:opera> Incredulità di san Tommaso <END> ?
 Che cos'è la <START:opera> Sette opere di Misericordia <END> ?
@@ -792,7 +792,7 @@ Che cos'è la <START:opera> Jacopo Pesaro presentato a san Pietro da papa Alessan
 <START:artist> Pablo Picasso <END> ha dipinto la <START:opera> Gioconda <END> ?
 <START:artist> Sandro Boticelli <END> ha dipinto la <START:opera> Gioconda <END> ?
 <START:artist> Michelangelo Buonarotti <END> ha dipinto la <START:opera> Gioconda <END> ?
-<START:artist> Vincent Van Gogh <END> ha dipinto la <START:opera> Gioconda <END> ?
+<START:artist> Vincent van Gogh <END> ha dipinto la <START:opera> Gioconda <END> ?
 <START:artist> Paul Cèzanne <END> ha dipinto la <START:opera> Gioconda <END> ?
 <START:artist> Salvador Dalì <END> ha dipinto la <START:opera> Gioconda <END> ?
 <START:artist> Claude Monet <END> ha dipinto la <START:opera> Gioconda <END> ?
@@ -853,7 +853,7 @@ Che cos'è la <START:opera> Jacopo Pesaro presentato a san Pietro da papa Alessan
 <START:artist> Caravaggio <END> ha dipinto la <START:opera> Ragazza col turbante <END> ?
 <START:artist> Caravaggio <END> ha dipinto la <START:opera> Bacco <END> ?
 <START:artist> Caravaggio <END> ha dipinto la <START:opera> I papaveri <END> ?
-<START:artist> Caravaggio <END> ha dipinto la <START:opera> Deposizione <END> ?
+<START:artist> Caravaggio <END> ha dipinto l' <START:opera> Anfiteatro Flavio <END> ?
 <START:artist> Caravaggio <END> ha dipinto la <START:opera> Battaglia di San Romano <END> ?
 <START:artist> Caravaggio <END> ha dipinto la <START:opera> Incredulità di san Tommaso <END> ?
 <START:artist> Caravaggio <END> ha dipinto la <START:opera> Sette opere di Misericordia <END> ?
@@ -893,7 +893,7 @@ Perchè la <START:opera> Natività con i santi Lorenzo e Francesco d'Assisi <END> 
 Perchè la <START:opera> Ragazza col turbante <END> si trova a Parigi?
 Perchè la <START:opera> Bacco <END> si trova a Parigi?
 Perchè la <START:opera> I papaveri <END> si trova a Parigi?
-Perchè la <START:opera> Deposizione <END> si trova a Parigi?
+Perchè l' <START:opera> Anfiteatro Flavio <END> si trova a Parigi?
 Perchè la <START:opera> Battaglia di San Romano <END> si trova a Parigi?
 Perchè la <START:opera> Incredulità di san Tommaso <END> si trova a Parigi?
 Perchè la <START:opera> Sette opere di Misericordia <END> si trova a Parigi?
@@ -933,7 +933,7 @@ Quando è stato restaurato il <START:opera> Natività con i santi Lorenzo e France
 Quando è stato restaurato il <START:opera> Ragazza col turbante <END> ?
 Quando è stato restaurato il <START:opera> Bacco <END> ?
 Quando è stato restaurato il <START:opera> I papaveri <END> ?
-Quando è stato restaurato il <START:opera> Deposizione <END> ?
+Quando è stato restaurato l' <START:opera> Anfiteatro Flavio <END> ?
 Quando è stato restaurato il <START:opera> Battaglia di San Romano <END> ?
 Quando è stato restaurato il <START:opera> Incredulità di san Tommaso <END> ?
 Quando è stato restaurato il <START:opera> Sette opere di Misericordia <END> ?
@@ -949,7 +949,7 @@ Quando è stato restaurato il <START:opera> Colosso di Rodi <END> ?
 Quando è stato restaurato il <START:opera> Jacopo Pesaro presentato a san Pietro da papa Alessandro VI <END> ?
 Perchè è stata restaurata la <START:opera> Gioconda <END> ?
 Perchè è stata restaurata la <START:opera> Nascita di Venere <END> ?
-Perchè è stata restaurata la <START:opera> L'urlo <END> ?
+Perchè è stata restaurata <START:opera> L'urlo <END> ?
 Perchè è stata restaurata la <START:opera> Ultima Cena <END> ?
 Perchè è stata restaurata la <START:opera> Venere di Urbino <END> ?
 Perchè è stata restaurata la <START:opera> Giudizio Universale <END> ?
@@ -973,6 +973,6 @@ Perchè è stata restaurata la <START:opera> Natività con i santi Lorenzo e France
 Perchè è stata restaurata la <START:opera> Ragazza col turbante <END> ?
 Perchè è stata restaurata la <START:opera> Bacco <END> ?
 Perchè è stata restaurata la <START:opera> I papaveri <END> ?
-Perchè è stata restaurata la <START:opera> Deposizione <END> ?
+Perchè è stata restaurata l' <START:opera> Anfiteatro Flavio <END> ?
 Perchè è stata restaurata la <START:opera> Battaglia di San Romano <END> ?
 Perchè è stata restaurata la <START:opera> Incredulità di san Tommaso <END> ?

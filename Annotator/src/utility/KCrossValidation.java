@@ -17,7 +17,6 @@ public class KCrossValidation
 		{
 			int startRange = 0;
 			int finalRange = startRange + K;
-
 			int modelSize = 0;
 			int iterations = 0;
 			double prec = 0;

@@ -2,6 +2,8 @@ package core;
 
 import java.io.File;
 import java.sql.Connection;
+import java.util.HashMap;
+import java.util.List;
 
 import javax.swing.JOptionPane;
 
@@ -10,6 +12,7 @@ import opennlp.tools.namefind.TokenNameFinderModel;
 import utility.AnnotatorTest;
 import utility.KCrossValidation;
 import utility.MySQLResourcesAcquisition;
+import utility.Pair;
 import utility.QuestionInput;
 
 public class ApplicationManager
@@ -18,6 +21,8 @@ public class ApplicationManager
 	{
 
 	}
+	
+	private HashMap<String, String> mappedTypes;
 
 	private static ApplicationManager instance = new ApplicationManager();
 
@@ -47,6 +52,25 @@ public class ApplicationManager
 			e.printStackTrace();
 			return null;
 		}
+	}
+	
+	public HashMap<String, List<Pair<Integer, Integer>>> executePatternMatching (String s)
+	{
+		MySQLResourcesAcquisition rs = new MySQLResourcesAcquisition();
+
+		Connection connection = rs.getConnection();
+
+		rs.getData().addAll(rs.getDataFromDb(connection, "artist", "name", ""));
+		rs.getData().addAll(rs.getDataFromDb(connection, "opere", "operename", ""));
+		this.mappedTypes = rs.getMappedTypes();
+		AnnotationStrategy as = new RightMatchAnnotator(rs.getData(), rs.getMappedTypes());
+		return (HashMap<String, List<Pair<Integer, Integer>>>) as.annotatorStrategy(new Interpreter(new File("src/core/annotator.py"), false), s);
+		
+	}
+	
+	public HashMap<String, String> getMappedTypes()
+	{
+		return mappedTypes;
 	}
 
 	public void execuete2(String type)
@@ -99,14 +123,14 @@ public class ApplicationManager
 			} else if (type.equals("PatternsMatching"))
 			{
 				AnnotationStrategy as = new RightMatchAnnotator(rs.getData(), rs.getMappedTypes());
-				as.annotatorStrategy(new Interpreter(new File("src/core/annotator.py"), false), QuestionInput.insertInput());
+				as.annotatorStrategy(new Interpreter(new File("src/core/annotator.py"), true), QuestionInput.insertInput());
 			}
 
 			connection.close();
 
 		} catch (Exception e)
 		{
-			e.printStackTrace();
+			// e.printStackTrace();
 		}
 	}
 
@@ -119,36 +143,26 @@ public class ApplicationManager
 
 	private void extendsCorpora()
 	{
-		 DataFromSite.dataAcqusition();
-		 //TODO MODELLO CON ARTICOLI
-//		HashMap<String, String> articlesMap = DataFromSite.articlesMapSparQL();
+		DataFromSite.dataAcqusition();
+		// TODO MODELLO CON ARTICOLI
+		// HashMap<String, String> articlesMap =
+		// DataFromSite.articlesMapSparQL();
 	}
 
 	private void trainModel()
 	{
-		String model = "src/models/model.txt";
-		/*
-		 * String [] options = {"type 1" , "type 2"}; String option =
-		 * JOptionPane.showInputDialog(null, "Select parameters",
-		 * "TrainParameters", JOptionPane.INFORMATION_MESSAGE, null, options,
-		 * options[0]).toString();
-		 * 
-		 * switch (option) { case "type 1": GenerateModel gm = new
-		 * GenerateModel(GenerateModel.MODEL1);
-		 * gm.miniModelExecution(rs.getDataFromDb(rs.returnStaticConnection(),
-		 * "artist", "name", ""), rs.getDataFromDb(rs.returnStaticConnection(),
-		 * "opere", "operename", "")); break; case "type 2": GenerateModel gm2 =
-		 * new GenerateModel(GenerateModel.MODEL2);
-		 * gm2.miniModelExecution(rs.getDataFromDb(rs.returnStaticConnection(),
-		 * "artist", "name", ""), rs.getDataFromDb(rs.returnStaticConnection(),
-		 * "opere", "operename", "")); default: break; }
-		 */
+//		MySQLResourcesAcquisition rs = new MySQLResourcesAcquisition();
+//		GenerateModel gm = new GenerateModel(GenerateModel.MODEL3);
+//		rs.createResources();
+//		gm.createModel(rs.getDataFromDb(rs.returnStaticConnection(), "artist", "name", ""), rs.getDataFromDb(rs.returnStaticConnection(), "opere", "operename", ""));
+//		String model = "src/models/model3.txt";
+		 String model = "src/models/model3.txt";
 		OpenNlpAnnotator.trainModel(model, "src/models/it-ner-art.bin");
 	}
 
 	private void test()
 	{
-		String[] options = { "test 1", "test 2", "test 3", "test 4" };
+		String[] options = { "test 1", "test 2", "test 3", "test 4", "test artist" };
 
 		String option = JOptionPane.showInputDialog(null, "Select a test case", "TestCase", JOptionPane.INFORMATION_MESSAGE, null, options, options[0]).toString();
 
@@ -167,6 +181,9 @@ public class ApplicationManager
 				break;
 			case "test 4":
 				file = file + "testCase4.txt";
+				break;
+			case "test artist":
+				file = file + "tmp.txt";
 				break;
 			default:
 				break;

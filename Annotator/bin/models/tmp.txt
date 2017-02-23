@@ -1,0 +1,500 @@
+Chi è Akhenaton  ?::[2..3) artist
+Qual è la tecnica scultorea di B.G. ?::[6..7) artist
+Qual è la biografia di Beck ?::[5..6) artist
+A quale corrente artistica appartiene Canaletto ?::[5..6) artist
+Daniele da Volterra è un famoso artista.::[0..3) artist
+Donatello è stato il maestro di molti artisti.::[0..1) artist
+Gerald Brom ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Heath  in questo museo ?::[5..6) artist
+Abbiamo opere di Hermann Huppen in questo museo ?::[3..5) artist
+E' vero che Katsushika Hokusai ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Magnus  ?::[6..7) artist
+Qual è la biografia di Sebastiano del Piombo ?::[5..8) artist
+A quale corrente artistica appartiene Shiba Kakan ?::[5..7) artist
+Vicar è un famoso artista.::[0..1) artist
+Vincent van Gogh è stato il maestro di molti artisti.::[0..3) artist
+Aurelio Voltaire ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Alan Jay Lerner in questo museo ?::[5..8) artist
+Abbiamo opere di Alberto Giacometti in questo museo ?::[3..5) artist
+E' vero che Albrecht Dürer ha dipinto tanto ?::[3..5) artist
+Qual è la tecnica scultorea di Ani DiFranco ?::[6..8) artist
+Qual è la biografia di Antonio Canova ?::[5..7) artist
+A quale corrente artistica appartiene The Arabian Prince ?::[5..8) artist
+Aristide Maillol è un famoso artista.::[0..2) artist
+Arlo Guthrie è stato il maestro di molti artisti.::[0..2) artist
+Auguste Rodin ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Barca Manço in questo museo ?::[5..9) artist
+Abbiamo opere di Berthe Morisot in questo museo ?::[3..5) artist
+E' vero che Bertrand Andrieu ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Brownie McGhee ?::[6..8) artist
+Qual è la biografia di Buddy Holly ?::[5..7) artist
+A quale corrente artistica appartiene Camille Pissarro ?::[5..7) artist
+Carl Barks è un famoso artista.::[0..2) artist
+Cecilia Beaux è stato il maestro di molti artisti.::[0..2) artist
+Charles Mingus ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Chet Atkins in questo museo ?::[5..7) artist
+Abbiamo opere di Chris Cunningham in questo museo ?::[3..5) artist
+E' vero che Christoph Ludwig Agricola ha dipinto tanto?::[3..6) artist
+Qual è la tecnica scultorea di Davy Jones ?::[6..8) artist
+Qual è la biografia di Denis Leary ?::[5..7) artist
+A quale corrente artistica appartiene Django Reinhardt ?::[5..7) artist
+Dolly Parton è un famoso artista.::[0..2) artist
+Don McLean è stato il maestro di molti artisti.::[0..2) artist
+Don Rosa ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Dr. Dre in questo museo ?::[5..7) artist
+Abbiamo opere di Edwin Austin Abbey in questo museo ?::[3..6) artist
+E' vero che Elvis Costello ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di George Harrison ?::[6..8) artist
+Qual è la biografia di Georges Braque ?::[5..7) artist
+A quale corrente artistica appartiene Gerard David ?::[5..7) artist
+Gheorghe Zamfir è un famoso artista.::[0..2) artist
+Gian Lorenzo Bernini è stato il maestro di molti artisti.::[0..3) artist
+Gloria Gaynor ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Goran Bregovic in questo museo ?::[5..7) artist
+Abbiamo opere di Gram Parsons in questo museo ?::[3..5) artist
+E' vero che Groucho Marx ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Jack Kirby ?::[6..8) artist
+Qual è la biografia di Jackson Pollock ?::[5..7) artist
+A quale corrente artistica appartiene Jacopo Amigoni ?::[5..7) artist
+Jacques-Louis David è un famoso artista.::[0..2) artist
+Janis Joplin è stato il maestro di molti artisti.::[0..2) artist
+Jay Leno ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Jean-François Millet in questo museo ?::[5..7) artist
+Abbiamo opere di Jean-Michel Basquiat in questo museo ?::[3..5) artist
+E' vero che Jeff Lynne ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di John Digweed ?::[6..8) artist
+Qual è la biografia di John Lee Hooker ?::[5..8) artist
+A quale corrente artistica appartiene John Lennon ?::[5..7) artist
+John Martyn è un famoso artista.::[0..2) artist
+John Rutsey è stato il maestro di molti artisti.::[0..2) artist
+John Tenniel ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di John Woo in questo museo ?::[5..7) artist
+Abbiamo opere di Jonathan Richman in questo museo ?::[3..5) artist
+E' vero che Joni Mitchell ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Kenneth Noland ?::[6..8) artist
+Qual è la biografia di Kirk Hammett ?::[5..7) artist
+A quale corrente artistica appartiene Kool Keith ?::[5..7) artist
+Kurt Schwitters è un famoso artista.::[0..2) artist
+Kurtis Blow è stato il maestro di molti artisti.::[0..2) artist
+Lawrence Alma-Tadema ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Lead Belly in questo museo ?::[5..7) artist
+Abbiamo opere di Lemmy Kilmister in questo museo ?::[3..5) artist
+E' vero che Leon Battista Alberti ha dipinto tanto?::[3..6) artist
+Qual è la tecnica scultorea di Mary Cassatt ?::[6..8) artist
+Qual è la biografia di Masamune Shirow ?::[5..7) artist
+A quale corrente artistica appartiene Max Steiner ?::[5..7) artist
+Maya Lin è un famoso artista.::[0..2) artist
+Mel Brooks è stato il maestro di molti artisti.::[0..2) artist
+Mel Smith ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Michael Hutchence in questo museo ?::[5..7) artist
+Abbiamo opere di Michael Nesmith in questo museo ?::[3..5) artist
+E' vero che Mickey Hart ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Neil Peart ?::[6..8) artist
+Qual è la biografia di Nikolaj Abraham Abildgaard ?::[5..8) artist
+A quale corrente artistica appartiene Oliver Lieb ?::[5..7) artist
+Oscar Hammerstein II è un famoso artista.::[0..3) artist
+Oscar Peterson è stato il maestro di molti artisti.::[0..2) artist
+Otto Dix ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Pablo Picasso in questo museo ?::[5..7) artist
+Abbiamo opere di Paolo Agostini in questo museo ?::[3..5) artist
+E' vero che Paolo Fresu ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Philip Glass ?::[6..8) artist
+Qual è la biografia di Pierre-Auguste Renoir ?::[5..7) artist
+A quale corrente artistica appartiene Prince Paul ?::[5..7) artist
+René Magritte è un famoso artista.::[0..2) artist
+Richard Hell è stato il maestro di molti artisti.::[0..2) artist
+Ringo Starr ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Robert Calvert in questo museo ?::[5..7) artist
+Abbiamo opere di Robert Fripp in questo museo ?::[3..5) artist
+E' vero che Robert Johnson ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Sheryl Crow ?::[6..8) artist
+Qual è la biografia di Sofonisba Anguissola ?::[5..7) artist
+A quale corrente artistica appartiene Son House ?::[5..7) artist
+Steve Lacy è un famoso artista.::[0..2) artist
+Stig Anderson è stato il maestro di molti artisti.::[0..2) artist
+Suzanne Vega ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Kitagawa Utamaro in questo museo ?::[5..7) artist
+Abbiamo opere di Édouard Manet in questo museo ?::[3..5) artist
+E' vero che Bobby Darin ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Kid Ory ?::[6..8) artist
+Qual è la biografia di La Monte Young ?::[5..8) artist
+A quale corrente artistica appartiene Michael Gira ?::[5..7) artist
+Peter Case è un famoso artista.::[0..2) artist
+Roger McGuinn è stato il maestro di molti artisti.::[0..2) artist
+Van Dyke Parks ha dipinto diversi quadri.::[0..3) artist
+C'è un quadro di Angelika Kauffmann in questo museo ?::[5..7) artist
+Abbiamo opere di Art Tatum in questo museo ?::[3..5) artist
+E' vero che Ben Harper ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Rudy Vallee ?::[6..8) artist
+Qual è la biografia di Sisqó ?::[5..6) artist
+A quale corrente artistica appartiene Ace Frehley ?::[5..7) artist
+Akseli Gallen-Kallela è un famoso artista.::[0..2) artist
+Albert Ayler è stato il maestro di molti artisti.::[0..2) artist
+Alexander Bard ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Alexej von Jawlensky in questo museo ?::[5..8) artist
+Abbiamo opere di André Franquin in questo museo ?::[3..5) artist
+E' vero che André Hazes ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Björn Skifs ?::[6..8) artist
+Qual è la biografia di Frank Black ?::[5..7) artist
+A quale corrente artistica appartiene Bob Newhart ?::[5..7) artist
+Bobby Fuller è un famoso artista.::[0..2) artist
+Bud Powell è stato il maestro di molti artisti.::[0..2) artist
+Buju Banton ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Carlos Santana in questo museo ?::[5..7) artist
+Abbiamo opere di Carole King in questo museo ?::[3..5) artist
+E' vero che Chantal Kreviazuk ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Curtis Mayfield ?::[6..8) artist
+Qual è la biografia di Dj Ötzi ?::[5..7) artist
+A quale corrente artistica appartiene Daniel Chester French ?::[5..8) artist
+Dave Gahan è un famoso artista.::[0..2) artist
+Dave Walker  è stato il maestro di molti artisti.::[0..2) artist
+Dave Williams  ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di David Gates in questo museo ?::[5..7) artist
+Abbiamo opere di Debbie Gibson in questo museo ?::[3..5) artist
+E' vero che Dez Cadena ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Etta James ?::[6..8) artist
+Qual è la biografia di Frank Delgado ?::[5..7) artist
+A quale corrente artistica appartiene Frida Kahlo ?::[5..7) artist
+Gavin Rossdale è un famoso artista.::[0..2) artist
+Gene Simmons è stato il maestro di molti artisti.::[0..2) artist
+Ginger Baker ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Giorgione in questo museo ?::[5..6) artist
+Abbiamo opere di Giovanni Battista Piranesi in questo museo ?::[3..6) artist
+E' vero che Giuseppe Baini ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Hugh Masekela ?::[6..8) artist
+Qual è la biografia di Ian MacKaye ?::[5..7) artist
+A quale corrente artistica appartiene Iggy Pop ?::[5..7) artist
+Inge Morath è un famoso artista.::[0..2) artist
+Isadora Duncan è stato il maestro di molti artisti.::[0..2) artist
+Jackie Wilson ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Jackson Browne in questo museo ?::[5..7) artist
+Abbiamo opere di Jaco Pastorius in questo museo ?::[3..5) artist
+E' vero che James Burton ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di John Dolmayan ?::[6..8) artist
+Qual è la biografia di John Gay ?::[5..7) artist
+A quale corrente artistica appartiene John Mayall ?::[5..7) artist
+John Sebastian è un famoso artista.::[0..2) artist
+Jon Anderson è stato il maestro di molti artisti.::[0..2) artist
+Kazumi Watanabe ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Keith Morris in questo museo ?::[5..7) artist
+Abbiamo opere di Keith Richards in questo museo ?::[3..5) artist
+E' vero che Kim Deal ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Liz Phair ?::[6..8) artist
+Qual è la biografia di Lloyd Price ?::[5..7) artist
+A quale corrente artistica appartiene Lonnie Donegan ?::[5..7) artist
+Lorenzo Ghiberti è un famoso artista.::[0..2) artist
+Ma Rainey è stato il maestro di molti artisti.::[0..2) artist
+Maggie Cheung ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Malcolm McLaren in questo museo ?::[5..7) artist
+Abbiamo opere di Manos Hadjidakis in questo museo ?::[3..5) artist
+E' vero che Mark Farner ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Moïse Kisling ?::[6..8) artist
+Qual è la biografia di Neal Adams ?::[5..7) artist
+A quale corrente artistica appartiene Nick La Rocca ?::[5..8) artist
+Ornette Coleman è un famoso artista.::[0..2) artist
+Paul Stanley è stato il maestro di molti artisti.::[0..2) artist
+Pete Seeger ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Pete Townshend in questo museo ?::[5..7) artist
+Abbiamo opere di Peter Criss in questo museo ?::[3..5) artist
+E' vero che Rachel Bolan ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Sam Cooke ?::[6..8) artist
+Qual è la biografia di Sam Phillips  ?::[5..7) artist
+A quale corrente artistica appartiene Sarah McLachlan ?::[5..7) artist
+Sarah Slean è un famoso artista.::[0..2) artist
+Scott Bradley è stato il maestro di molti artisti.::[0..2) artist
+Serj Tankian ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Shavo Odadjian in questo museo ?::[5..7) artist
+Abbiamo opere di Sid Vicious in questo museo ?::[3..5) artist
+E' vero che Sinéad O'Connor ha dipinto tanto?::[3..6) artist
+Qual è la tecnica scultorea di Takehiko Inoue ?::[6..8) artist
+Qual è la biografia di Tamara de Lempicka ?::[5..8) artist
+A quale corrente artistica appartiene Tanita Tikaram ?::[5..7) artist
+Tatyana Ali è un famoso artista.::[0..2) artist
+Tera Patrick è stato il maestro di molti artisti.::[0..2) artist
+Tete Montoliu ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Jeanine Deckers in questo museo ?::[5..7) artist
+Abbiamo opere di Tim Alexander in questo museo ?::[3..5) artist
+E' vero che Tiny Tim  ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Yo-Yo Ma ?::[6..8) artist
+Qual è la biografia di Yousuf Karsh ?::[5..7) artist
+A quale corrente artistica appartiene Zhang Yìmóu ?::[5..8) artist
+Angus Young è un famoso artista.::[0..2) artist
+Annie  è stato il maestro di molti artisti.::[0..1) artist
+Arthur Adams ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Benjamin  in questo museo ?::[5..6) artist
+Abbiamo opere di Christiane Hebold in questo museo ?::[3..5) artist
+E' vero che Conrad Marca-Relli ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Enrico Macias ?::[6..8) artist
+Qual è la biografia di Enrico Mainardi ?::[5..7) artist
+A quale corrente artistica appartiene Enrico Pieranunzi ?::[5..7) artist
+Enrico Rava è un famoso artista.::[0..2) artist
+Enrico Ruggeri è stato il maestro di molti artisti.::[0..2) artist
+Fey  ha dipinto diversi quadri.::[0..1) artist
+C'è un quadro di Francesco Bassano in questo museo ?::[5..7) artist
+Abbiamo opere di George Ezra in questo museo ?::[3..5) artist
+E' vero che Gérard Rinaldi ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Johnny Gioeli ?::[6..8) artist
+Qual è la biografia di Johnny Mathis  ?::[5..7) artist
+A quale corrente artistica appartiene Johnny Rivers ?::[5..7) artist
+Johnny Winter è un famoso artista.::[0..2) artist
+Justin Meldal-Johnsen è stato il maestro di molti artisti.::[0..2) artist
+Kevin Saunderson ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Kipper  in questo museo ?::[5..6) artist
+Abbiamo opere di Louis Emmanuel Jadin in questo museo ?::[3..6) artist
+E' vero che Lyfe Jennings ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Perry Como ?::[6..8) artist
+Qual è la biografia di Robert Henri ?::[5..7) artist
+A quale corrente artistica appartiene Rolf Løvland ?::[5..7) artist
+Shock G è un famoso artista.::[0..2) artist
+Signe Toly Anderson è stato il maestro di molti artisti.::[0..3) artist
+Stephen Schwartz ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Suggs in questo museo ?::[5..6) artist
+Abbiamo opere di Taylor Rain in questo museo ?::[3..5) artist
+E' vero che Tony Yayo ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Al Di Meola ?::[6..9) artist
+Qual è la biografia di Al Smith  ?::[5..7) artist
+A quale corrente artistica appartiene Alan Price ?::[5..7) artist
+Allen Jones  è un famoso artista.::[0..2) artist
+Anabel Conde è stato il maestro di molti artisti.::[0..2) artist
+Andrew Stockdale ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Andrew White in questo museo ?::[5..7) artist
+Abbiamo opere di André François in questo museo ?::[3..5) artist
+E' vero che André Gonçalves ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Arthur Fiedler ?::[6..8) artist
+Qual è la biografia di Atsuko Maeda ?::[5..7) artist
+A quale corrente artistica appartiene Avi Toledano ?::[5..7) artist
+Barbara Morgenstern è un famoso artista.::[0..2) artist
+Barry Beckett è stato il maestro di molti artisti.::[0..2) artist
+Bent Fabric ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Big John Duncan in questo museo ?::[5..8) artist
+Abbiamo opere di Billy Burnette in questo museo ?::[3..5) artist
+E' vero che Billy Sheehan ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Brigitta Westphal ?::[6..8) artist
+Qual è la biografia di Bugge Wesseltoft ?::[5..7) artist
+A quale corrente artistica appartiene Burro Banton ?::[5..7) artist
+Busdriver è un famoso artista.::[0..1) artist
+Candice Night è stato il maestro di molti artisti.::[0..2) artist
+Carl Burgos ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Carl Grossberg in questo museo ?::[5..7) artist
+Abbiamo opere di Carole Feuerman in questo museo ?::[3..5) artist
+E' vero che Carrie Underwood ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Chris Young  ?::[6..8) artist
+Qual è la biografia di Christian Vander ?::[5..7) artist
+A quale corrente artistica appartiene Claude François ?::[5..7) artist
+Claudio Baglioni è un famoso artista.::[0..2) artist
+Colleen  è stato il maestro di molti artisti.::[0..1) artist
+Conor Maynard ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Cornelis Janssens van Ceulen in questo museo ?::[5..9) artist
+Abbiamo opere di Craig Goldy in questo museo ?::[3..5) artist
+E' vero che Cristian Machado ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di David Holmes  ?::[6..8) artist
+Qual è la biografia di David Jackson  ?::[5..7) artist
+A quale corrente artistica appartiene David Lindley ?::[5..7) artist
+David Roberts è un famoso artista.::[0..2) artist
+David Ruffin è stato il maestro di molti artisti.::[0..2) artist
+Del tha Funkee Homosapien ha dipinto diversi quadri.::[0..4) artist
+C'è un quadro di Derek Riggs in questo museo ?::[5..7) artist
+Abbiamo opere di Deuce  in questo museo ?::[3..4) artist
+E' vero che Diana Krall ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Edward Penfield ?::[6..8) artist
+Qual è la biografia di Eiko Koike ?::[5..7) artist
+A quale corrente artistica appartiene Eiko Masuyama ?::[5..7) artist
+Eiko Matsuda è un famoso artista.::[0..2) artist
+Eiko Shimamiya è stato il maestro di molti artisti.::[0..2) artist
+Eimear Quinn ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Elba Ramalho in questo museo ?::[5..7) artist
+Abbiamo opere di Elena Gheorghe in questo museo ?::[3..5) artist
+E' vero che Elisa  ha dipinto tanto?::[3..4) artist
+Qual è la tecnica scultorea di Fabio Frizzi ?::[6..8) artist
+Qual è la biografia di Fabio Lione ?::[5..7) artist
+A quale corrente artistica appartiene Fad Gadget ?::[5..7) artist
+Fancy  è un famoso artista.::[0..1) artist
+France Gall è stato il maestro di molti artisti.::[0..2) artist
+Francesco Guarini ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Francine Jordi in questo museo ?::[5..7) artist
+Abbiamo opere di Franco Bolognese in questo museo ?::[3..5) artist
+E' vero che Frank Skinner ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Gerald Levert ?::[6..8) artist
+Qual è la biografia di Giacomo Boni  ?::[5..7) artist
+A quale corrente artistica appartiene Gigi D'Agostino ?::[5..8) artist
+Gunnar Björnstrand è un famoso artista.::[0..2) artist
+Gunnar Graps è stato il maestro di molti artisti.::[0..2) artist
+Gunnar Nielsen  ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Jon Benjamin in questo museo ?::[5..7) artist
+Abbiamo opere di Habib Koité in questo museo ?::[3..5) artist
+E' vero che Haruko Momoi ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Irmin Schmidt ?::[6..8) artist
+Qual è la biografia di Isao Tomita ?::[5..7) artist
+A quale corrente artistica appartiene Ivan Ivanovic Šiškin ?::[5..9) artist
+Ivana Banfiv è un famoso artista.::[0..2) artist
+Ivana Kobilca è stato il maestro di molti artisti.::[0..2) artist
+Jacques Dutronc ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di James Blood Ulmer in questo museo ?::[5..8) artist
+Abbiamo opere di James Horner in questo museo ?::[3..5) artist
+E' vero che Jean Metzinger ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di John Doe  ?::[6..8) artist
+Qual è la biografia di John Duncan ?::[5..7) artist
+A quale corrente artistica appartiene John Feldmann ?::[5..7) artist
+John Gilmore  è un famoso artista.::[0..2) artist
+John Holt è stato il maestro di molti artisti.::[0..2) artist
+John Richmond  ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di John Ridgway in questo museo ?::[5..7) artist
+Abbiamo opere di John Ward  in questo museo ?::[3..5) artist
+E' vero che Johnny Burnette ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Kaoru Wada ?::[6..8) artist
+Qual è la biografia di Katie Melua ?::[5..7) artist
+A quale corrente artistica appartiene Katie White ?::[5..7) artist
+Kem  è un famoso artista.::[0..1) artist
+Keny Arkana è stato il maestro di molti artisti.::[0..2) artist
+Kiely Williams ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Knez  in questo museo ?::[5..6) artist
+Abbiamo opere di Kotoko in questo museo ?::[3..4) artist
+E' vero che Krystal Meyers ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Levi Stubbs ?::[6..8) artist
+Qual è la biografia di Lhasa de Sela ?::[5..8) artist
+A quale corrente artistica appartiene Lil' Zane ?::[5..7) artist
+Lillebjørn Nilsen è un famoso artista.::[0..2) artist
+Linda Creed è stato il maestro di molti artisti.::[0..2) artist
+Lisa Zane ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Lolo Ferrari in questo museo ?::[5..7) artist
+Abbiamo opere di Luther Perkins in questo museo ?::[3..5) artist
+E' vero che MC Mong ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Maynard James Keenan ?::[6..9) artist
+Qual è la biografia di Mayra Andrade ?::[5..7) artist
+A quale corrente artistica appartiene McCoy Tyner ?::[5..7) artist
+Mikey Graham è un famoso artista.::[0..2) artist
+Michael William Kaluta è stato il maestro di molti artisti.::[0..3) artist
+Michael Lucas ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Michael McDonald  in questo museo ?::[5..7) artist
+Abbiamo opere di Michael von der Heide in questo museo ?::[3..7) artist
+E' vero che Midge Ure ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Naturi Naughton ?::[6..8) artist
+Qual è la biografia di Nik Kershaw ?::[5..7) artist
+A quale corrente artistica appartiene Nikolai Kinski ?::[5..7) artist
+Nobuko Otowa è un famoso artista.::[0..2) artist
+Noriko Ohara è stato il maestro di molti artisti.::[0..2) artist
+Nuno Gonçalves ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Obie Trice in questo museo ?::[5..7) artist
+Abbiamo opere di Old Man River  in questo museo ?::[3..6) artist
+E' vero che OMI  ha dipinto tanto?::[3..4) artist
+Qual è la tecnica scultorea di Pete Sandoval ?::[6..8) artist
+Qual è la biografia di Peter Lindgren ?::[5..7) artist
+A quale corrente artistica appartiene Phil Spector ?::[5..7) artist
+Pinchas Zukerman è un famoso artista.::[0..2) artist
+Pinetop Perkins è stato il maestro di molti artisti.::[0..2) artist
+Pirro Ligorio ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Pisanello in questo museo ?::[5..6) artist
+Abbiamo opere di Pomponio Allegri in questo museo ?::[3..5) artist
+E' vero che Priscilla Ahn ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Ric Grech ?::[6..8) artist
+Qual è la biografia di Richard Pryor ?::[5..7) artist
+A quale corrente artistica appartiene Rivers Cuomo ?::[5..7) artist
+Robert Adams  è un famoso artista.::[0..2) artist
+Robert Gordon è stato il maestro di molti artisti.::[0..2) artist
+Roine Stolt ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Rolfe Kent in questo museo ?::[5..7) artist
+Abbiamo opere di Ron Keel in questo museo ?::[3..5) artist
+E' vero che Ronnie Spector ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Sammy Kershaw ?::[6..8) artist
+Qual è la biografia di Sammy Price ?::[5..7) artist
+A quale corrente artistica appartiene Sarah Geronimo ?::[5..7) artist
+Sarah Jaffe è un famoso artista.::[0..2) artist
+Scott Lobdell è stato il maestro di molti artisti.::[0..2) artist
+Scott Storch ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Sean Kingston in questo museo ?::[5..7) artist
+Abbiamo opere di Seasick Steve in questo museo ?::[3..5) artist
+E' vero che Selina Ren ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Sofi Marinova ?::[6..8) artist
+Qual è la biografia di Sonny Sandoval ?::[5..7) artist
+A quale corrente artistica appartiene Ivana Spagna ?::[5..7) artist
+Stanley Tong è un famoso artista.::[0..2) artist
+Stefan Kaufmann è stato il maestro di molti artisti.::[0..2) artist
+Stephen Lynch ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Stephen Perkins in questo museo ?::[5..7) artist
+Abbiamo opere di Steve Swallow in questo museo ?::[3..5) artist
+E' vero che Steven Meisel ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Tinkara Kova ?::[6..8) artist
+Qual è la biografia di Tobias Sammet ?::[5..7) artist
+A quale corrente artistica appartiene Tom Morello ?::[5..7) artist
+Tom Scott è un famoso artista.::[0..2) artist
+Torstein Aagaard-Nilsen è stato il maestro di molti artisti.::[0..2) artist
+Ulrich Schnauss ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Vedran Smailovic in questo museo ?::[5..8) artist
+Abbiamo opere di Vincenzo Meucci in questo museo ?::[3..5) artist
+E' vero che Vittorio Grigolo ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Yumiko Cheng ?::[6..8) artist
+Qual è la biografia di Yumiko Igarashi ?::[5..7) artist
+A quale corrente artistica appartiene Yuriko Yamaguchi ?::[5..7) artist
+Yuka Maeda è un famoso artista.::[0..3) artist
+Yves Tanguy è stato il maestro di molti artisti.::[0..2) artist
+Z'EV ha dipinto diversi quadri.::[0..1) artist
+C'è un quadro di Zim Zum in questo museo ?::[5..7) artist
+Abbiamo opere di Zinny J. Zan in questo museo ?::[3..6) artist
+E' vero che Étienne Maurice Falconet ha dipinto tanto?::[3..6) artist
+Qual è la tecnica scultorea di Gary Bartz ?::[6..8) artist
+Qual è la biografia di Gitta Alpar ?::[5..7) artist
+A quale corrente artistica appartiene Herb Alpert ?::[5..7) artist
+Iggy Azalea è un famoso artista.::[0..2) artist
+Jimmy Driftwood è stato il maestro di molti artisti.::[0..2) artist
+John Higgins  ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Nicholas Matthew Baines in questo museo ?::[5..8) artist
+Abbiamo opere di Rachelle Ferrell in questo museo ?::[3..5) artist
+E' vero che Reinhold Mack ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Zach Galifianakis ?::[6..8) artist
+Qual è la biografia di Aamir Zaki ?::[5..7) artist
+A quale corrente artistica appartiene Achille Castiglioni ?::[5..7) artist
+Adriaen de Vries è un famoso artista.::[0..3) artist
+Adrienne Bailon è stato il maestro di molti artisti.::[0..2) artist
+Akala ha dipinto diversi quadri.::[0..1) artist
+C'è un quadro di Aki Kuroda  in questo museo ?::[5..7) artist
+Abbiamo opere di Akira Yamaoka in questo museo ?::[3..5) artist
+E' vero che Alain Souchon ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Allison Iraheta ?::[6..8) artist
+Qual è la biografia di Andraé Crouch ?::[5..7) artist
+A quale corrente artistica appartiene Koji  ?::[5..6) artist
+Angel Haze è un famoso artista.::[0..2) artist
+Anton Filtz è stato il maestro di molti artisti.::[0..2) artist
+Antonio Lotti ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Antonio López García in questo museo ?::[5..8) artist
+Abbiamo opere di Antonio Maria Vassallo in questo museo ?::[3..6) artist
+E' vero che Antonio Segura ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Bill Black ?::[6..8) artist
+Qual è la biografia di Bob Klose ?::[5..7) artist
+A quale corrente artistica appartiene Bob Margolin ?::[5..7) artist
+Bobbi Humphrey è un famoso artista.::[0..2) artist
+Bobby Gillespie è stato il maestro di molti artisti.::[0..2) artist
+Bosson ha dipinto diversi quadri.::[0..1) artist
+C'è un quadro di Brett Anderson in questo museo ?::[5..7) artist
+Abbiamo opere di Brett Whiteley in questo museo ?::[3..5) artist
+E' vero che Brigitte Lahaie ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Cheryl Lynn ?::[6..8) artist
+Qual è la biografia di Chic Stone ?::[5..7) artist
+A quale corrente artistica appartiene Chris Hillman ?::[5..7) artist
+Christine Guldbrandsen è un famoso artista.::[0..2) artist
+Chuck Billy è stato il maestro di molti artisti.::[0..2) artist
+Collin Chou ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Collin Raye in questo museo ?::[5..7) artist
+Abbiamo opere di Collin Walcott in questo museo ?::[3..5) artist
+E' vero che Colm Wilkinson ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Caribou  ?::[6..7) artist
+Qual è la biografia di Dana Gillespie ?::[5..7) artist
+A quale corrente artistica appartiene Daniel Svensson ?::[5..7) artist
+Darren Styles è un famoso artista.::[0..2) artist
+Dave Holland  è stato il maestro di molti artisti.::[0..2) artist
+Dave Pegg ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di David Hare  in questo museo ?::[5..7) artist
+Abbiamo opere di David Porter  in questo museo ?::[3..5) artist
+E' vero che David Tibet ha dipinto tanto?::[3..5) artist
+Qual è la tecnica scultorea di Elastinen ?::[6..7) artist
+Qual è la biografia di Elihu Vedder ?::[5..7) artist
+A quale corrente artistica appartiene Emm Gryner ?::[5..7) artist
+Eric Stefani è un famoso artista.::[0..2) artist
+Esbjörn Svensson è stato il maestro di molti artisti.::[0..2) artist
+Eugene McGuinness ha dipinto diversi quadri.::[0..2) artist
+C'è un quadro di Eva Simons in questo museo ?::[5..7) artist
+Abbiamo opere di Bård Faust in questo museo ?::[3..5) artist
+E' vero che Fernando Álvarez de Sotomayor ha dipinto tanto?::[3..7) artist
+Qual è la tecnica scultorea di Genie Zhuo ?::[6..8) artist
+Qual è la biografia di Gerry Goffin ?::[5..7) artist
+A quale corrente artistica appartiene Gershon Kingsley ?::[5..7) artist
+Gianna Michaels è un famoso artista.::[0..2) artist

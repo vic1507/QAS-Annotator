@@ -94,7 +94,7 @@ def research(pattern, text, charachterRange):
             elif (text[i]==" "):    
                 if (i+patternLength+1>=textLength): 
                     foundElement.append(i + 1)
-                elif(text[i+patternLength+1]==" ") or (text[i+patternLength+1]=="?"):
+                elif(text[i+patternLength+1]==" ") or (text[i+patternLength+1]=="?") or (text[i+patternLength+1]=="."):
                     foundElement.append(i+1)
         if (ord(text[skipValue])>256):
             skipValue += patternLength

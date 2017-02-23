@@ -2,12 +2,15 @@ package core;
 
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Random;
+import java.util.concurrent.CopyOnWriteArrayList;
 
 import javax.swing.JOptionPane;
 
@@ -15,6 +18,8 @@ public class GenerateModel
 {
 	public static final String MODEL1 = "src/models/equilibratedTemplates.txt";
 	public static final String MODEL2 = "src/models/questionTemplate.txt";
+	public static final String MODEL3 = "src/models/artistTemplate.txt";
+
 	private String model;
 
 	public GenerateModel(String model)
@@ -26,6 +31,8 @@ public class GenerateModel
 	{
 		try
 		{
+			List<String> opereForModel = generateOpereForModel(opere);
+			List<String> artistForModel = generateArtistForModel(artist);
 			FileReader fr = new FileReader(new File(model));
 			BufferedReader br = new BufferedReader(fr);
 			PrintWriter pw = new PrintWriter(new File("src/models/model2.txt"));
@@ -39,7 +46,7 @@ public class GenerateModel
 			List<String> def = new ArrayList<String>();
 			List<String> ciao = new ArrayList<String>();
 			int index3 = 0;
-			for (String s : artist)
+			for (String s : artistForModel)
 			{
 				boolean used = false;
 				if (!s.contains("$"))
@@ -73,7 +80,7 @@ public class GenerateModel
 
 			index3 = 0;
 
-			for (String s2 : opere)
+			for (String s2 : opereForModel)
 			{
 				if (!s2.contains("$"))
 				{
@@ -96,6 +103,7 @@ public class GenerateModel
 
 					if (!m.contains("OBJECT"))
 						def.add(m);
+
 				}
 			}
 
@@ -119,7 +127,7 @@ public class GenerateModel
 			List<String> toPrint = new ArrayList<String>();
 			FileReader fileReader = new FileReader(new File(model));
 			BufferedReader br = new BufferedReader(fileReader);
-			PrintWriter pw = new PrintWriter(new File("src/models/model.txt"));
+			PrintWriter pw = new PrintWriter(new File("src/models/model3.txt"));
 			String corr = br.readLine();
 			while (corr != null)
 			{
@@ -200,6 +208,80 @@ public class GenerateModel
 			e.printStackTrace();
 		}
 
+	}
+
+	private List<String> generateArtistForModel(List<String> artist)
+	{
+
+		List<String> artistForModel = new ArrayList<String>();
+		for (int i = 0; i < 30; i++)
+		{
+			int returnIndex = new Random().nextInt(artist.size() - 1);
+			artistForModel.add(artist.get(returnIndex));
+		}
+		return artistForModel;
+	}
+
+	private List<String> generateOpereForModel(List<String> opere)
+	{
+		List<String> opereForModel = new ArrayList<String>();
+		for (int i = 0; i < 100; i++)
+		{
+			int returnIndex = new Random().nextInt(opere.size() - 1);
+			opereForModel.add(opere.get(returnIndex));
+		}
+		return opereForModel;
+	}
+
+	public void createModel(List<String> artist, List<String> opere)
+	{
+		try
+		{
+			List<String> toPrint = new ArrayList<String>();
+			List<String> opereForModel = generateOpereForModel(opere);
+			List<String> artistForModel = generateArtistForModel(artist);
+			FileReader fr = new FileReader(new File(model));
+			BufferedReader br = new BufferedReader(fr);
+			PrintWriter pw = new PrintWriter(new File("src/models/model3.txt"));
+			String corr = br.readLine();
+			while (corr != null)
+			{
+				if (corr.contains("<START:artist>"))
+				{
+					toPrint.addAll(addToModel(corr, artistForModel, "artist"));
+				}
+				if (corr.contains("<START:opera>"))
+				{
+					toPrint.addAll(addToModel(corr, opereForModel, "opera"));
+				}
+				corr = br.readLine();
+			}
+			for (int i = 0; i < toPrint.size(); i++)
+			{
+				if (toPrint.get(i).contains("OBJECT"))
+				{
+					for (String s2 : artistForModel)
+					{
+						String replace = toPrint.get(i).replaceAll("<START:artist> OBJECT", "<START:artist> " + s2);
+						toPrint.set(i, replace);
+					}
+
+					for (String s3 : opereForModel)
+					{
+						String replace = toPrint.get(i).replaceAll("<START:opera> OBJECT", "<START:opera> " + s3);
+						toPrint.set(i, replace);
+					}
+
+				}
+				System.out.println("metto su modello");
+				pw.println(toPrint.get(i));
+			}
+			br.close();
+			pw.close();
+		} catch (IOException e)
+		{
+			JOptionPane.showMessageDialog(null, "Errore nella creazione del modello");
+		}
 	}
 
 }

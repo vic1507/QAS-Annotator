@@ -1,4 +1,4 @@
-Chi è Akhenaton  ?::[2..3) artist
+Chi è Akhenaton ?::[2..3) artist
 Qual è la tecnica scultorea di B.G. ?::[6..7) artist
 Qual è la biografia di Beck ?::[5..6) artist
 A quale corrente artistica appartiene Canaletto ?::[5..6) artist

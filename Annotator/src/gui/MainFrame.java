@@ -19,7 +19,14 @@ public class MainFrame extends JFrame
 
 	public static void main(String[] args)
 	{
-		String[] pV = { "Annotator", "ExtendsCorpora", "Test", "TrainModel", "Generate Test Case", "Cross" };
-		ApplicationManager.getInstance().execuete2(JOptionPane.showInputDialog(null, "Choose an operation", "Operation", JOptionPane.INFORMATION_MESSAGE, null, pV, pV[0]).toString());
+		try
+		{
+			String[] pV = { "Annotator", "ExtendsCorpora", "Test", "TrainModel", "Generate Test Case", "Cross" };
+			ApplicationManager.getInstance().execuete2(JOptionPane.showInputDialog(null, "Choose an operation", "Operation", JOptionPane.INFORMATION_MESSAGE, null, pV, pV[0]).toString());
+		} catch (NullPointerException e)
+		{
+			System.exit(0);
+		}
+
 	}
 }
