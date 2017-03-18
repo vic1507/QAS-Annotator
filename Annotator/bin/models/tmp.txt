@@ -419,7 +419,7 @@ A quale corrente artistica appartiene Tom Morello ?::[5..7) artist
 Tom Scott è un famoso artista.::[0..2) artist
 Torstein Aagaard-Nilsen è stato il maestro di molti artisti.::[0..2) artist
 Ulrich Schnauss ha dipinto diversi quadri.::[0..2) artist
-C'è un quadro di Vedran Smailovic in questo museo ?::[5..8) artist
+C'è un quadro di Vedran Smailovic in questo museo ?::[5..7) artist
 Abbiamo opere di Vincenzo Meucci in questo museo ?::[3..5) artist
 E' vero che Vittorio Grigolo ha dipinto tanto?::[3..5) artist
 Qual è la tecnica scultorea di Yumiko Cheng ?::[6..8) artist

@@ -17,6 +17,7 @@ import utility.QuestionInput;
 
 public class ApplicationManager
 {
+	
 	private ApplicationManager()
 	{
 
@@ -30,19 +31,11 @@ public class ApplicationManager
 	{
 		return instance;
 	}
-
+	
 	public Object execute3(String text)
 	{
-
 		try
 		{
-			MySQLResourcesAcquisition rs = new MySQLResourcesAcquisition();
-
-			Connection connection = rs.getConnection();
-
-			rs.getData().addAll(rs.getDataFromDb(connection, "artist", "name", ""));
-			rs.getData().addAll(rs.getDataFromDb(connection, "opere", "operename", ""));
-
 			File f = new File("src/models/it-ner-art.bin");
 			TokenNameFinderModel model = new TokenNameFinderModel(f);
 			OpenNlpAnnotator as = new OpenNlpAnnotator(model);
@@ -155,7 +148,7 @@ public class ApplicationManager
 //		GenerateModel gm = new GenerateModel(GenerateModel.MODEL3);
 //		rs.createResources();
 //		gm.createModel(rs.getDataFromDb(rs.returnStaticConnection(), "artist", "name", ""), rs.getDataFromDb(rs.returnStaticConnection(), "opere", "operename", ""));
-//		String model = "src/models/model3.txt";
+//		String model = "src/models/model.txt";
 		 String model = "src/models/model3.txt";
 		OpenNlpAnnotator.trainModel(model, "src/models/it-ner-art.bin");
 	}

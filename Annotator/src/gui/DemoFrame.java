@@ -1,4 +1,4 @@
-package gui;
+	package gui;
 
 import java.awt.Dimension;
 
@@ -20,19 +20,19 @@ public class DemoFrame extends JFrame
 		this.setIconImage(ImageProvider.getUrloLego());
 		this.setLocation(500, 200);
 		this.setBounds(500, 200, width, height);
-		this.setContentPane(new PrincipalPanel(this));
+		this.setContentPane(new AnnotationPanel(this));
 		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
 		this.setVisible(true);
 	}
 	
 	public void goToMaxEnt()
 	{
-		SwingUtilities.invokeLater(() -> goToThePanel(new AnnotationPanel(this,"ME")));
+		SwingUtilities.invokeLater(() -> goToThePanel(new AnnotationPanel(this)));
 	}
 	
 	public void goToPattMatch()
 	{
-		SwingUtilities.invokeLater(() -> goToThePanel(new AnnotationPanel(this,"PM")));
+		SwingUtilities.invokeLater(() -> goToThePanel(new AnnotationPanel(this)));
 	}
 	
 	public void goToStart()

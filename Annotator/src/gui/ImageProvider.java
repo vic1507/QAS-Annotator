@@ -8,6 +8,8 @@ import javax.swing.JOptionPane;
 public class ImageProvider
 {
 	private static Image background;
+	private static Image meButton;
+	private static Image pmButton;
 	private static Image generateModel;
 	private static Image annotationPanel;
 	private static Image maxEnt;
@@ -29,12 +31,14 @@ public class ImageProvider
 	{
 		try
 		{
+			pmButton = ImageIO.read(Thread.currentThread().getContextClassLoader().getResource("img/pmbutton.png")).getScaledInstance(160, 80, Image.SCALE_SMOOTH);
+			meButton = ImageIO.read(Thread.currentThread().getContextClassLoader().getResource("img/mebutton.png")).getScaledInstance(160, 80, Image.SCALE_SMOOTH);
 			annBackground = ImageIO.read(Thread.currentThread().getContextClassLoader().getResource("img/annotatorBackground.png")).getScaledInstance(1280, 800, Image.SCALE_SMOOTH);
 			legend = ImageIO.read(Thread.currentThread().getContextClassLoader().getResource("img/legend.png")).getScaledInstance(250, 130, Image.SCALE_SMOOTH);
-			submitButtonMod = ImageIO.read(Thread.currentThread().getContextClassLoader().getResource("img/submitButtonMod.png")).getScaledInstance(150, 70, Image.SCALE_SMOOTH);
-			clearButtonMod = ImageIO.read(Thread.currentThread().getContextClassLoader().getResource("img/clearButtonMod.png")).getScaledInstance(150, 70, Image.SCALE_SMOOTH);
-			submitButton = ImageIO.read(Thread.currentThread().getContextClassLoader().getResource("img/submitButton.png")).getScaledInstance(150, 70, Image.SCALE_SMOOTH);
-			clearButton = ImageIO.read(Thread.currentThread().getContextClassLoader().getResource("img/clearButton.png")).getScaledInstance(150, 70, Image.SCALE_SMOOTH);
+			submitButtonMod = ImageIO.read(Thread.currentThread().getContextClassLoader().getResource("img/submitButtonMod.png")).getScaledInstance(160, 80, Image.SCALE_SMOOTH);
+			clearButtonMod = ImageIO.read(Thread.currentThread().getContextClassLoader().getResource("img/clearButtonMod.png")).getScaledInstance(160, 80, Image.SCALE_SMOOTH);
+			submitButton = ImageIO.read(Thread.currentThread().getContextClassLoader().getResource("img/submitButton.png")).getScaledInstance(160, 80, Image.SCALE_SMOOTH);
+			clearButton = ImageIO.read(Thread.currentThread().getContextClassLoader().getResource("img/clearButton.png")).getScaledInstance(160, 80, Image.SCALE_SMOOTH);
 			urloLego = ImageIO.read(Thread.currentThread().getContextClassLoader().getResource("img/urloLego.jpg")).getScaledInstance(50, 50, Image.SCALE_SMOOTH);
 			guernica = ImageIO.read(Thread.currentThread().getContextClassLoader().getResource("img/Guernica.jpg")).getScaledInstance(1280, 800, Image.SCALE_SMOOTH);
 			back = ImageIO.read(Thread.currentThread().getContextClassLoader().getResource("img/backLeft.png")).getScaledInstance(150, 100, Image.SCALE_SMOOTH);
@@ -56,6 +60,21 @@ public class ImageProvider
 	{
 		return urloLego;
 	}
+	
+	
+
+	public static Image getMeButton()
+	{
+		return meButton;
+	}
+
+
+	public static Image getPmButton()
+	{
+		return pmButton;
+	}
+
+
 
 	public static Image getBack()
 	{

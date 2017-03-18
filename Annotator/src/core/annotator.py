@@ -69,7 +69,7 @@ else:
         allElementDict.get(key).append(value)
     inputFromFile.close()
     
-#algoritmo di ricerca (boyyer more hoolands)
+#algoritmo di ricerca (boyer moore hoorspool)
 def research(pattern, text, charachterRange):
     foundElement = []
     patternLength = len(pattern)

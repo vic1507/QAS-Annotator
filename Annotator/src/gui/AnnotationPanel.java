@@ -28,7 +28,7 @@ public class AnnotationPanel extends JPanel
 	private DemoFrame mf;
 	private JTextArea dialogWindow;
 
-	public AnnotationPanel(DemoFrame mf, String type)
+	public AnnotationPanel(DemoFrame mf)
 	{
 		this.mf = mf;
 		this.setPreferredSize(new Dimension(1280, 800));
@@ -42,36 +42,40 @@ public class AnnotationPanel extends JPanel
 		dialogWindow.setBounds(100, 100, 500, 300);
 		dialogWindow.setLineWrap(true);
 		dialogWindow.setBackground(new Color(255, 223, 173));
-		JButton back = new JButton("back");
-		back.setBounds(1050, 560, 150, 100);
-		back.setIcon(new ImageIcon(ImageProvider.getBack()));
-		back.setRolloverEnabled(true);
-		back.setRolloverIcon(new ImageIcon(ImageProvider.getBackMod()));
-		back.addActionListener(e -> mf.goToStart());
-		back.setContentAreaFilled(false);
-		back.setBorderPainted(false);
+	
 		JButton clear = new JButton("clear");
-		clear.setBounds(100, 420, 150, 70);
+		clear.setBounds(100, 420, 160, 80);
 		clear.addActionListener(e -> clear());
 		clear.setBorderPainted(false);
 		clear.setContentAreaFilled(false);
 		clear.setIcon(new ImageIcon(ImageProvider.getClearButton()));
 		clear.setRolloverEnabled(true);
 		clear.setRolloverIcon(new ImageIcon(ImageProvider.getClearButtonMod()));
+		
+		JButton meButton = new JButton ("meButton");
+		meButton.setBorderPainted(false);
+		meButton.setContentAreaFilled(false);
+		meButton.setIcon(new ImageIcon(ImageProvider.getMeButton()));
+		meButton.setBounds(510, 420, 160, 80);
+		meButton.addActionListener(e -> submit(dialogWindow.getText(), "ME"));
+		meButton.setRolloverEnabled(true);
+		meButton.setRolloverIcon(new ImageIcon (ImageProvider.getSubmitButtonMod()));
+		
 		JButton submit = new JButton("submit");
 		submit.setBorderPainted(false);
 		submit.setContentAreaFilled(false);
-		submit.setIcon(new ImageIcon(ImageProvider.getSubmitButton()));
-		submit.setBounds(300, 420, 150, 70);
-		submit.addActionListener(e -> submit(dialogWindow.getText(), type));
+		submit.setIcon(new ImageIcon(ImageProvider.getPmButton()));
+		submit.setBounds(310, 420, 160, 80);
+		submit.addActionListener(e -> submit(dialogWindow.getText(), "PM"));
 		submit.setRolloverEnabled(true);
 		submit.setRolloverIcon(new ImageIcon(ImageProvider.getSubmitButtonMod()));
+		
 		JScrollPane scroll = new JScrollPane(dialogWindow);
 		scroll.setBounds(100, 100, 500, 300);
 		this.add(scroll);
+		this.add(meButton);
 		this.add(clear);
 		this.add(submit);
-		this.add(back);
 		this.setVisible(true);
 	}
 
@@ -86,6 +90,7 @@ public class AnnotationPanel extends JPanel
 	{
 		DefaultHighlighter.DefaultHighlightPainter opereHighlightPainter = new DefaultHighlighter.DefaultHighlightPainter(Color.CYAN);
 		DefaultHighlighter.DefaultHighlightPainter artistHighlightPainter = new DefaultHighlighter.DefaultHighlightPainter(Color.YELLOW);
+		dialogWindow.getHighlighter().removeAllHighlights();
 		HashMap<Pair<Integer, Integer>, String> cr = new HashMap<Pair<Integer, Integer>, String>();
 		if (type.equals("ME"))
 			cr = (HashMap<Pair<Integer, Integer>, String>) ApplicationManager.getInstance().execute3(s);

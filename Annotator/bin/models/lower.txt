@@ -1,0 +1,989 @@
+chi è <START:artist> caravaggio <END> ?
+chi è <START:artist> pablo picasso <END> ?
+chi è <START:artist> sandro boticelli <END> ?
+chi è <START:artist> michelangelo buonarotti <END> ?
+chi è <START:artist> vincent van gogh <END> ?
+chi è <START:artist> paul cèzanne <END> ?
+chi è <START:artist> salvador dalì <END> ?
+chi è <START:artist> claude monet <END> ?
+chi è <START:artist> raffaello sanzio <END> ?
+chi è <START:artist> leonardo da vinci <END> ?
+chi è <START:artist> blind willie mctell <END> ?
+chi è <START:artist> gustav klimt <END> ?
+chi è <START:artist> giotto <END> ?
+chi è <START:artist> canaletto <END> ?
+chi è <START:artist> joan miro <END> ?
+chi è <START:artist> paul gaugin <END> ?
+chi è <START:artist> paul klee <END> ?
+chi è <START:artist> edgar degas <END> ?
+chi è <START:artist> francisco goya <END> ?
+chi è <START:artist> gustave courbet <END> ?
+chi è <START:artist> marc chagall <END> ?
+chi è <START:artist> pieter paul rubens <END> ?
+chi è <START:artist> amedeo modigliani <END> ?
+chi è <START:artist> william turner <END> ?
+chi è <START:artist> francis bacon <END> ?
+chi è <START:artist> camille pissarro <END> ?
+chi è <START:artist> cimabue <END> ?
+chi è <START:artist> paolo uccello <END> ?
+chi è <START:artist> roy lichtenstein <END> ?
+chi è <START:artist> david bowie <END> ?
+chi è <START:artist> umberto boccioni <END> ?
+chi è <START:artist> edward hopper <END> ?
+chi è <START:artist> picasso <END> ?
+chi è <START:artist> donatello <END> ?
+chi è <START:artist> leonardo <END> ?
+chi è <START:artist> raffello <END> ?
+chi è <START:artist> michelangelo <END> ?
+chi è <START:artist> edvard munch <END> ?
+chi è <START:artist> munch <END> ?
+qual è la tecnica scultorea di <START:artist> caravaggio <END> ?
+qual è la tecnica scultorea di <START:artist> pablo picasso <END> ?
+qual è la tecnica scultorea di <START:artist> sandro boticelli <END> ?
+qual è la tecnica scultorea di <START:artist> michelangelo buonarotti <END> ?
+qual è la tecnica scultorea di <START:artist> vincent van gogh <END> ?
+qual è la tecnica scultorea di <START:artist> paul cèzanne <END> ?
+qual è la tecnica scultorea di <START:artist> salvador dalì <END> ?
+qual è la tecnica scultorea di <START:artist> claude monet <END> ?
+qual è la tecnica scultorea di <START:artist> raffaello sanzio <END> ?
+qual è la tecnica scultorea di <START:artist> leonardo da vinci <END> ?
+qual è la tecnica scultorea di <START:artist> blind willie mctell <END> ?
+qual è la tecnica scultorea di <START:artist> gustav klimt <END> ?
+qual è la tecnica scultorea di <START:artist> giotto <END> ?
+qual è la tecnica scultorea di <START:artist> canaletto <END> ?
+qual è la tecnica scultorea di <START:artist> joan miro <END> ?
+qual è la tecnica scultorea di <START:artist> paul gaugin <END> ?
+qual è la tecnica scultorea di <START:artist> paul klee <END> ?
+qual è la tecnica scultorea di <START:artist> edgar degas <END> ?
+qual è la tecnica scultorea di <START:artist> francisco goya <END> ?
+qual è la tecnica scultorea di <START:artist> gustave courbet <END> ?
+qual è la tecnica scultorea di <START:artist> marc chagall <END> ?
+qual è la tecnica scultorea di <START:artist> pieter paul rubens <END> ?
+qual è la tecnica scultorea di <START:artist> amedeo modigliani <END> ?
+qual è la tecnica scultorea di <START:artist> william turner <END> ?
+qual è la tecnica scultorea di <START:artist> francis bacon <END> ?
+qual è la tecnica scultorea di <START:artist> camille pissarro <END> ?
+qual è la tecnica scultorea di <START:artist> cimabue <END> ?
+qual è la tecnica scultorea di <START:artist> paolo uccello <END> ?
+qual è la tecnica scultorea di <START:artist> roy lichtenstein <END> ?
+qual è la tecnica scultorea di <START:artist> david bowie <END> ?
+qual è la tecnica scultorea di <START:artist> umberto boccioni <END> ?
+qual è la tecnica scultorea di <START:artist> edward hopper <END> ?
+qual è la tecnica scultorea di <START:artist> picasso <END> ?
+qual è la tecnica scultorea di <START:artist> donatello <END> ?
+qual è la tecnica scultorea di <START:artist> leonardo <END> ?
+qual è la tecnica scultorea di <START:artist> raffello <END> ?
+qual è la tecnica scultorea di <START:artist> michelangelo <END> ?
+qual è la tecnica scultorea di <START:artist> edvard munch <END> ?
+qual è la tecnica scultorea di <START:artist> munch <END> ?
+qual è la biografia di <START:artist> caravaggio <END> ?
+qual è la biografia di <START:artist> pablo picasso <END> ?
+qual è la biografia di <START:artist> sandro boticelli <END> ?
+qual è la biografia di <START:artist> michelangelo buonarotti <END> ?
+qual è la biografia di <START:artist> vincent van gogh <END> ?
+qual è la biografia di <START:artist> paul cèzanne <END> ?
+qual è la biografia di <START:artist> salvador dalì <END> ?
+qual è la biografia di <START:artist> claude monet <END> ?
+qual è la biografia di <START:artist> raffaello sanzio <END> ?
+qual è la biografia di <START:artist> leonardo da vinci <END> ?
+qual è la biografia di <START:artist> blind willie mctell <END> ?
+qual è la biografia di <START:artist> gustav klimt <END> ?
+qual è la biografia di <START:artist> giotto <END> ?
+qual è la biografia di <START:artist> canaletto <END> ?
+qual è la biografia di <START:artist> joan miro <END> ?
+qual è la biografia di <START:artist> paul gaugin <END> ?
+qual è la biografia di <START:artist> paul klee <END> ?
+qual è la biografia di <START:artist> edgar degas <END> ?
+qual è la biografia di <START:artist> francisco goya <END> ?
+qual è la biografia di <START:artist> gustave courbet <END> ?
+qual è la biografia di <START:artist> marc chagall <END> ?
+qual è la biografia di <START:artist> pieter paul rubens <END> ?
+qual è la biografia di <START:artist> amedeo modigliani <END> ?
+qual è la biografia di <START:artist> william turner <END> ?
+qual è la biografia di <START:artist> francis bacon <END> ?
+qual è la biografia di <START:artist> camille pissarro <END> ?
+qual è la biografia di <START:artist> cimabue <END> ?
+qual è la biografia di <START:artist> paolo uccello <END> ?
+qual è la biografia di <START:artist> roy lichtenstein <END> ?
+qual è la biografia di <START:artist> david bowie <END> ?
+qual è la biografia di <START:artist> umberto boccioni <END> ?
+qual è la biografia di <START:artist> edward hopper <END> ?
+qual è la biografia di <START:artist> picasso <END> ?
+qual è la biografia di <START:artist> donatello <END> ?
+qual è la biografia di <START:artist> leonardo <END> ?
+qual è la biografia di <START:artist> raffello <END> ?
+qual è la biografia di <START:artist> michelangelo <END> ?
+qual è la biografia di <START:artist> edvard munch <END> ?
+qual è la biografia di <START:artist> munch <END> ?
+a quale corrente artistica appartiene <START:artist> caravaggio <END> ?
+a quale corrente artistica appartiene <START:artist> pablo picasso <END> ?
+a quale corrente artistica appartiene <START:artist> sandro boticelli <END> ?
+a quale corrente artistica appartiene <START:artist> michelangelo buonarotti <END> ?
+a quale corrente artistica appartiene <START:artist> vincent van gogh <END> ?
+a quale corrente artistica appartiene <START:artist> paul cèzanne <END> ?
+a quale corrente artistica appartiene <START:artist> salvador dalì <END> ?
+a quale corrente artistica appartiene <START:artist> claude monet <END> ?
+a quale corrente artistica appartiene <START:artist> raffaello sanzio <END> ?
+a quale corrente artistica appartiene <START:artist> leonardo da vinci <END> ?
+a quale corrente artistica appartiene <START:artist> blind willie mctell <END> ?
+a quale corrente artistica appartiene <START:artist> gustav klimt <END> ?
+a quale corrente artistica appartiene <START:artist> giotto <END> ?
+a quale corrente artistica appartiene <START:artist> canaletto <END> ?
+a quale corrente artistica appartiene <START:artist> joan miro <END> ?
+a quale corrente artistica appartiene <START:artist> paul gaugin <END> ?
+a quale corrente artistica appartiene <START:artist> paul klee <END> ?
+a quale corrente artistica appartiene <START:artist> edgar degas <END> ?
+a quale corrente artistica appartiene <START:artist> francisco goya <END> ?
+a quale corrente artistica appartiene <START:artist> gustave courbet <END> ?
+a quale corrente artistica appartiene <START:artist> marc chagall <END> ?
+a quale corrente artistica appartiene <START:artist> pieter paul rubens <END> ?
+a quale corrente artistica appartiene <START:artist> amedeo modigliani <END> ?
+a quale corrente artistica appartiene <START:artist> william turner <END> ?
+a quale corrente artistica appartiene <START:artist> francis bacon <END> ?
+a quale corrente artistica appartiene <START:artist> camille pissarro <END> ?
+a quale corrente artistica appartiene <START:artist> cimabue <END> ?
+a quale corrente artistica appartiene <START:artist> paolo uccello <END> ?
+a quale corrente artistica appartiene <START:artist> roy lichtenstein <END> ?
+a quale corrente artistica appartiene <START:artist> david bowie <END> ?
+a quale corrente artistica appartiene <START:artist> umberto boccioni <END> ?
+a quale corrente artistica appartiene <START:artist> edward hopper <END> ?
+a quale corrente artistica appartiene <START:artist> picasso <END> ?
+a quale corrente artistica appartiene <START:artist> donatello <END> ?
+a quale corrente artistica appartiene <START:artist> leonardo <END> ?
+a quale corrente artistica appartiene <START:artist> raffello <END> ?
+a quale corrente artistica appartiene <START:artist> michelangelo <END> ?
+a quale corrente artistica appartiene <START:artist> edvard munch <END> ?
+a quale corrente artistica appartiene <START:artist> munch <END> ?
+<START:artist> caravaggio <END> è un famoso artista.
+<START:artist> pablo picasso <END> è un famoso artista.
+<START:artist> sandro boticelli <END> è un famoso artista.
+<START:artist> michelangelo buonarotti <END> è un famoso artista.
+<START:artist> vincent van gogh <END> è un famoso artista.
+<START:artist> paul cèzanne <END> è un famoso artista.
+<START:artist> salvador dalì <END> è un famoso artista.
+<START:artist> claude monet <END> è un famoso artista.
+<START:artist> raffaello sanzio <END> è un famoso artista.
+<START:artist> leonardo da vinci <END> è un famoso artista.
+<START:artist> blind willie mctell <END> è un famoso artista.
+<START:artist> gustav klimt <END> è un famoso artista.
+<START:artist> giotto <END> è un famoso artista.
+<START:artist> canaletto <END> è un famoso artista.
+<START:artist> joan miro <END> è un famoso artista.
+<START:artist> paul gaugin <END> è un famoso artista.
+<START:artist> paul klee <END> è un famoso artista.
+<START:artist> edgar degas <END> è un famoso artista.
+<START:artist> francisco goya <END> è un famoso artista.
+<START:artist> gustave courbet <END> è un famoso artista.
+<START:artist> marc chagall <END> è un famoso artista.
+<START:artist> pieter paul rubens <END> è un famoso artista.
+<START:artist> amedeo modigliani <END> è un famoso artista.
+<START:artist> william turner <END> è un famoso artista.
+<START:artist> francis bacon <END> è un famoso artista.
+<START:artist> camille pissarro <END> è un famoso artista.
+<START:artist> cimabue <END> è un famoso artista.
+<START:artist> paolo uccello <END> è un famoso artista.
+<START:artist> roy lichtenstein <END> è un famoso artista.
+<START:artist> david bowie <END> è un famoso artista.
+<START:artist> umberto boccioni <END> è un famoso artista.
+<START:artist> edward hopper <END> è un famoso artista.
+<START:artist> picasso <END> è un famoso artista.
+<START:artist> donatello <END> è un famoso artista.
+<START:artist> leonardo <END> è un famoso artista.
+<START:artist> raffello <END> è un famoso artista.
+<START:artist> michelangelo <END> è un famoso artista.
+<START:artist> edvard munch <END> è un famoso artista.
+<START:artist> munch <END> è un famoso artista.
+<START:artist> caravaggio <END> è stato il maestro di molti artisti.
+<START:artist> pablo picasso <END> è stato il maestro di molti artisti.
+<START:artist> sandro boticelli <END> è stato il maestro di molti artisti.
+<START:artist> michelangelo buonarotti <END> è stato il maestro di molti artisti.
+<START:artist> vincent van gogh <END> è stato il maestro di molti artisti.
+<START:artist> paul cèzanne <END> è stato il maestro di molti artisti.
+<START:artist> salvador dalì <END> è stato il maestro di molti artisti.
+<START:artist> claude monet <END> è stato il maestro di molti artisti.
+<START:artist> raffaello sanzio <END> è stato il maestro di molti artisti.
+<START:artist> leonardo da vinci <END> è stato il maestro di molti artisti.
+<START:artist> blind willie mctell <END> è stato il maestro di molti artisti.
+<START:artist> gustav klimt <END> è stato il maestro di molti artisti.
+<START:artist> giotto <END> è stato il maestro di molti artisti.
+<START:artist> canaletto <END> è stato il maestro di molti artisti.
+<START:artist> joan miro <END> è stato il maestro di molti artisti.
+<START:artist> paul gaugin <END> è stato il maestro di molti artisti.
+<START:artist> paul klee <END> è stato il maestro di molti artisti.
+<START:artist> edgar degas <END> è stato il maestro di molti artisti.
+<START:artist> francisco goya <END> è stato il maestro di molti artisti.
+<START:artist> gustave courbet <END> è stato il maestro di molti artisti.
+<START:artist> marc chagall <END> è stato il maestro di molti artisti.
+<START:artist> pieter paul rubens <END> è stato il maestro di molti artisti.
+<START:artist> amedeo modigliani <END> è stato il maestro di molti artisti.
+<START:artist> william turner <END> è stato il maestro di molti artisti.
+<START:artist> francis bacon <END> è stato il maestro di molti artisti.
+<START:artist> camille pissarro <END> è stato il maestro di molti artisti.
+<START:artist> cimabue <END> è stato il maestro di molti artisti.
+<START:artist> paolo uccello <END> è stato il maestro di molti artisti.
+<START:artist> roy lichtenstein <END> è stato il maestro di molti artisti.
+<START:artist> david bowie <END> è stato il maestro di molti artisti.
+<START:artist> umberto boccioni <END> è stato il maestro di molti artisti.
+<START:artist> edward hopper <END> è stato il maestro di molti artisti.
+<START:artist> picasso <END> è stato il maestro di molti artisti.
+<START:artist> donatello <END> è stato il maestro di molti artisti.
+<START:artist> leonardo <END> è stato il maestro di molti artisti.
+<START:artist> raffello <END> è stato il maestro di molti artisti.
+<START:artist> michelangelo <END> è stato il maestro di molti artisti.
+<START:artist> edvard munch <END> è stato il maestro di molti artisti.
+<START:artist> munch <END> è stato il maestro di molti artisti.
+<START:artist> caravaggio <END> ha dipinto diversi quadri.
+<START:artist> pablo picasso <END> ha dipinto diversi quadri.
+<START:artist> sandro boticelli <END> ha dipinto diversi quadri.
+<START:artist> michelangelo buonarotti <END> ha dipinto diversi quadri.
+<START:artist> vincent van gogh <END> ha dipinto diversi quadri.
+<START:artist> paul cèzanne <END> ha dipinto diversi quadri.
+<START:artist> salvador dalì <END> ha dipinto diversi quadri.
+<START:artist> claude monet <END> ha dipinto diversi quadri.
+<START:artist> raffaello sanzio <END> ha dipinto diversi quadri.
+<START:artist> leonardo da vinci <END> ha dipinto diversi quadri.
+<START:artist> blind willie mctell <END> ha dipinto diversi quadri.
+<START:artist> gustav klimt <END> ha dipinto diversi quadri.
+<START:artist> giotto <END> ha dipinto diversi quadri.
+<START:artist> canaletto <END> ha dipinto diversi quadri.
+<START:artist> joan miro <END> ha dipinto diversi quadri.
+<START:artist> paul gaugin <END> ha dipinto diversi quadri.
+<START:artist> paul klee <END> ha dipinto diversi quadri.
+<START:artist> edgar degas <END> ha dipinto diversi quadri.
+<START:artist> francisco goya <END> ha dipinto diversi quadri.
+<START:artist> gustave courbet <END> ha dipinto diversi quadri.
+<START:artist> marc chagall <END> ha dipinto diversi quadri.
+<START:artist> pieter paul rubens <END> ha dipinto diversi quadri.
+<START:artist> amedeo modigliani <END> ha dipinto diversi quadri.
+<START:artist> william turner <END> ha dipinto diversi quadri.
+<START:artist> francis bacon <END> ha dipinto diversi quadri.
+<START:artist> camille pissarro <END> ha dipinto diversi quadri.
+<START:artist> cimabue <END> ha dipinto diversi quadri.
+<START:artist> paolo uccello <END> ha dipinto diversi quadri.
+<START:artist> roy lichtenstein <END> ha dipinto diversi quadri.
+<START:artist> david bowie <END> ha dipinto diversi quadri.
+<START:artist> umberto boccioni <END> ha dipinto diversi quadri.
+<START:artist> edward hopper <END> ha dipinto diversi quadri.
+<START:artist> picasso <END> ha dipinto diversi quadri.
+<START:artist> donatello <END> ha dipinto diversi quadri.
+<START:artist> leonardo <END> ha dipinto diversi quadri.
+<START:artist> raffello <END> ha dipinto diversi quadri.
+<START:artist> michelangelo <END> ha dipinto diversi quadri.
+<START:artist> edvard munch <END> ha dipinto diversi quadri.
+<START:artist> munch <END> ha dipinto diversi quadri.
+c'è un quadro di <START:artist> caravaggio <END> in questo museo ?
+c'è un quadro di <START:artist> pablo picasso <END> in questo museo ?
+c'è un quadro di <START:artist> sandro boticelli <END> in questo museo ?
+c'è un quadro di <START:artist> michelangelo buonarotti <END> in questo museo ?
+c'è un quadro di <START:artist> vincent van gogh <END> in questo museo ?
+c'è un quadro di <START:artist> paul cèzanne <END> in questo museo ?
+c'è un quadro di <START:artist> salvador dalì <END> in questo museo ?
+c'è un quadro di <START:artist> claude monet <END> in questo museo ?
+c'è un quadro di <START:artist> raffaello sanzio <END> in questo museo ?
+c'è un quadro di <START:artist> leonardo da vinci <END> in questo museo ?
+c'è un quadro di <START:artist> blind willie mctell <END> in questo museo ?
+c'è un quadro di <START:artist> gustav klimt <END> in questo museo ?
+c'è un quadro di <START:artist> giotto <END> in questo museo ?
+c'è un quadro di <START:artist> canaletto <END> in questo museo ?
+c'è un quadro di <START:artist> joan miro <END> in questo museo ?
+c'è un quadro di <START:artist> paul gaugin <END> in questo museo ?
+c'è un quadro di <START:artist> paul klee <END> in questo museo ?
+c'è un quadro di <START:artist> edgar degas <END> in questo museo ?
+c'è un quadro di <START:artist> francisco goya <END> in questo museo ?
+c'è un quadro di <START:artist> gustave courbet <END> in questo museo ?
+c'è un quadro di <START:artist> marc chagall <END> in questo museo ?
+c'è un quadro di <START:artist> pieter paul rubens <END> in questo museo ?
+c'è un quadro di <START:artist> amedeo modigliani <END> in questo museo ?
+c'è un quadro di <START:artist> william turner <END> in questo museo ?
+c'è un quadro di <START:artist> francis bacon <END> in questo museo ?
+c'è un quadro di <START:artist> camille pissarro <END> in questo museo ?
+c'è un quadro di <START:artist> cimabue <END> in questo museo ?
+c'è un quadro di <START:artist> paolo uccello <END> in questo museo ?
+c'è un quadro di <START:artist> roy lichtenstein <END> in questo museo ?
+c'è un quadro di <START:artist> david bowie <END> in questo museo ?
+c'è un quadro di <START:artist> umberto boccioni <END> in questo museo ?
+c'è un quadro di <START:artist> edward hopper <END> in questo museo ?
+c'è un quadro di <START:artist> picasso <END> in questo museo ?
+c'è un quadro di <START:artist> donatello <END> in questo museo ?
+c'è un quadro di <START:artist> leonardo <END> in questo museo ?
+c'è un quadro di <START:artist> raffello <END> in questo museo ?
+c'è un quadro di <START:artist> michelangelo <END> in questo museo ?
+c'è un quadro di <START:artist> edvard munch <END> in questo museo ?
+c'è un quadro di <START:artist> munch <END> in questo museo ?
+abbiamo opere di <START:artist> caravaggio <END> in questo museo ?
+abbiamo opere di <START:artist> pablo picasso <END> in questo museo ?
+abbiamo opere di <START:artist> sandro boticelli <END> in questo museo ?
+abbiamo opere di <START:artist> michelangelo buonarotti <END> in questo museo ?
+abbiamo opere di <START:artist> vincent van gogh <END> in questo museo ?
+abbiamo opere di <START:artist> paul cèzanne <END> in questo museo ?
+abbiamo opere di <START:artist> salvador dalì <END> in questo museo ?
+abbiamo opere di <START:artist> claude monet <END> in questo museo ?
+abbiamo opere di <START:artist> raffaello sanzio <END> in questo museo ?
+abbiamo opere di <START:artist> leonardo da vinci <END> in questo museo ?
+abbiamo opere di <START:artist> blind willie mctell <END> in questo museo ?
+abbiamo opere di <START:artist> gustav klimt <END> in questo museo ?
+abbiamo opere di <START:artist> giotto <END> in questo museo ?
+abbiamo opere di <START:artist> canaletto <END> in questo museo ?
+abbiamo opere di <START:artist> joan miro <END> in questo museo ?
+abbiamo opere di <START:artist> paul gaugin <END> in questo museo ?
+abbiamo opere di <START:artist> paul klee <END> in questo museo ?
+abbiamo opere di <START:artist> edgar degas <END> in questo museo ?
+abbiamo opere di <START:artist> francisco goya <END> in questo museo ?
+abbiamo opere di <START:artist> gustave courbet <END> in questo museo ?
+abbiamo opere di <START:artist> marc chagall <END> in questo museo ?
+abbiamo opere di <START:artist> pieter paul rubens <END> in questo museo ?
+abbiamo opere di <START:artist> amedeo modigliani <END> in questo museo ?
+abbiamo opere di <START:artist> william turner <END> in questo museo ?
+abbiamo opere di <START:artist> francis bacon <END> in questo museo ?
+abbiamo opere di <START:artist> camille pissarro <END> in questo museo ?
+abbiamo opere di <START:artist> cimabue <END> in questo museo ?
+abbiamo opere di <START:artist> paolo uccello <END> in questo museo ?
+abbiamo opere di <START:artist> roy lichtenstein <END> in questo museo ?
+abbiamo opere di <START:artist> david bowie <END> in questo museo ?
+abbiamo opere di <START:artist> umberto boccioni <END> in questo museo ?
+abbiamo opere di <START:artist> edward hopper <END> in questo museo ?
+abbiamo opere di <START:artist> picasso <END> in questo museo ?
+abbiamo opere di <START:artist> donatello <END> in questo museo ?
+abbiamo opere di <START:artist> leonardo <END> in questo museo ?
+abbiamo opere di <START:artist> raffello <END> in questo museo ?
+abbiamo opere di <START:artist> michelangelo <END> in questo museo ?
+abbiamo opere di <START:artist> edvard munch <END> in questo museo ?
+abbiamo opere di <START:artist> munch <END> in questo museo ?
+e' vero che <START:artist> caravaggio <END> ha dipinto tanto?
+e' vero che <START:artist> pablo picasso <END> ha dipinto tanto?
+e' vero che <START:artist> sandro boticelli <END> ha dipinto tanto?
+e' vero che <START:artist> michelangelo buonarotti <END> ha dipinto tanto?
+e' vero che <START:artist> vincent van gogh <END> ha dipinto tanto?
+e' vero che <START:artist> paul cèzanne <END> ha dipinto tanto?
+e' vero che <START:artist> salvador dalì <END> ha dipinto tanto?
+e' vero che <START:artist> claude monet <END> ha dipinto tanto?
+e' vero che <START:artist> raffaello sanzio <END> ha dipinto tanto?
+e' vero che <START:artist> leonardo da vinci <END> ha dipinto tanto?
+e' vero che <START:artist> blind willie mctell <END> ha dipinto tanto?
+e' vero che <START:artist> gustav klimt <END> ha dipinto tanto?
+e' vero che <START:artist> giotto <END> ha dipinto tanto?
+e' vero che <START:artist> canaletto <END> ha dipinto tanto?
+e' vero che <START:artist> joan miro <END> ha dipinto tanto?
+e' vero che <START:artist> paul gaugin <END> ha dipinto tanto?
+e' vero che <START:artist> paul klee <END> ha dipinto tanto?
+e' vero che <START:artist> edgar degas <END> ha dipinto tanto?
+e' vero che <START:artist> francisco goya <END> ha dipinto tanto?
+e' vero che <START:artist> gustave courbet <END> ha dipinto tanto?
+e' vero che <START:artist> marc chagall <END> ha dipinto tanto?
+e' vero che <START:artist> pieter paul rubens <END> ha dipinto tanto?
+e' vero che <START:artist> amedeo modigliani <END> ha dipinto tanto?
+e' vero che <START:artist> william turner <END> ha dipinto tanto?
+e' vero che <START:artist> francis bacon <END> ha dipinto tanto?
+e' vero che <START:artist> camille pissarro <END> ha dipinto tanto?
+e' vero che <START:artist> cimabue <END> ha dipinto tanto?
+e' vero che <START:artist> paolo uccello <END> ha dipinto tanto?
+e' vero che <START:artist> roy lichtenstein <END> ha dipinto tanto?
+e' vero che <START:artist> david bowie <END> ha dipinto tanto?
+e' vero che <START:artist> umberto boccioni <END> ha dipinto tanto?
+e' vero che <START:artist> edward hopper <END> ha dipinto tanto?
+e' vero che <START:artist> picasso <END> ha dipinto tanto?
+e' vero che <START:artist> donatello <END> ha dipinto tanto?
+e' vero che <START:artist> leonardo <END> ha dipinto tanto?
+e' vero che <START:artist> raffello <END> ha dipinto tanto?
+e' vero che <START:artist> michelangelo <END> ha dipinto tanto?
+e' vero che <START:artist> edvard munch <END> ha dipinto tanto?
+e' vero che <START:artist> munch <END> ha dipinto tanto?
+e' vero che la <START:opera> gioconda <END> è stata teatro di molti giochi?
+e' vero che la <START:opera> nascita di venere <END> è stata teatro di molti giochi?
+e' vero che <START:opera> l'urlo <END> è stato teatro di molti giochi?
+e' vero che l' <START:opera> ultima cena <END> è stata teatro di molti giochi?
+e' vero che la <START:opera> venere di urbino <END> è stata teatro di molti giochi?
+e' vero che il <START:opera> giudizio universale <END> è stato teatro di molti giochi?
+e' vero che il <START:opera> david <END> è stato teatro di molti giochi?
+e' vero che la <START:opera> madonna <END> è stata teatro di molti giochi?
+e' vero che la <START:opera> madonna della pietà <END> è stata teatro di molti giochi?
+e' vero che la <START:opera> canestra di frutta <END> è stata teatro di molti giochi?
+e' vero che la <START:opera> creazione di adamo <END> è stata teatro di molti giochi?
+e' vero che la <START:opera> cappella sistina <END> è stato teatra di molti giochi?
+e' vero che l' <START:opera> annunciazione bartolini salimbeni <END> è stato teatro di molti giochi?
+e' vero che l' <START:opera> olympia <END> è stata teatro di molti giochi?
+e' vero che la <START:opera> venere di milo <END> è stata teatro di molti giochi?
+e' vero che <START:opera> guernica <END> è stato teatro di molti giochi?
+e' vero che <START:opera> la persistenza della memoria <END> è stato teatro di molti giochi?
+e' vero che la <START:opera> primavera <END> è stata teatro di molti giochi?
+e' vero che <START:opera> darma con l'ermellino <END> è stato teatro di molti giochi?
+e' vero che la <START:opera> pietà vaticana <END> è stata teatro di molti giochi?
+e' vero che <START:opera> amore e psiche <END> è stato teatro di molti giochi?
+e' vero che le <START:opera> le muse inquietanti <END> sono state teatri di molti giochi?
+e' vero che la <START:opera> natività con i santi lorenzo e francesco d'assisi <END> è stata teatro di molti giochi?
+e' vero che la <START:opera> ragazza col turbante <END> è stata teatro di molti giochi?
+e' vero che <START:opera> bacco <END> è stato teatro di molti giochi?
+e' vero che <START:opera> i papaveri <END> sono stati teatro di molti giochi?
+e' vero che l' <START:opera> anfiteatro flavio <END> è stato teatro di molti giochi?
+e' vero che la <START:opera> battaglia di san romano <END> è stata teatro di molti giochi?
+e' vero che l' <START:opera> incredulità di san tommaso <END> è stato teatro di molti giochi?
+e' vero che le <START:opera> sette opere di misericordia <END> sono state teatro di molti giochi?
+e' vero che <START:opera> les demoiselles d'avignon <END> sono state teatro di molti giochi?
+e' vero che la <START:opera> vocazione di san matteo <END> è stata teatro di molti giochi?
+e' vero che <START:opera> i mangiatori di patate <END> è stato teatro di molti giochi?
+e' vero che il <START:opera> dinamismo di un cavallo in corsa + case <END> è stato teatro di molti giochi?
+e' vero che <START:opera> las meninas <END> è stata teatro di molti giochi?
+e' vero che la <START:opera> madonna del cardellino <END> è stata teatro di molti giochi?
+e' vero che i <START:opera> bronzi di riace <END> sono stati teatro di molti giochi?
+e' vero che la <START:opera> nike di samotracia <END> è stata teatro di molti giochi?
+e' vero che il <START:opera> colosso di rodi <END> è stato teatro di molti giochi?
+e' vero che <START:opera> jacopo pesaro presentato a san pietro da papa alessandro vi <END> è stato teatro di molti giochi?
+quale artista ha creato la <START:opera> gioconda <END> famoso quadro qui esposto?
+quale artista ha creato la <START:opera> nascita di venere <END> famoso quadro qui esposto?
+quale artista ha creato <START:opera> l'urlo <END> famoso quadro qui esposto?
+quale artista ha creato l' <START:opera> ultima cena <END> famoso quadro qui esposto?
+quale artista ha creato la <START:opera> venere di urbino <END> famoso quadro qui esposto?
+quale artista ha creato il <START:opera> giudizio universale <END> famoso quadro qui esposto?
+quale artista ha creato il <START:opera> david <END> famoso quadro qui esposto?
+quale artista ha creato la <START:opera> madonna  <END> famoso quadro qui esposto?
+quale artista ha creato la <START:opera> madonna della pietà <END> famoso quadro qui esposto?
+quale artista ha creato la <START:opera> canestra di frutta <END> famoso quadro qui esposto?
+quale artista ha creato la <START:opera> creazione di adamo <END> famoso quadro qui esposto?
+quale artista ha creato la <START:opera> cappella sistina <END> famoso quadro qui esposto?
+quale artista ha creato l' <START:opera> annunciazione bartolini salimbeni <END> famoso quadro qui esposto?
+quale artista ha creato l' <START:opera> olympia <END> famoso quadro qui esposto?
+quale artista ha creato la <START:opera> venere di milo <END> famoso quadro qui esposto?
+quale artista ha creato <START:opera> guernica <END> famoso quadro qui esposto?
+quale artista ha creato <START:opera> la persistenza della memoria <END> famoso quadro qui esposto?
+quale artista ha creato la <START:opera> primavera <END> famoso quadro qui esposto?
+quale artista ha creato <START:opera> darma con l'ermellino <END> famoso quadro qui esposto?
+quale artista ha creato la <START:opera> pietà vaticana <END> famoso quadro qui esposto?
+quale artista ha creato <START:opera> amore e psiche <END> famoso quadro qui esposto?
+quale artista ha creato <START:opera> le muse inquietanti <END> famoso quadro qui esposto?
+quale artista ha creato la <START:opera> natività con i santi lorenzo e francesco d'assisi <END> famoso quadro qui esposto?
+quale artista ha creato la <START:opera> ragazza col turbante <END> famoso quadro qui esposto?
+quale artista ha creato <START:opera> bacco <END> famoso quadro qui esposto?
+quale artista ha creato <START:opera> i papaveri <END> famoso quadro qui esposto?
+quale artista ha creato l' <START:opera> anfiteatro flavio <END> famoso quadro qui esposto?
+quale artista ha creato la <START:opera> battaglia di san romano <END> famoso quadro qui esposto?
+quale artista ha creato l' <START:opera> incredulità di san tommaso <END> famoso quadro qui esposto?
+quale artista ha creato le <START:opera> sette opere di misericordia <END> famoso quadro qui esposto?
+quale artista ha creato <START:opera> les demoiselles d'avignon <END> famoso quadro qui esposto?
+quale artista ha creato la <START:opera> vocazione di san matteo <END> famoso quadro qui esposto?
+quale artista ha creato <START:opera> i mangiatori di patate <END> famoso quadro qui esposto?
+quale artista ha creato il <START:opera> dinamismo di un cavallo in corsa + case <END> famoso quadro qui esposto?
+quale artista ha creato <START:opera> las meninas <END> famoso quadro qui esposto?
+quale artista ha creato la <START:opera> madonna del cardellino <END> famoso quadro qui esposto?
+quale artista ha creato i <START:opera> bronzi di riace <END> famoso quadro qui esposto?
+quale artista ha creato la <START:opera> nike di samotracia <END> famoso quadro qui esposto?
+quale artista ha creato il <START:opera> colosso di rodi <END> famoso quadro qui esposto?
+quale artista ha creato <START:opera> jacopo pesaro presentato a san pietro da papa alessandro vi <END> famoso quadro qui esposto?
+quando verrà esposto la <START:opera> gioconda <END> in questo museo?
+quando verrà esposto la <START:opera> nascita di venere <END> in questo museo?
+quando verrà esposto <START:opera> l'urlo <END> in questo museo?
+quando verrà esposto l' <START:opera> ultima cena <END> in questo museo?
+quando verrà esposto la <START:opera> venere di urbino <END> in questo museo?
+quando verrà esposto il <START:opera> giudizio universale <END> in questo museo?
+quando verrà esposto il <START:opera> david <END> in questo museo?
+quando verrà esposto la <START:opera> madonna <END> in questo museo?
+quando verrà esposto la <START:opera> madonna della pietà <END> in questo museo?
+quando verrà esposto la <START:opera> canestra di frutta <END> in questo museo?
+quando verrà esposto la <START:opera> creazione di adamo <END> in questo museo?
+quando verrà esposta la <START:opera> cappella sistina <END> in questo museo?
+quando verrà esposto l' <START:opera> annunciazione bartolini salimbeni <END> in questo museo?
+quando verrà esposta l' <START:opera> olympia <END> in questo museo?
+quando verrà esposta la <START:opera> venere di milo <END> in questo museo?
+quando verrà esposto <START:opera> guernica <END> in questo museo?
+quando verrà esposta <START:opera> la persistenza della memoria <END> in questo museo?
+quando verrà esposto <START:opera> primavera <END> in questo museo?
+quando verrà esposto <START:opera> darma con l'ermellino <END> in questo museo?
+quando verrà esposto la <START:opera> pietà vaticana <END> in questo museo?
+quando verrà esposto <START:opera> amore e psiche <END> in questo museo?
+quando verranno esposte <START:opera> le muse inquietanti <END> in questo museo?
+quando verrà esposta la <START:opera> natività con i santi lorenzo e francesco d'assisi <END> in questo museo?
+quando verrà esposta la <START:opera> ragazza col turbante <END> in questo museo?
+quando verrà esposto <START:opera> bacco <END> in questo museo?
+quando verranno esposti i <START:opera> i papaveri <END> in questo museo?
+quando verrà esposto l' <START:opera> anfiteatro flavio <END> in questo museo?
+quando verrà esposta la <START:opera> battaglia di san romano <END> in questo museo?
+quando verrà esposta l' <START:opera> incredulità di san tommaso <END> in questo museo?
+quando verranno esposte le <START:opera> sette opere di misericordia <END> in questo museo?
+quando verranno esposte <START:opera> les demoiselles d'avignon <END> in questo museo?
+quando verrà esposta la <START:opera> vocazione di san matteo <END> in questo museo?
+quando verranno esposti <START:opera> i mangiatori di patate <END> in questo museo?
+quando verrà esposto il <START:opera> dinamismo di un cavallo in corsa + case <END> in questo museo?
+quando verrà esposta <START:opera> las meninas <END> in questo museo?
+quando verrà esposta la <START:opera> madonna del cardellino <END> in questo museo?
+quando verranno esposti i <START:opera> bronzi di riace <END> in questo museo?
+quando verrà esposta la <START:opera> nike di samotracia <END> in questo museo?
+quando verrà esposto il <START:opera> colosso di rodi <END> in questo museo?
+quando verrà esposto <START:opera> jacopo pesaro presentato a san pietro da papa alessandro vi <END> in questo museo?
+la <START:opera> gioconda <END> è una famosa opera.
+la <START:opera> nascita di venere <END> è una famosa opera.
+<START:opera> l'urlo <END> è una famosa opera.
+l' <START:opera> ultima cena <END> è una famosa opera.
+<START:opera> venere di urbino <END> è una famosa opera.
+<START:opera> giudizio universale <END> è una famosa opera.
+il <START:opera> david <END> è una famosa opera.
+<START:opera> madonna <END> è una famosa opera.
+<START:opera> madonna della pietà <END> è una famosa opera.
+<START:opera> canestra di frutta <END> è una famosa opera.
+<START:opera> creazione di adamo <END> è una famosa opera.
+<START:opera> cappella sistina <END> è una famosa opera.
+l' <START:opera> annunciazione bartolini salimbeni <END> è una famosa opera.
+<START:opera> olympia <END> è una famosa opera.
+<START:opera> venere di milo <END> è una famosa opera.
+<START:opera> guernica <END> è una famosa opera.
+<START:opera> la persistenza della memoria <END> è una famosa opera.
+la <START:opera> primavera <END> è una famosa opera.
+<START:opera> darma con l'ermellino <END> è una famosa opera.
+<START:opera> pietà vaticana <END> è una famosa opera.
+<START:opera> amore e psiche <END> è una famosa opera.
+<START:opera> le muse inquietanti <END> è una famosa opera.
+<START:opera> natività con i santi lorenzo e francesco d'assisi <END> è una famosa opera.
+<START:opera> ragazza col turbante <END> è una famosa opera.
+<START:opera> bacco <END> è una famosa opera.
+<START:opera> i papaveri <END> è una famosa opera.
+l' <START:opera> anfiteatro flavio <END> è una famosa opera.
+<START:opera> battaglia di san romano <END> è una famosa opera.
+l' <START:opera> incredulità di san tommaso <END> è una famosa opera.
+<START:opera> sette opere di misericordia <END> è una famosa opera.
+<START:opera> les demoiselles d'avignon <END> è una famosa opera.
+<START:opera> vocazione di san matteo <END> è una famosa opera.
+<START:opera> i mangiatori di patate <END> è una famosa opera.
+<START:opera> dinamismo di un cavallo in corsa + case <END> è una famosa opera.
+<START:opera> las meninas <END> è una famosa opera.
+<START:opera> madonna del cardellino <END> è una famosa opera.
+<START:opera> bronzi di riace <END> sono una famosa opera.
+<START:opera> nike di samotracia <END> è una famosa opera.
+il <START:opera> colosso di rodi <END> è una famosa opera.
+<START:opera> jacopo pesaro presentato a san pietro da papa alessandro vi <END> è una famosa opera.
+la <START:opera> gioconda <END> è stata scolpita nel 1270.
+<START:opera> nascita di venere <END> è stata scolpita nel 1300.
+<START:opera> l'urlo <END> è stato scolpito nel 1270.
+l' <START:opera> ultima cena <END> è stato scolpito nel 1270.
+la <START:opera> venere di urbino <END> è stata scolpita nel 1270.
+il <START:opera> giudizio universale <END> è stato scolpito nel 1270.
+il <START:opera> david <END> è stato scolpito nel 1270.
+<START:opera> madonna  <END> è stato scolpito nel 1270.
+<START:opera> madonna della pietà <END> è stato scolpito nel 1270.
+<START:opera> canestra di frutta <END> è stato scolpito nel 1270.
+<START:opera> creazione di adamo <END> è stato scolpito nel 1270.
+la <START:opera> cappella sistina <END> è stata scolpita nel 1270.
+<START:opera> annunciazione bartolini salimbeni <END> è stato scolpito nel 1270.
+l' <START:opera> olympia <END> è stato scolpito nel 1270.
+la <START:opera> venere di milo <END> è stato scolpito nel 1270.
+<START:opera> guernica <END> è stato scolpito nel 1270.
+<START:opera> la persistenza della memoria <END> è stato scolpito nel 1270.
+la <START:opera> primavera <END> è stato scolpito nel 1270.
+<START:opera> darma con l'ermellino <END> è stato scolpito nel 1270.
+la <START:opera> pietà vaticana <END> è stato scolpito nel 1270.
+<START:opera> amore e psiche <END> è stato scolpito nel 1270.
+<START:opera> le muse inquietanti <END> è stato scolpito nel 1270.
+<START:opera> natività con i santi lorenzo e francesco d'assisi <END> è stato scolpito nel 1270.
+la <START:opera> ragazza col turbante <END> è stato scolpito nel 1270.
+<START:opera> bacco <END> è stato scolpito nel 1270.
+<START:opera> i papaveri <END> è stato scolpito nel 1270.
+l' <START:opera> anfiteatro flavio <END> è stato scolpito nel 1270.
+<START:opera> battaglia di san romano <END> è stato scolpito nel 1270.
+<START:opera> incredulità di san tommaso <END> è stato scolpito nel 1270.
+<START:opera> sette opere di misericordia <END> è stato scolpito nel 1270.
+<START:opera> les demoiselles d'avignon <END> è stato scolpito nel 1270.
+la <START:opera> vocazione di san matteo <END> è stato scolpito nel 1270.
+<START:opera> i mangiatori di patate <END> è stato scolpito nel 1270.
+<START:opera> dinamismo di un cavallo in corsa + case <END> è stato scolpito nel 1270.
+<START:opera> las meninas <END> è stato scolpito nel 1270.
+<START:opera> madonna del cardellino <END> è stato scolpito nel 1270.
+<START:opera> bronzi di riace <END> è stato scolpito nel 1270.
+<START:opera> nike di samotracia <END> è stato scolpito nel 1270.
+<START:opera> colosso di rodi <END> è stato scolpito nel 1270.
+<START:opera> jacopo pesaro presentato a san pietro da papa alessandro vi <END> è stato scolpito nel 1270.
+<START:opera> gioconda <END> ha ricevuto tanti consensi.
+<START:opera> nascita di venere <END> ha ricevuto tanti consensi.
+<START:opera> l'urlo <END> ha ricevuto tanti consensi.
+<START:opera> ultima cena <END> ha ricevuto tanti consensi.
+<START:opera> venere di urbino <END> ha ricevuto tanti consensi.
+<START:opera> giudizio universale <END> ha ricevuto tanti consensi.
+<START:opera> david <END> ha ricevuto tanti consensi.
+<START:opera> madonna  <END> ha ricevuto tanti consensi.
+<START:opera> madonna della pietà <END> ha ricevuto tanti consensi.
+<START:opera> canestra di frutta <END> ha ricevuto tanti consensi.
+<START:opera> creazione di adamo <END> ha ricevuto tanti consensi.
+<START:opera> cappella sistina <END> ha ricevuto tanti consensi.
+<START:opera> annunciazione bartolini salimbeni <END> ha ricevuto tanti consensi.
+<START:opera> olympia <END> ha ricevuto tanti consensi.
+<START:opera> venere di milo <END> ha ricevuto tanti consensi.
+<START:opera> guernica <END> ha ricevuto tanti consensi.
+<START:opera> la persistenza della memoria <END> ha ricevuto tanti consensi.
+<START:opera> primavera <END> ha ricevuto tanti consensi.
+<START:opera> darma con l'ermellino <END> ha ricevuto tanti consensi.
+<START:opera> pietà vaticana <END> ha ricevuto tanti consensi.
+<START:opera> amore e psiche <END> ha ricevuto tanti consensi.
+<START:opera> le muse inquietanti <END> ha ricevuto tanti consensi.
+<START:opera> natività con i santi lorenzo e francesco d'assisi <END> ha ricevuto tanti consensi.
+<START:opera> ragazza col turbante <END> ha ricevuto tanti consensi.
+<START:opera> bacco <END> ha ricevuto tanti consensi.
+<START:opera> i papaveri <END> ha ricevuto tanti consensi.
+l' <START:opera> anfiteatro flavio <END> ha ricevuto tanti consensi.
+<START:opera> battaglia di san romano <END> ha ricevuto tanti consensi.
+<START:opera> incredulità di san tommaso <END> ha ricevuto tanti consensi.
+<START:opera> sette opere di misericordia <END> ha ricevuto tanti consensi.
+<START:opera> les demoiselles d'avignon <END> ha ricevuto tanti consensi.
+<START:opera> vocazione di san matteo <END> ha ricevuto tanti consensi.
+<START:opera> i mangiatori di patate <END> ha ricevuto tanti consensi.
+<START:opera> dinamismo di un cavallo in corsa + case <END> ha ricevuto tanti consensi.
+<START:opera> las meninas <END> ha ricevuto tanti consensi.
+<START:opera> madonna del cardellino <END> ha ricevuto tanti consensi.
+i <START:opera> bronzi di riace <END> hanno ricevuto tanti consensi.
+<START:opera> nike di samotracia <END> ha ricevuto tanti consensi.
+<START:opera> colosso di rodi <END> ha ricevuto tanti consensi.
+<START:opera> jacopo pesaro presentato a san pietro da papa alessandro vi <END> ha ricevuto tanti consensi.
+chi è raffigurato nella <START:opera> gioconda <END> ?
+chi è raffigurato nella <START:opera> nascita di venere <END> ?
+chi è raffigurato nell' <START:opera> urlo <END> ?
+chi è raffigurato nell' <START:opera> ultima cena <END> ?
+chi è raffigurato nella <START:opera> venere di urbino <END> ?
+chi è raffigurato nel <START:opera> giudizio universale <END> ?
+chi è raffigurato nel <START:opera> david <END> ?
+chi è raffigurato nella <START:opera> madonna  <END> ?
+chi è raffigurato nella <START:opera> madonna della pietà <END> ?
+chi è raffigurato nel <START:opera> canestra di frutta <END> ?
+chi è raffigurato nella <START:opera> creazione di adamo <END> ?
+chi è raffigurato nella <START:opera> cappella sistina <END> ?
+chi è raffigurato nell' <START:opera> annunciazione bartolini salimbeni <END> ?
+chi è raffigurato nell' <START:opera> olympia <END> ?
+chi è raffigurato nella <START:opera> venere di milo <END> ?
+chi è raffigurato in <START:opera> guernica <END> ?
+chi è raffigurato in <START:opera> la persistenza della memoria <END> ?
+chi è raffigurato nella <START:opera> primavera <END> ?
+chi è raffigurato in <START:opera> darma con l'ermellino <END> ?
+chi è raffigurato nella <START:opera> pietà vaticana <END> ?
+chi è raffigurato in <START:opera> amore e psiche <END> ?
+chi è raffigurato nelle <START:opera> le muse inquietanti <END> ?
+chi è raffigurato nella <START:opera> natività con i santi lorenzo e francesco d'assisi <END> ?
+chi è raffigurato nella <START:opera> ragazza col turbante <END> ?
+chi è raffigurato in <START:opera> bacco <END> ?
+chi è raffigurato ne <START:opera> i papaveri <END> ?
+chi è raffigurato nell' <START:opera> anfiteatro flavio <END> ?
+chi è raffigurato nella <START:opera> battaglia di san romano <END> ?
+chi è raffigurato nell' <START:opera> incredulità di san tommaso <END> ?
+chi è raffigurato nelle <START:opera> sette opere di misericordia <END> ?
+chi è raffigurato nelle <START:opera> les demoiselles d'avignon <END> ?
+chi è raffigurato nella <START:opera> vocazione di san matteo <END> ?
+chi è raffigurato nei <START:opera> i mangiatori di patate <END> ?
+chi è raffigurato nel <START:opera> dinamismo di un cavallo in corsa + case <END> ?
+chi è raffigurato in <START:opera> las meninas <END> ?
+chi è raffigurato nella <START:opera> madonna del cardellino <END> ?
+chi è raffigurato nei <START:opera> bronzi di riace <END> ?
+chi è raffigurato nella <START:opera> nike di samotracia <END> ?
+chi è raffigurato nel <START:opera> colosso di rodi <END> ?
+chi è raffigurato in <START:opera> jacopo pesaro presentato a san pietro da papa alessandro vi <END> ?
+chi è raffigurato nella <START:opera> gioconda <END> ?
+chi è raffigurato nella <START:opera> nascita di venere <END> ?
+chi è raffigurato in <START:opera> l'urlo <END> ?
+chi è raffigurato nell' <START:opera> ultima cena <END> ?
+chi è raffigurato nella <START:opera> venere di urbino <END> ?
+chi è raffigurato nel <START:opera> giudizio universale <END> ?
+chi è raffigurato nel <START:opera> david <END> ?
+chi è raffigurato nella <START:opera> madonna  <END> ?
+chi è raffigurato in <START:opera> madonna della pietà <END> ?
+chi è raffigurato in <START:opera> canestra di frutta <END> ?
+chi è raffigurato nella <START:opera> creazione di adamo <END> ?
+chi è raffigurato nella <START:opera> cappella sistina <END> ?
+chi è raffigurato nell' <START:opera> annunciazione bartolini salimbeni <END> ?
+chi è raffigurato in <START:opera> olympia <END> ?
+chi è raffigurato nella <START:opera> venere di milo <END> ?
+chi è raffigurato in <START:opera> guernica <END> ?
+chi è raffigurato in <START:opera> la persistenza della memoria <END> ?
+chi è raffigurato in <START:opera> primavera <END> ?
+chi è raffigurato in <START:opera> darma con l'ermellino <END> ?
+chi è raffigurato in <START:opera> pietà vaticana <END> ?
+chi è raffigurato in <START:opera> amore e psiche <END> ?
+chi è raffigurato in <START:opera> le muse inquietanti <END> ?
+chi è raffigurato in <START:opera> natività con i santi lorenzo e francesco d'assisi <END> ?
+chi è raffigurato in <START:opera> ragazza col turbante <END> ?
+chi è raffigurato in <START:opera> bacco <END> ?
+chi è raffigurato in <START:opera> i papaveri <END> ?
+chi è raffigurato nell' <START:opera> anfiteatro flavio <END> ?
+chi è raffigurato in <START:opera> battaglia di san romano <END> ?
+chi è raffigurato in <START:opera> incredulità di san tommaso <END> ?
+chi è raffigurato nelle <START:opera> sette opere di misericordia <END> ?
+chi è raffigurato in <START:opera> les demoiselles d'avignon <END> ?
+chi è raffigurato nella <START:opera> vocazione di san matteo <END> ?
+chi è raffigurato nei <START:opera> i mangiatori di patate <END> ?
+chi è raffigurato in <START:opera> dinamismo di un cavallo in corsa + case <END> ?
+chi è raffigurato in <START:opera> las meninas <END> ?
+chi è raffigurato in <START:opera> madonna del cardellino <END> ?
+chi è raffigurato in <START:opera> bronzi di riace <END> ?
+chi è raffigurato in <START:opera> nike di samotracia <END> ?
+chi è raffigurato in <START:opera> colosso di rodi <END> ?
+chi è raffigurato in <START:opera> jacopo pesaro presentato a san pietro da papa alessandro vi <END> ?
+che cos'è <START:opera> gioconda <END> ?
+che cos'è <START:opera> nascita di venere <END> ?
+che cos'è <START:opera> l'urlo <END> ?
+che cos'è <START:opera> ultima cena <END> ?
+che cos'è <START:opera> venere di urbino <END> ?
+che cos'è <START:opera> giudizio universale <END> ?
+che cos'è <START:opera> david <END> ?
+che cos'è <START:opera> madonna  <END> ?
+che cos'è <START:opera> madonna della pietà <END> ?
+che cos'è <START:opera> canestra di frutta <END> ?
+che cos'è <START:opera> creazione di adamo <END> ?
+che cos'è <START:opera> cappella sistina <END> ?
+che cos'è <START:opera> annunciazione bartolini salimbeni <END> ?
+che cos'è <START:opera> olympia <END> ?
+che cos'è <START:opera> venere di milo <END> ?
+che cos'è <START:opera> guernica <END> ?
+che cos'è <START:opera> la persistenza della memoria <END> ?
+che cos'è <START:opera> primavera <END> ?
+che cos'è <START:opera> darma con l'ermellino <END> ?
+che cos'è <START:opera> pietà vaticana <END> ?
+che cos'è <START:opera> amore e psiche <END> ?
+che cos'è <START:opera> le muse inquietanti <END> ?
+che cos'è <START:opera> natività con i santi lorenzo e francesco d'assisi <END> ?
+che cos'è <START:opera> ragazza col turbante <END> ?
+che cos'è <START:opera> bacco <END> ?
+che cos'è <START:opera> i papaveri <END> ?
+che cos'è l' <START:opera> anfiteatro flavio <END> ?
+che cos'è <START:opera> battaglia di san romano <END> ?
+che cos'è <START:opera> incredulità di san tommaso <END> ?
+che cos'è <START:opera> sette opere di misericordia <END> ?
+che cos'è <START:opera> les demoiselles d'avignon <END> ?
+che cos'è <START:opera> vocazione di san matteo <END> ?
+che cos'è <START:opera> i mangiatori di patate <END> ?
+che cos'è <START:opera> dinamismo di un cavallo in corsa + case <END> ?
+che cos'è <START:opera> las meninas <END> ?
+che cos'è <START:opera> madonna del cardellino <END> ?
+che cos'è <START:opera> bronzi di riace <END> ?
+che cos'è <START:opera> nike di samotracia <END> ?
+che cos'è <START:opera> colosso di rodi <END> ?
+che cos'è <START:opera> jacopo pesaro presentato a san pietro da papa alessandro vi <END> ?
+che cos'è la <START:opera> gioconda <END> ?
+che cos'è la <START:opera> nascita di venere <END> ?
+che cos'è la <START:opera> l'urlo <END> ?
+che cos'è la <START:opera> ultima cena <END> ?
+che cos'è la <START:opera> venere di urbino <END> ?
+che cos'è la <START:opera> giudizio universale <END> ?
+che cos'è la <START:opera> david <END> ?
+che cos'è la <START:opera> madonna  <END> ?
+che cos'è la <START:opera> madonna della pietà <END> ?
+che cos'è la <START:opera> canestra di frutta <END> ?
+che cos'è la <START:opera> creazione di adamo <END> ?
+che cos'è la <START:opera> cappella sistina <END> ?
+che cos'è la <START:opera> annunciazione bartolini salimbeni <END> ?
+che cos'è la <START:opera> olympia <END> ?
+che cos'è la <START:opera> venere di milo <END> ?
+che cos'è la <START:opera> guernica <END> ?
+che cos'è <START:opera> la persistenza della memoria <END> ?
+che cos'è la <START:opera> primavera <END> ?
+che cos'è <START:opera> darma con l'ermellino <END> ?
+che cos'è la <START:opera> pietà vaticana <END> ?
+che cos'è <START:opera> amore e psiche <END> ?
+che cosa sono <START:opera> le muse inquietanti <END> ?
+che cos'è la <START:opera> natività con i santi lorenzo e francesco d'assisi <END> ?
+che cos'è la <START:opera> ragazza col turbante <END> ?
+che cos'è <START:opera> bacco <END> ?
+che cos'è <START:opera> i papaveri <END> ?
+che cos'è l' <START:opera> anfiteatro flavio <END> ?
+che cos'è la <START:opera> battaglia di san romano <END> ?
+che cos'è la <START:opera> incredulità di san tommaso <END> ?
+che cos'è la <START:opera> sette opere di misericordia <END> ?
+che cos'è la <START:opera> les demoiselles d'avignon <END> ?
+che cos'è la <START:opera> vocazione di san matteo <END> ?
+che cos'è la <START:opera> i mangiatori di patate <END> ?
+che cos'è la <START:opera> dinamismo di un cavallo in corsa + case <END> ?
+che cos'è la <START:opera> las meninas <END> ?
+che cos'è la <START:opera> madonna del cardellino <END> ?
+che cos'è la <START:opera> bronzi di riace <END> ?
+che cos'è la <START:opera> nike di samotracia <END> ?
+che cos'è la <START:opera> colosso di rodi <END> ?
+che cos'è la <START:opera> jacopo pesaro presentato a san pietro da papa alessandro vi <END> ?
+<START:artist> caravaggio <END> ha dipinto la <START:opera> gioconda <END> ?
+<START:artist> pablo picasso <END> ha dipinto la <START:opera> jacopo pesaro presentato a san pietro da papa alessandro vi <END> ?
+<START:artist> sandro boticelli <END> ha dipinto la <START:opera> colosso di rodi <END> ?
+<START:artist> michelangelo buonarotti <END> ha dipinto la <START:opera> nike di samotracia <END> ?
+<START:artist> vincent van gogh <END> ha dipinto la <START:opera> bronzi di riace <END> ?
+<START:artist> paul cèzanne <END> ha dipinto la <START:opera> madonna del cardellino <END> ?
+<START:artist> salvador dalì <END> ha dipinto la <START:opera> las meninas <END> ?
+<START:artist> claude monet <END> ha dipinto la <START:opera> dinamismo di un cavallo in corsa + case <END> ?
+<START:artist> raffaello sanzio <END> ha dipinto la <START:opera> i mangiatori di patate <END> ?
+<START:artist> leonardo da vinci <END> ha dipinto la <START:opera> vocazione di san matteo <END> ?
+<START:artist> blind willie mctell <END> ha dipinto la <START:opera> les demoiselles d'avignon <END> ?
+<START:artist> gustav klimt <END> ha dipinto <START:opera> la passeggiata nel bosco <END> ?
+<START:artist> giotto <END> ha dipinto la <START:opera> tourre eiffel <END> ?
+<START:artist> canaletto <END> ha dipinto la <START:opera> tourre eiffel <END> ?
+<START:artist> joan miro <END> ha dipinto la <START:opera> sette opere di misericordia <END> ?
+<START:artist> paul gaugin <END> ha dipinto la <START:opera> incredulità di san tommaso <END> ?
+<START:artist> paul klee <END> ha dipinto la <START:opera> natura morta <END> ?
+<START:artist> edgar degas <END> ha dipinto la <START:opera> canestra di frutta <END> ?
+<START:artist> francisco goya <END> ha dipinto la <START:opera> amore e psiche <END> ?
+<START:artist> gustave courbet <END> ha dipinto la <START:opera> la persistenza della memoria <END> ?
+<START:artist> marc chagall <END> ha scolpito il <START:opera> david <END> ?
+<START:artist> pieter paul rubens <END> ha dipinto la <START:opera> giudizio universale <END> ?
+<START:artist> amedeo modigliani <END> ha dipinto la <START:opera> darma con l'ermellino <END> ?
+<START:artist> william turner <END> ha dipinto <START:opera> l'urlo di munch <END> ?
+<START:artist> francis bacon <END> ha dipinto la <START:opera> nike di samotracia <END> ?
+<START:artist> camille pissarro <END> ha dipinto la <START:opera> natività con i santi lorenzo e francesco d'assisi <END> ?
+<START:artist> cimabue <END> ha costruito <START:opera> l'anfiteatro flavio <END> ?
+<START:artist> paolo uccello <END> ha dipinto l' <START:opera> anfiteatro flavio <END> ?
+<START:artist> roy lichtenstein <END> ha dipinto la <START:opera> cappella sistina <END> ?
+<START:artist> david bowie <END> ha dipinto la <START:opera> pietà vaticana <END> ?
+<START:artist> umberto boccioni <END> ha dipinto <START:opera> la persistenza della memoria <END> ?
+<START:artist> edward hopper <END> ha dipinto la <START:opera> persistenza della memoria <END> ?
+<START:artist> picasso <END> ha dipinto la <START:opera> le muse inquietanti <END> ?
+<START:artist> donatello <END> ha dipinto la <START:opera> gioconda <END> ?
+<START:artist> leonardo <END> ha dipinto la <START:opera> giudizio universale <END> ?
+<START:artist> raffello <END> ha dipinto il <START:opera> david <END> ?
+<START:artist> michelangelo <END> ha dipinto <START:opera> l' ultima cena <END> ?
+<START:artist> edvard munch <END> ha dipinto l' <START:opera> ultima cena <END> ?
+<START:artist> munch <END> ha dipinto la <START:opera> l'urlo <END> ?
+<START:artist> caravaggio <END> ha dipinto la <START:opera> gioconda <END> ?
+<START:artist> munch <END> ha dipinto la <START:opera> nascita di venere <END> ?
+<START:artist> edvard munch <END> ha dipinto la <START:opera> l'urlo <END> ?
+<START:artist> michelangelo <END> ha dipinto la <START:opera> ultima cena <END> ?
+<START:artist> raffello <END> ha dipinto la <START:opera> venere di urbino <END> ?
+<START:artist> leonardo <END> ha dipinto la <START:opera> giudizio universale <END> ?
+<START:artist> donatello <END> ha dipinto la <START:opera> david <END> ?
+<START:artist> picasso <END> ha dipinto la <START:opera> madonna <END> ?
+<START:artist> edward hopper <END> ha dipinto la <START:opera> madonna della pietà <END> ?
+<START:artist> umberto boccioni <END> ha dipinto la <START:opera> canestra di frutta <END> ?
+<START:artist> david bowie <END> ha dipinto la <START:opera> creazione di adamo <END> ?
+<START:artist> roy lichtenstein <END> ha dipinto la <START:opera> cappella sistina <END> ?
+<START:artist> paolo uccello <END> ha dipinto la <START:opera> annunciazione bartolini salimbeni <END> ?
+<START:artist> cimabue <END> ha dipinto la <START:opera> olympia <END> ?
+<START:artist> pablo picasso <END> ha dipinto la <START:opera> venere di milo <END> ?
+<START:artist> sandro boticelli <END> ha dipinto la <START:opera> guernica <END> ?
+<START:artist> michelangelo buonarotti <END> ha dipinto la <START:opera> la persistenza della memoria <END> ?
+<START:artist> vincent van gogh <END> ha dipinto la <START:opera> primavera <END> ?
+<START:artist> paul cèzanne <END> ha dipinto la <START:opera> darma con l'ermellino <END> ?
+<START:artist> salvador dalì <END> ha dipinto la <START:opera> pietà vaticana <END> ?
+<START:artist> claude monet <END> ha dipinto la <START:opera> amore e psiche <END> ?
+<START:artist> raffaello sanzio <END> ha dipinto la <START:opera> le muse inquietanti <END> ?
+<START:artist> leonardo da vinci <END> ha dipinto la <START:opera> natività con i santi lorenzo e francesco d'assisi <END> ?
+<START:artist> blind willie mctell <END> ha dipinto la <START:opera> ragazza col turbante <END> ?
+<START:artist> gustav klimt <END> ha dipinto la <START:opera> bacco <END> ?
+<START:artist> giotto <END> ha dipinto la <START:opera> i papaveri <END> ?
+<START:artist> canaletto <END> ha dipinto l' <START:opera> anfiteatro flavio <END> ?
+<START:artist> joan miro <END> ha dipinto la <START:opera> battaglia di san romano <END> ?
+<START:artist> paul gaugin <END> ha dipinto la <START:opera> incredulità di san tommaso <END> ?
+<START:artist> paul klee <END> ha dipinto la <START:opera> sette opere di misericordia <END> ?
+<START:artist> edgar degas <END> ha dipinto la <START:opera> les demoiselles d'avignon <END> ?
+<START:artist> francisco goya <END> ha dipinto la <START:opera> vocazione di san matteo <END> ?
+<START:artist> gustave courbet <END> ha dipinto la <START:opera> i mangiatori di patate <END> ?
+<START:artist> marc chagall <END> ha dipinto la <START:opera> dinamismo di un cavallo in corsa + case <END> ?
+<START:artist> pieter paul rubens <END> ha dipinto la <START:opera> las meninas <END> ?
+<START:artist> amedeo modigliani <END> ha dipinto la <START:opera> madonna del cardellino <END> ?
+<START:artist> william turner <END> ha dipinto la <START:opera> bronzi di riace <END> ?
+<START:artist> francis bacon <END> ha dipinto la <START:opera> nike di samotracia <END> ?
+<START:artist> camille pissarro <END> ha dipinto la <START:opera> colosso di rodi <END> ?
+<START:artist> cimabue <END> ha dipinto la <START:opera> jacopo pesaro presentato a san pietro da papa alessandro vi <END> ?
+perchè la <START:opera> gioconda <END> si trova a parigi?
+perchè la <START:opera> nascita di venere <END> si trova a parigi?
+perchè la <START:opera> l'urlo <END> si trova a londra?
+perchè la <START:opera> ultima cena <END> si trova a roma?
+perchè la <START:opera> venere di urbino <END> si trova a parigi?
+perchè la <START:opera> giudizio universale <END> si trova a parigi?
+perchè la <START:opera> david <END> si trova a parigi?
+perchè la <START:opera> madonna  <END> si trova a parigi?
+perchè la <START:opera> madonna della pietà <END> si trova a parigi?
+perchè la <START:opera> canestra di frutta <END> si trova a parigi?
+perchè la <START:opera> creazione di adamo <END> si trova a parigi?
+perchè la <START:opera> cappella sistina <END> si trova a parigi?
+perchè la <START:opera> annunciazione bartolini salimbeni <END> si trova a parigi?
+perchè la <START:opera> olympia <END> si trova a parigi?
+perchè la <START:opera> venere di milo <END> si trova a parigi?
+perchè la <START:opera> guernica <END> si trova a parigi?
+perchè la <START:opera> la persistenza della memoria <END> si trova a parigi?
+perchè la <START:opera> primavera <END> si trova a parigi?
+perchè la <START:opera> darma con l'ermellino <END> si trova a parigi?
+perchè la <START:opera> pietà vaticana <END> si trova a parigi?
+perchè la <START:opera> amore e psiche <END> si trova a parigi?
+perchè la <START:opera> le muse inquietanti <END> si trova a parigi?
+perchè la <START:opera> natività con i santi lorenzo e francesco d'assisi <END> si trova a parigi?
+perchè la <START:opera> ragazza col turbante <END> si trova a parigi?
+perchè la <START:opera> bacco <END> si trova a parigi?
+perchè la <START:opera> i papaveri <END> si trova a parigi?
+perchè l' <START:opera> anfiteatro flavio <END> si trova a parigi?
+perchè la <START:opera> battaglia di san romano <END> si trova a parigi?
+perchè la <START:opera> incredulità di san tommaso <END> si trova a parigi?
+perchè la <START:opera> sette opere di misericordia <END> si trova a parigi?
+perchè la <START:opera> les demoiselles d'avignon <END> si trova a parigi?
+perchè la <START:opera> vocazione di san matteo <END> si trova a parigi?
+perchè la <START:opera> i mangiatori di patate <END> si trova a parigi?
+perchè la <START:opera> dinamismo di un cavallo in corsa + case <END> si trova a parigi?
+perchè la <START:opera> las meninas <END> si trova a parigi?
+perchè la <START:opera> madonna del cardellino <END> si trova a parigi?
+perchè la <START:opera> bronzi di riace <END> si trova a parigi?
+perchè la <START:opera> nike di samotracia <END> si trova a parigi?
+perchè la <START:opera> colosso di rodi <END> si trova a parigi?
+perchè la <START:opera> jacopo pesaro presentato a san pietro da papa alessandro vi <END> si trova a parigi?
+quando è stato restaurato il <START:opera> gioconda <END> ?
+quando è stato restaurato il <START:opera> nascita di venere <END> ?
+quando è stato restaurato il <START:opera> l'urlo <END> ?
+quando è stato restaurato il <START:opera> ultima cena <END> ?
+quando è stato restaurato il <START:opera> venere di urbino <END> ?
+quando è stato restaurato il <START:opera> giudizio universale <END> ?
+quando è stato restaurato il <START:opera> david <END> ?
+quando è stato restaurato il <START:opera> madonna  <END> ?
+quando è stato restaurato il <START:opera> madonna della pietà <END> ?
+quando è stato restaurato il <START:opera> canestra di frutta <END> ?
+quando è stato restaurato il <START:opera> creazione di adamo <END> ?
+quando è stato restaurato il <START:opera> cappella sistina <END> ?
+quando è stato restaurato il <START:opera> annunciazione bartolini salimbeni <END> ?
+quando è stato restaurato il <START:opera> olympia <END> ?
+quando è stato restaurato il <START:opera> venere di milo <END> ?
+quando è stato restaurato il <START:opera> guernica <END> ?
+quando è stato restaurato il <START:opera> la persistenza della memoria <END> ?
+quando è stato restaurato il <START:opera> primavera <END> ?
+quando è stato restaurato il <START:opera> darma con l'ermellino <END> ?
+quando è stato restaurato il <START:opera> pietà vaticana <END> ?
+quando è stato restaurato il <START:opera> amore e psiche <END> ?
+quando è stato restaurato il <START:opera> le muse inquietanti <END> ?
+quando è stato restaurato il <START:opera> natività con i santi lorenzo e francesco d'assisi <END> ?
+quando è stato restaurato il <START:opera> ragazza col turbante <END> ?
+quando è stato restaurato il <START:opera> bacco <END> ?
+quando è stato restaurato il <START:opera> i papaveri <END> ?
+quando è stato restaurato l' <START:opera> anfiteatro flavio <END> ?
+quando è stato restaurato il <START:opera> battaglia di san romano <END> ?
+quando è stato restaurato il <START:opera> incredulità di san tommaso <END> ?
+quando è stato restaurato il <START:opera> sette opere di misericordia <END> ?
+quando è stato restaurato il <START:opera> les demoiselles d'avignon <END> ?
+quando è stato restaurato il <START:opera> vocazione di san matteo <END> ?
+quando è stato restaurato il <START:opera> i mangiatori di patate <END> ?
+quando è stato restaurato il <START:opera> dinamismo di un cavallo in corsa + case <END> ?
+quando è stato restaurato il <START:opera> las meninas <END> ?
+quando è stato restaurato il <START:opera> madonna del cardellino <END> ?
+quando è stato restaurato il <START:opera> bronzi di riace <END> ?
+quando è stato restaurato il <START:opera> nike di samotracia <END> ?
+quando è stato restaurato il <START:opera> colosso di rodi <END> ?
+quando è stato restaurato il <START:opera> jacopo pesaro presentato a san pietro da papa alessandro vi <END> ?
+perchè è stata restaurata la <START:opera> gioconda <END> ?
+perchè è stata restaurata la <START:opera> nascita di venere <END> ?
+perchè è stata restaurata <START:opera> l'urlo <END> ?
+perchè è stata restaurata la <START:opera> ultima cena <END> ?
+perchè è stata restaurata la <START:opera> venere di urbino <END> ?
+perchè è stata restaurata la <START:opera> giudizio universale <END> ?
+perchè è stata restaurata la <START:opera> david <END> ?
+perchè è stata restaurata la <START:opera> madonna  <END> ?
+perchè è stata restaurata la <START:opera> madonna della pietà <END> ?
+perchè è stata restaurata la <START:opera> canestra di frutta <END> ?
+perchè è stata restaurata la <START:opera> creazione di adamo <END> ?
+perchè è stata restaurata la <START:opera> cappella sistina <END> ?
+perchè è stata restaurata la <START:opera> annunciazione bartolini salimbeni <END> ?
+perchè è stata restaurata la <START:opera> olympia <END> ?
+perchè è stata restaurata la <START:opera> venere di milo <END> ?
+perchè è stata restaurata <START:opera> guernica <END> ?
+perchè è stata restaurata <START:opera> la persistenza della memoria <END> ?
+perchè è stata restaurata la <START:opera> primavera <END> ?
+perchè è stata restaurata <START:opera> darma con l'ermellino <END> ?
+perchè è stata restaurata la <START:opera> pietà vaticana <END> ?
+perchè è stata restaurata la <START:opera> amore e psiche <END> ?
+perchè è stata restaurata la <START:opera> le muse inquietanti <END> ?
+perchè è stata restaurata la <START:opera> natività con i santi lorenzo e francesco d'assisi <END> ?
+perchè è stata restaurata la <START:opera> ragazza col turbante <END> ?
+perchè è stata restaurata la <START:opera> bacco <END> ?
+perchè è stata restaurata la <START:opera> i papaveri <END> ?
+perchè è stata restaurata l' <START:opera> anfiteatro flavio <END> ?
+perchè è stata restaurata la <START:opera> battaglia di san romano <END> ?
+perchè è stata restaurata la <START:opera> incredulità di san tommaso <END> ?
+perchè è stata restaurata la <START:opera> sette opere di misericordia <END> ?
+perchè è stata restaurata la <START:opera> les demoiselles d'avignon <END> ?
+perchè è stata restaurata la <START:opera> vocazione di san matteo <END> ?
+perchè è stata restaurata la <START:opera> i mangiatori di patate <END> ?
+perchè è stata restaurata la <START:opera> dinamismo di un cavallo in corsa + case <END> ?
+perchè sono state restaurate <START:opera> las meninas <END> ?
+perchè è stata restaurata la <START:opera> madonna del cardellino <END> ?
+perchè sono stati restaurati i <START:opera> bronzi di riace <END> ?
+perchè è stata restaurata la <START:opera> nike di samotracia <END> ?
+perchè è stato restaurato il <START:opera> colosso di rodi <END> ?
+perchè è stata restaurato <START:opera> jacopo pesaro presentato a san pietro da papa alessandro vi <END> ?

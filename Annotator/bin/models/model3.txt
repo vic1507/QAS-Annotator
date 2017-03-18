@@ -404,7 +404,7 @@ E' vero che l' <START:opera> Annunciazione Bartolini Salimbeni <END> è stato tea
 E' vero che l' <START:opera> Olympia <END> è stata teatro di molti giochi?
 E' vero che la <START:opera> Venere di Milo <END> è stata teatro di molti giochi?
 E' vero che <START:opera> Guernica <END> è stato teatro di molti giochi?
-E' vero che lo <START:opera> Scudo con testa di Medusa <END> è stato teatro di molti giochi?
+E' vero che <START:opera> La persistenza della memoria <END> è stato teatro di molti giochi?
 E' vero che la <START:opera> Primavera <END> è stata teatro di molti giochi?
 E' vero che <START:opera> Darma con l'ermellino <END> è stato teatro di molti giochi?
 E' vero che la <START:opera> Pietà vaticana <END> è stata teatro di molti giochi?
@@ -444,7 +444,7 @@ Quale artista ha creato l' <START:opera> Annunciazione Bartolini Salimbeni <END>
 Quale artista ha creato l' <START:opera> Olympia <END> famoso quadro qui esposto?
 Quale artista ha creato la <START:opera> Venere di Milo <END> famoso quadro qui esposto?
 Quale artista ha creato <START:opera> Guernica <END> famoso quadro qui esposto?
-Quale artista ha creato lo <START:opera> Scudo con testa di Medusa <END> famoso quadro qui esposto?
+Quale artista ha creato <START:opera> La persistenza della memoria <END> famoso quadro qui esposto?
 Quale artista ha creato la <START:opera> Primavera <END> famoso quadro qui esposto?
 Quale artista ha creato <START:opera> Darma con l'ermellino <END> famoso quadro qui esposto?
 Quale artista ha creato la <START:opera> Pietà vaticana <END> famoso quadro qui esposto?
@@ -484,7 +484,7 @@ Quando verrà esposto l' <START:opera> Annunciazione Bartolini Salimbeni <END> in
 Quando verrà esposta l' <START:opera> Olympia <END> in questo museo?
 Quando verrà esposta la <START:opera> Venere di Milo <END> in questo museo?
 Quando verrà esposto <START:opera> Guernica <END> in questo museo?
-Quando verrà esposto lo <START:opera> Scudo con testa di Medusa <END> in questo museo?
+Quando verrà esposta <START:opera> La persistenza della memoria <END> in questo museo?
 Quando verrà esposto <START:opera> Primavera <END> in questo museo?
 Quando verrà esposto <START:opera> Darma con l'ermellino <END> in questo museo?
 Quando verrà esposto la <START:opera> Pietà vaticana <END> in questo museo?
@@ -524,7 +524,7 @@ L' <START:opera> Annunciazione Bartolini Salimbeni <END> è una famosa opera.
 <START:opera> Olympia <END> è una famosa opera.
 <START:opera> Venere di Milo <END> è una famosa opera.
 <START:opera> Guernica <END> è una famosa opera.
-<START:opera> Scudo con testa di Medusa <END> è una famosa opera.
+<START:opera> La persistenza della memoria <END> è una famosa opera.
 La <START:opera> Primavera <END> è una famosa opera.
 <START:opera> Darma con l'ermellino <END> è una famosa opera.
 <START:opera> Pietà vaticana <END> è una famosa opera.
@@ -551,27 +551,27 @@ Il <START:opera> Colosso di Rodi <END> è una famosa opera.
 La <START:opera> Gioconda <END> è stata scolpita nel 1270.
 <START:opera> Nascita di Venere <END> è stata scolpita nel 1300.
 <START:opera> L'urlo <END> è stato scolpito nel 1270.
-<START:opera> Ultima Cena <END> è stato scolpito nel 1270.
-<START:opera> Venere di Urbino <END> è stato scolpito nel 1270.
-<START:opera> Giudizio Universale <END> è stato scolpito nel 1270.
-<START:opera> David <END> è stato scolpito nel 1270.
+L' <START:opera> Ultima Cena <END> è stato scolpito nel 1270.
+La <START:opera> Venere di Urbino <END> è stata scolpita nel 1270.
+Il <START:opera> Giudizio Universale <END> è stato scolpito nel 1270.
+Il <START:opera> David <END> è stato scolpito nel 1270.
 <START:opera> Madonna  <END> è stato scolpito nel 1270.
 <START:opera> Madonna della pietà <END> è stato scolpito nel 1270.
 <START:opera> Canestra di frutta <END> è stato scolpito nel 1270.
 <START:opera> Creazione di Adamo <END> è stato scolpito nel 1270.
-<START:opera> Cappella Sistina <END> è stato scolpito nel 1270.
+La <START:opera> Cappella Sistina <END> è stata scolpita nel 1270.
 <START:opera> Annunciazione Bartolini Salimbeni <END> è stato scolpito nel 1270.
-<START:opera> Olympia <END> è stato scolpito nel 1270.
-<START:opera> Venere di Milo <END> è stato scolpito nel 1270.
+L' <START:opera> Olympia <END> è stato scolpito nel 1270.
+La <START:opera> Venere di Milo <END> è stato scolpito nel 1270.
 <START:opera> Guernica <END> è stato scolpito nel 1270.
-<START:opera> Scudo con testa di Medusa <END> è stato scolpito nel 1270.
-<START:opera> Primavera <END> è stato scolpito nel 1270.
+<START:opera> La persistenza della memoria <END> è stato scolpito nel 1270.
+La <START:opera> Primavera <END> è stato scolpito nel 1270.
 <START:opera> Darma con l'ermellino <END> è stato scolpito nel 1270.
-<START:opera> Pietà vaticana <END> è stato scolpito nel 1270.
+La <START:opera> Pietà vaticana <END> è stato scolpito nel 1270.
 <START:opera> Amore e Psiche <END> è stato scolpito nel 1270.
 <START:opera> Le muse inquietanti <END> è stato scolpito nel 1270.
 <START:opera> Natività con i santi Lorenzo e Francesco d'Assisi <END> è stato scolpito nel 1270.
-<START:opera> Ragazza col turbante <END> è stato scolpito nel 1270.
+La <START:opera> Ragazza col turbante <END> è stato scolpito nel 1270.
 <START:opera> Bacco <END> è stato scolpito nel 1270.
 <START:opera> I papaveri <END> è stato scolpito nel 1270.
 L' <START:opera> Anfiteatro Flavio <END> è stato scolpito nel 1270.
@@ -579,7 +579,7 @@ L' <START:opera> Anfiteatro Flavio <END> è stato scolpito nel 1270.
 <START:opera> Incredulità di san Tommaso <END> è stato scolpito nel 1270.
 <START:opera> Sette opere di Misericordia <END> è stato scolpito nel 1270.
 <START:opera> Les demoiselles d'Avignon <END> è stato scolpito nel 1270.
-<START:opera> Vocazione di san Matteo <END> è stato scolpito nel 1270.
+La <START:opera> Vocazione di san Matteo <END> è stato scolpito nel 1270.
 <START:opera> I mangiatori di patate <END> è stato scolpito nel 1270.
 <START:opera> Dinamismo di un cavallo in corsa + case <END> è stato scolpito nel 1270.
 <START:opera> Las Meninas <END> è stato scolpito nel 1270.
@@ -604,7 +604,7 @@ L' <START:opera> Anfiteatro Flavio <END> è stato scolpito nel 1270.
 <START:opera> Olympia <END> ha ricevuto tanti consensi.
 <START:opera> Venere di Milo <END> ha ricevuto tanti consensi.
 <START:opera> Guernica <END> ha ricevuto tanti consensi.
-<START:opera> Scudo con testa di Medusa <END> ha ricevuto tanti consensi.
+<START:opera> La persistenza della memoria <END> ha ricevuto tanti consensi.
 <START:opera> Primavera <END> ha ricevuto tanti consensi.
 <START:opera> Darma con l'ermellino <END> ha ricevuto tanti consensi.
 <START:opera> Pietà vaticana <END> ha ricevuto tanti consensi.
@@ -624,67 +624,67 @@ L' <START:opera> Anfiteatro Flavio <END> ha ricevuto tanti consensi.
 <START:opera> Dinamismo di un cavallo in corsa + case <END> ha ricevuto tanti consensi.
 <START:opera> Las Meninas <END> ha ricevuto tanti consensi.
 <START:opera> Madonna del Cardellino <END> ha ricevuto tanti consensi.
-<START:opera> Bronzi di Riace <END> ha ricevuto tanti consensi.
+I <START:opera> Bronzi di Riace <END> hanno ricevuto tanti consensi.
 <START:opera> Nike di Samotracia <END> ha ricevuto tanti consensi.
 <START:opera> Colosso di Rodi <END> ha ricevuto tanti consensi.
 <START:opera> Jacopo Pesaro presentato a san Pietro da papa Alessandro VI <END> ha ricevuto tanti consensi.
-Chi è raffigurato nel <START:opera> Gioconda <END> ?
-Chi è raffigurato nel <START:opera> Nascita di Venere <END> ?
-Chi è raffigurato nel <START:opera> L'urlo <END> ?
-Chi è raffigurato nel <START:opera> Ultima Cena <END> ?
-Chi è raffigurato nel <START:opera> Venere di Urbino <END> ?
+Chi è raffigurato nella <START:opera> Gioconda <END> ?
+Chi è raffigurato nella <START:opera> Nascita di Venere <END> ?
+Chi è raffigurato nell' <START:opera> Urlo <END> ?
+Chi è raffigurato nell' <START:opera> Ultima Cena <END> ?
+Chi è raffigurato nella <START:opera> Venere di Urbino <END> ?
 Chi è raffigurato nel <START:opera> Giudizio Universale <END> ?
 Chi è raffigurato nel <START:opera> David <END> ?
-Chi è raffigurato nel <START:opera> Madonna  <END> ?
-Chi è raffigurato nel <START:opera> Madonna della pietà <END> ?
+Chi è raffigurato nella <START:opera> Madonna  <END> ?
+Chi è raffigurato nella <START:opera> Madonna della pietà <END> ?
 Chi è raffigurato nel <START:opera> Canestra di frutta <END> ?
-Chi è raffigurato nel <START:opera> Creazione di Adamo <END> ?
-Chi è raffigurato nel <START:opera> Cappella Sistina <END> ?
-Chi è raffigurato nel <START:opera> Annunciazione Bartolini Salimbeni <END> ?
-Chi è raffigurato nel <START:opera> Olympia <END> ?
-Chi è raffigurato nel <START:opera> Venere di Milo <END> ?
-Chi è raffigurato nel <START:opera> Guernica <END> ?
-Chi è raffigurato nel <START:opera> Scudo con testa di Medusa <END> ?
-Chi è raffigurato nel <START:opera> Primavera <END> ?
-Chi è raffigurato nel <START:opera> Darma con l'ermellino <END> ?
-Chi è raffigurato nel <START:opera> Pietà vaticana <END> ?
-Chi è raffigurato nel <START:opera> Amore e Psiche <END> ?
-Chi è raffigurato nel <START:opera> Le muse inquietanti <END> ?
-Chi è raffigurato nel <START:opera> Natività con i santi Lorenzo e Francesco d'Assisi <END> ?
-Chi è raffigurato nel <START:opera> Ragazza col turbante <END> ?
-Chi è raffigurato nel <START:opera> Bacco <END> ?
-Chi è raffigurato nel <START:opera> I papaveri <END> ?
+Chi è raffigurato nella <START:opera> Creazione di Adamo <END> ?
+Chi è raffigurato nella <START:opera> Cappella Sistina <END> ?
+Chi è raffigurato nell' <START:opera> Annunciazione Bartolini Salimbeni <END> ?
+Chi è raffigurato nell' <START:opera> Olympia <END> ?
+Chi è raffigurato nella <START:opera> Venere di Milo <END> ?
+Chi è raffigurato in <START:opera> Guernica <END> ?
+Chi è raffigurato in <START:opera> La persistenza della memoria <END> ?
+Chi è raffigurato nella <START:opera> Primavera <END> ?
+Chi è raffigurato in <START:opera> Darma con l'ermellino <END> ?
+Chi è raffigurato nella <START:opera> Pietà vaticana <END> ?
+Chi è raffigurato in <START:opera> Amore e Psiche <END> ?
+Chi è raffigurato nelle <START:opera> Le muse inquietanti <END> ?
+Chi è raffigurato nella <START:opera> Natività con i santi Lorenzo e Francesco d'Assisi <END> ?
+Chi è raffigurato nella <START:opera> Ragazza col turbante <END> ?
+Chi è raffigurato in <START:opera> Bacco <END> ?
+Chi è raffigurato ne <START:opera> I papaveri <END> ?
 Chi è raffigurato nell' <START:opera> Anfiteatro Flavio <END> ?
-Chi è raffigurato nel <START:opera> Battaglia di San Romano <END> ?
-Chi è raffigurato nel <START:opera> Incredulità di san Tommaso <END> ?
-Chi è raffigurato nel <START:opera> Sette opere di Misericordia <END> ?
-Chi è raffigurato nel <START:opera> Les demoiselles d'Avignon <END> ?
-Chi è raffigurato nel <START:opera> Vocazione di san Matteo <END> ?
-Chi è raffigurato nel <START:opera> I mangiatori di patate <END> ?
+Chi è raffigurato nella <START:opera> Battaglia di San Romano <END> ?
+Chi è raffigurato nell' <START:opera> Incredulità di san Tommaso <END> ?
+Chi è raffigurato nelle <START:opera> Sette opere di Misericordia <END> ?
+Chi è raffigurato nelle <START:opera> Les demoiselles d'Avignon <END> ?
+Chi è raffigurato nella <START:opera> Vocazione di san Matteo <END> ?
+Chi è raffigurato nei <START:opera> I mangiatori di patate <END> ?
 Chi è raffigurato nel <START:opera> Dinamismo di un cavallo in corsa + case <END> ?
-Chi è raffigurato nel <START:opera> Las Meninas <END> ?
-Chi è raffigurato nel <START:opera> Madonna del Cardellino <END> ?
-Chi è raffigurato nel <START:opera> Bronzi di Riace <END> ?
-Chi è raffigurato nel <START:opera> Nike di Samotracia <END> ?
+Chi è raffigurato in <START:opera> Las Meninas <END> ?
+Chi è raffigurato nella <START:opera> Madonna del Cardellino <END> ?
+Chi è raffigurato nei <START:opera> Bronzi di Riace <END> ?
+Chi è raffigurato nella <START:opera> Nike di Samotracia <END> ?
 Chi è raffigurato nel <START:opera> Colosso di Rodi <END> ?
-Chi è raffigurato nel <START:opera> Jacopo Pesaro presentato a san Pietro da papa Alessandro VI <END> ?
-Chi è raffigurato in <START:opera> Gioconda <END> ?
-Chi è raffigurato in <START:opera> Nascita di Venere <END> ?
+Chi è raffigurato in <START:opera> Jacopo Pesaro presentato a san Pietro da papa Alessandro VI <END> ?
+Chi è raffigurato nella <START:opera> Gioconda <END> ?
+Chi è raffigurato nella <START:opera> Nascita di Venere <END> ?
 Chi è raffigurato in <START:opera> L'urlo <END> ?
-Chi è raffigurato in <START:opera> Ultima Cena <END> ?
-Chi è raffigurato in <START:opera> Venere di Urbino <END> ?
-Chi è raffigurato in <START:opera> Giudizio Universale <END> ?
-Chi è raffigurato in <START:opera> David <END> ?
-Chi è raffigurato in <START:opera> Madonna  <END> ?
+Chi è raffigurato nell' <START:opera> Ultima Cena <END> ?
+Chi è raffigurato nella <START:opera> Venere di Urbino <END> ?
+Chi è raffigurato nel <START:opera> Giudizio Universale <END> ?
+Chi è raffigurato nel <START:opera> David <END> ?
+Chi è raffigurato nella <START:opera> Madonna  <END> ?
 Chi è raffigurato in <START:opera> Madonna della pietà <END> ?
 Chi è raffigurato in <START:opera> Canestra di frutta <END> ?
-Chi è raffigurato in <START:opera> Creazione di Adamo <END> ?
-Chi è raffigurato in <START:opera> Cappella Sistina <END> ?
-Chi è raffigurato in <START:opera> Annunciazione Bartolini Salimbeni <END> ?
+Chi è raffigurato nella <START:opera> Creazione di Adamo <END> ?
+Chi è raffigurato nella <START:opera> Cappella Sistina <END> ?
+Chi è raffigurato nell' <START:opera> Annunciazione Bartolini Salimbeni <END> ?
 Chi è raffigurato in <START:opera> Olympia <END> ?
-Chi è raffigurato in <START:opera> Venere di Milo <END> ?
+Chi è raffigurato nella <START:opera> Venere di Milo <END> ?
 Chi è raffigurato in <START:opera> Guernica <END> ?
-Chi è raffigurato in <START:opera> Scudo con testa di Medusa <END> ?
+Chi è raffigurato in <START:opera> La persistenza della memoria <END> ?
 Chi è raffigurato in <START:opera> Primavera <END> ?
 Chi è raffigurato in <START:opera> Darma con l'ermellino <END> ?
 Chi è raffigurato in <START:opera> Pietà vaticana <END> ?
@@ -697,10 +697,10 @@ Chi è raffigurato in <START:opera> I papaveri <END> ?
 Chi è raffigurato nell' <START:opera> Anfiteatro Flavio <END> ?
 Chi è raffigurato in <START:opera> Battaglia di San Romano <END> ?
 Chi è raffigurato in <START:opera> Incredulità di san Tommaso <END> ?
-Chi è raffigurato in <START:opera> Sette opere di Misericordia <END> ?
+Chi è raffigurato nelle <START:opera> Sette opere di Misericordia <END> ?
 Chi è raffigurato in <START:opera> Les demoiselles d'Avignon <END> ?
-Chi è raffigurato in <START:opera> Vocazione di san Matteo <END> ?
-Chi è raffigurato in <START:opera> I mangiatori di patate <END> ?
+Chi è raffigurato nella <START:opera> Vocazione di san Matteo <END> ?
+Chi è raffigurato nei <START:opera> I mangiatori di patate <END> ?
 Chi è raffigurato in <START:opera> Dinamismo di un cavallo in corsa + case <END> ?
 Chi è raffigurato in <START:opera> Las Meninas <END> ?
 Chi è raffigurato in <START:opera> Madonna del Cardellino <END> ?
@@ -724,7 +724,7 @@ Che cos'è <START:opera> Annunciazione Bartolini Salimbeni <END> ?
 Che cos'è <START:opera> Olympia <END> ?
 Che cos'è <START:opera> Venere di Milo <END> ?
 Che cos'è <START:opera> Guernica <END> ?
-Che cos'è <START:opera> Scudo con testa di Medusa <END> ?
+Che cos'è <START:opera> La persistenza della memoria <END> ?
 Che cos'è <START:opera> Primavera <END> ?
 Che cos'è <START:opera> Darma con l'ermellino <END> ?
 Che cos'è <START:opera> Pietà vaticana <END> ?
@@ -764,16 +764,16 @@ Che cos'è la <START:opera> Annunciazione Bartolini Salimbeni <END> ?
 Che cos'è la <START:opera> Olympia <END> ?
 Che cos'è la <START:opera> Venere di Milo <END> ?
 Che cos'è la <START:opera> Guernica <END> ?
-Che cos'è la <START:opera> Scudo con testa di Medusa <END> ?
+Che cos'è <START:opera> La persistenza della memoria <END> ?
 Che cos'è la <START:opera> Primavera <END> ?
-Che cos'è la <START:opera> Darma con l'ermellino <END> ?
+Che cos'è <START:opera> Darma con l'ermellino <END> ?
 Che cos'è la <START:opera> Pietà vaticana <END> ?
-Che cos'è la <START:opera> Amore e Psiche <END> ?
-Che cos'è la <START:opera> Le muse inquietanti <END> ?
+Che cos'è <START:opera> Amore e Psiche <END> ?
+Che cosa sono <START:opera> Le muse inquietanti <END> ?
 Che cos'è la <START:opera> Natività con i santi Lorenzo e Francesco d'Assisi <END> ?
 Che cos'è la <START:opera> Ragazza col turbante <END> ?
-Che cos'è la <START:opera> Bacco <END> ?
-Che cos'è la <START:opera> I papaveri <END> ?
+Che cos'è <START:opera> Bacco <END> ?
+Che cos'è <START:opera> I papaveri <END> ?
 Che cos'è l' <START:opera> Anfiteatro Flavio <END> ?
 Che cos'è la <START:opera> Battaglia di San Romano <END> ?
 Che cos'è la <START:opera> Incredulità di san Tommaso <END> ?
@@ -807,7 +807,7 @@ Che cos'è la <START:opera> Jacopo Pesaro presentato a san Pietro da papa Alessan
 <START:artist> Paul Klee <END> ha dipinto la <START:opera> Natura morta <END> ?
 <START:artist> Edgar Degas <END> ha dipinto la <START:opera> Canestra di frutta <END> ?
 <START:artist> Francisco Goya <END> ha dipinto la <START:opera> Amore e Psiche <END> ?
-<START:artist> Gustave Courbet <END> ha dipinto la <START:opera> Scudo con testa di Medusa <END> ?
+<START:artist> Gustave Courbet <END> ha dipinto la <START:opera> La persistenza della memoria <END> ?
 <START:artist> Marc Chagall <END> ha scolpito il <START:opera> David <END> ?
 <START:artist> Pieter Paul Rubens <END> ha dipinto la <START:opera> Giudizio Universale <END> ?
 <START:artist> Amedeo Modigliani <END> ha dipinto la <START:opera> Darma con l'ermellino <END> ?
@@ -818,7 +818,7 @@ Che cos'è la <START:opera> Jacopo Pesaro presentato a san Pietro da papa Alessan
 <START:artist> Paolo Uccello <END> ha dipinto l' <START:opera> Anfiteatro Flavio <END> ?
 <START:artist> Roy Lichtenstein <END> ha dipinto la <START:opera> Cappella Sistina <END> ?
 <START:artist> David Bowie <END> ha dipinto la <START:opera> Pietà vaticana <END> ?
-<START:artist> Umberto Boccioni <END> ha dipinto <START:opera> La persistanza della memoria <END> ?
+<START:artist> Umberto Boccioni <END> ha dipinto <START:opera> La persistenza della memoria <END> ?
 <START:artist> Edward Hopper <END> ha dipinto la <START:opera> Persistenza della memoria <END> ?
 <START:artist> Picasso <END> ha dipinto la <START:opera> Le muse inquietanti <END> ?
 <START:artist> Donatello <END> ha dipinto la <START:opera> Gioconda <END> ?
@@ -843,7 +843,7 @@ Che cos'è la <START:opera> Jacopo Pesaro presentato a san Pietro da papa Alessan
 <START:artist> Cimabue <END> ha dipinto la <START:opera> Olympia <END> ?
 <START:artist> Pablo Picasso <END> ha dipinto la <START:opera> Venere di Milo <END> ?
 <START:artist> Sandro Boticelli <END> ha dipinto la <START:opera> Guernica <END> ?
-<START:artist> Michelangelo Buonarotti <END> ha dipinto la <START:opera> Scudo con testa di Medusa <END> ?
+<START:artist> Michelangelo Buonarotti <END> ha dipinto la <START:opera> La persistenza della memoria <END> ?
 <START:artist> Vincent van Gogh <END> ha dipinto la <START:opera> Primavera <END> ?
 <START:artist> Paul Cèzanne <END> ha dipinto la <START:opera> Darma con l'ermellino <END> ?
 <START:artist> Salvador Dalì <END> ha dipinto la <START:opera> Pietà vaticana <END> ?
@@ -883,7 +883,7 @@ Perchè la <START:opera> Annunciazione Bartolini Salimbeni <END> si trova a Parig
 Perchè la <START:opera> Olympia <END> si trova a Parigi?
 Perchè la <START:opera> Venere di Milo <END> si trova a Parigi?
 Perchè la <START:opera> Guernica <END> si trova a Parigi?
-Perchè la <START:opera> Scudo con testa di Medusa <END> si trova a Parigi?
+Perchè la <START:opera> La persistenza della memoria <END> si trova a Parigi?
 Perchè la <START:opera> Primavera <END> si trova a Parigi?
 Perchè la <START:opera> Darma con l'ermellino <END> si trova a Parigi?
 Perchè la <START:opera> Pietà vaticana <END> si trova a Parigi?
@@ -923,7 +923,7 @@ Quando è stato restaurato il <START:opera> Annunciazione Bartolini Salimbeni <EN
 Quando è stato restaurato il <START:opera> Olympia <END> ?
 Quando è stato restaurato il <START:opera> Venere di Milo <END> ?
 Quando è stato restaurato il <START:opera> Guernica <END> ?
-Quando è stato restaurato il <START:opera> Scudo con testa di Medusa <END> ?
+Quando è stato restaurato il <START:opera> La persistenza della memoria <END> ?
 Quando è stato restaurato il <START:opera> Primavera <END> ?
 Quando è stato restaurato il <START:opera> Darma con l'ermellino <END> ?
 Quando è stato restaurato il <START:opera> Pietà vaticana <END> ?
@@ -962,10 +962,10 @@ Perchè è stata restaurata la <START:opera> Cappella Sistina <END> ?
 Perchè è stata restaurata la <START:opera> Annunciazione Bartolini Salimbeni <END> ?
 Perchè è stata restaurata la <START:opera> Olympia <END> ?
 Perchè è stata restaurata la <START:opera> Venere di Milo <END> ?
-Perchè è stata restaurata la <START:opera> Guernica <END> ?
-Perchè è stata restaurata la <START:opera> Scudo con testa di Medusa <END> ?
+Perchè è stata restaurata <START:opera> Guernica <END> ?
+Perchè è stata restaurata <START:opera> La persistenza della memoria <END> ?
 Perchè è stata restaurata la <START:opera> Primavera <END> ?
-Perchè è stata restaurata la <START:opera> Darma con l'ermellino <END> ?
+Perchè è stata restaurata <START:opera> Darma con l'ermellino <END> ?
 Perchè è stata restaurata la <START:opera> Pietà vaticana <END> ?
 Perchè è stata restaurata la <START:opera> Amore e Psiche <END> ?
 Perchè è stata restaurata la <START:opera> Le muse inquietanti <END> ?
@@ -987,3 +987,41 @@ Perchè sono stati restaurati i <START:opera> Bronzi di Riace <END> ?
 Perchè è stata restaurata la <START:opera> Nike di Samotracia <END> ?
 Perchè è stato restaurato il <START:opera> Colosso di Rodi <END> ?
 Perchè è stata restaurato <START:opera> Jacopo Pesaro presentato a san Pietro da papa Alessandro VI <END> ?
+Chi ha dipinto la <START:opera> Gioconda <END> ?
+Chi ha dipinto la <START:opera> Jacopo Pesaro presentato a san Pietro da papa Alessandro VI <END> ?
+Chi ha dipinto la <START:opera> Colosso di Rodi <END> ?
+Chi ha dipinto la <START:opera> Nike di Samotracia <END> ?
+Chi ha dipinto la <START:opera> Bronzi di Riace <END> ?
+Chi ha dipinto la <START:opera> Madonna del Cardellino <END> ?
+Chi ha dipinto la <START:opera> Las Meninas <END> ?
+Chi ha dipinto la <START:opera> Dinamismo di un cavallo in corsa + case <END> ?
+Chi ha dipinto la <START:opera> I mangiatori di patate <END> ?
+Chi ha dipinto la <START:opera> Vocazione di san Matteo <END> ?
+Chi ha dipinto la <START:opera> Les demoiselles d'Avignon <END> ?
+Chi ha dipinto <START:opera> La passeggiata nel bosco <END> ?
+Chi ha dipinto la <START:opera> Tourre Eiffel <END> ?
+Chi ha dipinto la <START:opera> Sette opere di Misericordia <END> ?
+Chi ha dipinto l' <START:opera> Incredulità di san Tommaso <END> ?
+Chi ha dipinto la <START:opera> Natura morta <END> ?
+Chi ha dipinto la <START:opera> Canestra di frutta <END> ?
+Chi ha dipinto la <START:opera> Amore e Psiche <END> ?
+Chi ha dipinto la <START:opera> La persistenza della memoria <END> ?
+Chi ha scolpito il <START:opera> David <END> ?
+Chi ha dipinto la <START:opera> Giudizio Universale <END> ?
+Chi ha dipinto la <START:opera> Darma con l'ermellino <END> ?
+Chi ha dipinto <START:opera> L'urlo di Munch <END> ?
+Chi ha dipinto la <START:opera> Nike di Samotracia <END> ?
+Chi ha dipinto la <START:opera> Natività con i santi Lorenzo e Francesco d'Assisi <END> ?
+Chi ha costruito <START:opera> L'anfiteatro Flavio <END> ?
+Chi ha dipinto l' <START:opera> Anfiteatro Flavio <END> ?
+Chi ha dipinto la <START:opera> Cappella Sistina <END> ?
+Chi ha dipinto la <START:opera> Pietà vaticana <END> ?
+Chi ha dipinto <START:opera> La persistenza della memoria <END> ?
+Chi ha dipinto la <START:opera> Persistenza della memoria <END> ?
+Chi ha dipinto la <START:opera> Le muse inquietanti <END> ?
+Chi ha dipinto la <START:opera> Gioconda <END> ?
+Chi ha dipinto la <START:opera> Giudizio Universale <END> ?
+Chi ha dipinto il <START:opera> David <END> ?
+Chi ha dipinto <START:opera> L' ultima cena <END> ?
+Chi ha dipinto l' <START:opera> Ultima cena <END> ?
+Chi ha dipinto la <START:opera> L'urlo <END> ?
